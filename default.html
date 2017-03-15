@@ -10,11 +10,13 @@
 <meta http-equiv="Expires" content="0" />
 <style>
 a {
+  font-family:'Courier New', Courier, monospace;
   color: #9E2B2B;
 }
 #main_content {
+  color: #373737;
   border-style: none;
-  width: 580px;
+  width: 800px;
   margin: 100px auto 0px auto;
   text-align:center;
   font-family:'Courier New', Courier, monospace;
@@ -24,7 +26,7 @@ h2 {
   font-size:16px;
   font-family:'Courier New', Courier, monospace;
   font-weight:normal;
-  margin-bottom:80px;
+  margin-bottom:0px;
 }
 h3 {
   font-size:30px;
@@ -36,6 +38,29 @@ h3 {
 p {
   text-align:left;
   margin:40px;
+}
+#content_with_photo
+{
+  border: 1px solid white;
+
+  display:block;
+  height: 550px;
+  width: 1000px;
+  margin-left:-200px;
+  background-image: url("transparent_baxter_learning_small.png");
+  background-repeat: no-repeat;
+}
+#content_with_photo div
+{
+  text-align:left;
+  margin-left:580px;
+  margin-top:100px;
+}
+.callout {
+  color: #9e2b2b;
+  font-size: 30px;
+  display: block;
+  margin-bottom: 40px;
 }
 .caption {
   text-align:left;
@@ -57,14 +82,26 @@ p {
 .profile a {
 
 }
-.stuff
-{
+.experience_list{
   text-align:left;
-  margin-left:30px;
+  margin-left:10px;
+  margin-top:40px;
+  margin-bottom:40px;
 }
+.contact{
+  text-decoration: none;
+  color: #373737;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.contact .at{
+  color: darkgrey;
+}
+
 #footer {
   display:block;
-  font-size:11px;
+  font-size:12px;
   margin-top:60px;
   margin-bottom:20px;
 }
@@ -76,28 +113,34 @@ p {
 
   <image src="PickNik_Logo3.png" alt="PickNik"/>
 
-  <h2>Robotics Consulting</h2>
+  <h2>Robotics Software Consulting</h2>
 
-  <p>
-    We are robotic software experts, available to create, integrate, patch, or provide general consulting for your robotic applications. PickNik is a Delaware LLC offering on and off site consulting. We have particular expertise in the Robotic Operating System (ROS) including:
+  <div id="content_with_photo">
+    <div>
+      <span class="callout">
+        Realise your unique robotics problems.
+      </span>
 
-    <ul class="stuff">
-      <li>The MoveIt! Motion Planning Library</li>
-      <li>ROS Control and Realtime Systems </li>
-      <li>The Open Motion Planning Library (OMPL)</li>
-      <li>Gazebo Simulation</li>
-      <li>ROS Navigation Stack</li>
-    </ul>
-  </p>
+      We are robotic software experts, available to create, integrate, patch, or provide general consulting and training for your robotic applications. PickNik LLC offers on and off site work and support. We have particular expertise in the <b>Robotic Operating System</b> (ROS) including:
+
+      <ul class="experience_list">
+        <li>The MoveIt! Motion Planning Library</li>
+        <li>ROS Control and Realtime Systems </li>
+        <li>The Open Motion Planning Library (OMPL)</li>
+        <li>Gazebo Simulation</li>
+        <li>ROS Navigation Stack</li>
+      </ul>
+
+      We also have experience integrating robotic hardware including the Kuka IIWA, Universal Robotics UR5, Rethink Robotics Baxter, Kinova Jaco2, Willow Garage PR2, and Kawada Industries HPR2.
+    </div>
+  </div>
 
   <h3>BACKGROUND</h3>
 
   <p>
-    Dr. Dave Coleman, B.S. Mechanical Engineering Georgia Tech, Masters and PhD Computer Science CU Boulder, has <b>11 years</b> of experience working in the field of robotics automation, including the motion planning software MoveIt! along with the rest of ROS. Dave has been a leader in the open source community and has has a PhD in robotic motion planning.  He has worked and consulted for all types of robotics companies including Google, Vicarious, Kinema, the Open Source Robotics Foundation, and Willow Garage.
-  </p>
-
-  <p>
-    Dave's insights into the needs of a robot-agnostic platform that works for different morphologies, different theoretical approaches, and different end-user technical needs have given him a <b>well rounded understanding of the needs of powerful robotic software</b>.
+    <a href="http://dav.ee/">Dr. Dave Coleman</a>, B.S. Mechanical Engineering Georgia Tech, Masters and PhD Computer Science CU Boulder, has <b>11 years</b> of experience working in the field of robotics automation, including the motion planning software MoveIt! along with the rest of ROS. Dave has been a leader in the open source community and has has a PhD in robotic motion planning.  He has worked and consulted for all types of robotics companies including Google, Vicarious, Kinema, the Open Source Robotics Foundation, and Willow Garage.
+    <br /><br />
+    Dave's insights into the needs of a robot-agnostic platform that works for different morphologies, different theoretical approaches, and different end-user technical needs have given him a well rounded understanding of the needs of powerful robotic software.
   </p>
 
   <h3>RECOMMENDATIONS</h3>
@@ -107,7 +150,7 @@ p {
       <a href="https://www.linkedin.com/in/daden/">Daniel Aden</a> | Google
     </div>
     <span>
-      I highly recommend Dave for his work with me on a ROS based real-time reactive performance application for human-safe robotic planning implemented on a KUKA IIWA robotic arm. Dave is a self motivated problem solver and tackles problems holistically. He demonstrated a strong ability to navigate ambiguity and help define the requirements. He is a solid c++ developer and I was impressed with his ability to design and implement the system as well as integrate with existing legacy software. Dave is easy to work with and found a good balance of working remotely in simulation and onsite with hardware to complete the project. I hope I have the opportunity to work with him again.
+      I highly recommend Dave for his work with me on a ROS based real-time reactive performance application for human-safe robotic planning implemented on a KUKA IIWA robotic arm. Dave is a self motivated problem solver and tackles problems holistically. He demonstrated a  <b>strong ability to navigate ambiguity and help define the requirements</b>. He is a solid c++ developer and I was impressed with his ability to design and implement the system as well as integrate with existing legacy software. Dave is easy to work with and found a good balance of working remotely in simulation and onsite with hardware to complete the project. I hope I have the opportunity to work with him again.
     </span>
   </div>
 
@@ -116,7 +159,7 @@ p {
       <a href="https://www.linkedin.com/in/brett-aldrich-42915b97/">Brett Aldrich</a> | ReelRobotix
     </div>
     <span>
-In the relatively short time that I worked with Dave he displayed two traits in particular that, in addition to his deep knowledge of ROS, C++, Catkin and GitHub, separate him from other skilled programmers and place him in a class that I can only describe as exceptional... He is a good listener... By being able to listen and absorb the information contained in the spec prepared for the project, by being able to identify the key functional requirements and then ask insightful questions regarding those requirements, Dave was able to make major contributions to the code base, and to the project in general, in a very short amount of time... He is a genuinely great guy with excellent social skills. In the context of the project we worked on, I felt that this allowed him to offer many creative ideas, then have many of those ideas (but not all) be shot down for one reason or another without becoming defensive or having his ego bruised. Conversely, Dave was able to identify and point out existing flaws in the code and spec without being a jerk about it or endlessly beating around the bush in an attempt to be "nice"... I <br>highly recommend Dave for any programming position or project involving ROS, C++, MoveIt!, etc. and any company that hires him will be very fortunate to have him.</b>
+In the relatively short time that I worked with Dave he displayed two traits in particular that, in addition to his deep knowledge of ROS, C++, Catkin and GitHub, separate him from other skilled programmers and place him in a class that I can only describe as exceptional... He is a good listener... By being able to listen and absorb the information contained in the spec prepared for the project, by being able to identify the key functional requirements and then ask insightful questions regarding those requirements, Dave was able to make major contributions to the code base, and to the project in general, in a very short amount of time... He is a genuinely great guy with excellent social skills. In the context of the project we worked on, I felt that this allowed him to offer many creative ideas, then have many of those ideas (but not all) be shot down for one reason or another without becoming defensive or having his ego bruised. Conversely, Dave was able to identify and point out existing flaws in the code and spec without being a jerk about it or endlessly beating around the bush in an attempt to be "nice"... I <b>highly recommend Dave for any programming position or project involving ROS, C++, MoveIt!, etc. and any company that hires him will be very fortunate to have him.</b>
     </span>
   </div>
 
@@ -137,15 +180,15 @@ Dave is an engineer I would always work with, no matter the project. His attitud
       <a href="https://www.linkedin.com/in/andymcevoy/">Andy McEvoy</a> | MDA US Systems LLC
     </div>
     <span>
-Dave and I were colleagues in Dr. Nikolaus Correll's lab for about 5 years and I am very grateful for the programming, robotics and ROS mentorship Dave gave me. He's a great teacher and always pushed me to do my best. He showed excellent leadership skills as our team lead in the 2015 Amazon Picking Challenge organizing our efforts and delegating responsibility so that we stayed on track and on schedule. I would never turn down an opportunity to work with Dave, he brings out the best in those around him and pushes them to do more than they thought they could.
+Dave and I were colleagues in Dr. Nikolaus Correll's lab for about 5 years and I am very grateful for the programming, robotics and ROS mentorship Dave gave me. He's a great teacher and always pushed me to do my best. He showed excellent leadership skills as our team lead in the 2015 Amazon Picking Challenge organizing our efforts and delegating responsibility so that we stayed on track and on schedule.  <b>I would never turn down an opportunity to work with Dave </b>, he brings out the best in those around him and pushes them to do more than they thought they could.
     </span>
   </div>
 
+  <h3>CONTACT</h3>
+  <a class="contact" href="mailto:dave@dav.ee">dave<span class="at">@</span>dav.ee</a>
 
   <dev id="footer">
-    2017 PickNik LLC | +1.251.463.2345 |
-    <a href="http://dav.ee/">Dave Coleman</a> |
-    <a href="mailto:dave@dav.ee">Contact</a>
+    2017 PickNik LLC
   </dev>
 
 </div>
