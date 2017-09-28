@@ -18,6 +18,7 @@ body {
   padding:0;
   margin:0;
   -webkit-text-size-adjust:none;
+  background-color:#000;
 
 }
 
@@ -197,6 +198,7 @@ margin-right:100px;
   position: relative;
   width:100%;
   margin:0 auto;
+  background-color:#fff;
 
 }
 
@@ -390,6 +392,7 @@ width:100%;
 text-align:center;
 padding-top:80px;
 padding-bottom:80px;
+background-color:#fff;
 }
 
 .integTitle{
@@ -434,6 +437,11 @@ margin-bottom:30px;
 
 
 /*SERVICES*/
+
+.servicesCont{
+width:100%;
+background-color:#fff;
+}
 
 .servicesRowR{
 display:none;
@@ -1212,7 +1220,7 @@ z-index:999;
 
 
 .dropdown {
-FONT-SIZE:12PX;
+FONT-SIZE:13PX;
     position:relative;
     width:100%;
     padding:10px;
@@ -1377,7 +1385,7 @@ font-weight:500;
 }
 
 .heroSubText{
-font-size:12px;
+font-size:13px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1414,7 +1422,7 @@ display:inline;
 background-color:#04e79f;
 border-radius:3px;
 padding:17px 50px 17px 50px;
-font-size:12px;
+font-size:13px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 letter-spacing:1px;
@@ -1495,7 +1503,7 @@ font-weight:500;
 }
 
 .introSubText{
-font-size:12px;
+font-size:13px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1554,7 +1562,7 @@ font-weight:500;
 }
 
 .integSubText{
-font-size:12px;
+font-size:13px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1674,7 +1682,7 @@ padding-right:5%;
 }
 
 .sSubTitle{
-font-size:11px;
+font-size:12px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1807,7 +1815,7 @@ text-align:left;
 }
 
 .recText{
-font-size:12px;
+font-size:13px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1815,7 +1823,7 @@ line-height:27px;
 }
 
 .recName{
-font-size:12px;
+font-size:13px;
 color:#04e79f;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
@@ -1824,7 +1832,7 @@ margin-top:10px;
 }
 
 .recPos{
-font-size:11px;
+font-size:12px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1919,7 +1927,7 @@ text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
 margin-left:30px;
-font-size:12px;
+font-size:13px;
 letter-spacing:2px;
 
 }
@@ -1930,7 +1938,7 @@ text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
 margin-left:30px;
-font-size:12px;
+font-size:13px;
 letter-spacing:2px;
 
 
@@ -1945,7 +1953,7 @@ color:#fff;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:12px;
+font-size:13px;
 letter-spacing:2px;
 
 }
@@ -1955,7 +1963,7 @@ color:#fff;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:12px;
+font-size:13px;
 letter-spacing:2px;
 
 }
@@ -1969,7 +1977,7 @@ color:#04e79f;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:12px;
+font-size:13px;
 
 }
 
@@ -1978,7 +1986,7 @@ color:#04e79f;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:12px;
+font-size:13px;
 
 }
 
@@ -1987,7 +1995,7 @@ color:#fff;
 }
 
 .footerText{
-font-size:12px;
+font-size:13px;
 color:#fff;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -2051,7 +2059,7 @@ padding-right:15%;
 
 
 .introSubText2{
-font-size:12px;
+font-size:13px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -2157,7 +2165,7 @@ margin-top:55px;
 }
 
 .introSubTextP{
-font-size:12px;
+font-size:13px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -2168,7 +2176,7 @@ padding-right:15%;
 }
 
 .proName{
-font-size: 12px;
+font-size: 13px;
     color: #04e79f;
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
@@ -2212,7 +2220,7 @@ font-size: 20px;
 }
 
 .pTitle2{
-font-size: 12px;
+font-size: 13px;
     color: #808080;
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
@@ -2221,7 +2229,7 @@ font-size: 12px;
 }
 
 .pText{
-font-size: 12px;
+font-size: 13px;
     color: #000;
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
@@ -2231,7 +2239,7 @@ font-size: 12px;
 .pButton{
 font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
-    font-size: 11px;
+    font-size: 12px;
     padding: 10px 35px 10px 35px;
     background-color: #04e79f;
     color: #000;
