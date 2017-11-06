@@ -26,6 +26,13 @@ fi
 unalias git >/dev/null 2>/dev/null # redirects error msg output
 cd ~
 
+echo "-----------------------------------------------------"
+echo "-----------------------------------------------------"
+echo "NOTE: if you have Github 2-factor authentication enabled you must create a personal access token to git clone a https repo. To do this, visit: https://github.com/settings/tokens"
+echo "-----------------------------------------------------"
+echo "-----------------------------------------------------"
+read -p "Are you ready to continue?" $dummy
+
 rm -rf bitchin_unix
 git clone https://github.com/PickNikRobotics/bitchin_unix.git
 . bitchin_unix/install/ubuntu.sh
