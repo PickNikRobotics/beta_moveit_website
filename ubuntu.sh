@@ -28,7 +28,7 @@ cd ~
 
 echo "-----------------------------------------------------"
 echo "-----------------------------------------------------"
-echo "NOTE: if you have Github 2-factor authentication enabled you must create a personal access token to git clone a https repo. To do this, visit: https://github.com/settings/tokens"
+echo "NOTE: if you have Github 2-factor authentication enabled you must create a personal access token and use your token instead of your password to git clone a https repo. To do this, visit: https://github.com/settings/tokens"
 echo "-----------------------------------------------------"
 echo "-----------------------------------------------------"
 read -p "Are you ready to continue?" $dummy
