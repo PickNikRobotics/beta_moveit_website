@@ -24,6 +24,493 @@ body {
 
 
 
+.ital{
+font-style:italic;
+margin-bottom:-10px;
+}
+
+
+
+/*MISSION STATEMENT*/
+
+
+.missionState{
+width:100%;
+text-align:center;
+background-color:#1d1d1d;
+padding-top:80px;
+padding-bottom:80px;
+}
+
+.missionText{
+    font-size: 14px;
+    color: #fff;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 300;
+    line-height: 28px;
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom:40px;
+    margin-top:40px;
+}
+
+.missionLogo{
+width:50px;
+height:50px;
+margin:0 auto;
+}
+
+.missionText2{
+    font-size: 14px;
+    color: #27e6a1;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+    line-height: 28px;
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom:40px;
+    margin-top:40px;
+}
+
+
+
+/*END MISSION STATEMENT*/
+
+
+
+
+
+/*SUPPORT PAGE*/
+
+.ctaSupport{
+width: 100%;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.ctaIcon{
+margin:0 auto;
+width:50px;
+height:50px;
+margin-bottom:30px;
+}
+
+.ctaButton{
+font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+    font-size: 11px;
+    padding: 10px 35px 10px 35px;
+    background-color: #04e79f;
+    color: #000;
+    text-align: center;
+    border-radius: 3px;
+    margin-right: 60px;
+    border: 2px solid #04e79f;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    width: 80px;
+    margin-top: 30px;
+
+}
+
+.ctaButton:hover{
+background-color:#000;
+color:#fff;
+    border: 2px solid #000;
+    cursor:pointer;
+}
+
+.ctaText{
+font-size: 30px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+
+}
+
+.ctaSubText{
+    font-size: 16px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 300;
+    line-height: 28px;
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-top:25px;
+}
+
+
+.sppHero{
+width:100%;
+padding-top:170px;
+padding-bottom:120px;
+background-image:url(/images-picknik/suppbg.jpg);
+background-size:cover;
+}
+
+.sppWrap{
+width:80%;
+margin:0 auto;
+text-align:left;
+}
+
+.sppHeroTitle{
+    font-size: 56px;
+    color: #fff;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+}
+
+.sppLine{
+    width: 75px;
+    height: 4px;
+    background-color: #fff;
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.sppRow {
+  display: table;
+  height:auto;
+  position: relative;
+  width:50%;
+
+
+}
+
+
+.sppCol1 {
+  display: table-cell;
+  width:1%;
+  vertical-align: top;
+  text-align:left;
+}
+
+.sppCol2 {
+  display: table-cell;
+  width:20%;
+  vertical-align: top;
+  text-align:left;
+}
+
+.sppArrow{
+width:20px;
+height:20px;
+margin-bottom:30px;
+margin-right:-10px;
+margin-top:5px;
+}
+
+.sppText{
+    font-size: 12px;
+    color: #fff;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+    padding-left: 15px;
+}
+
+.sppEngage{
+width:100%;
+padding-top:80px;
+padding-bottom:80px;
+background-color:#fff;
+}
+
+.sppEngageWrap{
+width:80%;
+margin:0 auto;
+text-align:left;
+}
+
+.sppEngageTitle{
+    font-size: 40px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+}
+
+
+.sppEngageRow {
+  display: table;
+  height:auto;
+  position: relative;
+  width:100%;
+
+
+}
+
+.sppEngageRow1 {
+  display: table;
+  height:auto;
+  position: relative;
+  width:100%;
+  margin-top:40px;
+
+}
+
+
+.sppEngageCol1 {
+  display: table-cell;
+  width:50%;
+  vertical-align: top;
+  text-align:left;
+}
+
+.sppEngageCol2 {
+  display: table-cell;
+  width:50%;
+  vertical-align: top;
+  text-align:left;
+}
+
+.sppEngageSubTitle{
+    font-size: 15px;
+    color: #04e79f;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 15px;
+    }
+
+.sppEngageSubText{
+    font-size: 13px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 300;
+    line-height: 28px;
+    padding-right:10%;
+    }
+
+
+
+/*END SUPPORT PAGE*/
+
+
+
+
+/*SERVICES*/
+
+a.sLink:link{
+font-size: 16px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+    margin-bottom: 15px;
+
+}
+
+a.sLink:visited{
+font-size: 16px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+    margin-bottom: 15px;
+
+
+}
+
+a.sLink:hover{
+color:#04e79f;
+}
+
+
+.servCon{
+width:85%;
+margin:0 auto;
+text-align:left;
+padding-top:80px;
+padding-bottom:80px;
+background-color:#fff;
+margin-top:80px;
+border-radius:3px;
+}
+
+.servCon2{
+width:85%;
+margin:0 auto;
+text-align:left;
+padding-top:80px;
+padding-bottom:80px;
+background-color:#fff;
+margin-top:15px;
+border-radius:3px;
+}
+
+
+.servWrap{
+padding-left:80px;
+padding-right:80px;
+}
+
+.sIcon2{
+width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    margin-bottom: -22px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.sSubText{
+    font-size: 12px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+.servPageTitle{
+    font-size: 15px;
+    color: #04e79f;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom:10px;
+}
+
+.servPageTitleSub{
+    font-size: 12px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom:10px;
+}
+
+/*END SERVICES*/
+
+
+
+
+
+
+
+/*UPDATE-BIO IMAGES*/
+
+.bioPic1 { 
+background: url('/images-picknik/p1.jpg') 0 -150px no-repeat; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+    background-size:150px;
+}
+
+.bioPic1:hover { 
+background-position: 0 0px; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    cursor:pointer;
+
+}
+
+.bioPic2 { 
+background: url('/images-picknik/p2.jpg') 0 -150px no-repeat; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+    background-size:150px;
+}
+
+.bioPic2:hover { 
+background-position: 0 0px; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    cursor:pointer;
+
+}
+
+.bioPic3 { 
+background: url('/images-picknik/p3.jpg') 0 -150px no-repeat; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+    background-size:150px;
+}
+
+.bioPic3:hover { 
+background-position: 0 0px; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    cursor:pointer;
+
+}
+
+.bioPic4 { 
+background: url('/images-picknik/p4.jpg') 0 -150px no-repeat; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+    background-size:150px;
+}
+
+.bioPic4:hover { 
+background-position: 0 0px; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    cursor:pointer;
+
+}
+
+.bioPic5 { 
+background: url('/images-picknik/p5.jpg') 0 -150px no-repeat; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+    background-size:150px;
+}
+
+.bioPic5:hover { 
+background-position: 0 0px; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    cursor:pointer;
+
+}
+
+.bioPic6 { 
+background: url('/images-picknik/p6.jpg') 0 -150px no-repeat; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+    background-size:150px;
+}
+
+.bioPic6:hover { 
+background-position: 0 0px; 
+margin-bottom: 25px;
+    border-radius: 50%;
+    cursor:pointer;
+
+}
+
+
+/*END UPDATE*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*HEADER*/
@@ -31,7 +518,7 @@ body {
     width: 30px;
     height: 20px;
     position: absolute;
-    top: -26px;
+    top: -37px;
     right: 51px;
     filter: invert(100%);
     
@@ -66,8 +553,8 @@ z-index:99999;
   width: 30%;
   vertical-align: middle;
   text-align:left;
-  padding-top:20px;
-  padding-bottom:20px;
+  padding-top:10px;
+  padding-bottom:10px;
 }
 
 .headerCol2 {
@@ -75,23 +562,23 @@ z-index:99999;
   width: 40%;
   vertical-align: middle;
   text-align:center;
-  padding-top:20px;
-  padding-bottom:20px;
+  padding-top:10px;
+  padding-bottom:10px;
 }
 
 .headerCol3{
   width: 30%;
   vertical-align: middle;
   text-align:right;
-  padding-top:20px;
-  padding-bottom:20px;
+  padding-top:10px;
+  padding-bottom:10px;
   
 }
 
 
 .logo{
-width:150px;
-height:24px;
+width:140px;
+height:44px;
 margin-left:60px;
 }
 
@@ -265,6 +752,16 @@ margin-bottom:30px;
 }
 
 
+.lineService{
+    width: 45px;
+    height: 4px;
+    background-color: #000;
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 96px;
+}
+
 
 
 
@@ -349,6 +846,14 @@ font-size:36px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
+}
+
+.introTitleS{
+font-size:36px;
+color:#000;
+font-family: 'Source Code Pro', sans-serif;
+font-weight:500;
+display:inline-block;
 }
 
 .introSubText{
@@ -487,15 +992,37 @@ font-weight:500;
   width:33.3%;
   vertical-align: top;
   text-align:center;
-  padding-top:50px;
-  padding-bottom:10px;
+  padding-top:30px;
+  padding-bottom:30px;
+  cursor:pointer;
 }
+
+.servicesCol:hover{
+background-color:#f5f5f5;
+cursor:pointer;
+}
+
+.servicesCol:hover .sIcon {
+    opacity:0.5;
+    cursor:pointer;
+}
+
+.servicesCol:hover .sLink{
+color:#04e79f;
+cursor:pointer;
+}
+
+
 
 .sIcon{
 width:55px;
 height:55px;
 margin:0 auto;
 margin-bottom:20px;
+}
+
+.sIcon:hover{
+opacity:0.5;
 }
 
 .sTitle{
@@ -511,6 +1038,7 @@ font-size:12px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
+margin-top:7.5px;
 }
 
 /*END SERVICES*/
@@ -821,8 +1349,8 @@ padding-left:15%;
 }
 
 .logo2{
-width:150px;
-height:24px;
+width:140px;
+height:44px;
 }
 
 
@@ -1013,8 +1541,8 @@ font-size: 12px;
 
 
 .pLogos{
-width:500px;
-height:106px;
+width:550px;
+height:83px;
 margin-top:30px;
 }
 
@@ -1027,19 +1555,21 @@ background-color:#f2f2f2;
 }
 
 .pHolder{
-width:85%;
-height:250px;
-background-color:#f2f2f2;
+width:55%;
 display:block;
 margin-bottom:20px;
+float:left;
+padding-right:30px;
 }
 
 .pTitle{
-font-size: 24px;
-    color: #000;
+font-size: 30px;
+    color: #04e79f;
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
-    margin-bottom:20px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    
 }
 
 .pTitle2{
@@ -1194,6 +1724,269 @@ font-size: 12px;
 @media only screen and (max-width: 900px) {
 
 
+
+
+
+/*MISSION STATEMENT*/
+
+
+.missionState{
+width:100%;
+text-align:center;
+background-color:#1d1d1d;
+padding-top:80px;
+padding-bottom:80px;
+}
+
+.missionText{
+    font-size: 14px;
+    color: #fff;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 300;
+    line-height: 28px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom:40px;
+    margin-top:40px;
+}
+
+.missionLogo{
+width:50px;
+height:50px;
+margin:0 auto;
+}
+
+.missionText2{
+    font-size: 14px;
+    color: #27e6a1;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+    line-height: 28px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom:40px;
+    margin-top:40px;
+}
+
+
+
+/*END MISSION STATEMENT*/
+
+
+/*SUPPORT PAGE*/
+
+
+.sppHero{
+width:100%;
+padding-top:140px;
+padding-bottom:90px;
+background-image:url(/images-picknik/suppbg.jpg);
+background-size:cover;
+}
+
+.sppWrap{
+width:90%;
+margin:0 auto;
+text-align:center;
+}
+
+.sppHeroTitle{
+    font-size: 40px;
+    color: #fff;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+}
+
+.sppLine{
+    width: 75px;
+    height: 4px;
+    background-color: #fff;
+    display: block;
+    margin:0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+
+.sppRow {
+  display: table;
+  height:auto;
+  position: relative;
+  width:50%;
+  margin:0 auto;
+
+
+}
+
+
+.sppCol1 {
+  display: table-cell;
+  width:1%;
+  vertical-align: top;
+  text-align:center;
+}
+
+.sppCol2 {
+  display: table-cell;
+  width:20%;
+  vertical-align: top;
+  text-align:center;
+}
+
+.sppArrow{
+width:20px;
+height:20px;
+margin-bottom:30px;
+}
+
+.sppText{
+    font-size: 12px;
+    color: #fff;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+    padding-left: 15px;
+}
+
+.sppEngage{
+width:100%;
+padding-top:80px;
+padding-bottom:80px;
+background-color:#fff;
+}
+
+.sppEngageWrap{
+width:90%;
+margin:0 auto;
+text-align:center;
+}
+
+.sppEngageTitle{
+    font-size: 24px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+}
+
+
+.sppEngageRow {
+  display: table;
+  height:auto;
+  position: relative;
+  width:100%;
+
+
+}
+
+.sppEngageRow1 {
+  display: table;
+  height:auto;
+  position: relative;
+  width:100%;
+  margin-top:40px;
+
+}
+
+.margspp{
+margin-bottom:20px;
+}
+
+.sppEngageCol1 {
+  display: block;
+  width:100%;
+  vertical-align: top;
+  text-align:center;
+}
+
+.sppEngageCol2 {
+  display: block;
+  width:100%;
+  vertical-align: top;
+  text-align:center;
+}
+
+.sppEngageSubTitle{
+    font-size: 15px;
+    color: #04e79f;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 15px;
+    }
+
+.sppEngageSubText{
+    font-size: 13px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 300;
+    line-height: 28px;
+    padding-right:10%;
+    padding-left:10%;
+    }
+
+
+
+/*END SUPPORT PAGE*/
+
+
+
+
+
+
+
+
+
+
+
+/*SERVICES*/
+
+
+.servCon{
+width:85%;
+margin:0 auto;
+text-align:center;
+padding-top:80px;
+padding-bottom:80px;
+background-color:#fff;
+margin-top:80px;
+border-radius:3px;
+}
+
+.servCon2{
+width:85%;
+margin:0 auto;
+text-align:center;
+padding-top:80px;
+padding-bottom:80px;
+background-color:#fff;
+margin-top:15px;
+border-radius:3px;
+}
+
+
+
+
+
+.sIcon2{
+width: 70px;
+    height: 70px;
+
+
+    display: block;
+
+    margin:0 auto;
+    margin-bottom:20px;
+
+}
+
+
+
+
+
+
+
+
+
 /*HEADER*/
 
 .h{
@@ -1281,7 +2074,7 @@ font-weight:500;
     }
         .dropdown-open > .dropdown-menu {
     display: block;
-    margin-top: -27px;
+    margin-top: -38px;
     border-radius: 0;
     border: none;
         }
@@ -1293,10 +2086,10 @@ display:none;
 
 
 .logoR{
-    width: 150px;
-    height: 24px;
+    width: 140px;
+    height: 44px;
     margin-left: 30px;
-    margin-top: 19px;
+    margin-top: 10px;
 }
 
 
@@ -1502,6 +2295,12 @@ font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
 }
 
+.introTitleS{
+font-size:27px;
+display:block;
+
+}
+
 .introSubText{
 font-size:13px;
 color:#000;
@@ -1640,8 +2439,8 @@ font-weight:500;
   width:33.3%;
   vertical-align: top;
   text-align:center;
-  padding-top:50px;
-  padding-bottom:10px;
+  padding-top:30px;
+  padding-bottom:30px;
 }
 
 .servicesRowR {
@@ -1660,8 +2459,12 @@ font-weight:500;
   width:50%;
   vertical-align: top;
   text-align:center;
-  padding-top:50px;
-  padding-bottom:10px;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+.servicesColR:hover{
+background-color:#f5f5f5;
 }
 
 .sIcon{
@@ -2000,12 +2803,12 @@ color:#fff;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
 line-height:22px;
-padding-left:15%;
+padding-left:0%;
 }
 
 .logo2{
-width:150px;
-height:24px;
+width:140px;
+height:44px;
 }
 
 
@@ -2077,6 +2880,19 @@ background-color:#000;
 display:block;
 margin-top:40px;
 margin-bottom:40px;
+}
+
+.lineService{
+    width: 45px;
+    height: 4px;
+    background-color: #000;
+    display: block;
+
+    margin-left: 0px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 
@@ -2205,15 +3021,12 @@ background-color:#f2f2f2;
 
 .pHolder{
 width:85%;
-height:250px;
-background-color:#f2f2f2;
 display:block;
 margin-bottom:20px;
 }
 
 .pTitle{
 font-size: 20px;
-    color: #000;
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-bottom:20px;
