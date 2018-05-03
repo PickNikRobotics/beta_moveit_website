@@ -392,7 +392,7 @@ width: 70px;
 /*UPDATE-BIO IMAGES*/
 
 .bioPic1 { 
-background: url('/images-picknik/p1.jpg') 0 -150px no-repeat; 
+background: url('../images-picknik/p1.jpg') 0 -150px no-repeat; 
 margin-bottom: 25px;
     border-radius: 50%;
     width:150px;
@@ -409,7 +409,7 @@ margin-bottom: 25px;
 }
 
 .bioPic2 { 
-background: url('/images-picknik/p2.jpg') 0 -150px no-repeat; 
+background: url('../images-picknik/p2.jpg') 0 -150px no-repeat; 
 margin-bottom: 25px;
     border-radius: 50%;
     width:150px;
@@ -426,7 +426,7 @@ margin-bottom: 25px;
 }
 
 .bioPic3 { 
-background: url('/images-picknik/p3.jpg') 0 -150px no-repeat; 
+background: url('../images-picknik/p3.jpg') 0 -150px no-repeat; 
 margin-bottom: 25px;
     border-radius: 50%;
     width:150px;
@@ -443,7 +443,7 @@ margin-bottom: 25px;
 }
 
 .bioPic4 { 
-background: url('/images-picknik/p4.jpg') 0 -150px no-repeat; 
+background: url('../images-picknik/p4.jpg') 0 -150px no-repeat; 
 margin-bottom: 25px;
     border-radius: 50%;
     width:150px;
@@ -460,7 +460,7 @@ margin-bottom: 25px;
 }
 
 .bioPic5 { 
-background: url('/images-picknik/p5.jpg') 0 -150px no-repeat; 
+background: url('../images-picknik/p5.jpg') 0 -150px no-repeat; 
 margin-bottom: 25px;
     border-radius: 50%;
     width:150px;
@@ -477,7 +477,7 @@ margin-bottom: 25px;
 }
 
 .bioPic6 { 
-background: url('/images-picknik/p6.jpg') 0 -150px no-repeat; 
+background: url('../images-picknik/p6.jpg') 0 -150px no-repeat; 
 margin-bottom: 25px;
     border-radius: 50%;
     width:150px;
@@ -821,7 +821,7 @@ max-width:680px;
   text-align:center;
   padding-top:120px;
   padding-bottom:120px;
-  background-image:url(/images-picknik/roboto-intro.jpg);
+  background-image:url('../images-picknik/roboto-intro.jpg');
   background-size:cover;
   background-position:center center;
 }
@@ -1386,7 +1386,7 @@ height:44px;
   text-align:center;
   padding-top:120px;
   padding-bottom:120px;
-  background-image:url(/images-picknik/connect-image.jpg);
+  background-image:url('../images-picknik/connect-image.jpg');
   background-size:cover;
   background-position:center center;
 }
@@ -1503,7 +1503,7 @@ margin-top:55px;
   text-align:center;
   padding-top:120px;
   padding-bottom:120px;
-  background-image:url(/images-picknik/projects-image.jpg);
+  background-image:url('../images-picknik/projects-image.jpg');
   background-size:cover;
   background-position:center center;
 }
@@ -2268,7 +2268,7 @@ max-width:680px;
   text-align:center;
   padding-top:80px;
   padding-bottom:80px;
-  background-image:url(/images-picknik/roboto-intro.jpg);
+  background-image:url('../images-picknik/roboto-intro.jpg');
   background-size:cover;
   background-position:center center;
 }
