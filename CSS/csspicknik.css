@@ -146,7 +146,7 @@ font-size: 30px;
 width:100%;
 padding-top:170px;
 padding-bottom:120px;
-background-image:url(/images-picknik/suppbg.jpg);
+background-image:url('../images-picknik/suppbg.jpg');
 background-size:cover;
 }
 
@@ -1386,9 +1386,7 @@ height:44px;
   text-align:center;
   padding-top:120px;
   padding-bottom:120px;
-  background-image:url('../images-picknik/connect-image.jpg');
-  background-size:cover;
-  background-position:center center;
+  background-color: white;
 }
 
 .introCol2C {
@@ -1780,7 +1778,7 @@ margin:0 auto;
 width:100%;
 padding-top:140px;
 padding-bottom:90px;
-background-image:url(/images-picknik/suppbg.jpg);
+background-image:url('../images-picknik/suppbg.jpg');
 background-size:cover;
 }
 
@@ -1923,6 +1921,10 @@ margin-bottom:20px;
     padding-right:10%;
     padding-left:10%;
     }
+
+#moveit-logo-black {
+
+}
 
 
 
@@ -2839,7 +2841,7 @@ height:44px;
   text-align:center;
   padding-top:120px;
   padding-bottom:120px;
-  background-image:url(/images-picknik/connect-image.jpg);
+  background-image:url('../images-picknik/connect-image.jpg');
   background-size:cover;
   background-position:center center;
 }
@@ -2965,7 +2967,7 @@ margin-top:55px;
   text-align:center;
   padding-top:120px;
   padding-bottom:120px;
-  background-image:url(/images-picknik/projects-image.jpg);
+  background-image:url('../images-picknik/projects-image.jpg');
   background-size:cover;
   background-position:center center;
 }
