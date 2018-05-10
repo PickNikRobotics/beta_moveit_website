@@ -493,6 +493,40 @@ margin-bottom: 25px;
 
 }
 
+.bioPic7 { 
+    background: url('../images-picknik/p7.jpeg') 0 -150px no-repeat; 
+    margin-bottom: 25px;
+        border-radius: 50%;
+        width:150px;
+        height:150px;
+        background-size:150px;
+    }
+    
+    .bioPic7:hover { 
+    background-position: 0 0px; 
+    margin-bottom: 25px;
+        border-radius: 50%;
+        cursor:pointer;
+    
+    }
+
+    .bioPic8 { 
+        background: url('../images-picknik/p8.jpg') 0 -150px no-repeat; 
+        margin-bottom: 25px;
+            border-radius: 50%;
+            width:150px;
+            height:150px;
+            background-size:150px;
+        }
+        
+        .bioPic8:hover { 
+        background-position: 0 0px; 
+        margin-bottom: 25px;
+            border-radius: 50%;
+            cursor:pointer;
+        
+        }
+
 
 /*END UPDATE*/
 
@@ -589,7 +623,7 @@ text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
 margin-left:30px;
-font-size:13px;
+font-size:16px;
 letter-spacing:2px;
 
 }
@@ -600,7 +634,7 @@ text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
 margin-left:30px;
-font-size:13px;
+font-size:16px;
 letter-spacing:2px;
 
 
@@ -615,7 +649,7 @@ color:#000;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:13px;
+font-size:16px;
 letter-spacing:2px;
 
 }
@@ -625,7 +659,7 @@ color:#000;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:13px;
+font-size:16px;
 letter-spacing:2px;
 
 }
@@ -732,7 +766,7 @@ font-weight:500;
 }
 
 .heroSubText{
-font-size:12px;
+font-size:14px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -777,7 +811,7 @@ display:inline;
 background-color:#04e79f;
 border-radius:3px;
 padding:17px 50px 17px 50px;
-font-size:12px;
+font-size:14px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 letter-spacing:1px;
@@ -857,7 +891,7 @@ display:inline-block;
 }
 
 .introSubText{
-font-size:12px;
+font-size:14px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1034,7 +1068,7 @@ margin-bottom:5px;
 }
 
 .sSubTitle{
-font-size:12px;
+font-size:14px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1166,7 +1200,7 @@ text-align:left;
 }
 
 .recText{
-font-size:15px;
+font-size:16px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1174,7 +1208,7 @@ line-height:27px;
 }
 
 .recName{
-font-size:15px;
+font-size:16px;
 color:#04e79f;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
@@ -1183,7 +1217,7 @@ margin-top:10px;
 }
 
 .recPos{
-font-size:12px;
+font-size:14px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1272,7 +1306,7 @@ text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
 margin-left:30px;
-font-size:13px;
+font-size:14px;
 letter-spacing:2px;
 line-height: 40px;
 
@@ -1284,7 +1318,7 @@ text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
 margin-left:30px;
-font-size:13px;
+font-size:14px;
 letter-spacing:2px;
 
 
@@ -1299,7 +1333,7 @@ color:#fff;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:13px;
+font-size:14px;
 letter-spacing:2px;
 
 }
@@ -1309,7 +1343,7 @@ color:#fff;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:13px;
+font-size:14px;
 letter-spacing:2px;
 
 }
@@ -1323,7 +1357,7 @@ color:#04e79f;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:12px;
+font-size:14px;
 
 }
 
@@ -1332,7 +1366,7 @@ color:#04e79f;
 text-decoration:none;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:500;
-font-size:12px;
+font-size:14px;
 
 }
 
@@ -1341,7 +1375,7 @@ color:#fff;
 }
 
 .footerText{
-font-size:12px;
+font-size:14px;
 color:#fff;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -1572,7 +1606,7 @@ font-size: 30px;
 }
 
 .pTitle2{
-font-size: 12px;
+font-size: 18px;
     color: #808080;
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
@@ -1581,7 +1615,7 @@ font-size: 12px;
 }
 
 .pText{
-font-size: 12px;
+font-size: 14px;
     color: #000;
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
@@ -1591,7 +1625,7 @@ font-size: 12px;
 .pButton{
 font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
-    font-size: 11px;
+    font-size: 14px;
     padding: 10px 35px 10px 35px;
     background-color: #04e79f;
     color: #000;
