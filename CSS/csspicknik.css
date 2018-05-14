@@ -144,8 +144,8 @@ font-size: 30px;
 
 .sppHero{
 width:100%;
-padding-top:170px;
-padding-bottom:120px;
+padding-top:100px;
+padding-bottom:40px;
 background-image:url('../images-picknik/suppbg.jpg');
 background-size:cover;
 }
@@ -494,7 +494,7 @@ margin-bottom: 25px;
 }
 
 .bioPic7 { 
-    background: url('../images-picknik/p7.jpeg') 0 -150px no-repeat; 
+    background: url('../images-picknik/p7.jpg') 0 -150px no-repeat; 
     margin-bottom: 25px;
         border-radius: 50%;
         width:150px;
@@ -1194,8 +1194,8 @@ font-weight:500;
 }
 
 .recPad{
-padding-left:15%;
-padding-right:15%;
+padding-left:100px;
+padding-right:100px;
 text-align:left;
 }
 
@@ -1552,7 +1552,7 @@ margin-top:55px;
 }
 
 .introSubTextP{
-font-size:12px;
+font-size:16px;
 color:#000;
 font-family: 'Source Code Pro', sans-serif;
 font-weight:300;
@@ -2870,16 +2870,41 @@ height:44px;
 
 
 .introCol1C {
-  display: none;
   width:33%;
   vertical-align: middle;
   text-align:center;
   padding-top:120px;
   padding-bottom:120px;
-  background-image:url('../images-picknik/connect-image.jpg');
+  background-image:url('../images-picknik/red-arm.jpg');
   background-size:cover;
   background-position:center center;
 }
+
+.introCol5P {
+    display: table-cell;
+    width:33%;
+    height: 500px;
+    vertical-align: middle;
+    text-align:center;
+    padding-top:120px;
+    padding-bottom:120px;
+    background-image:url('../images-picknik/red-arm.jpg');
+    background-size:cover;
+    background-position:center center;
+  }
+
+  .introCol5P {
+    display: NONE;
+    width:33%;
+    height: 500px;
+    vertical-align: middle;
+    text-align:center;
+    padding-top:120px;
+    padding-bottom:120px;
+    background-image:url('../images-picknik/red-arm.jpg');
+    background-size:cover;
+    background-position:center center;
+  }
 
 .introCol2C {
   display: block;
