@@ -147,6 +147,13 @@ body {
     font-weight: 500;
 }
 
+.sppHeroSubTitle {
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 500;
+}
+
 .sppLine {
     width: 75px;
     height: 4px;
@@ -661,9 +668,9 @@ a.headerLinks1:hover {
 
 .heroCol1 {
     display: table-cell;
-    min-width: 45%;
-    width: 45%;
-    max-width: 45%;
+    min-width: 50%;
+    width: 50%;
+    max-width: 50%;
     vertical-align: middle;
     text-align: center;
     padding-top: 100px;
@@ -672,7 +679,7 @@ a.headerLinks1:hover {
 
 .heroCol2 {
     display: table-cell;
-    width: 55%;
+    width: 50%;
     vertical-align: middle;
     text-align: left;
     padding-top: 100px;
@@ -682,7 +689,7 @@ a.headerLinks1:hover {
 .heroPad {
     text-align: left;
     padding-left: 10%;
-    padding-right: 3%;
+    padding-right: 5%;
 }
 
 .heroPad2 {
@@ -691,7 +698,7 @@ a.headerLinks1:hover {
 }
 
 .heroTitle {
-    font-size: 56px;
+    font-size: 36px;
     color: #000;
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
@@ -750,7 +757,7 @@ a {
 }
 
 .heroImg {
-    width: 90%;
+    width: 100%;
     max-width: 680px;
 }
 
@@ -793,6 +800,11 @@ a {
 .introPadding {
     padding-left: 15%;
     padding-right: 15%;
+}
+
+.introPadding2 {
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .introTitle {
@@ -1301,6 +1313,11 @@ a.ros:hover {
     padding-right: 15%;
 }
 
+.introPadding2 {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 .introTitle {
     font-size: 36px;
     color: #000;
@@ -1430,8 +1447,8 @@ a.connectText:hover {
 }
 
 .pLogos {
-    width: 550px;
-    height: 83px;
+    width: 600px;
+    height: 200px;
     margin-top: 30px;
 }
 
@@ -1633,6 +1650,12 @@ a.peopleName:hover {
         font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
+    .sppHeroSubTitle {
+        font-size: 30px;
+        color: #fff;
+        font-family: 'Source Code Pro', sans-serif;
+        font-weight: 500;
+    }
     .sppLine {
         width: 75px;
         height: 4px;
@@ -1736,7 +1759,6 @@ a.peopleName:hover {
         padding-right: 10%;
         padding-left: 10%;
     }
-    #moveit-logo-black {}
     /*END SUPPORT PAGE*/
     /*SERVICES*/
     .servCon {
@@ -1973,6 +1995,10 @@ a.peopleName:hover {
     .introPadding {
         padding-left: 15%;
         padding-right: 15%;
+    }
+    .introPadding2 {
+        padding-left: 10%;
+        padding-right: 10%;
     }
     .introTitle {
         font-size: 27px;
@@ -2404,6 +2430,10 @@ a.peopleName:hover {
     .introPadding {
         padding-left: 15%;
         padding-right: 15%;
+    }
+    .introPadding2 {
+        padding-left: 10%;
+        padding-right: 10%;
     }
     .introSubText2 {
         font-size: 13px;
