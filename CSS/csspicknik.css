@@ -1417,6 +1417,18 @@ a.connectText:hover {
     background-position: center center;
 }
 
+.introCol1D {
+    background: white;
+    display: table-cell;
+    width: 33%;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-size: cover;
+    background-position: center center;
+}
+
 .introCol2P {
     display: table-cell;
     width: 67%;
@@ -2522,6 +2534,17 @@ a.peopleName:hover {
         padding-top: 120px;
         padding-bottom: 120px;
         background-image: url('../images-picknik/red-arm.jpg');
+        background-size: cover;
+        background-position: center center;
+    }
+    .introCol1D {
+        background: white;
+        display: NONE;
+        width: 33%;
+        vertical-align: middle;
+        text-align: center;
+        padding-top: 120px;
+        padding-bottom: 120px;
         background-size: cover;
         background-position: center center;
     }
