@@ -1603,6 +1603,18 @@ a.peopleName:hover {
 
 /*END HOME-PEOPLE*/
 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 45%;
+    padding-left: 30px;
+}
+
 
 /*RESPONSIVE CODE*/
 
