@@ -362,8 +362,8 @@ a.sLink:hover {
 
 /*UPDATE-BIO IMAGES*/
 
-.bioPic1 {
-    background: url('../images-picknik/p1.jpg') 0 -150px no-repeat;
+.bioPic {
+    background: 0 -150px no-repeat;
     margin-bottom: 25px;
     border-radius: 50%;
     width: 150px;
@@ -371,135 +371,7 @@ a.sLink:hover {
     background-size: 150px;
 }
 
-.bioPic1:hover {
-    background-position: 0 0px;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.bioPic2 {
-    background: url('../images-picknik/p2.jpg') 0 -150px no-repeat;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    background-size: 150px;
-}
-
-.bioPic2:hover {
-    background-position: 0 0px;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.bioPic3 {
-    background: url('../images-picknik/p3.jpg') 0 -150px no-repeat;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    background-size: 150px;
-}
-
-.bioPic3:hover {
-    background-position: 0 0px;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.bioPic4 {
-    background: url('../images-picknik/p4.jpg') 0 -150px no-repeat;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    background-size: 150px;
-}
-
-.bioPic4:hover {
-    background-position: 0 0px;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.bioPic5 {
-    background: url('../images-picknik/p5.jpg') 0 -150px no-repeat;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    background-size: 150px;
-}
-
-.bioPic5:hover {
-    background-position: 0 0px;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.bioPic6 {
-    background: url('../images-picknik/p6.jpg') 0 -150px no-repeat;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    background-size: 150px;
-}
-
-.bioPic6:hover {
-    background-position: 0 0px;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.bioPic7 {
-    background: url('../images-picknik/p7.jpg') 0 -150px no-repeat;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    background-size: 150px;
-}
-
-.bioPic7:hover {
-    background-position: 0 0px;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.bioPic8 {
-    background: url('../images-picknik/p8.jpg') 0 -150px no-repeat;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    background-size: 150px;
-}
-
-.bioPic8:hover {
-    background-position: 0 0.5px;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    cursor: pointer;
-}
-
-.bioPic9 {
-    background: url('../images-picknik/p9.jpg') 0 -150px no-repeat;
-    margin-bottom: 25px;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    background-size: 150px;
-}
-
-.bioPic9:hover {
+.bioPic:hover {
     background-position: 0 0px;
     margin-bottom: 25px;
     border-radius: 50%;
