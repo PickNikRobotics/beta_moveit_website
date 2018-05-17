@@ -689,7 +689,7 @@ a.headerLinks1:hover {
 .heroPad {
     text-align: left;
     padding-left: 10%;
-    padding-right: 5%;
+    padding-right: 2%;
 }
 
 .heroPad2 {
@@ -757,7 +757,7 @@ a {
 }
 
 .heroImg {
-    width: 100%;
+    width: 120%;
     max-width: 680px;
 }
 
@@ -1972,7 +1972,7 @@ a.peopleName:hover {
         color: #fff;
     }
     .heroImg {
-        width: 90%;
+        width: 100%;
         max-width: 680px;
     }
     /*END HERO AREA*/
