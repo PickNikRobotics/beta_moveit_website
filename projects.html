@@ -1,60 +1,57 @@
 <!DOCTYPE html>
 <html>
-<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
-<title>PickNik​ ​Connect​ ​-​ ​Robotic​ ​Software​ ​Consultants</title>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<meta name="keywords" content="">
-<meta name="description" content="">
-<link rel="stylesheet" type="text/css" href="/CSS/csspicknik.css">
-<link rel="shortcut icon" href="http://picknik.ai/favicon.ico">
-<meta name="format-detection" content="telephone=no">
-<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500, 700" rel="stylesheet">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <title>PickNik​ ​Projects ​-​ ​Robotic​ ​Software​ ​Consultants</title>
 
-<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<script type="text/javascript" src="/JS/video.min.js"></script>
-<script>(function($, undefined)
-{
-    var open = [];
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link rel="stylesheet" type="text/css" href="./CSS/csspicknik.css">
+    <link rel="shortcut icon" href="http://picknik.ai/favicon.ico">
+    <meta name="format-detection" content="telephone=no">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500, 700" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
-    var opts = {
-        selector: '.dropdown',
-        toggle: 'menuR1',
-        open: 'dropdown-open',
-        nest: true
-    };
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <script type="text/javascript" src="./JS/video.min.js"></script>
+    <script>
+        (function($, undefined) {
+            var open = [];
 
-    $(document).on('click.dropdown touchstart.dropdown', function(e)
-    {
-        // Close the last open dropdown if click is from outside the target dropdown
-        if ( open.length && ( ! opts.nest || ! open[ open.length - 1 ].find( e.target ).length ) )
-        {
-            open.pop().removeClass( opts.open );
-        }
+            var opts = {
+                selector: '.dropdown',
+                toggle: 'menuR1',
+                open: 'dropdown-open',
+                nest: true
+            };
 
-        var $this = $(e.target);
+            $(document).on('click.dropdown touchstart.dropdown', function(e) {
+                // Close the last open dropdown if click is from outside the target dropdown
+                if (open.length && (!opts.nest || !open[open.length - 1].find(e.target).length)) {
+                    open.pop().removeClass(opts.open);
+                }
 
-        // If target is a dropdown then toggle it...
-        if ( $this.hasClass( opts.toggle ) )
-        {
-            e.preventDefault();
+                var $this = $(e.target);
 
-            $this = $this.closest( opts.selector );
+                // If target is a dropdown then toggle it...
+                if ($this.hasClass(opts.toggle)) {
+                    e.preventDefault();
 
-            if ( ! $this.hasClass( opts.open ) )
-            {
-                open.push( $this.addClass( opts.open ) );
-            }
-            else
-            {
-                open.pop().removeClass( opts.open );
-            }
-        }
-    });
+                    $this = $this.closest(opts.selector);
 
-})(jQuery);</script>
+                    if (!$this.hasClass(opts.open)) {
+                        open.push($this.addClass(opts.open));
+                    } else {
+                        open.pop().removeClass(opts.open);
+                    }
+                }
+            });
+
+        })(jQuery);
+    </script>
 
 
 
@@ -62,218 +59,162 @@
 
 
 </head>
+
 <body>
 
 
-<div id="top"></div>
-<div class="respMenu">
-
-<div class="header2" id="top">
-
-<a href="/"><img src="/images-picknik/logo.jpg" class="logoR"></a>
-
-<div id="language" class="dropdown">
-    <a class="dropdown-toggle"><img src="/images-picknik/menu.png" class="menuR1"></a>
-    <ul class="dropdown-menu">
-        <li class="option"><a href="/projects" id="featuresHH1">PROJECTS</a></li>
-        <li class="option"><a href="/people" id="aboutHH1">PEOPLE</a></li>
-        <li class="option"><a href="/connect" id="requestHH2">CONNECT</a></li>
-
-    </ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-</div>
-
-
-
-
-
-<div class="header" id="top">
-
-<div class="headerCol1"><a href="/"><img src="/images-picknik/logo.jpg" class="logo"></a></div>
-<div class="headerCol2">
-<a href="/projects" class="headerLinks1">PROJECTS</a>
-<a href="/people" class="headerLinks">PEOPLE</a>
-</div>
-<div class="headerCol3">
-
-<a href="/connect"><div class="contactButton">CONNECT</div></a></div>
-
-</div>
-
-
-
-
-
-
-
-
-
-<div class="intro" id="intro">
-
-<div class="introCol1P"></div>
-<div class="introCol2P">
-
-<div class="introPadding">
-<div class="introTitle">Projects</div>
-<div class="line"></div>
-<div class="introSubTextP">
-"We are proud to count the following companies among our many clients and partners. It was great working with you guys, thank you."
-</div>
-<div class="proName">Dave Coleman, Founder</div>
-
-
-
-<img class="pLogos" src="/images-picknik/projects-logos.jpg">
-
-
-
-
-
-
-
-
-</div>
-
-</div>
-
-</div>
-
-
-
-<div class="projects">
-
-<div class="recTitle">CASE STUDIES</div>
-
-<div class="lineRec"></div>
-
-
-
-
-
-<div class="recRow">
-
-<div class="recColL">
-<div class="recPad">
-<img class="pHolder" src="/images-picknik/cs-image.png">
-<div class="pTitle">Vicarious​ ​-​ ​AI​ ​for​ ​the​ ​robot​ ​age</div>
-<div class="pText">
-<div class="ital">Improving​ ​Baxter​ ​robot​ ​to​ ​work​ ​on​ ​the​ ​latest​ ​Gazebo​ ​simulator​ ​and​ ​ROS​ ​release.</div><br><br>
-<div class="pTitle2">ABOUT:</div> Vicarious​ ​is​ ​developing​ ​artificial​ ​general​ ​intelligence​ ​for​ ​robots.​ ​By​ ​combining​ ​insights​ ​from generative​ ​probabilistic​ ​models​ ​and​ ​systems​ ​neuroscience,​ ​their​ ​architecture​ ​trains​ ​faster, adapts​ ​more​ ​readily,​ ​and​ ​generalizes​ ​more​ ​broadly​ ​than​ ​AI​ ​approaches​ ​commonly​ ​used​ ​today. Vicarious​ ​hopes​ ​to​ ​bring​ ​human-like​ ​intelligence​ ​to​ ​the​ ​world​ ​of​ ​robots​ ​by​ ​organizing​ ​around​ ​a set​ ​of​ ​questions​ ​and​ ​themes,​ ​while​ ​using​ ​datasets​ ​that​ ​are​ ​appropriately​ ​designed​ ​to​ ​probe those​ ​questions.
-COLLABORATION: Short description about the project will go in here that describes something about the project.<br><br>
-<div class="pTitle2">CHALLENGE:</div> Vicarious​ ​needed​ ​their​ ​research​ ​to​ ​be​ ​enabled​ ​in​ ​embodied​ ​AI.​ ​They​ ​chose​ ​to​ ​use​ ​an​ ​industry standard​ ​by​ ​selecting​ ​Rethink​ ​Robotic’s​ ​Baxter​ ​robot​ ​as​ ​one​ ​of​ ​their​ ​platforms.​ ​However,​ ​they needed​ ​additional​ ​expertise​ ​to​ ​migrate​ ​Baxter​ ​to​ ​the​ ​latest​ ​version​ ​of​ ​the​ ​Robotic​ ​Operating System​ ​and​ ​the​ ​corresponding​ ​latest​ ​Gazebo​ ​Simulator.<br><br>
-<div class="pTitle2">SOLUTION:</div> PickNik​ ​Consulting​ ​was​ ​engaged​ ​to​ ​migrate​ ​Baxter​ ​to​ ​ROS​ ​Kinetic​ ​and​ ​Gazebo​ ​7​ ​on​ ​Ubuntu 16.04.​ ​PickNik​ ​provided​ ​implementation​ ​advice​ ​and​ ​fixed​ ​code​ ​including​ ​upgrading​ ​various Gazebo​ ​plugins,​ ​creating​ ​custom​ ​Baxter​ ​plugins,​ ​and​ ​finalizing​ ​the​ ​integration​ ​through​ ​extensive testing.<br><br>
-<div class="pTitle2">HIGHLIGHTS:</div><br>
-<div class="bullet">&#9633;</div> Vicarious​ ​agreed​ ​to​ ​open​ ​source​ ​the​ ​effort​ ​and​ ​the​ ​results​ ​were​ ​announced​ ​on​ ​the
-Baxter​ ​mailing​ ​list<br>
-<div class="bullet">&#9633;</div> 23​ ​pull​ ​requests​ ​were​ ​created​ ​across​ ​5​ ​Github​ ​repositories<br>
-<div class="bullet">&#9633;</div> Fixes​ ​to​ ​the​ ​upstream​ ​Gazebo​ ​project​ ​were​ ​addressed,​ ​cleaning​ ​up​ ​warnings,​ ​excess
-console​ ​output,​ ​and​ ​build​ ​errors<br>
-<div class="bullet">&#9633;</div> Load​ ​time​ ​of​ ​the​ ​Baxter​ ​simulator​ ​was​ ​improved​ ​by​ ​35​ ​seconds!</div>
-<br><br>
-<div class="recPos">"It​ ​was​ ​the​ ​best​ ​experience​ ​I've​ ​had​ ​working​ ​with​ ​an​ ​external​ ​consultant!"</div>
-<div class="recName">Dr.​ ​Bhaskara​ ​Marthi</div>
-<div class="recPos">Head​ ​of​ ​Robotics,​ ​Vicarious</div>
-</div>
-</div>
-
-
-
-
-</div>
-
-</div>
-
-
-
-
-
-<div class="footer">
-
-
-<div class="footerRow1">
-<div class="footerColL">
-<a href="/projects" class="footerLinks1">PROJECTS</a>
-<a href="/people" class="footerLinks">PEOPLE</a>
-<a href="/connect" class="footerLinks">CONNECT</a>
-</div>
-
-<div class="footerColR"><div class="footerText">PickNik remains committed to open-source and dedicates a significant portion of its resources each year to improving and maintaining the MoveIt! motion planning framework. To learn more, visit: <a class="ros"  target="_blank" href="http://moveit.ros.org">moveit.ros.org</a></div></div></div>
-
-
-
-
-
-<div class="footerRow">
-<div class="footerColL">
-<img class="logo2" src="/images-picknik/logo-footer.png">
-</div>
-
-<div class="footerColR"><div class="footerText">Copyright &copy;PickNik Consulting LLC, located in Boulder, Colorado. All Rights reserved.</div></div></div>
-
-
-
-
-
-
-
-</div>
-
-
-
-
-<script>$(document).ready(function() {
-  $('a[href^="#"]').click(function() {
-      var target = $(this.hash);
-      if (target.length == 0) target = $('a[name="' + this.hash.substr(1) + '"]');
-      if (target.length == 0) target = $('html');
-      $('html, body').animate({ scrollTop: target.offset().top-100 }, 1000);
-      return false;
-  });
-});
-</script>
-
-
-
-<SCRIPT>
-$(function(){
-    // Remove the # from the hash, as different browsers may or may not include it
-    var hash = location.hash.replace('#','');
-
-    if(hash != ''){
-        // Show the hash if it's set
-        alert(hash);
-
-        // Clear the hash in the URL
-        location.hash = '';
-    }
-});
-</SCRIPT>
-
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-58609229-1', 'auto');
-  ga('send', 'pageview');
-</script>
+    <div id="top"></div>
+    <div class="respMenu">
+
+        <div class="header2" id="top">
+
+            <a href="./"><img src="./images-picknik/logo.jpg" class="logoR"></a>
+
+            <div id="language" class="dropdown">
+                <a class="dropdown-toggle"><img src="./images-picknik/menu.png" class="menuR1"></a>
+                <ul class="dropdown-menu">
+                    <li class="option"><a href="./projects" id="featuresHH1">PROJECTS</a></li>
+                    <li class="option"><a href="./services" id="servicesHH2">SERVICES</a></li>
+                    <li class="option"><a href="./people" id="aboutHH1">PEOPLE</a></li>
+                    <li class="option"><a href="./jobs" id="jobsHH2">JOBS</a></li>
+                    <li class="option"><a href="./connect" id="requestHH2">CONNECT</a></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+    <div class="header" id="top">
+        <div class="headerCol1">
+            <a href="./"><img src="./images-picknik/logo.jpg" class="logo"></a>
+        </div>
+        <div class="headerCol2">
+            <a href="./projects" class="headerLinks1">PROJECTS</a>
+            <a href="./services" class="headerLinks">SERVICES</a>
+            <a href="./people" class="headerLinks">PEOPLE</a>
+            <a href="./jobs" class="headerLinks">JOBS</a>
+        </div>
+        <div class="headerCol3">
+            <a href="./connect">
+                <div class="contactButton">CONNECT</div>
+            </a>
+        </div>
+    </div>
+    <div class="intro" id="intro">
+        <div class="introCol1P"></div>
+        <div class="introCol2P">
+            <div class="introPadding2">
+                <div class="introTitle">Projects</div>
+                <div class="line"></div>
+                <div class="introSubTextP">
+                    "We are proud to count the following companies among our many clients and partners. It was great working with you guys, thank you."
+                </div>
+                <div class="proName">Dave Coleman, Founder</div>
+                <img class="pLogos" src="./images-picknik/projects-logos.png">
+            </div>
+        </div>
+    </div>
+
+    <div class="projects">
+        <div class="recTitle">CASE STUDIES</div>
+        <div class="lineRec"></div>
+        <div class="recRow">
+            <div class="recColL">
+                <div class="recPad">
+                    <img class="pHolder" src="./images-picknik/cs-image.png">
+                    <div class="pTitle">Vicarious​ ​-​ ​AI​ ​for​ ​the​ ​robot​ ​age</div>
+                    <div class="pText">
+                        <div class="ital">Improving​ ​Baxter​ ​robot​ ​to​ ​work​ ​on​ ​the​ ​latest​ ​Gazebo​ ​simulator​ ​and​ ​ROS​ ​release.</div><br><br>
+                        <div class="pTitle2">ABOUT:</div> Vicarious​ ​is​ ​developing​ ​artificial​ ​general​ ​intelligence​ ​for​ ​robots.​ ​By​ ​combining​ ​insights​ ​from generative​ ​probabilistic​ ​models​ ​and​ ​systems​ ​neuroscience,​ ​their​ ​architecture​ ​trains​
+                        ​faster, adapts​ ​more​ ​readily,​ ​and​ ​generalizes​ ​more​ ​broadly​ ​than​ ​AI​ ​approaches​ ​commonly​ ​used​ ​today. Vicarious​ ​hopes​ ​to​ ​bring​ ​human-like​ ​intelligence​ ​to​ ​the​ ​world​ ​of​ ​robots​ ​by​ ​organizing​
+                        ​around​ ​a set​ ​of​ ​questions​ ​and​ ​themes,​ ​while​ ​using​ ​datasets​ ​that​ ​are​ ​appropriately​ ​designed​ ​to​ ​probe those​ ​questions. COLLABORATION: Short description about the project will go in here that describes
+                        something about the project.<br><br>
+                        <div class="pTitle2">CHALLENGE:</div> Vicarious​ ​needed​ ​their​ ​research​ ​to​ ​be​ ​enabled​ ​in​ ​embodied​ ​AI.​ ​They​ ​chose​ ​to​ ​use​ ​an​ ​industry standard​ ​by​ ​selecting​ ​Rethink​ ​Robotic’s​ ​Baxter​ ​robot​ ​as​ ​one​ ​of​ ​their​
+                        ​platforms.​ ​However,​ ​they needed​ ​additional​ ​expertise​ ​to​ ​migrate​ ​Baxter​ ​to​ ​the​ ​latest​ ​version​ ​of​ ​the​ ​Robotic​ ​Operating System​ ​and​ ​the​ ​corresponding​ ​latest​ ​Gazebo​ ​Simulator.<br><br>
+                        <div class="pTitle2">SOLUTION:</div> PickNik​ ​Consulting​ ​was​ ​engaged​ ​to​ ​migrate​ ​Baxter​ ​to​ ​ROS​ ​Kinetic​ ​and​ ​Gazebo​ ​7​ ​on​ ​Ubuntu 16.04.​ ​PickNik​ ​provided​ ​implementation​ ​advice​ ​and​ ​fixed​ ​code​ ​including​ ​upgrading​
+                        ​various Gazebo​ ​plugins,​ ​creating​ ​custom​ ​Baxter​ ​plugins,​ ​and​ ​finalizing​ ​the​ ​integration​ ​through​ ​extensive testing.<br><br>
+                        <div class="pTitle2">HIGHLIGHTS:</div><br>
+                        <div class="bullet">&#9633;</div> Vicarious​ ​agreed​ ​to​ ​open​ ​source​ ​the​ ​effort​ ​and​ ​the​ ​results​ ​were​ ​announced​ ​on​ ​the Baxter​ ​mailing​ ​list<br>
+                        <div class="bullet">&#9633;</div> 23​ ​pull​ ​requests​ ​were​ ​created​ ​across​ ​5​ ​Github​ ​repositories<br>
+                        <div class="bullet">&#9633;</div> Fixes​ ​to​ ​the​ ​upstream​ ​Gazebo​ ​project​ ​were​ ​addressed,​ ​cleaning​ ​up​ ​warnings,​ ​excess console​ ​output,​ ​and​ ​build​ ​errors<br>
+                        <div class="bullet">&#9633;</div> Load​ ​time​ ​of​ ​the​ ​Baxter​ ​simulator​ ​was​ ​improved​ ​by​ ​35​ ​seconds!</div>
+                    <br><br>
+                    <div class="recPos">"It​ ​was​ ​the​ ​best​ ​experience​ ​I've​ ​had​ ​working​ ​with​ ​an​ ​external​ ​consultant!"</div>
+                    <div class="recName">Dr.​ ​Bhaskara​ ​Marthi</div>
+                    <div class="recPos">Head​ ​of​ ​Robotics,​ ​Vicarious</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footerRow1">
+            <div class="footerColL">
+                <a href="./projects" class="footerLinks1">PROJECTS</a>
+                <a href="./services" class="footerLinks">SERVICES</a>
+                <a href="./people" class="footerLinks">PEOPLE</a>
+                <a href="./jobs" class="footerLinks">JOBS</a>
+                <a href="./connect" class="footerLinks">CONNECT</a>
+            </div>
+
+            <div class="footerColR">
+                <div class="footerText">PickNik remains committed to open-source and dedicates a significant portion of its resources each year to improving and maintaining the MoveIt! motion planning framework. To learn more, visit: <a class="ros" target="_blank" href="http://moveit.ros.org">moveit.ros.org</a></div>
+            </div>
+        </div>
+        <div class="footerRow">
+            <div class="footerColL">
+                <img class="logo2" src="./images-picknik/logo-footer.png">
+            </div>
+            <div class="footerColR">
+                <div class="footerText">Copyright &copy;PickNik Consulting LLC, located in <br> Boulder, Colorado. All Rights reserved.</div>
+            </div>
+        </div>
+    </div>
+    <script>
+        $(document).ready(function() {
+            $('a[href^="#"]').click(function() {
+                var target = $(this.hash);
+                if (target.length == 0) target = $('a[name="' + this.hash.substr(1) + '"]');
+                if (target.length == 0) target = $('html');
+                $('html, body').animate({
+                    scrollTop: target.offset().top - 100
+                }, 1000);
+                return false;
+            });
+        });
+    </script>
+    <SCRIPT>
+        $(function() {
+            // Remove the # from the hash, as different browsers may or may not include it
+            var hash = location.hash.replace('#', '');
+
+            if (hash != '') {
+                // Show the hash if it's set
+                alert(hash);
+
+                // Clear the hash in the URL
+                location.hash = '';
+            }
+        });
+    </SCRIPT>
+
+
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-58609229-1', 'auto');
+        ga('send', 'pageview');
+    </script>
 
 
 </body>
+
 </html>
