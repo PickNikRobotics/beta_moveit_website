@@ -723,6 +723,15 @@ a.headerLinks1:hover {
     margin-bottom: 30px;
 }
 
+.line2 {
+    width: 75px;
+    height: 4px;
+    background-color: #000;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
 .lineService {
     width: 45px;
     height: 4px;
@@ -841,6 +850,15 @@ a {
     margin-bottom: 40px;
 }
 
+.line2 {
+    width: 75px;
+    height: 4px;
+    background-color: #000;
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
 .bullet {
     display: inline;
     color: #04e79f;
@@ -886,8 +904,8 @@ a {
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 24px;
-    padding-left: 30%;
-    padding-right: 30%;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 .integSubText2 {
