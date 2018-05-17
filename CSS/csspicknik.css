@@ -866,6 +866,13 @@ a {
     background-color: #fff;
 }
 
+.integration2 {
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #fff;
+}
+
 .integTitle {
     font-size: 30px;
     color: #000;
@@ -881,6 +888,14 @@ a {
     line-height: 24px;
     padding-left: 30%;
     padding-right: 30%;
+}
+
+.integSubText2 {
+    font-size: 16px;
+    color: #000;
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: 300;
+    line-height: 24px;
 }
 
 .lineN {
@@ -1455,12 +1470,10 @@ a.connectText:hover {
     font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     line-height: 28px;
-    padding-right: 15%;
 }
 
 .pLogos {
-    width: 600px;
-    height: 200px;
+    width: 100%;
     margin-top: 30px;
 }
 
@@ -1603,16 +1616,26 @@ a.peopleName:hover {
 
 /*END HOME-PEOPLE*/
 
+.text-center {
+    text-align: center !important;
+    margin: auto;
+}
+
 .row:after {
     content: "";
     display: table;
     clear: both;
 }
 
+.row {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
 .column {
     float: left;
     width: 45%;
-    padding-left: 30px;
+    padding-right: 5%;
 }
 
 
@@ -1620,6 +1643,13 @@ a.peopleName:hover {
 
 @media only screen and (max-width: 900px) {
     /*MISSION STATEMENT*/
+    .row {}
+    .column {
+        text-align: center;
+        margin: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
     .missionState {
         width: 100%;
         text-align: center;
