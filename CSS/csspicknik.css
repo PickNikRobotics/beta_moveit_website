@@ -1263,6 +1263,12 @@ a.ros:hover {
     margin-bottom: -15px;
 }
 
+#addressText1 {}
+
+#addressText2 {
+    margin-left: 60px;
+}
+
 a.connectText:link {
     color: #000;
     text-decoration: none;
@@ -1328,13 +1334,15 @@ a.connectText:hover {
     background-position: center center;
 }
 
+.office-icon {}
+
 .introCol1D {
     background: white;
     display: table-cell;
     width: 33%;
     vertical-align: middle;
     text-align: center;
-    padding-top: 120px;
+    padding-top: 180px;
     padding-bottom: 120px;
     background-size: cover;
     background-position: center center;
@@ -1851,9 +1859,10 @@ a.peopleName:hover {
         display: block;
         width: 100%;
         vertical-align: middle;
-        text-align: left;
+        text-align: center;
         padding-top: 20px;
         padding-bottom: 80px;
+        margin: 0 auto;
     }
     .heroPad {
         text-align: center;
@@ -1913,6 +1922,7 @@ a.peopleName:hover {
     .heroImg {
         width: 100%;
         max-width: 680px;
+        margin: 0 auto;
     }
     /*END HERO AREA*/
     /*HOME INTRO*/
@@ -2336,6 +2346,13 @@ a.peopleName:hover {
         width: 140px;
         height: 44px;
     }
+    .logo {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .logo-container {
+        margin: 0 auto;
+    }
     /*END FOOTER*/
     /*CONNECT*/
     .intro {
@@ -2421,6 +2438,10 @@ a.peopleName:hover {
         margin-right: 15px;
         display: inline;
         margin-bottom: -15px;
+    }
+    #addressText1 {}
+    #addressText2 {
+        margin-left: 60px;
     }
     a.connectText:link {
         color: #000;
