@@ -8,13 +8,20 @@ html {
 }
 
 body {
+    font-family: 'Source Code Pro', sans-serif;
     min-height: 100%;
     width: 100%;
     overflow-x: hidden;
     padding: 0;
     margin: 0;
     -webkit-text-size-adjust: none;
-    background-color: #000;
+    background-color: white;
+}
+
+.main-container {
+    max-width: 1440px;
+    background: white;
+    margin: 0 auto;
 }
 
 .ital {
@@ -36,7 +43,6 @@ body {
 .missionText {
     font-size: 14px;
     color: #fff;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 22px;
     padding-left: 30%;
@@ -54,7 +60,6 @@ body {
 .missionText2 {
     font-size: 14px;
     color: #27e6a1;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     line-height: 22px;
     padding-left: 30%;
@@ -85,7 +90,6 @@ body {
 }
 
 .ctaButton {
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 11px;
     padding: 10px 35px 10px 35px;
@@ -111,14 +115,12 @@ body {
 .ctaText {
     font-size: 30px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
 .ctaSubText {
     font-size: 16px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 22px;
     padding-left: 30%;
@@ -143,14 +145,12 @@ body {
 .sppHeroTitle {
     font-size: 56px;
     color: #fff;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
 .sppHeroSubTitle {
     font-size: 30px;
     color: #fff;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
@@ -195,7 +195,6 @@ body {
 .sppText {
     font-size: 16px;
     color: #fff;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 24px;
     padding-left: 15px;
@@ -217,7 +216,6 @@ body {
 .sppEngageTitle {
     font-size: 40px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
@@ -253,7 +251,6 @@ body {
 .sppEngageSubTitle {
     font-size: 16px;
     color: #04e79f;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     line-height: 24px;
     margin-bottom: 15px;
@@ -262,7 +259,6 @@ body {
 .sppEngageSubText {
     font-size: 14px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 22px;
     padding-right: 10%;
@@ -277,7 +273,6 @@ body {
 a.sLink:link {
     font-size: 16px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-bottom: 15px;
 }
@@ -285,7 +280,6 @@ a.sLink:link {
 a.sLink:visited {
     font-size: 16px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-bottom: 15px;
 }
@@ -333,7 +327,6 @@ a.sLink:hover {
 .sSubText {
     font-size: 12px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 28px;
 }
@@ -341,7 +334,6 @@ a.sLink:hover {
 .servPageTitle {
     font-size: 16px;
     color: #04e79f;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     line-height: 24px;
     margin-bottom: 10px;
@@ -350,7 +342,6 @@ a.sLink:hover {
 .servPageTitleSub {
     font-size: 12px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     line-height: 22px;
     margin-bottom: 10px;
@@ -448,7 +439,6 @@ a.sLink:hover {
 a.headerLinks:link {
     color: #000;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-left: 30px;
     font-size: 14px;
@@ -458,7 +448,6 @@ a.headerLinks:link {
 a.headerLinks:visited {
     color: #000;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-left: 30px;
     font-size: 14px;
@@ -472,7 +461,6 @@ a.headerLinks:hover {
 a.headerLinks1:link {
     color: #000;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 14px;
     letter-spacing: 2px;
@@ -481,7 +469,6 @@ a.headerLinks1:link {
 a.headerLinks1:visited {
     color: #000;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 14px;
     letter-spacing: 2px;
@@ -492,7 +479,6 @@ a.headerLinks1:hover {
 }
 
 .contactButton {
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 11px;
     padding: 10px 35px 10px 35px;
@@ -572,7 +558,6 @@ a.headerLinks1:hover {
 .heroTitle {
     font-size: 36px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
@@ -625,7 +610,6 @@ a {
     padding: 17px 50px 17px 50px;
     font-size: 14px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     letter-spacing: 1px;
     font-weight: 500;
     text-decoration: none;
@@ -638,7 +622,7 @@ a {
 }
 
 .heroImg {
-    width: 120%;
+    width: 100%;
     max-width: 680px;
 }
 
@@ -691,14 +675,12 @@ a {
 .introTitle {
     font-size: 36px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
 .introTitleS {
     font-size: 36px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     display: inline-block;
 }
@@ -706,7 +688,6 @@ a {
 .introSubText {
     font-size: 14px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 22px;
     margin-bottom: 40px;
@@ -766,14 +747,12 @@ a {
 .integTitle {
     font-size: 30px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
 .integSubText {
     font-size: 16px;
-    color: #000;
-    font-family: 'Source Code Pro', sans-serif;
+    color: #333;
     font-weight: 300;
     line-height: 24px;
     padding-left: 15%;
@@ -783,7 +762,6 @@ a {
 .integSubText2 {
     font-size: 16px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 24px;
 }
@@ -838,7 +816,6 @@ a {
 .servicesTitle {
     font-size: 30px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
@@ -889,7 +866,6 @@ a {
 .sTitle {
     font-size: 16px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-bottom: 5px;
 }
@@ -897,7 +873,6 @@ a {
 .sSubTitle {
     font-size: 14px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     margin-top: 7.5px;
 }
@@ -920,7 +895,6 @@ a {
 .recTitle {
     font-size: 30px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
@@ -1021,7 +995,6 @@ a {
 .recText {
     font-size: 16px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 24px;
 }
@@ -1029,7 +1002,6 @@ a {
 .recName {
     font-size: 16px;
     color: #04e79f;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     line-height: 24px;
     margin-top: 10px;
@@ -1038,14 +1010,12 @@ a {
 .recPos {
     font-size: 14px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
 }
 
 .recQ {
     font-size: 30px;
     color: #04e79f;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     display: inline;
 }
@@ -1111,7 +1081,6 @@ a {
 a.footerLinks:link {
     color: #fff;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-left: 30px;
     font-size: 14px;
@@ -1122,7 +1091,6 @@ a.footerLinks:link {
 a.footerLinks:visited {
     color: #fff;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-left: 30px;
     font-size: 14px;
@@ -1136,7 +1104,6 @@ a.footerLinks:hover {
 a.footerLinks1:link {
     color: #fff;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 14px;
     letter-spacing: 2px;
@@ -1145,7 +1112,6 @@ a.footerLinks1:link {
 a.footerLinks1:visited {
     color: #fff;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 14px;
     letter-spacing: 2px;
@@ -1158,7 +1124,6 @@ a.footerLinks1:hover {
 a.ros:link {
     color: #04e79f;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 14px;
 }
@@ -1166,7 +1131,6 @@ a.ros:link {
 a.ros:visited {
     color: #04e79f;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 14px;
 }
@@ -1178,7 +1142,6 @@ a.ros:hover {
 .footerText {
     font-size: 14px;
     color: #fff;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 22px;
     padding-left: 15%;
@@ -1226,14 +1189,12 @@ a.ros:hover {
 .introTitle {
     font-size: 36px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
 }
 
 .introSubText2 {
     font-size: 16px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 24px;
     margin-bottom: 40px;
@@ -1257,10 +1218,15 @@ a.ros:hover {
     margin-bottom: -15px;
 }
 
+#addressText1 {}
+
+#addressText2 {
+    margin-left: 64px;
+}
+
 a.connectText:link {
     color: #000;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 18px;
     display: Inline;
@@ -1269,7 +1235,6 @@ a.connectText:link {
 a.connectText:visited {
     color: #000;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 18px;
     display: inline;
@@ -1282,7 +1247,6 @@ a.connectText:hover {
 .connectText2 {
     color: #000;
     text-decoration: none;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 18px;
     display: Inline;
@@ -1322,13 +1286,15 @@ a.connectText:hover {
     background-position: center center;
 }
 
+.office-icon {}
+
 .introCol1D {
     background: white;
     display: table-cell;
     width: 33%;
     vertical-align: middle;
     text-align: center;
-    padding-top: 120px;
+    padding-top: 180px;
     padding-bottom: 120px;
     background-size: cover;
     background-position: center center;
@@ -1347,7 +1313,6 @@ a.connectText:hover {
 .introSubTextP {
     font-size: 16px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 300;
     line-height: 24px;
     margin-bottom: 10px;
@@ -1357,7 +1322,6 @@ a.connectText:hover {
 .proName {
     font-size: 12px;
     color: #04e79f;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     line-height: 28px;
 }
@@ -1386,7 +1350,6 @@ a.connectText:hover {
 .pTitle {
     font-size: 30px;
     color: #04e79f;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -1395,7 +1358,6 @@ a.connectText:hover {
 .pTitle2 {
     font-size: 18px;
     color: #808080;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-bottom: 20px;
     display: inline;
@@ -1403,14 +1365,12 @@ a.connectText:hover {
 
 .pText {
     font-size: 14px;
-    color: #000;
-    font-family: 'Source Code Pro', sans-serif;
+    color: #333;
     font-weight: 300;
     line-height: 22px;
 }
 
 .pButton {
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     font-size: 14px;
     padding: 10px 35px 10px 35px;
@@ -1469,7 +1429,6 @@ a.connectText:hover {
 a.peopleName:link {
     font-size: 24px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-bottom: 15px;
 }
@@ -1477,7 +1436,6 @@ a.peopleName:link {
 a.peopleName:visited {
     font-size: 24px;
     color: #000;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-bottom: 15px;
 }
@@ -1490,15 +1448,13 @@ a.peopleName:hover {
 .peoplePosition {
     font-size: 12px;
     color: #04e79f;
-    font-family: 'Source Code Pro', sans-serif;
     font-weight: 500;
     margin-bottom: 15px;
 }
 
 .peopleDesc {
     font-size: 14px;
-    color: #000;
-    font-family: 'Source Code Pro', sans-serif;
+    color: #333;
     font-weight: 300;
     line-height: 22px;
 }
@@ -1551,7 +1507,6 @@ a.peopleName:hover {
     .missionText {
         font-size: 14px;
         color: #fff;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 22px;
         padding-left: 10%;
@@ -1567,7 +1522,6 @@ a.peopleName:hover {
     .missionText2 {
         font-size: 14px;
         color: #27e6a1;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         line-height: 22px;
         padding-left: 10%;
@@ -1592,13 +1546,11 @@ a.peopleName:hover {
     .sppHeroTitle {
         font-size: 40px;
         color: #fff;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     .sppHeroSubTitle {
         font-size: 30px;
         color: #fff;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     .sppLine {
@@ -1637,7 +1589,6 @@ a.peopleName:hover {
     .sppText {
         font-size: 16px;
         color: #fff;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 22px;
         padding-left: 15px;
@@ -1656,7 +1607,6 @@ a.peopleName:hover {
     .sppEngageTitle {
         font-size: 24px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     .sppEngageRow {
@@ -1690,7 +1640,6 @@ a.peopleName:hover {
     .sppEngageSubTitle {
         font-size: 15px;
         color: #04e79f;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         line-height: 21px;
         margin-bottom: 15px;
@@ -1698,7 +1647,6 @@ a.peopleName:hover {
     .sppEngageSubText {
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 18px;
         padding-right: 10%;
@@ -1759,13 +1707,11 @@ a.peopleName:hover {
         margin: 0 auto;
         color: #000;
         letter-spacing: 1px;
-        font-family: 'Source Code Pro', sans-serif;
     }
     .dropdown a {
         display: block;
         text-decoration: none;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     /* toggle */
@@ -1791,7 +1737,6 @@ a.peopleName:hover {
     .dropdown-menu .option a {
         padding: 15px;
         text-align: center;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     .dropdown-menu .option a:hover {
@@ -1845,9 +1790,10 @@ a.peopleName:hover {
         display: block;
         width: 100%;
         vertical-align: middle;
-        text-align: left;
+        text-align: center;
         padding-top: 20px;
         padding-bottom: 80px;
+        margin: 0 auto;
     }
     .heroPad {
         text-align: center;
@@ -1862,13 +1808,11 @@ a.peopleName:hover {
     .heroTitle {
         font-size: 36px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     .heroSubText {
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 18px;
         margin-bottom: 40px;
@@ -1894,7 +1838,6 @@ a.peopleName:hover {
         padding: 17px 50px 17px 50px;
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         letter-spacing: 1px;
         font-weight: 500;
         text-decoration: none;
@@ -1907,6 +1850,7 @@ a.peopleName:hover {
     .heroImg {
         width: 100%;
         max-width: 680px;
+        margin: 0 auto;
     }
     /*END HERO AREA*/
     /*HOME INTRO*/
@@ -1948,7 +1892,6 @@ a.peopleName:hover {
     .introTitle {
         font-size: 27px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     .introTitleS {
@@ -1958,7 +1901,6 @@ a.peopleName:hover {
     .introSubText {
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 18px;
         margin-bottom: 40px;
@@ -1994,13 +1936,11 @@ a.peopleName:hover {
     .integTitle {
         font-size: 27px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     .integSubText {
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 18px;
         padding-left: 15%;
@@ -2036,7 +1976,6 @@ a.peopleName:hover {
     .servicesTitle {
         font-size: 30px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     .servicesRow {
@@ -2081,7 +2020,6 @@ a.peopleName:hover {
     .sTitle {
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         margin-bottom: 5px;
         padding-left: 5%;
@@ -2090,7 +2028,6 @@ a.peopleName:hover {
     .sSubTitle {
         font-size: 12px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         padding-left: 5%;
         padding-right: 5%;
@@ -2108,7 +2045,6 @@ a.peopleName:hover {
     .recTitle {
         font-size: 27px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
     }
     .recRow {
@@ -2188,14 +2124,12 @@ a.peopleName:hover {
     .recText {
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 18px;
     }
     .recName {
         font-size: 13px;
         color: #04e79f;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         line-height: 18px;
         margin-top: 10px;
@@ -2203,13 +2137,11 @@ a.peopleName:hover {
     .recPos {
         font-size: 12px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
     }
     .recQ {
         font-size: 27px;
         color: #04e79f;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         display: inline;
     }
@@ -2264,7 +2196,6 @@ a.peopleName:hover {
     a.footerLinks:link {
         color: #fff;
         text-decoration: none;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         margin-left: 30px;
         font-size: 13px;
@@ -2273,7 +2204,6 @@ a.peopleName:hover {
     a.footerLinks:visited {
         color: #fff;
         text-decoration: none;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         margin-left: 30px;
         font-size: 13px;
@@ -2285,7 +2215,6 @@ a.peopleName:hover {
     a.footerLinks1:link {
         color: #fff;
         text-decoration: none;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         font-size: 13px;
         letter-spacing: 2px;
@@ -2293,7 +2222,6 @@ a.peopleName:hover {
     a.footerLinks1:visited {
         color: #fff;
         text-decoration: none;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         font-size: 13px;
         letter-spacing: 2px;
@@ -2304,14 +2232,12 @@ a.peopleName:hover {
     a.ros:link {
         color: #04e79f;
         text-decoration: none;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         font-size: 13px;
     }
     a.ros:visited {
         color: #04e79f;
         text-decoration: none;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         font-size: 13px;
     }
@@ -2321,7 +2247,6 @@ a.peopleName:hover {
     .footerText {
         font-size: 13px;
         color: #fff;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 18px;
         padding-left: 0%;
@@ -2329,6 +2254,13 @@ a.peopleName:hover {
     .logo2 {
         width: 140px;
         height: 44px;
+    }
+    .logo {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .logo-container {
+        margin: 0 auto;
     }
     /*END FOOTER*/
     /*CONNECT*/
@@ -2383,7 +2315,6 @@ a.peopleName:hover {
     .introSubText2 {
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 18px;
         margin-bottom: 40px;
@@ -2416,10 +2347,13 @@ a.peopleName:hover {
         display: inline;
         margin-bottom: -15px;
     }
+    #addressText1 {}
+    #addressText2 {
+        margin-left: 60px;
+    }
     a.connectText:link {
         color: #000;
         text-decoration: none;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         font-size: 18px;
         display: Inline;
@@ -2427,7 +2361,6 @@ a.peopleName:hover {
     a.connectText:visited {
         color: #000;
         text-decoration: none;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         font-size: 18px;
         display: inline;
@@ -2438,7 +2371,6 @@ a.peopleName:hover {
     .connectText2 {
         color: #000;
         text-decoration: none;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         font-size: 18px;
         display: Inline;
@@ -2493,7 +2425,6 @@ a.peopleName:hover {
     .introSubTextP {
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 18px;
         margin-bottom: 10px;
@@ -2503,7 +2434,6 @@ a.peopleName:hover {
     .proName {
         font-size: 13px;
         color: #04e79f;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         line-height: 18px;
         margin-bottom: 30px;
@@ -2530,14 +2460,12 @@ a.peopleName:hover {
     }
     .pTitle {
         font-size: 20px;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         margin-bottom: 20px;
     }
     .pTitle2 {
         font-size: 13px;
         color: #808080;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         margin-bottom: 20px;
         display: inline;
@@ -2545,12 +2473,10 @@ a.peopleName:hover {
     .pText {
         font-size: 13px;
         color: #000;
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 300;
         line-height: 18px;
     }
     .pButton {
-        font-family: 'Source Code Pro', sans-serif;
         font-weight: 500;
         font-size: 12px;
         padding: 10px 35px 10px 35px;

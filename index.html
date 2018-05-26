@@ -6,41 +6,34 @@
 
     <title>PickNik​ ​-​ ​Robotic​ ​Software​ ​Consultants</title>
 
-    <meta name="keywords" content="">
-    <meta name="description" content="">
+    <meta name="keywords" content="robot arm software robotic consulting picknik colorado moveit ros">
+    <meta name="description" content="We are robotic software experts available to develop, integrate, or provide general consulting and training for your robotic applications.">
     <link rel="stylesheet" type="text/css" href="./CSS/csspicknik.css">
-    <link rel="shortcut icon" href="http://picknik.ai/favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500, 700" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <script type="text/javascript" src="./JS/video.min.js"></script>
     <script>
         (function($, undefined) {
             var open = [];
-
             var opts = {
                 selector: '.dropdown',
                 toggle: 'menuR1',
                 open: 'dropdown-open',
                 nest: true
             };
-
             $(document).on('click.dropdown touchstart.dropdown', function(e) {
                 // Close the last open dropdown if click is from outside the target dropdown
                 if (open.length && (!opts.nest || !open[open.length - 1].find(e.target).length)) {
                     open.pop().removeClass(opts.open);
                 }
-
                 var $this = $(e.target);
-
                 // If target is a dropdown then toggle it...
                 if ($this.hasClass(opts.toggle)) {
                     e.preventDefault();
-
                     $this = $this.closest(opts.selector);
-
                     if (!$this.hasClass(opts.open)) {
                         open.push($this.addClass(opts.open));
                     } else {
@@ -48,7 +41,6 @@
                     }
                 }
             });
-
         })(jQuery);
     </script>
 </head>
@@ -95,9 +87,10 @@
         <div class="heroCol1">
             <div class="heroPad">
                 <div class="heroTitle">ACCELERATE YOUR <br> ROBOTICS DEVELOPMENT</div>
-                <div class="line2"></div>
+                <div class="line"></div>
                 <div class="heroSubText">
-                  PickNik combines world-class robotics expertise and state of the art open source robotics frameworks to save you time and money. We offer on- and off-site support and development to ensure your project's success. From ROS integration to complex inverse kinematics and motion planning, we have you covered.
+                    PickNik combines world-class robotics expertise and state of the art open source robotics frameworks to save you time and money. We offer on- and off-site support and development to ensure your project's success. From ROS integration to complex inverse
+                    kinematics and motion planning, we have you covered.
                 </div>
             </div>
         </div>
@@ -117,8 +110,8 @@
                     <br/>ROBOTIC PROBLEMS</div>
                 <div class="line"></div>
                 <div class="introSubText">
-                    We strongly believe in the benefits of open source, including avoiding vendor lock in and allowing your engineers to modify any software as they see fit. PickNik is the lead maintainer of the <span style="text-decoration: underline">MoveIt! Motion Planning Framework</span>. In addition, we contribute to and advocate the Robotic Operating
-                    System (ROS) including the following components:
+                    We strongly believe in the benefits of open source, including avoiding vendor lock in and allowing your engineers to modify any software as they see fit. PickNik is the lead maintainer of the <span style="text-decoration: underline">MoveIt! Motion Planning Framework</span>.
+                    In addition, we contribute to and advocate the Robotic Operating System (ROS) including the following components:
                     <br/>
                     <br/>
                     <div class="bullet">□</div> ROS Control and Real-time Systems
@@ -138,7 +131,8 @@
         <img class="integIcon" src="./images-picknik/integration-icons.jpg">
         <div class="integTitle">INTEGRATION FOR ALL</div>
         <div class="lineN"></div>
-        <div class="integSubText">By leveraging open standards and best practices we are compatible with almost any kind of hardware. Our software is robot-agnostic and we experienced in the integration of robotic hardware including the Universal Robotics UR3/UR5/UR6, Franka Emika Panda, Kuka IIWA, Rethink Robotics Baxter, Kinova Jaco2, Willow Garage PR2, Kawada Industries HPR2, and others.</div>
+        <div class="integSubText">By leveraging open standards and best practices we are compatible with almost any kind of hardware. Our software is robot-agnostic and we experienced in the integration of robotic hardware including the Universal Robotics UR3/UR5/UR6, Franka Emika
+            Panda, Kuka IIWA, Rethink Robotics Baxter, Kinova Jaco2, Willow Garage PR2, Kawada Industries HPR2, and others.</div>
     </div>
     <div class="servicesCont">
         <div class="services">
@@ -344,7 +338,7 @@
             </div>
 
             <div class="footerColR">
-                <div class="footerText">PickNik remains committed to open-source and dedicates a significant portion of its resources each year to improving and maintaining the MoveIt! motion planning framework. To learn more, visit: <a class="ros" target="_blank" href="http://moveit.ros.org">moveit.ros.org</a></div>
+                <div class="footerText">PickNik remains committed to open-source and dedicates a significant portion of its resources each year to improving and maintaining the MoveIt! motion planning framework. To learn more, visit: <a class="ros" target="_blank" href="https://moveit.ros.org">moveit.ros.org</a></div>
             </div>
         </div>
         <div class="footerRow">
@@ -374,11 +368,9 @@
         $(function() {
             // Remove the # from the hash, as different browsers may or may not include it
             var hash = location.hash.replace('#', '');
-
             if (hash != '') {
                 // Show the hash if it's set
                 alert(hash);
-
                 // Clear the hash in the URL
                 location.hash = '';
             }
@@ -396,7 +388,6 @@
             a.src = g;
             m.parentNode.insertBefore(a, m)
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
         ga('create', 'UA-58609229-1', 'auto');
         ga('send', 'pageview');
     </script>
