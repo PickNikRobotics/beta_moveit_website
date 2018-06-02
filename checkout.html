@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <title>PickNik​ ​-​ ​Checkout</title>
+
+    <meta name="keywords" content="robotic software ongoing support expert training moveit ros">
+    <meta name="description" content="Design and consulting services for clients creating MoveIt!-enabled robotic applications.">
+    <link rel="stylesheet" type="text/css" href="./CSS/csspicknik.css">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500, 700" rel="stylesheet">
+    <script type="text/javascript" src="//js.stripe.com/v3/"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <script>
+        (function($, undefined) {
+            var open = [];
+
+            var opts = {
+                selector: '.dropdown',
+                toggle: 'menuR1',
+                open: 'dropdown-open',
+                nest: true
+            };
+
+            $(document).on('click.dropdown touchstart.dropdown', function(e) {
+                // Close the last open dropdown if click is from outside the target dropdown
+                if (open.length && (!opts.nest || !open[open.length - 1].find(e.target).length)) {
+                    open.pop().removeClass(opts.open);
+                }
+
+                var $this = $(e.target);
+
+                // If target is a dropdown then toggle it...
+                if ($this.hasClass(opts.toggle)) {
+                    e.preventDefault();
+
+                    $this = $this.closest(opts.selector);
+
+                    if (!$this.hasClass(opts.open)) {
+                        open.push($this.addClass(opts.open));
+                    } else {
+                        open.pop().removeClass(opts.open);
+                    }
+                }
+            });
+
+        })(jQuery);
+    </script>
+</head>
+
+<body>
+    <div id="top"></div>
+    <div class="respMenu">
+        <div class="header2" id="top">
+            <a href="./"><img src="./images-picknik/logo.jpg" class="logoR"></a>
+            <div id="language" class="dropdown">
+                <a class="dropdown-toggle"><img src="./images-picknik/menu.png" class="menuR1"></a>
+                <ul class="dropdown-menu">
+                    <li class="option"><a href="./projects" id="featuresHH1">PROJECTS</a></li>
+                    <li class="option"><a href="./services" id="servicesHH2">SERVICES</a></li>
+                    <li class="option"><a href="./people" id="aboutHH1">PEOPLE</a></li>
+                    <li class="option"><a href="./jobs" id="jobsHH2">JOBS</a></li>
+                    <li class="option"><a href="./connect" id="requestHH2">CONNECT</a></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+    <div class="header" id="top">
+
+        <div class="headerCol1">
+            <a href="./"><img src="./images-picknik/logo.jpg" class="logo"></a>
+        </div>
+        <div class="headerCol2">
+            <a href="./projects" class="headerLinks1">PROJECTS</a>
+            <a href="./services" class="headerLinks">SERVICES</a>
+            <a href="./people" class="headerLinks">PEOPLE</a>
+            <a href="./jobs" class="headerLinks">JOBS</a>
+        </div>
+        <div class="headerCol3">
+
+            <a href="./connect">
+                <div class="contactButton">CONNECT</div>
+            </a>
+        </div>
+
+    </div>
+    <div class="sppHero">
+        <div class="sppWrap">
+            <div class="sppHeroTitle"> <img id="moveit-logo-black" src="./images-picknik/moveit-logo-black.png"> </div>
+            <div class="sppHeroSubTitle">ONGOING SUPPORT</div>
+            <div class="sppLine"></div>
+            <div class="sppRow">
+                <div class="sppCol1"><img class="sppArrow" src="./images-picknik/support-check.png"></div>
+                <div class="sppCol2">
+                    <div class="sppText">Design and consulting services for clients creating MoveIt!-enabled robotic applications</div>
+                    <div class="margspp"></div>
+                </div>
+            </div>
+            <div class="sppRow">
+                <div class="sppCol1"><img class="sppArrow" src="./images-picknik/support-check.png"></div>
+                <div class="sppCol2">
+                    <div class="sppText">Ongoing integration and development support for your engineering team</div>
+                    <div class="margspp"></div>
+                </div>
+            </div>
+            <div class="sppRow">
+                <div class="sppCol1"><img class="sppArrow" src="./images-picknik/support-check.png"></div>
+                <div class="sppCol2">
+                    <div class="sppText">Expert training and advice rooted in robotic theory</div>
+                </div>
+            </div>
+            <div class="sppRow">
+                <div class="sppCol1"><img class="sppArrow" src="./images-picknik/support-check.png"></div>
+                <div class="sppCol2">
+                    <div class="sppText">Cost-effective and reliable fixed-fee arrangement</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sppEngage">
+        <div class="sppEngageWrap">
+
+            <iframe frameBorder="0" style="width: 100%; height: 500px;" src="https://wt-ee19b611b3798560c59872c84e530b4a-0.sandbox.auth0-extend.com/webtask-stripe-subscription/plan_CpAwRj0ycUetVD/">
+            </iframe>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="footerRow1">
+            <div class="footerColL">
+                <a href="./projects" class="footerLinks1">PROJECTS</a>
+                <a href="./services" class="footerLinks">SERVICES</a>
+                <a href="./people" class="footerLinks">PEOPLE</a>
+                <a href="./jobs" class="footerLinks">JOBS</a>
+                <a href="./connect" class="footerLinks">CONNECT</a>
+            </div>
+            <div class="footerColR">
+                <div class="footerText">PickNik remains committed to open-source and dedicates a significant portion of its resources each year to improving and maintaining the MoveIt! motion planning framework. To learn more, visit: <a class="ros" target="_blank" href="https://moveit.ros.org">moveit.ros.org</a></div>
+            </div>
+        </div>
+        <div class="footerRow">
+            <div class="footerColL">
+                <img class="logo2" src="./images-picknik/logo-footer.png">
+            </div>
+
+            <div class="footerColR">
+                <div class="footerText">Copyright &copy;PickNik Consulting LLC, located in <br> Boulder, Colorado. All Rights reserved.</div>
+            </div>
+        </div>
+    </div>
+    <script src="./js/checkout.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('a[href^="#"]').click(function() {
+                var target = $(this.hash);
+                if (target.length == 0) target = $('a[name="' + this.hash.substr(1) + '"]');
+                if (target.length == 0) target = $('html');
+                $('html, body').animate({
+                    scrollTop: target.offset().top - 0
+                }, 1000);
+                return false;
+            });
+        });
+    </script>
+    <SCRIPT>
+        $(function() {
+            // Remove the # from the hash, as different browsers may or may not include it
+            var hash = location.hash.replace('#', '');
+
+            if (hash != '') {
+                // Show the hash if it's set
+                alert(hash);
+
+                // Clear the hash in the URL
+                location.hash = '';
+            }
+        });
+    </SCRIPT>
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-58609229-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+</body>
+
+</html>
