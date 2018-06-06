@@ -1,3 +1,5 @@
+// This file will be used once Stripe is no longer using the backend for creating the Checkout page.
+
 /*
 var stripe = Stripe('pk_test_Y9krcFgbiuGfod6tryjmGit6');
 var elements = stripe.elements();
