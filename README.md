@@ -1,0 +1,3 @@
+# picknik.ai
+
+The website
