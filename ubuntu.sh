@@ -35,4 +35,4 @@ read -p "Are you ready to continue?" $dummy
 
 rm -rf bitchin_unix
 git clone https://github.com/PickNikRobotics/bitchin_unix.git
-. bitchin_unix/install/ubuntu.sh
+. bitchin_unix/install/ubuntu/ubuntu.sh
