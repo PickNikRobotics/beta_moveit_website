@@ -2,3 +2,6 @@ secure/
 moveit_wiki/
 beta/
 .DS_Store
+CNAME
+Gemfile.lock
+_site/
