@@ -133,7 +133,7 @@ iframe {
     width: 100%;
     padding-top: 100px;
     padding-bottom: 40px;
-    background-image: url('../images-picknik/suppbg.jpg');
+    background-image: url('../images/suppbg.jpg');
     background-size: cover;
 }
 
@@ -648,7 +648,7 @@ a {
     text-align: center;
     padding-top: 120px;
     padding-bottom: 120px;
-    background-image: url('../images-picknik/roboto-intro.jpg');
+    background-image: url('../images/roboto-intro.jpg');
     background-size: cover;
     background-position: center center;
 }
@@ -1270,7 +1270,7 @@ a.connectText:hover {
     text-align: center;
     padding-top: 120px;
     padding-bottom: 120px;
-    background-image: url('../images-picknik/projects-image.jpg');
+    background-image: url('../images/projects-image.jpg');
     background-size: cover;
     background-position: center center;
 }
@@ -1282,7 +1282,7 @@ a.connectText:hover {
     text-align: center;
     padding-top: 120px;
     padding-bottom: 120px;
-    background-image: url('../images-picknik/red-arm.jpg');
+    background-image: url('../images/red-arm.jpg');
     background-size: cover;
     background-position: center center;
 }
@@ -1536,7 +1536,7 @@ a.peopleName:hover {
         width: 100%;
         padding-top: 140px;
         padding-bottom: 90px;
-        background-image: url('../images-picknik/suppbg.jpg');
+        background-image: url('../images/suppbg.jpg');
         background-size: cover;
     }
     .sppWrap {
@@ -1869,7 +1869,7 @@ a.peopleName:hover {
         text-align: center;
         padding-top: 80px;
         padding-bottom: 80px;
-        background-image: url('../images-picknik/roboto-intro.jpg');
+        background-image: url('../images/roboto-intro.jpg');
         background-size: cover;
         background-position: center center;
     }
@@ -2280,7 +2280,7 @@ a.peopleName:hover {
         text-align: center;
         padding-top: 120px;
         padding-bottom: 120px;
-        background-image: url('../images-picknik/red-arm.jpg');
+        background-image: url('../images/red-arm.jpg');
         background-size: cover;
         background-position: center center;
     }
@@ -2292,7 +2292,7 @@ a.peopleName:hover {
         text-align: center;
         padding-top: 120px;
         padding-bottom: 120px;
-        background-image: url('../images-picknik/red-arm.jpg');
+        background-image: url('../images/red-arm.jpg');
         background-size: cover;
         background-position: center center;
     }
@@ -2388,7 +2388,7 @@ a.peopleName:hover {
         text-align: center;
         padding-top: 120px;
         padding-bottom: 120px;
-        background-image: url('../images-picknik/projects-image.jpg');
+        background-image: url('../images/projects-image.jpg');
         background-size: cover;
         background-position: center center;
     }
@@ -2399,7 +2399,7 @@ a.peopleName:hover {
         text-align: center;
         padding-top: 120px;
         padding-bottom: 120px;
-        background-image: url('../images-picknik/red-arm.jpg');
+        background-image: url('../images/red-arm.jpg');
         background-size: cover;
         background-position: center center;
     }
