@@ -1,0 +1,253 @@
+<head>
+    {% include head.html %} {% if link.url contains page.url %} {% assign current = 'current' %} {% endif %}
+</head>
+
+<body>
+    {% include menu.html %}
+    <div class="hero">
+
+        <div class="heroCol1">
+            <div class="heroPad">
+                <div class="heroTitle">ACCELERATE YOUR <br> ROBOTICS DEVELOPMENT</div>
+                <div class="line"></div>
+                <div class="heroSubText">
+                    PickNik combines world-class robotics expertise and state of the art open source robotics frameworks to save you time and money. We offer on- and off-site support and development to ensure your project's success. From ROS integration to complex inverse
+                    kinematics and motion planning, we have you covered.
+                </div>
+            </div>
+        </div>
+
+        <div class="heroCol2">
+            <img class="heroImg" src="./images/hero2.jpg">
+        </div>
+    </div>
+
+    <div class="intro" id="intro">
+
+        <div class="introCol1"></div>
+        <div class="introCol2">
+
+            <div class="introPadding">
+                <div class="introTitle">REALIZE YOUR UNIQUE
+                    <br/>ROBOTIC PROBLEMS</div>
+                <div class="line"></div>
+                <div class="introSubText">
+                    We strongly believe in the benefits of open source, including avoiding vendor lock in and allowing your engineers to modify any software as they see fit. PickNik is the lead maintainer of the <span style="text-decoration: underline">MoveIt! Motion Planning Framework</span>.
+                    In addition, we contribute to and advocate the Robotic Operating System (ROS) including the following components:
+                    <br/>
+                    <br/>
+                    <div class="bullet">□</div> ROS Control and Real-time Systems
+                    <br/>
+                    <div class="bullet">□</div> The Open Motion Planning Library (OMPL)
+                    <br/>
+                    <div class="bullet">□</div> ROS Navigation Stack
+                    <br/>
+                    <div class="bullet">□</div> Gazebo Simulation
+                </div>
+                <img class="introLogos" src="./images/logos.png">
+            </div>
+        </div>
+    </div>
+
+    <div class="integration">
+        <img class="integIcon" src="./images/integration-icons.jpg">
+        <div class="integTitle">INTEGRATION FOR ALL</div>
+        <div class="lineN"></div>
+        <div class="integSubText">By leveraging open standards and best practices we are compatible with almost any kind of hardware. Our software is robot-agnostic and we experienced in the integration of robotic hardware including the Universal Robotics UR3/UR5/UR6, Franka Emika
+            Panda, Kuka IIWA, Rethink Robotics Baxter, Kinova Jaco2, Willow Garage PR2, Kawada Industries HPR2, and others.</div>
+    </div>
+    <div class="servicesCont">
+        <div class="services">
+            <div class="servicesTitle">SERVICES</div>
+            <div class="lineN"></div>
+            <div class="servicesRow">
+                <div class="servicesCol" onclick="location.href='{{site.baseurl}}/services#motion_planning_service';" style="cursor:pointer;">
+                    <a href="{{site.baseurl}}/services#motion_planning_service"><img class="sIcon" src="./images/icon1.png"></a><br>
+                    <a href="{{site.baseurl}}/services#motion_planning_service" class="sLink">MOTION PLANNING</a>
+                    <div class="sSubTitle">IN HIGH-DOF SYSTEMS</div>
+                </div>
+                <div class="servicesCol" onclick="location.href='{{site.baseurl}}/services#advanced_inverse_kinematics';" style="cursor:pointer;">
+                    <a href="{{site.baseurl}}/services#advanced_inverse_kinematics"><img class="sIcon" src="./images/icon2.png"></a><br>
+                    <a href="{{site.baseurl}}/services#advanced_inverse_kinematics" class="sLink">ADVANCED INVERSE KINEMATICS</a>
+                    <div class="sSubTitle">COMPLEX CONSTRAINTS</div>
+                </div>
+                <div class="servicesCol" onclick="location.href='{{site.baseurl}}/services#real_time_control';" style="cursor:pointer;">
+                    <a href="{{site.baseurl}}/services#real_time_control"><img class="sIcon" src="./images/icon3.png"></a><br>
+                    <a href="{{site.baseurl}}/services#real_time_control" class="sLink">REAL-TIME CONTROL</a>
+                    <div class="sSubTitle">ROBOTIC ARMS</div>
+                </div>
+            </div>
+
+            <div class="servicesRow">
+                <div class="servicesCol" onclick="location.href='{{site.baseurl}}/services#advanced_inverse_kinematics';" style="cursor:pointer;">
+                    <a href="{{site.baseurl}}/services#collision_avoidance"><img class="sIcon" src="./images/icon4.png"></a><br>
+                    <a href="{{site.baseurl}}/services#collision_avoidance" class="sLink">COLLISION AVOIDANCE</a>
+                    <div class="sSubTitle">FOR CLUTTERED ENVIRONMENTS</div>
+                </div>
+                <div class="servicesCol" onclick="location.href='{{site.baseurl}}/services#ros_framework_design';" style="cursor:pointer;">
+                    <a href="{{site.baseurl}}/services#ros_framework_design"><img class="sIcon" src="./images/icon5.png"></a><br>
+                    <a href="{{site.baseurl}}/services#ros_framework_design" class="sLink">ROS FRAMEWORK DESIGN</a>
+                    <div class="sSubTitle">SYSTEM ANALYSIS</div>
+                </div>
+                <div class="servicesCol" onclick="location.href='{{site.baseurl}}/services#2d_navigation';" style="cursor:pointer;">
+                    <a href="{{site.baseurl}}/services#2d_navigation"><img class="sIcon" src="./images/icon6.png"></a><br>
+                    <a href="{{site.baseurl}}/services#2d_navigation" class="sLink">2D NAVIGATION</a>
+                    <div class="sSubTitle">MOBILE BASES</div>
+                </div>
+            </div>
+
+            <div class="servicesRow">
+                <div class="servicesCol" onclick="location.href='{{site.baseurl}}/services#virtual_reality';" style="cursor:pointer;">
+                    <a href="{{site.baseurl}}/services#virtual_reality"><img class="sIcon" src="./images/icon7.png"></a><br>
+                    <a href="{{site.baseurl}}/services#virtual_reality" class="sLink">VIRTUAL REALITY</a>
+                    <div class="sSubTitle">FOR REMOTE CONTROL</div>
+                </div>
+
+                <div class="servicesCol" onclick="location.href='{{site.baseurl}}/services#robot_modelling';" style="cursor:pointer;">
+                    <a href="{{site.baseurl}}/services#robot_modelling"><img class="sIcon" src="./images/icon8.png"></a><br>
+                    <a href="{{site.baseurl}}/services#robot_modelling" class="sLink">ROBOT MODELLING</a>
+                    <div class="sSubTitle">SOLIDWORKS, URDF</div>
+                </div>
+
+                <div class="servicesCol" onclick="location.href='{{site.baseurl}}/services#machine_learning';" style="cursor:pointer;">
+                    <a href="{{site.baseurl}}/services#machine_learning"><img class="sIcon" src="./images/icon10.png"></a><br>
+                    <a href="{{site.baseurl}}/services#machine_learning" class="sLink">MACHINE LEARNING</a>
+                    <div class="sSubTitle">PERCEPTION, DATA ANALYSIS</div>
+                </div>
+
+            </div>
+
+            <div class="servicesRowR">
+                <div class="servicesColR">
+                    <a href="{{site.baseurl}}/services#motion_planning_service"><img class="sIcon" src="./images/icon1.png"></a><br>
+                    <a href="{{site.baseurl}}/services#motion_planning_service" class="sLink">MOTION PLANNING</a>
+                    <div class="sSubTitle">IN CLUTTERED ENVIRONMENTS</div>
+                </div>
+
+                <div class="servicesColR">
+                    <a href="{{site.baseurl}}/services#advanced_inverse_kinematics"><img class="sIcon" src="./images/icon2.png"></a><br>
+                    <a href="{{site.baseurl}}/services#advanced_inverse_kinematics" class="sLink">ADVANCED INVERSE KINEMATICS</a>
+                    <div class="sSubTitle">COMPLEX CONSTRAINTS</div>
+                </div>
+
+            </div>
+
+            <div class="servicesRowR">
+                <div class="servicesColR">
+                    <a href="{{site.baseurl}}/services#real_time_control"><img class="sIcon" src="./images/icon3.png"></a><br>
+                    <a href="{{site.baseurl}}/services#real_time_control" class="sLink">REAL-TIME CONTROL</a>
+                    <div class="sSubTitle">ROBOTIC ARMS</div>
+                </div>
+
+                <div class="servicesColR">
+                    <a href="{{site.baseurl}}/services#collision_avoidance"><img class="sIcon" src="./images/icon4.png"></a><br>
+                    <a href="{{site.baseurl}}/services#collision_avoidance" class="sLink">COLLISION AVOIDANCE</a>
+                    <div class="sSubTitle">AVOID LOCAL MINIMUM</div>
+                </div>
+            </div>
+
+            <div class="servicesRowR">
+                <div class="servicesColR">
+                    <a href="{{site.baseurl}}/services#ros_framework_design"><img class="sIcon" src="./images/icon5.png"></a><br>
+                    <a href="{{site.baseurl}}/services#ros_framework_design" class="sLink">ROS FRAMEWORK DESIGN</a>
+                    <div class="sSubTitle">SYSTEM ANALYSIS</div>
+                </div>
+
+                <div class="servicesColR">
+                    <a href="{{site.baseurl}}/services#2d_navigation"><img class="sIcon" src="./images/icon6.png"></a><br>
+                    <a href="{{site.baseurl}}/services#2d_navigation" class="sLink">2D NAVIGATION</a>
+                    <div class="sSubTitle">MOBILE BASES</div>
+                </div>
+            </div>
+
+            <div class="servicesRowR">
+                <div class="servicesColR">
+                    <a href="{{site.baseurl}}/services#virtual_reality"><img class="sIcon" src="./images/icon7.png"></a><br>
+                    <a href="{{site.baseurl}}/services#virtual_reality" class="sLink">VIRTUAL REALITY</a>
+                    <div class="sSubTitle">FOR MOBILE CONTROL</div>
+                </div>
+
+                <div class="servicesColR">
+                    <a href="{{site.baseurl}}/services#robot_modelling"><img class="sIcon" src="./images/icon8.png"></a><br>
+                    <a href="{{site.baseurl}}/services#robot_modelling" class="sLink">ROBOT MODELLING</a>
+                    <div class="sSubTitle">SOLIDWORKS, URDF</div>
+                </div>
+            </div>
+
+            <div class="servicesRowR">
+                <div class="servicesColR">
+                    <a href="{{site.baseurl}}/services#machine_learning"><img class="sIcon" src="./images/icon9.png"></a><br>
+                    <a href="{{site.baseurl}}/services#machine_learning" class="sLink">MACHINE LEARNING</a>
+                    <div class="sSubTitle">PERCEPTION, DATA ANALYSIS</div>
+                </div>
+
+                <div class="servicesColR">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="rec">
+        <div class="recTitle">RECOMMENDATIONS</div>
+        <div class="lineRec"></div>
+        <div class="recRow">
+            <div class="recColL">
+                <div class="recPad">
+                    <div class="recText">
+                        <div class="recQ">"</div>Excellent job... The final product worked seamlessly and was accompanied by extremely thorough documentation of usage, and several additional features and improvements that we hadn't specifically asked for. It was the best
+                        experience I've had working with an external consultant and I would highly recommend."</div>
+                    <a href="https://www.linkedin.com/in/davetcoleman/" target="_blank">
+                        <div class="recName">DR. BHASKARA MARTHI</div>
+                        <div class="recPos">Head of Robotics, Vicarious</div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="recColR">
+                <div class="recPad">
+                    <div class="recText">
+                        <div class="recQ">"</div>I can only describe as exceptional... By being able to listen and absorb the information contained in the spec prepared for the project, by being able to identify the key functional requirements and then ask insightful questions
+                        regarding those requirements...was able to make major contributions to the code base, and to the project in general, in a very short amount of time."</div>
+                    <a href="https://www.linkedin.com/in/davetcoleman/" target="_blank">
+                        <div class="recName">BRETT ALDRICH</div>
+                        <div class="recPos">CEO, ReelRobotix</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="recRow">
+
+            <div class="recColL2">
+                <div class="recPad">
+                    <div class="recText">
+                        <div class="recQ">"</div>I highly recommend Dave for his work with me on a ROS based real-time reactive performance application for human-safe robotic planning implemented on a KUKA IIWA robotic arm. Dave is a self motivated problem solver and tackles
+                        problems holistically. He demonstrated a strong ability to navigate ambiguity and help define the requirements... I hope I have the opportunity to work with him again."</div>
+                    <a href="https://www.linkedin.com/in/davetcoleman/" target="_blank">
+                        <div class="recName">DANIEL ADEN</div>
+                        <div class="recPos">Engineering, Google</div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="recColR2">
+                <div class="recPad">
+                    <div class="recText">
+                        <div class="recQ">"</div>Dave continued (3 years and counting) to be a committed developer for MoveIt!, working mostly on his own, fixing bugs and adding features throughout the MoveIt! codebase. Over the last year Dave has taken the lead with organizing
+                        the contributions other developers make to this project. Dave is an engineer I would always work with, no matter the project. His attitude towards work, always striving to make sure problems are not swept under the rug, that the
+                        best solutions are employed, that clean and correct code is written make him a fantastic developer who writes efficient, high quality code."</div>
+                    <a href="https://www.linkedin.com/in/davetcoleman/" target="_blank">
+                        <div class="recName">DR. IOAN SUCAN</div>
+                        <div class="recPos">Senior Software Engineer, Waymo Self-Driving Cars</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="missionState">
+        <img class="missionLogo" src="./images/plogo.png">
+        <div class="missionText2">PickNik Mission Statement</div>
+        <div class="missionText">Support the worldwide open source robotics movement through community building, consulting expertise, and the development of highly-capable motion planning software.</div>
+    </div>
+</body>
+{% include footer.html %}
