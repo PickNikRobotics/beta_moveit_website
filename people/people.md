@@ -46,8 +46,8 @@ permalink: /people/
                 <a class="peopleName" href="https://www.linkedin.com/in/mikelautman/" target="_blank">Mike Lautman, MSE</a>
                 <div class="peoplePosition">Roboticist</div>
                 <div class="peopleDesc">B.S. Computer Science and Electrical Engineering, M.S. Robotics from Univ. of Pennsylvania. While still a full-time student, Mike founded Nebu, a Machine Learning and Data Science consultancy that he grew from 0 to 10 engineers. One
-                    of the projects that Mike is especially proud of involved building an ETL pipeline that feeds millions of escort advertisements from the web into a singular database to be used by law-enforcement against child-traffickers. After
-                    Nebu, Mike joined up with KindredAi, an AI and Robotics startup where he took on leadership of its motion planning efforts on a number of both internal and external products. </div>
+                    of the projects that Mike is especially proud of was building an ETL pipeline that feeds millions of escort advertisements from the web into a singular database to be used by law-enforcement against child-traffickers. After
+                    Nebu, Mike joined up with KindredAi, an AI and Robotics venture backed startup where he took on leadership of its motion planning efforts on a number of both internal and external products. </div>
             </div>
         </div>
         <div class="recColR2">
