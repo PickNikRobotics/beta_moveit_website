@@ -128,7 +128,7 @@ permalink: /people/
         <div>
         </div>
     </div>
-    <div class="recRow" style="font-family: 'Source Code Pro', sans-serif; font-size:11px;text-align:center;">
+    <!--div class="recRow" style="font-family: 'Source Code Pro', sans-serif; font-size:11px;text-align:center;">
         <br /> pssst... PickNik is hiring! Apply now <a href="{{site.baseurl}}/jobs">here</a>
-    </div>
+    </div-->
 </div>
