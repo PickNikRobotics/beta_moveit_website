@@ -19,9 +19,9 @@ permalink: /people/
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/davetcoleman/" target="_blank">Dave Coleman, PhD</a>
                 <div class="peoplePosition">Co-Founder, Roboticist</div>
-                <div class="peopleDesc">B.S. Mechanical Engineering Georgia Tech, Masters and PhD Computer Science CU Boulder focusing on motion planning. Dave has 11 years of experience working in the field of robotics automation. He has been a leader in the open source
-                    MoveIt! and ROS communities. His insights into robot-agnostic platforms that works for different morphologies, different theoretical approaches, and different end-user technical requirements have given him a well-rounded understanding
-                    of the needs of powerful robotic software. He has worked and consulted for all types of robotics companies including Google, Vicarious, Kindred, the Open Source Robotics Foundation, and Willow Garage.</div>
+                <div class="peopleDesc">B.S. MechEng Georgia Tech, Masters and PhD CompSci CU Boulder focusing on motion planning. Dave has 12 years experience working in the field of robotics automation. He is a leader in the open source
+                    MoveIt! and ROS communities. His insights into robot-agnostic platforms that works for different morphologies, different theoretical approaches, and different end-user technical requirements give him a well-rounded understanding
+                    of the needs of powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, the Open Source Robotics Foundation, and Willow Garage.</div>
             </div>
         </div>
         <div class="recColR">
@@ -45,9 +45,9 @@ permalink: /people/
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/mikelautman/" target="_blank">Mike Lautman, MSE</a>
                 <div class="peoplePosition">Roboticist</div>
-                <div class="peopleDesc">B.S. Computer Science and Electrical Engineering, M.S. Robotics from Univ. of Pennsylvania. While still a full-time student, Mike founded Nebu, a Machine Learning and Data Science consultancy that he grew from 0 to 10 engineers. One
+                <div class="peopleDesc">B.S. CompSci and Electrical Eng, M.S. Robotics from Univ. of Pennsylvania. While a full-time student, Mike founded Nebu, a Machine Learning and Data Science consultancy that he grew to 10 engineers. One
                     of the projects that Mike is especially proud of was building an ETL pipeline that feeds millions of escort advertisements from the web into a singular database to be used by law-enforcement against child-traffickers. After
-                    Nebu, Mike joined up with KindredAi, an AI and Robotics venture backed startup where he took on leadership of its motion planning efforts on a number of both internal and external products. </div>
+                    Nebu, Mike joined up with KindredAi, an AI and Robotics venture backed startup where he took on leadership of its motion planning efforts on a number of internal and external products. </div>
             </div>
         </div>
         <div class="recColR2">
