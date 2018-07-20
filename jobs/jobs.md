@@ -77,7 +77,8 @@ permalink: /jobs/
             </div>
         </div>
     </div>
-    <div class="recRow">
+
+    <div class="recRow" style="margin-bottom: 60px;">
         <div class="recColL">
             <div class="recPad">
                 <div class="pTitle">Senior Software Engineer - Robotics
@@ -142,6 +143,25 @@ permalink: /jobs/
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
                     <br><br> Submit your resume to <a href="mailto:jobs@picknik.ai">jobs@picknik.ai</a> and highlight relevant experience.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="recRow">
+        <div class="recColL">
+            <div class="recPad">
+                <div class="pTitle">Office Linebacker
+                </div>
+                <div class="pText">
+                    <div class="ital">Boulder, Denver · Full Time</div><br><br>
+                    <div class="pTitle2">Job Description:</div>
+                    <br><br> Tackle some of the toughest problems in an office setting.
+                    <br><br>
+                    <div>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/7aZMS6st3D4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                    <br> Submit your resume and highlight reel to <a href="mailto:jobs@picknik.ai">jobs@picknik.ai</a>.
                 </div>
             </div>
         </div>

@@ -10,13 +10,28 @@ html {
 body,
 iframe {
     font-family: 'Source Code Pro', sans-serif;
-    min-height: 100%;
-    width: 100%;
     overflow-x: hidden;
     padding: 0;
     margin: 0;
     -webkit-text-size-adjust: none;
     background-color: white;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 560px;
+    height: 315px;
 }
 
 .main-container {
