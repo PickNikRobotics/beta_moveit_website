@@ -1,25 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Case Study | Vicarious
+permalink: /case-study-vicarious/
 ---
-<div class="intro" id="intro">
-    <div class="introCol1P"></div>
-    <div class="introCol2P">
-        <div class="introPadding2">
-            <div class="introTitle">Projects</div>
-            <div class="line"></div>
-            <div class="introSubTextP">
-                We are proud to count the following companies among our many clients and partners:
-            </div>
-            <div class="proName">Dave Coleman, Founder</div>
-            <img class="pLogos" src="../images/projects-logos.png">
-        </div>
-    </div>
-</div>
+
 <div class="projects">
-        <div class="recTitle">CASE STUDIES</div>
-        <div class="lineRec"></div>
         <div class="recRow">
             <div class="recColL">
                 <div class="recPad">

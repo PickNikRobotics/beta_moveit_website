@@ -3,41 +3,62 @@ html {
     width: 100%;
     overflow-x: hidden;
     padding: 0;
-    margin: 0;
     -webkit-text-size-adjust: none;
+}
+
+.site-container {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+    max-width: 1800px;
 }
 
 body,
 iframe {
+    margin: 0;
     font-family: 'Source Code Pro', sans-serif;
     overflow-x: hidden;
     padding: 0;
-    margin: 0;
     -webkit-text-size-adjust: none;
     background-color: white;
 }
 
 .video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 35px;
-    height: 0;
-    overflow: hidden;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
 }
 
-
 .video-container iframe {
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 560px;
-    height: 315px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 560px;
+    height: 315px;
 }
 
 .main-container {
     max-width: 1440px;
     background: white;
     margin: 0 auto;
+}
+
+.collapseText {
+    float: right;
+    color: black
+}
+
+
+/* expandable containers */
+
+.container .collapsible-header {
+    cursor: pointer;
+}
+
+.container .content {
+    display: none;
 }
 
 .ital {
@@ -86,6 +107,13 @@ iframe {
 
 
 /*END MISSION STATEMENT*/
+
+.plus {
+    margin-left: 20px;
+    color: white;
+    padding: 20px;
+    background: url('../images/black-circle.png') no-repeat center center
+}
 
 
 /*SUPPORT PAGE*/
@@ -347,6 +375,138 @@ a.sLink:hover {
     line-height: 28px;
 }
 
+.caseStudyLink {
+    font-size: 22px;
+    color: #04e79f;
+    font-weight: 500;
+    line-height: 24px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.caseLogo {
+    width: 100%;
+    margin-top: 0;
+    padding-top: 0;
+    display: inline-block;
+    vertical-align: center;
+}
+
+.caseSubCol1 {
+    width: 30%;
+    display: inline-block;
+    position: absolute;
+    margin-top: 0;
+    padding-top: 0;
+    padding-right: 25px;
+}
+
+.caseSubCol2 {
+    position: absolute;
+    left: 35%;
+    width: 60%;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.line-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+}
+
+.subTextCol {
+    width: 69%;
+    display: inline-block;
+}
+
+.caseStudySubText {
+    display: inline;
+    font-size: 14px;
+    color: #333;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.greenCaseName {
+    display: inline-block;
+    font-size: 16px;
+    color: #04e79f;
+    font-weight: 500;
+    margin-top: 14px;
+}
+
+.caseTitle {
+    margin-left: 50px;
+    display: block;
+    font-size: 22px;
+    color: #000000;
+    font-weight: 500;
+    margin-bottom: 20px;
+    min-height: 56px;
+}
+
+.lightgreybg {
+    background-color: #f2f2f2;
+}
+
+.whiteBox {
+    background-color: #fff;
+    padding-bottom: 30px;
+    height: 240px;
+    text-overflow: ellipsis;
+}
+
+.caseSubBox {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.caseCol {
+    width: 32.5%;
+    max-height: 700px;
+    overflow: hidden;
+    display: inline-block;
+    background: white;
+    cursor: pointer;
+}
+
+.caseCol:hover .whiteBox {
+    background-color: #ededed;
+    cursor: pointer;
+}
+
+.caseCol:hover img {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.caseCol:hover .caseTitle {
+    color: #04e79f;
+    cursor: pointer;
+}
+
+.caseRow {
+    position: relative;
+    margin-top: 30px;
+}
+
+.caseStudies {
+    padding-top: 80px;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.caseStudyImage {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
 .servPageTitle {
     font-size: 16px;
     color: #04e79f;
@@ -502,12 +662,22 @@ a.headerLinks1:hover {
     color: #000;
     text-align: center;
     border-radius: 3px;
-    margin-right: 60px;
     border: 2px solid #04e79f;
     position: absolute;
     letter-spacing: 2px;
     top: 15px;
-    right: 0px;
+    right: 80px;
+}
+
+.applyButton {
+    font-weight: 500;
+    font-size: 11px;
+    padding: 10px 35px 10px 35px;
+    background-color: #04e79f;
+    color: #000;
+    text-align: center;
+    border-radius: 3px;
+    width: 80px;
 }
 
 .contactButton:hover {
@@ -515,6 +685,12 @@ a.headerLinks1:hover {
     background-color: #000;
     cursor: pointer;
     border: 2px solid #000;
+}
+
+.applyButton:hover {
+    color: #fff;
+    background-color: #000;
+    cursor: pointer;
 }
 
 .floatBut {
@@ -587,6 +763,15 @@ a.headerLinks1:hover {
     padding-right: 15%;
 }
 
+.greenLine {
+    margin-top: -10px;
+    line-height: 20px;
+    width: 40px;
+    height: 4px;
+    background-color: #04e79f;
+    display: inline-block;
+}
+
 .line {
     width: 75px;
     height: 4px;
@@ -648,6 +833,14 @@ a {
 
 /*HOME INTRO*/
 
+#section2 {
+    padding-top: 50px
+}
+
+.section3 {
+    padding-bottom: 100px;
+}
+
 .intro {
     display: table;
     height: auto;
@@ -681,6 +874,12 @@ a {
 .introPadding {
     padding-left: 15%;
     padding-right: 15%;
+}
+
+.valuePadding {
+    padding-left: 10%;
+    padding-right: 10%;
+    overflow: hidden;
 }
 
 .introPadding2 {
@@ -735,8 +934,8 @@ a {
 }
 
 .introLogos {
-    width: 230px;
-    height: 49px;
+    width: 300px;
+    height: 50px;
 }
 
 
@@ -749,7 +948,7 @@ a {
     width: 100%;
     text-align: center;
     padding-top: 80px;
-    padding-bottom: 80px;
+    padding-bottom: 200px;
     background-color: #fff;
 }
 
@@ -1275,6 +1474,12 @@ a.connectText:hover {
 
 /*END CONNECT*/
 
+.sectionTitle {
+    font-size: 30px;
+    color: #000;
+    font-weight: 500;
+}
+
 
 /*Projects*/
 
@@ -1301,8 +1506,6 @@ a.connectText:hover {
     background-size: cover;
     background-position: center center;
 }
-
-.office-icon {}
 
 .introCol1D {
     background: white;
@@ -1343,8 +1546,11 @@ a.connectText:hover {
 }
 
 .pLogos {
-    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 30px;
+    width: 80%;
 }
 
 .projects {
@@ -1369,6 +1575,14 @@ a.connectText:hover {
     font-weight: 500;
     text-transform: uppercase;
     margin-bottom: 20px;
+}
+
+.jTitle {
+    font-size: 24px;
+    color: #04e79f;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 8px;
 }
 
 .pTitle2 {
@@ -1409,6 +1623,102 @@ a.connectText:hover {
 
 
 /*END Projects*/
+
+
+/* JOBS */
+
+.jobs {
+    display: table;
+    height: auto;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.jobsPad {
+    padding-left: 40px;
+    padding-right: 100px;
+    text-align: left;
+}
+
+.perksSection {
+    margin-top: 60px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.perksTitle {
+    font-size: 34px;
+    font-weight: 500;
+}
+
+.perksDesc {
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.perksIcon {
+    padding: 100px;
+    background: url('../images/circle.png') no-repeat center center;
+}
+
+#perksRow2 {
+    margin-top: -100px;
+}
+
+.perksCol {
+    width: 27%;
+    display: inline-block;
+    padding-right: 20px;
+    height: 260px;
+    overflow: hidden;
+}
+
+.perksSub {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+#teamPic {
+    width: 100%;
+    min-width: 300px;
+}
+
+.teamPicCol1 {
+    display: table-cell;
+    width: 33%;
+    min-width: 500px;
+    vertical-align: middle;
+    text-align: center;
+    background: white;
+}
+
+.teamPicCol2 {
+    display: table-cell;
+    width: 67%;
+    max-height: 450px;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: left;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #fff;
+}
+
+.valueSection {
+    height: 200px;
+    max-height: 450px;
+    overflow: hidden;
+    width: 90%;
+    margin: 20px auto 0 auto;
+    display: table;
+    table-layout: fixed;
+}
+
+
+/* END JOBS */
 
 
 /*HOME-PEOPLE*/
@@ -1501,12 +1811,23 @@ a.peopleName:hover {
     padding-right: 5%;
 }
 
+@media only screen and (max-width: 1200px) {
+    .perksIcon {
+        display: none;
+    }
+    .perksCol {
+        width: 100%;
+    }
+}
+
 
 /*RESPONSIVE CODE*/
 
 @media only screen and (max-width: 900px) {
     /*MISSION STATEMENT*/
-    .row {}
+    .collapseText {
+        display: none;
+    }
     .column {
         text-align: center;
         margin: auto;
@@ -1938,8 +2259,8 @@ a.peopleName:hover {
     }
     .introLogos {
         margin: 0 auto;
-        width: 230px;
-        height: 49px;
+        width: 300px;
+        height: 50px;
     }
     /*END HOME INTRO*/
     /*HOME-INTEGRATION*/
@@ -2516,7 +2837,57 @@ a.peopleName:hover {
     }
     /*END Projects*/
     /* Jobs */
+    .teamPicCol1 {
+        display: block;
+        width: 100%;
+        min-width: 500px;
+        vertical-align: middle;
+        text-align: center;
+        background: white;
+    }
+    .teamPicCol2 {
+        display: block;
+        width: 100%;
+        max-height: 450px;
+        overflow: hidden;
+        vertical-align: middle;
+        text-align: center;
+        padding-bottom: 40px;
+        background-color: #fff;
+    }
+    .jobsPad {
+        padding-left: 15%;
+        padding-right: 15%;
+    }
     /*END Jobs */
+    .caseLogo {
+        width: 100%;
+        display: inline-block;
+        margin-bottom: 0px;
+    }
+    .caseCol {
+        margin: 0 auto;
+        width: 90%;
+        max-height: 1000px;
+        overflow: hidden;
+        display: block;
+        margin-bottom: 40px;
+    }
+    .caseStudies {
+        padding-top: 80px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .caseStudyImage {
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+    }
+    .whiteBox {
+        background-color: #fff;
+        padding-bottom: 30px;
+        overflow: visible;
+    }
 }
 
 
