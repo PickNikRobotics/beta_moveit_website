@@ -1,7 +1,9 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: Team
+permalink: /team/
+redirect_from:
+    - /people/
 ---
 <div class="people">
     <img class="peopleIcon" src="../images/people-icon.png">

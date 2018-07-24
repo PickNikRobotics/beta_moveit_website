@@ -50,6 +50,9 @@ permalink: /connect/
                 <img class="connectIcon" src="../images/connect-github.png">
                 <a class="connectText" target="_blank" href="https://github.com/PickNikRobotics/">GitHub</a>
                 <div class="connectMarg"></div>
+                <img class="connectIcon" src="../images/connect-phone.jpg">
+                <div class="connectText2">720.513.2221</div>
+                <div class="connectMarg"></div>
                 <img class="connectIcon" src="../images/connect-twitter.jpg">
                 <a class="connectText" target="_blank" href="https://twitter.com/PickNikRobotics">@PickNikRobotics</a>
                 <div class="connectMarg"></div>

@@ -348,12 +348,36 @@ permalink: /services/
                 <div class="column">
                 </div>
             </div>
+            <div id="workspace_analysis"></div>
+        </div>
+    </div>
+    <div class="servCon2">
+        <div class="servWrap">
+            <img class="sIcon2" src="../images/ruler-icon.png">
+            <div class="introTitleS">WORKSPACE ANALYSIS</div>
+            <div class="lineService"></div>
+            <div class="row">
+                <div class="column">
+                    <div class="servPageTitle">REACHABILITY, USABILITY STUDIES</div>
+                    <div class="sSubText">
+                        <div class="bullet">□</div> Analysis of robot base placement with respect to workspace
+                        <BR>
+                        <div class="bullet">□</div> Determine starting poses for various tasks
+                        <BR>
+                        <div class="bullet">□</div> Reachability Maps
+                        <BR>
+                        <div class="bullet">□</div> Optimal arm placement
+                        <BR>
+                        <br>
+                    </div>
+                </div>
+            </div>
             <div id="machine_learning"></div>
         </div>
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon9.jpg">
+            <img class="sIcon2" src="../images/icon10.png">
             <div class="introTitleS">MACHINE LEARNING</div>
             <div class="lineService"></div>
             <div class="row">
