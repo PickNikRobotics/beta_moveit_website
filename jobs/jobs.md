@@ -23,8 +23,7 @@ permalink: /jobs/
                 <div class="pText content">
                 <br><hr><br>
                     <div class="ital">Boulder, Denver · Full Time</div><br><br>
-                    <div class="pTitle2">Job Description:</div> <br><br> Tackle some of the toughest problems in a rapidly growing industry. Implement cutting-edge robotic algorithms to solve important problems. See your contributions used worldwide in the Robotic Operating
-                    System (ROS)community. We leverage open source to deliver custom software solutions to our clients that take advantage of the latest algorithms, research, and techniques.
+                    <div class="pTitle2">Job Description:</div> 
                     <br><br> As an Applied Robotics Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software
                     applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated software in a variety of languages and
                     platforms that will be used on robots around the world (and in outer space!).
@@ -93,8 +92,7 @@ permalink: /jobs/
                 <div class="pText content">
                 <br><hr>
                     <div class="ital">Boulder, Denver · Full Time</div><br><br>
-                    <div class="pTitle2">Job Description:</div> <br><br> Tackle some of the toughest problems in a rapidly growing industry. Implement cutting-edge robotic algorithms to solve important problems. See your contributions used worldwide in the Robotic Operating
-                    System (ROS)community. We leverage open source to deliver custom software solutions to our clients that take advantage of the latest algorithms, research, and techniques.
+                    <div class="pTitle2">Job Description:</div> 
                     <br><br> As a Senior Robotics Software Engineer at PickNik Consulting you’ll be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source
                     projects. Duties will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to framework design and
                     implementation.
