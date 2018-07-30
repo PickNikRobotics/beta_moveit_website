@@ -286,11 +286,11 @@ permalink: /jobs/
             </div>
             <div class="perksCol">
                 <div class="perksSub">
-                Free Lunch
+                Snacks & Weekly Lunches
                 </div>
                 <br>
                 <div class="perksDesc">
-                We have weekly team lunches and plenty of healthy snacks.
+                We have free weekly team lunches and plenty of healthy snacks.
                 </div>
             </div>
             <div class="perksCol">
