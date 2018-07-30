@@ -13,8 +13,8 @@ redirect_from:
     </div>
 </div>
 <div class="peopleCon">
-    <div class="recRow">
-        <div class="recColL">
+    <div class="peopleRow">
+        <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/davetcoleman/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p1.jpg')"></div>
@@ -26,7 +26,7 @@ redirect_from:
                     of the needs of powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, the Open Source Robotics Foundation, and Willow Garage.</div>
             </div>
         </div>
-        <div class="recColR">
+        <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/andymcevoy/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p2.jpg')"></div>
@@ -38,9 +38,7 @@ redirect_from:
                     the final software deployment of robotic systems.</div>
             </div>
         </div>
-    </div>
-    <div class="recRow">
-        <div class="recColL2">
+        <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/mikelautman/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p3.jpg')"></div>
@@ -52,20 +50,9 @@ redirect_from:
                     Nebu, Mike joined up with KindredAi, an AI and Robotics venture backed startup where he took on leadership of its motion planning efforts on a number of internal and external products. </div>
             </div>
         </div>
-        <div class="recColR2">
-            <div class="recPadP">
-                <a style="display:inline-block;" href="https://www.linkedin.com/in/dave-steffen-8843a95a/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p7.jpg')"></div>
-                </a><br>
-                <a class="peopleName" href="https://www.linkedin.com/in/dave-steffen-8843a95a/" target="_blank">Dave Steffen, PhD</a>
-                <div class="peoplePosition">Senior Software Engineer Robotics</div>
-                <div class="peopleDesc">PhD in Physics (Condensed Matter Theory), Colorado State University. Dave started working on high-performance mathematical software in during his graduate work in physics, and continued on to develop complex algorithms for real-time
-                    life-critical applications such as target tracking, radar data fusion, medical devices, architecture, and test.</div>
-            </div>
-        </div>
     </div>
-    <div class="recRow" style="margin-bottom: 5px;">
-        <div class="recColL margPR">
+    <div class="peopleRow">
+    <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p4.jpg')"></div>
@@ -77,7 +64,30 @@ redirect_from:
                 </div>
             </div>
         </div>
-        <div class="recColR3">
+        <div class="peopleCol">
+            <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/dave-steffen-8843a95a/" target="_blank">
+                    <div class="bioPic" style="background-image: url('../images/p7.jpg')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/dave-steffen-8843a95a/" target="_blank">Dave Steffen, PhD</a>
+                <div class="peoplePosition">Senior Software Engineer Robotics</div>
+                <div class="peopleDesc">PhD in Physics (Condensed Matter Theory), Colorado State University. Dave started working on high-performance mathematical software in during his graduate work in physics, and continued on to develop complex algorithms for real-time
+                    life-critical applications such as target tracking, radar data fusion, medical devices, architecture, and test.</div>
+            </div>
+        </div>
+        <div class="peopleCol margPR">
+            <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/nathan-b-brooks/" target="_blank">
+                    <div class="bioPic" style="background-image: url('../images/p10.jpg')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/nathan-b-brooks/" target="_blank">Nathan Brooks, PhD</a>
+                <div class="peoplePosition">Applied Robotics Scientist</div>
+                <div class="peopleDesc">B.S. Computer Science and Electrical Engineering at University of Tulsa, M.S. and PhD Robotics at Carnegie Mellon University. Nathan's graduate research focused on developing team planning techniques and interaction strategies improving operator supervision of large robot teams. Through this research, he has extensive experience with simulation platforms and field deployment logistics for unmanned vehicles on land, sea, and air.</div>
+            </div>
+        </div>
+    </div>
+    <div class="peopleRow">
+        <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/lynn-regnier-73a8b7a3/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p9.jpg')"></div>
@@ -89,9 +99,7 @@ redirect_from:
                 </div>
             </div>
         </div>
-    </div>
-    <div class="recRow" style="margin-bottom: 5px;">
-        <div class="recColL margPR">
+        <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/ioansucan/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p8.jpg')"></div>
@@ -103,7 +111,7 @@ redirect_from:
                 </div>
             </div>
         </div>
-        <div class="recColR3">
+        <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/michael-hurowitz-a016a76/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p5.jpg')"></div>
@@ -115,8 +123,8 @@ redirect_from:
             </div>
         </div>
     </div>
-    <div class="recRow">
-        <div class="recColL margPR">
+    <div class="peopleRow">
+        <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/rosejn/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p6.jpg')"></div>
@@ -130,7 +138,7 @@ redirect_from:
         <div>
         </div>
     </div>
-    <!--div class="recRow" style="font-family: 'Source Code Pro', sans-serif; font-size:11px;text-align:center;">
+    <!--div class="peopleRow" style="font-family: 'Source Code Pro', sans-serif; font-size:11px;text-align:center;">
         <br /> pssst... PickNik is hiring! Apply now <a href="{{site.baseurl}}/jobs">here</a>
     </div-->
 </div>

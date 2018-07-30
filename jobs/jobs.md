@@ -16,7 +16,7 @@ permalink: /jobs/
     <div class="jobs container">
         <div class="recColL">
             <div class="jobsPad">
-                <div id="job1" class="jTitle collapsible-header">Applied Robotics Scientist
+                <div id="job1" class="jTitle collapsible-header" data-collapsed="true">Applied Robotics Scientist
                 <span class="collapseText" id="collapseText1">EXPAND<span class="plus">+</span>
                 </span>
                 </div>
@@ -85,7 +85,7 @@ permalink: /jobs/
     <div class="jobs container">
         <div class="recColL">
             <div class="jobsPad">
-                <div class="jTitle collapsible-header" id="job2">Senior Software Engineer - Robotics
+                <div class="jTitle collapsible-header" data-collapsed="true" id="job2">Senior Software Engineer - Robotics
                 <span class="collapseText" id="collapseText2">EXPAND<span class="plus">+</span>
                 </span>
                 </div>
@@ -158,8 +158,77 @@ permalink: /jobs/
     <div class="jobs container">
         <div class="recColL">
             <div class="jobsPad">
-                <div class="jTitle collapsible-header" id="job3">Office Linebacker
+                <div class="jTitle collapsible-header" data-collapsed="true" id="job3">Motion Planning & Controls Scientist
                 <span class="collapseText" id="collapseText3">EXPAND<span class="plus">+</span>
+                </span>
+                </div>
+                <div class="pText content">
+                <br><hr>
+                    <div class="ital">Boulder, Denver · Full Time</div><br><br>
+                    <div class="pTitle2">Job Description:</div>
+                    <br><br> As a Motion Planning Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated motion planning and controls software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
+                    <br><br> Am I a good fit?
+                    <br><br>
+                    <div class="bullet">&#9633;</div> You love robotics and have a passion for creating the next generation of robot software
+                    <br>
+                    <div class="bullet">&#9633;</div> Are excited to be involved in a startup with steady flow of client projects
+                    <br>
+                    <div class="bullet">&#9633;</div> Must work efficiently, always be ready to learn, and have great attention to detail
+                    <br>
+                    <div class="bullet">&#9633;</div> Desire to contribute to open source projects solving big problems
+                    <br>
+                    <div class="bullet">&#9633;</div> Ability to collaborate with teams around the world
+                    <br>
+                    <div class="bullet">&#9633;</div> Ideally would be living in or willing to relocate to Boulder/Denver to foster a great team learning environment. Remote work arrangement with quarterly onsites possible.
+                    <br><br>
+                    <div class="pTitle2">Job Requirements</div>
+                    <br><br>
+                    <div class="bullet">&#9633;</div> Masters or PhD in Robotics, Computer Science, or a related field focused on motion planning and controls.
+                    <br>
+                    <div class="bullet">&#9633;</div> Deep theoretical understanding of motion planning, inverse kinematics, and/or control systems.
+                    <br>
+                    <div class="bullet">&#9633;</div> Proven track record of innovation in applying algorithms and advancing robotics.
+                    <br>
+                    <div class="bullet">&#9633;</div> Strong C++ experience and familiarity with at least one scripting language, preferably Matlab or Python.
+                    <br>
+                    <div class="bullet">&#9633;</div> Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field.
+                    <br>
+                    <div class="bullet">&#9633;</div> Experience with MoveIt!, OMPL, OpenRave, Drake or similar motion planning frameworks.
+                    <br><br>
+                    <div class="pTitle2">Some preferred skills/experience:</div>
+                    <br><br>
+                    <div class="bullet">&#9633;</div> ROS, Gazebo, or other robotic libraries are advantageous.
+                    <br>
+                    <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen and Boost.
+                    <br>
+                    <div class="bullet">&#9633;</div> Git ninja skills.
+                    <br>
+                    <br>
+                    <div class="pTitle2">Benefits</div>
+                    <br><br>
+                    <div class="bullet">&#9633;</div> Live in beautiful Boulder, CO with easy access to renowned skiing, biking, climbing, and ranked #2 by US News and Report Best Places to Live
+                    <br>
+                    <div class="bullet">&#9633;</div> Enjoy a relaxed work environment with a generous vacation policy
+                    <br>
+                    <div class="bullet">&#9633;</div> Work a flexible schedule including working remotely when you need to
+                    <br>
+                    <div class="bullet">&#9633;</div> Health Reimbursement Account (HRA)
+                    <br><br>
+                    <div class="pTitle2">Skill Keywords: </div>
+                    <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
+                    <br><br> So you wanna join, what do you need to do?
+                    <br><br> Submit your resume to <a href="mailto:jobs@picknik.ai">jobs@picknik.ai</a> and highlight relevant experience.
+                    <br><br>
+                    <div class="applyButton" onclick="location.href='mailto:jobs@picknik.ai';">APPLY NOW</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="jobs container">
+        <div class="recColL">
+            <div class="jobsPad">
+                <div class="jTitle collapsible-header" data-collapsed="true" id="job4">Office Linebacker
+                <span class="collapseText" id="collapseText4">EXPAND<span class="plus">+</span>
                 </span>
                 </div>
                 <div class="pText content">
@@ -277,36 +346,20 @@ permalink: /jobs/
     </div>
 </div>
 <script>
-    var job1c = true;
-    var job2c = true;
-    var job3c = true;
     $(".collapsible-header").click(function () {
         $header = $(this);
-        if($(this).attr("id") == 'job1') {
-            job1c = !job1c;
-            if(job1c !== true) {
-                $("#collapseText1").html("RESIZE <span class='plus'>-</span>")
-            }
-            else {
-                $("#collapseText1").html("EXPAND <span class='plus'>+</span>")
-            }
-        } else if($(this).attr("id") == 'job2') {
-            job2c = !job2c;
-            if(job2c !== true) {
-                $("#collapseText2").html("RESIZE <span class='plus'>-</span>")
-            }
-            else {
-                $("#collapseText2").html("EXPAND <span class='plus'>-</span>")
-            }
-        } 
+        var id = $header.attr("id").split("job")[1]
+        if($header.attr('data-collapsed') === "true") {
+            $header.attr("data-collapsed", "false");
+            setTimeout(() => {
+                $("#collapseText"+id).html("RESIZE <span class='plus'>-</span>")
+            }, 500)
+        }
         else {
-            job3c = !job3c;
-            if(job3c !== true) {
-                $("#collapseText3").html("RESIZE <span class='plus'>-</span>")
-            }
-            else {
-                $("#collapseText3").html("EXPAND <span class='plus'>-</span>")
-            }
+            $header.attr("data-collapsed", true);
+            setTimeout(() => {
+                $("#collapseText"+id).html("EXPAND <span class='plus'>+</span>")
+            }, 500)
         }
         //getting the next element
         $content = $header.next();
