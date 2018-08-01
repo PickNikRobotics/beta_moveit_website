@@ -237,7 +237,7 @@ permalink: /jobs/
                     <br><br> Tackle some of the toughest problems in an office setting.
                     <br><br>
                     <div>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/7aZMS6st3D4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kg5cdZ-Fnpc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
                     <br> Submit your resume and highlight reel to <a href="mailto:jobs@picknik.ai">jobs@picknik.ai</a>.
                 </div>
