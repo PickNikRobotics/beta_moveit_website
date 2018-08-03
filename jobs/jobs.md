@@ -253,7 +253,7 @@ permalink: /jobs/
                 <img class="peopleIcon" src="../images/hand-icon.png">
                 <div class="introTitle">We Value Our Team</div>
                 <div class="line"></div>
-                <div class="introSubTextP">We hire world-class professionals. Life balance is a key value for us. We work hard and smart; long hours alone just wear people out.
+                <div class="introSubTextP">We are building a team of world-class professionals. Work-life balance is a key value for us. We work hard and smart. We believe in flexibility, freedom, internal mentorship, and the ability to work from anywhere. We take the initiative to do it right and believe in continuous improvement.
                 </div>
             </div>
         </div>
@@ -281,7 +281,7 @@ permalink: /jobs/
                 </div>
                 <br>
                 <div class="perksDesc">
-                Standing desks, multiple monitors... whatever you need to be happy at work.
+                Standing desks, multiple monitors, toy dinosaurs... whatever you need to be happy at work.
                 </div>
             </div>
             <div class="perksCol">
@@ -321,12 +321,12 @@ permalink: /jobs/
                 </div>
                 <br>
                 <div class="perksDesc">
-                We have a flexible vacation policy that lets you take time off or work from home whenever you need it.
+                We're flexible with time off and working remotely.
                 </div>
             </div>
             <div class="perksCol">
                 <div class="perksSub">
-                Great Climate
+                Great Weather
                 </div>
                 <br>
                 <div class="perksDesc">
