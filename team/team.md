@@ -58,7 +58,7 @@ redirect_from:
                 <a class="peopleName" href="https://www.linkedin.com/in/robertccoleman/" target="_blank">Rob Coleman</a>
                 <div class="peoplePosition">Business Manager</div>
                 <div class="peopleDesc">Rob holds two Bachelor's and a Masters degree focusing on international trade and economic policy. He has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
-                    Over the past ten years Rob has served in breadth of roles, including government policy analyst, court researcher, team leader of Marines, project manager, and business and marketing developer. He puts the "Rob" in Robot.
+                    Over the past ten years Rob has served in breadth of roles, including government policy analyst, court researcher, team leader of Marines, project manager, and business and marketing developer.
                 </div>
             </div>
         </div>
@@ -68,7 +68,7 @@ redirect_from:
                     <div class="bioPic" style="background-image: url('../images/p7.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/dave-steffen-8843a95a/" target="_blank">Dave Steffen, PhD</a>
-                <div class="peoplePosition">Senior Software Engineer Robotics</div>
+                <div class="peoplePosition">Senior Software Engineer, Robotics</div>
                 <div class="peopleDesc">PhD in Physics (Condensed Matter Theory), Colorado State University. Dave started working on high-performance mathematical software in during his graduate work in physics, and continued on to develop complex algorithms for real-time
                     life-critical applications such as target tracking, radar data fusion, medical devices, architecture, and test.</div>
             </div>
