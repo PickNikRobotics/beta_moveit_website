@@ -91,7 +91,7 @@ redirect_from:
                     <div class="bioPic" style="background-image: url('../images/p9.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/lynn-regnier-73a8b7a3/" target="_blank">Lynn Regnier</a>
-                <div class="peoplePosition">Operations Manager</div>
+                <div class="peoplePosition">Accountant & Financial Manager</div>
                 <div class="peopleDesc">MS in Accounting (in progress), University of Colorado, Boulder. MS in Food Science, University of Massachusetts, Amherst. Lynn has been working in operations for software companies since 2015. She made this career change after a long
                     career as a food scientist. Lynn enjoys learning about organizations and compiling the financial information organizations need for decision making.
                 </div>
@@ -129,7 +129,7 @@ redirect_from:
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/rosejn/" target="_blank">Jeff Rose</a>
                 <div class="peoplePosition">Advisor</div>
-                <div class="peopleDesc">Jeff is a Co-founder and CEO of ThinkTopic, a Boulder based AI company. Over the last 3 years, ThinkTopic has worked with a wide range of organizations, from the Asian Development Bank to Conde Nast and Digital Globe. Before starting
+                <div class="peopleDesc">Jeff is a Partner of Origin Rose, a strategic consulting company. Over the last 3 years, he also led ThinkTopic, a Boulder based AI company, as Co-founder and CEO. ThinkTopic has worked with a wide range of organizations, from the Asian Development Bank to Conde Nast and Digital Globe. Before starting
                     ThinkTopic, Jeff was one of the first research engineers at (Google) DeepMind, where he collaborated with neuroscientists to develop novel machine learning algorithms.</div>
             </div>
         </div>
