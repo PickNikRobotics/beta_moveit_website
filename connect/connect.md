@@ -42,7 +42,7 @@ permalink: /connect/
                 <div class="introTitle">CONNECT</div>
                 <div class="line"></div>
                 <div class="introSubText2">
-                    Let us know more about your project and how we can help. Request a free consultation today:
+                    Let us know how we can help. Request a free consultation today:
                 </div>
                 <img class="connectIcon" src="../images/connect-mail.jpg">
                 <a class="connectText" href="mailto:hello@picknik.ai">hello@picknik.ai</a>
