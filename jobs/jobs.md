@@ -12,7 +12,107 @@ permalink: /jobs/
         <br><br> Tackle some of the toughest problems in a rapidly growing industry. Implement cutting edge robotic algorithms to solve important problems. See your contributions used worldwide in the open source robotics community. We leverage open
         source to deliver custom software solutions to our clients that take advantage of the latest algorithms, research, and techniques.
     </div>
-    <br><br>
+    <br><br><br>
+    <div class="valueSection">
+        <div class="teamPicCol1">
+            <img src="../images/team.png" id="teamPic">
+        </div>
+        <div class="teamPicCol2">
+            <div class="valuePadding">
+                <img class="peopleIcon" src="../images/hand-icon.png">
+                <div class="introTitle">We Value Our Team</div>
+                <div class="line"></div>
+                <div class="introSubTextP">We are building a team of world-class professionals. Work-life balance is a key value for us. We work hard and smart. We believe in flexibility, freedom, internal mentorship, and the ability to work from anywhere. We take the initiative to do it right and believe in continuous improvement.
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="perksSection">
+        <div class="perksTitle">
+            Perks
+        </div>
+        <div class="lineN"></div>
+        <div class="perksRow im">
+            <div class="perksCol">
+                <img src="../images/workspace-icon.png" class="perksIcon">
+            </div>
+            <div class="perksCol">
+                <img src="../images/lunch-icon.png" class="perksIcon">
+            </div>
+            <div class="perksCol">
+                <img src="../images/bus-bike-icon.png" class="perksIcon">
+            </div>
+        </div>
+        <div>
+            <div class="perksCol">
+                <div class="perksSub">
+                Dream Workspaces
+                </div>
+                <br>
+                <div class="perksDesc">
+                Standing desks, multiple monitors, toy dinosaurs... whatever you need to be happy at work.
+                </div>
+            </div>
+            <div class="perksCol">
+                <div class="perksSub">
+                Free Lunch
+                </div>
+                <br>
+                <div class="perksDesc">
+                We have weekly team lunches and plenty of healthy snacks.
+                </div>
+            </div>
+            <div class="perksCol">
+                <div class="perksSub">
+                Bus/Bike To Work
+                </div>
+                <br>
+                <div class="perksDesc">
+                Our office is next to the main bus station and many bike paths.
+                </div>
+            </div>
+        </div>
+        <div id="perksRow2">
+            <div class="perksCol">
+                <img src="../images/vacation-icon.png" class="perksIcon">
+            </div>
+            <div class="perksCol">
+                <img src="../images/sun-icon.png" class="perksIcon">
+            </div>
+            <div class="perksCol">
+                <img src="../images/location-icon.png" class="perksIcon">
+            </div>
+        </div>
+        <div>
+            <div class="perksCol">
+                <div class="perksSub">
+                Flexible Vacation Policy
+                </div>
+                <br>
+                <div class="perksDesc">
+                We're flexible with time off and working remotely.
+                </div>
+            </div>
+            <div class="perksCol">
+                <div class="perksSub">
+                Great Weather
+                </div>
+                <br>
+                <div class="perksDesc">
+                Boulder's 245 days of sun a year makes our 4 seasons wonderfully mild.
+                </div>
+            </div>
+            <div class="perksCol">
+                <div class="perksSub">
+                Location
+                </div>
+                <br>
+                <div class="perksDesc">
+                Boulder's prime location in the foothills of the Rocky Mountains gives you easy access to all your favorite outdoor activities.
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="jobs container">
         <div class="recColL">
             <div class="jobsPad">
@@ -244,106 +344,6 @@ permalink: /jobs/
             </div>
         </div>
     </div>
-    <div class="valueSection">
-        <div class="teamPicCol1">
-            <img src="../images/team.png" id="teamPic">
-        </div>
-        <div class="teamPicCol2">
-            <div class="valuePadding">
-                <img class="peopleIcon" src="../images/hand-icon.png">
-                <div class="introTitle">We Value Our Team</div>
-                <div class="line"></div>
-                <div class="introSubTextP">We are building a team of world-class professionals. Work-life balance is a key value for us. We work hard and smart. We believe in flexibility, freedom, internal mentorship, and the ability to work from anywhere. We take the initiative to do it right and believe in continuous improvement.
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="perksSection">
-        <div class="perksTitle">
-            Perks
-        </div>
-        <div class="lineN"></div>
-        <div class="perksRow im">
-            <div class="perksCol">
-                <img src="../images/workspace-icon.png" class="perksIcon">
-            </div>
-            <div class="perksCol">
-                <img src="../images/lunch-icon.png" class="perksIcon">
-            </div>
-            <div class="perksCol">
-                <img src="../images/bus-bike-icon.png" class="perksIcon">
-            </div>
-        </div>
-        <div>
-            <div class="perksCol">
-                <div class="perksSub">
-                Dream Workspaces
-                </div>
-                <br>
-                <div class="perksDesc">
-                Standing desks, multiple monitors, toy dinosaurs... whatever you need to be happy at work.
-                </div>
-            </div>
-            <div class="perksCol">
-                <div class="perksSub">
-                Snacks & Weekly Lunches
-                </div>
-                <br>
-                <div class="perksDesc">
-                We have free weekly team lunches and plenty of healthy snacks.
-                </div>
-            </div>
-            <div class="perksCol">
-                <div class="perksSub">
-                Bus/Bike To Work
-                </div>
-                <br>
-                <div class="perksDesc">
-                Our office is next to the main bus station and many bike paths.
-                </div>
-            </div>
-        </div>
-        <div id="perksRow2">
-            <div class="perksCol">
-                <img src="../images/vacation-icon.png" class="perksIcon">
-            </div>
-            <div class="perksCol">
-                <img src="../images/sun-icon.png" class="perksIcon">
-            </div>
-            <div class="perksCol">
-                <img src="../images/location-icon.png" class="perksIcon">
-            </div>
-        </div>
-        <div>
-            <div class="perksCol">
-                <div class="perksSub">
-                Flexible Vacation Policy
-                </div>
-                <br>
-                <div class="perksDesc">
-                We're flexible with time off and working remotely.
-                </div>
-            </div>
-            <div class="perksCol">
-                <div class="perksSub">
-                Great Weather
-                </div>
-                <br>
-                <div class="perksDesc">
-                Boulder's 245 days of sun a year makes our 4 seasons wonderfully mild.
-                </div>
-            </div>
-            <div class="perksCol">
-                <div class="perksSub">
-                Location
-                </div>
-                <br>
-                <div class="perksDesc">
-                Boulder's prime location in the foothills of the Rocky Mountains gives you easy access to all your favorite outdoor activities.
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 <script>
     $(".collapsible-header").click(function () {
@@ -358,7 +358,7 @@ permalink: /jobs/
         else {
             $header.attr("data-collapsed", true);
             setTimeout(() => {
-                $("#collapseText"+id).html("EXPAND <span class='plus'>+</span>")
+            $("#collapseText"+id).html("EXPAND <span class='plus'>+</span>")
             }, 500)
         }
         //getting the next element
