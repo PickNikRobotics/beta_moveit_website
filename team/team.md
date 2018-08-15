@@ -44,8 +44,8 @@ redirect_from:
                 <a class="peopleName" href="https://www.linkedin.com/in/mikelautman/" target="_blank">Mike Lautman, MSE</a>
                 <div class="peoplePosition">Roboticist</div>
                 <div class="peopleDesc">B.S. CompSci and Electrical Eng, M.S. Robotics from Univ. of Pennsylvania. While a full-time student, Mike founded Nebu, a Machine Learning and Data Science consultancy that he grew to 10 engineers. One
-                    of the projects that Mike is especially proud of was building an ETL pipeline that feeds millions of escort advertisements from the web into a singular database to be used by law-enforcement against child-traffickers. After
-                    Nebu, Mike joined up with KindredAi, an AI and Robotics venture backed startup where he took on leadership of its motion planning efforts on a number of internal and external products. </div>
+                    of the projects that Mike is especially proud of was building an ETL pipeline that feeds millions of escort advertisements from the web into a singular database used by law-enforcement against child-traffickers. After
+                    Nebu, Mike joined up with KindredAi, an AI and Robotics venture backed startup, where he took on leadership of its motion planning efforts on a number of internal and external products. </div>
             </div>
         </div>
     </div>
@@ -57,8 +57,8 @@ redirect_from:
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/robertccoleman/" target="_blank">Rob Coleman</a>
                 <div class="peoplePosition">Business Manager</div>
-                <div class="peopleDesc">Rob holds two Bachelor's and a Masters degree focusing on international trade and economic policy. He has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
-                    Over the past ten years Rob has served in breadth of roles, including government policy analyst, court researcher, team leader of Marines, project manager, and business and marketing developer.
+                <div class="peopleDesc">B.A Political Science and B.A. Public Administration, Auburn University; and M.A. Asia-Pacific Studies, international trade and economic policy, National Chengchi University (Taiwan). Rob has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
+                    Over the past ten years Rob has served in breadth of roles, including policy analyst, team leader of Marines, trade advocate, project manager, and business development manager. Rob enjoys new challenges and moving the status quo.
                 </div>
             </div>
         </div>
