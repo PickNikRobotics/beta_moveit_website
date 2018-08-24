@@ -204,12 +204,14 @@ permalink: /services/
     <div class="servCon2">
         <div class="servWrap">
             <img class="sIcon2" src="../images/icon5.jpg">
-            <div class="introTitleS">ROS FRAMEWORK DESIGN</div>
+            <div class="introTitleS">CUSTOM ROS INTEGRATION</div>
             <div class="lineService"></div>
             <div class="row">
                 <div class="column">
-                    <div class="servPageTitle">SOFTWARE ARCHITECTING WITH ROS</div>
+                    <div class="servPageTitle">ROS FRAMEWORK DESIGN</div>
                     <div class="sSubText">
+                        <div class="bullet">□</div> Custom ROS development for your application / hardware
+                        <BR>
                         <div class="bullet">□</div> Consulting on best practices for standard ROS paradigms
                         <BR>
                         <div class="bullet">□</div> Training for internal development teams new to ROS
