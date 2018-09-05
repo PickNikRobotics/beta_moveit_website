@@ -51,6 +51,14 @@ iframe {
     color: black
 }
 
+.picknikGreen {
+    color: #27e6a1;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
 
 /* expandable containers */
 

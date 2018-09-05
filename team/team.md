@@ -62,17 +62,6 @@ redirect_from:
                 </div>
             </div>
         </div>
-        <div class="peopleCol">
-            <div class="recPadP">
-                <a style="display:inline-block;" href="https://www.linkedin.com/in/dave-steffen-8843a95a/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p7.jpg')"></div>
-                </a><br>
-                <a class="peopleName" href="https://www.linkedin.com/in/dave-steffen-8843a95a/" target="_blank">Dave Steffen, PhD</a>
-                <div class="peoplePosition">Senior Software Engineer, Robotics</div>
-                <div class="peopleDesc">PhD in Physics (Condensed Matter Theory), Colorado State University. Dave started working on high-performance mathematical software in during his graduate work in physics, and continued on to develop complex algorithms for real-time
-                    life-critical applications such as target tracking, radar data fusion, medical devices, architecture, and test.</div>
-            </div>
-        </div>
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/nathan-b-brooks/" target="_blank">
@@ -83,8 +72,6 @@ redirect_from:
                 <div class="peopleDesc">B.S. Computer Science and Electrical Engineering at University of Tulsa, M.S. and PhD Robotics at Carnegie Mellon University. Nathan's graduate research focused on developing team planning techniques and interaction strategies improving operator supervision of large robot teams. Through this research, he has extensive experience with simulation platforms and field deployment logistics for unmanned vehicles on land, sea, and air.</div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/lynn-regnier-73a8b7a3/" target="_blank">
@@ -97,6 +84,8 @@ redirect_from:
                 </div>
             </div>
         </div>
+    </div>
+    <div class="peopleRow">
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/ioansucan/" target="_blank">
@@ -120,8 +109,6 @@ redirect_from:
                     and 127 new products developed working with 35 Fortune 500 companies and almost 60 startups, 14 federal agencies, and 16 university research groups.</div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/rosejn/" target="_blank">
@@ -132,8 +119,6 @@ redirect_from:
                 <div class="peopleDesc">Jeff is a Partner of Origin Rose, a strategic consulting company. Over the last 3 years, he also led ThinkTopic, a Boulder based AI company, as Co-founder and CEO. ThinkTopic has worked with a wide range of organizations, from the Asian Development Bank to Conde Nast and Digital Globe. Before starting
                     ThinkTopic, Jeff was one of the first research engineers at (Google) DeepMind, where he collaborated with neuroscientists to develop novel machine learning algorithms.</div>
             </div>
-        </div>
-        <div>
         </div>
     </div>
     <!--div class="peopleRow" style="font-family: 'Source Code Pro', sans-serif; font-size:11px;text-align:center;">
