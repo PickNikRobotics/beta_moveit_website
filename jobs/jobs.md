@@ -68,7 +68,7 @@ permalink: /jobs/
                 </div>
                 <br>
                 <div class="perksDesc">
-                Our office is next to the main bus station and many bike paths.
+                Our office is next to the downtown bus station (pass included!) and many bike paths.
                 </div>
             </div>
         </div>
