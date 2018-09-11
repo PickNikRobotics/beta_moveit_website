@@ -113,7 +113,7 @@ permalink: /services/
                     <div class="sSubText">
                         <div class="bullet">□</div> Advice in choosing the best inverse kinematics solvers for your application
                         <BR>
-                        <div class="bullet">□</div> Experts with off-the-shelf open-source KDL, LMA, and Trac_IK solvers
+                        <div class="bullet">□</div> Experts with off-the-shelf open source KDL, LMA, and Trac_IK solvers
                         <BR>
                         <div class="bullet">□</div> Customize inverse Jacobian methods, gradient projection method, heuristic method, etc.
                         <BR>
