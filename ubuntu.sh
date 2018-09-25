@@ -1,5 +1,15 @@
-#!/bin/bash
-# bootstrap setting up the bitchin_unix environment for ubuntu
+#!/bin/bash -eu
+
+# Bootstrap setting up the bitchin_unix environment for ubuntu
+
+if [[ "$0" != "${BASH_SOURCE}" ]]; then
+  {
+    echo "This file is meant to be executed, not 'source'd:"
+    echo
+    echo "    ./${BASH_SOURCE}"
+  } >&2
+  return 1
+fi
 
 cat <<EOF
 
