@@ -41,7 +41,16 @@ echo "-----------------------------------------------------"
 echo "NOTE: if you have Github 2-factor authentication enabled you must create a personal access token and use your token instead of your password to git clone a https repo. To do this, visit: https://github.com/settings/tokens"
 echo "-----------------------------------------------------"
 echo "-----------------------------------------------------"
-read -p "Are you ready to continue?" $dummy
+read -p "Would you like to install Chrome now before logging into Github and getting a personal access token? (y/n)" $resp
+
+if [ "$resp" = "y" ]; then
+  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+  echo 'deb http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee -a /etc/apt/sources.list.d/google-chrome.list
+  sudo apt update
+  sudo apt install -y google-chrome-stable || echo -e "\e[00;31mAPT-GET FAILED\e[00m"
+fi
+
+read -p "Are you ready to git clone bitchin_unix? (y/n)" $dummy
 
 rm -rf bitchin_unix
 git clone https://github.com/PickNikRobotics/bitchin_unix.git
