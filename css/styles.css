@@ -477,6 +477,7 @@ a.sLink:hover {
 
 .text-center {
     text-align: center;
+    margin: auto 0;
 }
 
 .caseCol {
@@ -1576,12 +1577,45 @@ a.connectText:hover {
     line-height: 28px;
 }
 
-.pLogos {
+.pLogosRow {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30px;
-    width: 80%;
+    width: 90%;
+    height: auto;
+    text-align: center;
+}
+
+.pLogosRow::after {
+    clear: both;
+}
+
+.pLogosMobile {
+    display: none;
+}
+
+.pLogos {
+    opacity: .5;
+    padding: 20px;
+    vertical-align: middle;
+    transition: filter .5s ease-in-out;
+    transition: opacity .5s ease-in-out;
+    -moz-transition: opacity .5s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.pLogos:hover {
+    opacity: 1;
+    -moz-filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+    -ms-filter: grayscale(0%);
+    -o-filter: grayscale(0%);
+    filter: grayscale(0%);
 }
 
 .projects {
@@ -1842,7 +1876,7 @@ a.peopleName:hover {
 
 .text-center {
     text-align: center !important;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .row:after {
@@ -2329,6 +2363,15 @@ a.peopleName:hover {
         margin: 0 auto;
         width: 300px;
         height: 50px;
+    }
+    .pLogosRow {
+        display: none;
+    }
+    .pLogosMobile {
+        display: block;
+    }
+    .pLogos {
+        opacity: 1;
     }
     /*END HOME INTRO*/
     /*HOME-INTEGRATION*/
