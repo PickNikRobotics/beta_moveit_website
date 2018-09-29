@@ -1913,7 +1913,14 @@ a.peopleName:hover {
     cursor: pointer;
 }
 
-@media only screen and (max-width: 1200px) {
+.onlyLg {
+    display: block;
+}
+
+@media only screen and (max-width: 1240px) {
+    .onlyLg {
+        display: none;
+    }
     .perksIcon {
         display: none;
     }
