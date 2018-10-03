@@ -72,6 +72,18 @@ redirect_from:
                 <div class="peopleDesc">B.S. Computer Science and Electrical Engineering at University of Tulsa, M.S. and PhD Robotics at Carnegie Mellon University. Nathan's graduate research focused on developing team planning techniques and interaction strategies improving operator supervision of large robot teams. Through this research, he has extensive experience with simulation platforms and field deployment logistics for unmanned vehicles on land, sea, and air.</div>
             </div>
         </div>
+        <div class="peopleCol margPR">
+            <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/stephenbrawner/" target="_blank">
+                    <div class="bioPic" style="background-image: url('../images/p11.jpg')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/stephenbrawner/" target="_blank">Stephen Brawner, PhD, PE</a>
+                <div class="peoplePosition">Applied Robotics Scientist</div>
+                <div class="peopleDesc">PhD, Sc.M Computer Science from Brown University, B.S Engineering from Harvey Mudd College. Stephen has an interdisciplinary background in electromechanical engineering, robotics and AI. Prior to grad school he designed and built robots culminating in an automated heliostat cleaning system for eSolar, Inc - a concentrating solar thermal technology developer. Currently he leverages his broad expertise to develop automated behaviors for robots, incorporating machine learning, sensing and perception. Stephen is also the developer of the SolidWorks to URDF Exporter, an open-source SolidWorks add-in.</div>
+            </div>
+        </div>
+    </div>
+    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/lynn-regnier-73a8b7a3/" target="_blank">
@@ -84,8 +96,6 @@ redirect_from:
                 </div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/ioansucan/" target="_blank">
@@ -109,7 +119,9 @@ redirect_from:
                     and 127 new products developed working with 35 Fortune 500 companies and almost 60 startups, 14 federal agencies, and 16 university research groups.</div>
             </div>
         </div>
-        <div class="peopleCol margPR">
+    </div>
+    <div class="peopleRow">
+        <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/rosejn/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p6.jpg')"></div>
@@ -120,6 +132,7 @@ redirect_from:
                     ThinkTopic, Jeff was one of the first research engineers at (Google) DeepMind, where he collaborated with neuroscientists to develop novel machine learning algorithms.</div>
             </div>
         </div>
+        <div></div>
     </div>
     <!--div class="peopleRow" style="font-family: 'Source Code Pro', sans-serif; font-size:11px;text-align:center;">
         <br /> pssst... PickNik is hiring! Apply now <a href="{{site.baseurl}}/jobs">here</a>
