@@ -407,18 +407,15 @@ a.sLink:hover {
 
 .caseSubCol1 {
     width: 30%;
-    display: inline-block;
-    position: absolute;
+    float: left;
     margin-top: 0;
     padding-top: 0;
     padding-right: 25px;
 }
 
 .caseSubCol2 {
-    position: absolute;
-    left: 35%;
     width: 60%;
-    display: inline-block;
+    float: left;
     overflow: hidden;
 }
 
@@ -473,6 +470,7 @@ a.sLink:hover {
 .caseSubBox {
     width: 85%;
     margin: 0 auto;
+    height: auto;
 }
 
 .text-center {
@@ -507,6 +505,8 @@ a.sLink:hover {
 .caseRow {
     position: relative;
     margin-top: 30px;
+    width: 100%;
+    height: auto;
 }
 
 .caseStudies {
@@ -920,6 +920,7 @@ a {
 }
 
 .introTitle {
+    text-align: left;
     font-size: 36px;
     color: #000;
     font-weight: 500;
@@ -1329,17 +1330,14 @@ a.footerLinks:link {
     color: #fff;
     text-decoration: none;
     font-weight: 500;
-    margin-left: 30px;
+    margin-right: 30px;
     font-size: 14px;
     letter-spacing: 2px;
-    line-height: 24px;
+    line-height: 40px;
 }
 
 a.footerLinks:visited {
     color: #fff;
-    text-decoration: none;
-    font-weight: 500;
-    margin-left: 30px;
     font-size: 14px;
     letter-spacing: 2px;
 }
@@ -1405,14 +1403,6 @@ a.ros:hover {
 
 /*CONNECT*/
 
-.intro {
-    display: table;
-    height: auto;
-    position: relative;
-    width: 100%;
-    margin: 0 auto;
-}
-
 .introCol2C {
     display: table-cell;
     width: 67%;
@@ -1421,22 +1411,6 @@ a.ros:hover {
     padding-top: 120px;
     padding-bottom: 120px;
     background-color: #fff;
-}
-
-.introPadding {
-    padding-left: 15%;
-    padding-right: 15%;
-}
-
-.introPadding2 {
-    padding-left: 10%;
-    padding-right: 10%;
-}
-
-.introTitle {
-    font-size: 36px;
-    color: #000;
-    font-weight: 500;
 }
 
 .introSubText2 {
@@ -1464,8 +1438,6 @@ a.ros:hover {
     display: inline;
     margin-bottom: -15px;
 }
-
-#addressText1 {}
 
 #addressText2 {
     margin-left: 64px;
@@ -1590,13 +1562,9 @@ a.connectText:hover {
     clear: both;
 }
 
-.pLogosMobile {
-    display: none;
-}
-
 .pLogos {
     opacity: .5;
-    padding: 20px;
+    padding: 14px;
     vertical-align: middle;
     transition: filter .5s ease-in-out;
     transition: opacity .5s ease-in-out;
@@ -1709,6 +1677,7 @@ a.connectText:hover {
 
 .perksSection {
     margin-top: 60px;
+    margin-bottom: 60px;
     width: 75%;
     margin-left: auto;
     margin-right: auto;
@@ -1729,15 +1698,11 @@ a.connectText:hover {
     background: url('../images/circle.png') no-repeat center center;
 }
 
-#perksRow2 {
-    margin-top: -100px;
-}
-
 .perksCol {
     width: 27%;
     display: inline-block;
     padding-right: 20px;
-    height: 260px;
+    height: 500px;
     overflow: hidden;
 }
 
@@ -1794,6 +1759,15 @@ a.connectText:hover {
     padding-top: 140px;
     padding-bottom: 80px;
     background-color: #f2f2f2;
+}
+
+.peopleSubText {
+    font-size: 16px;
+    color: #333;
+    font-weight: 300;
+    line-height: 24px;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 .peopleIcon {
@@ -1917,15 +1891,16 @@ a.peopleName:hover {
     display: block;
 }
 
-@media only screen and (max-width: 1240px) {
+@media only screen and (max-width: 1200px) {
     .onlyLg {
         display: none;
     }
-    .perksIcon {
-        display: none;
-    }
     .perksCol {
-        width: 100%;
+        width: 80%;
+        height: 450px;
+    }
+    .perksIcon {
+        margin-left: -15%;
     }
 }
 
@@ -1933,6 +1908,12 @@ a.peopleName:hover {
 /*RESPONSIVE CODE*/
 
 @media only screen and (max-width: 900px) {
+    .mobileOnly {
+        display: block;
+    }
+    .site-container {
+        margin-top: 60px;
+    }
     /*MISSION STATEMENT*/
     .collapseText {
         display: none;
@@ -2101,17 +2082,17 @@ a.peopleName:hover {
     /*END SUPPORT PAGE*/
     /*SERVICES*/
     .servCon {
-        width: 85%;
+        width: 100%;
         margin: 0 auto;
         text-align: center;
-        padding-top: 80px;
+        padding-top: 0px;
         padding-bottom: 80px;
         background-color: #fff;
         margin-top: 80px;
         border-radius: 3px;
     }
     .servCon2 {
-        width: 85%;
+        width: 100%;
         margin: 0 auto;
         text-align: center;
         padding-top: 80px;
@@ -2227,15 +2208,13 @@ a.peopleName:hover {
         min-width: 100%;
         width: 100%;
         max-width: 100%;
-        vertical-align: middle;
         text-align: center;
-        padding-top: 100px;
+        padding-top: 40px;
         padding-bottom: 40px;
     }
     .heroCol2 {
         display: block;
         width: 100%;
-        vertical-align: middle;
         text-align: center;
         padding-top: 20px;
         padding-bottom: 80px;
@@ -2262,8 +2241,8 @@ a.peopleName:hover {
         font-weight: 300;
         line-height: 18px;
         margin-bottom: 40px;
-        padding-left: 15%;
-        padding-right: 15%;
+        padding-left: 0;
+        padding-right: 0;
     }
     .line {
         width: 55px;
@@ -2300,42 +2279,27 @@ a.peopleName:hover {
     }
     /*END HERO AREA*/
     /*HOME INTRO*/
-    .intro {
-        display: table;
-        height: auto;
-        position: relative;
-        width: 100%;
-        margin: 0 auto;
-    }
     .introCol1 {
         display: none;
-        width: 33%;
-        vertical-align: middle;
-        text-align: center;
-        padding-top: 80px;
-        padding-bottom: 80px;
-        background-image: url('../images/roboto-intro.jpg');
-        background-size: cover;
-        background-position: center center;
     }
     .introCol2 {
         display: block;
         width: 100%;
-        vertical-align: middle;
         text-align: center;
         padding-top: 80px;
         padding-bottom: 80px;
         background-color: #f2f2f2;
     }
     .introPadding {
-        padding-left: 15%;
-        padding-right: 15%;
-    }
-    .introPadding2 {
         padding-left: 10%;
         padding-right: 10%;
     }
+    .introPadding2 {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
     .introTitle {
+        text-align: center;
         font-size: 27px;
         color: #000;
         font-weight: 500;
@@ -2362,20 +2326,19 @@ a.peopleName:hover {
         margin-bottom: 40px;
     }
     .bullet {
-        display: inline;
+        display: inline-block;
         color: #04e79f;
         font-weight: bold;
+        margin-top: 30px;
     }
     .introLogos {
+        text-align: center;
         margin: 0 auto;
         width: 300px;
         height: 50px;
     }
-    .pLogosRow {
-        display: none;
-    }
-    .pLogosMobile {
-        display: block;
+    .consultationButton {
+        margin: 30 auto 0 auto;
     }
     .pLogos {
         opacity: 1;
@@ -2398,8 +2361,8 @@ a.peopleName:hover {
         color: #000;
         font-weight: 300;
         line-height: 18px;
-        padding-left: 15%;
-        padding-right: 15%;
+        padding-left: 5%;
+        padding-right: 5%;
     }
     .lineN {
         width: 75px;
@@ -2422,8 +2385,7 @@ a.peopleName:hover {
         width: 85%;
         margin: 0 auto;
         text-align: center;
-        padding-top: 80px;
-        padding-bottom: 80px;
+        padding-bottom: 40px;
         border: 6px solid #f2f2f2;
         background-color: #fff;
         position: relative;
@@ -2486,6 +2448,13 @@ a.peopleName:hover {
         font-weight: 300;
         padding-left: 5%;
         padding-right: 5%;
+    }
+    .sSubText {
+        padding-left: 5%;
+        text-align: left;
+    }
+    .servWrap {
+        padding: 0;
     }
     /*END SERVICES*/
     /*RECOMMENDATIONS*/
@@ -2719,13 +2688,6 @@ a.peopleName:hover {
     }
     /*END FOOTER*/
     /*CONNECT*/
-    .intro {
-        display: table;
-        height: auto;
-        position: relative;
-        width: 100%;
-        margin: 0 auto;
-    }
     .introCol5P {
         display: table-cell;
         width: 33%;
@@ -2753,28 +2715,19 @@ a.peopleName:hover {
     .introCol2C {
         display: block;
         width: 100%;
-        vertical-align: middle;
-        text-align: center;
-        padding-top: 120px;
+        text-align: left;
+        padding-top: 60px;
         padding-bottom: 80px;
         background-color: #fff;
     }
-    .introPadding {
-        padding-left: 15%;
-        padding-right: 15%;
-    }
-    .introPadding2 {
-        padding-left: 10%;
-        padding-right: 10%;
-    }
     .introSubText2 {
+        text-align: center;
         font-size: 13px;
         color: #000;
         font-weight: 300;
         line-height: 18px;
         margin-bottom: 40px;
-        padding-left: 15%;
-        padding-right: 15%;
+        padding: 0;
     }
     .line {
         width: 75px;
@@ -2869,11 +2822,10 @@ a.peopleName:hover {
         background-position: center center;
     }
     .introCol2P {
-        display: BLOCK;
+        display: block;
         width: 100%;
-        vertical-align: middle;
         text-align: center;
-        padding-top: 120px;
+        padding-top: 60px;
         padding-bottom: 80px;
         background-color: #fff;
     }
@@ -2883,8 +2835,8 @@ a.peopleName:hover {
         font-weight: 300;
         line-height: 18px;
         margin-bottom: 10px;
-        padding-left: 15%;
-        padding-right: 15%;
+        padding-left: 0;
+        padding-right: 0;
     }
     .proName {
         font-size: 13px;
@@ -2895,8 +2847,11 @@ a.peopleName:hover {
         padding-left: 15%;
         padding-right: 15%;
     }
+    .pLogosRow {
+        width: 100%;
+    }
     .pLogos {
-        width: 85%;
+        width: 30%;
         height: auto;
         margin-top: 0px;
         margin: 0 auto;
@@ -3002,11 +2957,18 @@ a.peopleName:hover {
         max-width: 100%;
     }
     .whiteBox {
-        background-color: #fff;
-        padding-bottom: 30px;
+        height: 280px;
         overflow: visible;
     }
     /* People */
+    .people {
+        padding-bottom: 40px;
+        padding-top: 0px;
+    }
+    .peopleSubText {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
     .peopleCol {
         display: block;
         width: 100%;

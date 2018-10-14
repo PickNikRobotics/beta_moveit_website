@@ -9,7 +9,7 @@ redirect_from:
     <img class="peopleIcon" src="../images/people-icon.png">
     <div class="integTitle">OUR TEAM</div>
     <div class="lineN"></div>
-    <div class="integSubText">PickNik has over 36 years of combined experience in the field of robotics and automation, and the team is rooted in a deep academic background of robotics theory.
+    <div class="peopleSubText">PickNik has over 36 years of combined experience in the field of robotics and automation, and the team is rooted in a deep academic background of robotics theory.
     </div>
 </div>
 <div class="peopleCon">

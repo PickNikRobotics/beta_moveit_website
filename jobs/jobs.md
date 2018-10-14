@@ -32,19 +32,9 @@ permalink: /jobs/
             Perks
         </div>
         <div class="lineN"></div>
-        <div class="perksRow im">
+        <div class="perksRow">
             <div class="perksCol">
-                <img src="../images/workspace-icon.png" class="perksIcon">
-            </div>
-            <div class="perksCol">
-                <img src="../images/lunch-icon.png" class="perksIcon">
-            </div>
-            <div class="perksCol">
-                <img src="../images/bus-bike-icon.png" class="perksIcon">
-            </div>
-        </div>
-        <div>
-            <div class="perksCol">
+                <img src="../images/workspace-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Dream Workspaces
                 </div>
@@ -54,6 +44,7 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="perksCol">
+                <img src="../images/lunch-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Free Lunch
                 </div>
@@ -63,6 +54,7 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="perksCol">
+                <img src="../images/bus-bike-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Bus/Bike To Work
                 </div>
@@ -72,19 +64,9 @@ permalink: /jobs/
                 </div>
             </div>
         </div>
-        <div id="perksRow2">
+        <div class="perksRow">
             <div class="perksCol">
-                <img src="../images/vacation-icon.png" class="perksIcon">
-            </div>
-            <div class="perksCol">
-                <img src="../images/sun-icon.png" class="perksIcon">
-            </div>
-            <div class="perksCol">
-                <img src="../images/location-icon.png" class="perksIcon">
-            </div>
-        </div>
-        <div>
-            <div class="perksCol">
+                <img src="../images/vacation-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Flexible Vacation Policy
                 </div>
@@ -94,6 +76,7 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="perksCol">
+                <img src="../images/sun-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Great Weather
                 </div>
@@ -103,6 +86,7 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="perksCol">
+                <img src="../images/location-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Location
                 </div>
