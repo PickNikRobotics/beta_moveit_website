@@ -60,4 +60,5 @@ read -p "Are you ready to git clone bitchin_unix? (y/n)" dummy
 
 rm -rf bitchin_unix
 git clone https://github.com/PickNikRobotics/bitchin_unix.git
-. bitchin_unix/install/ubuntu/ubuntu.sh
+chmod +x bitchin_unix/install/ubuntu/ubuntu.sh
+~/bitchin_unix/install/ubuntu/ubuntu.sh
