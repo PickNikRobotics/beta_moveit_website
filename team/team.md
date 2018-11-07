@@ -84,6 +84,16 @@ redirect_from:
         </div>
     </div>
     <div class="peopleRow">
+    <div class="peopleCol margPR">
+            <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/stonelinks/" target="_blank">
+                    <div class="bioPic" style="background-image: url('../images/p13.png')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/stonelinks/" target="_blank">Lucas Doyle</a>
+                <div class="peoplePosition">Senior Software Engineer</div>
+                <div class="peopleDesc">B.S. Computer and Systems Engineering, Rensselaer Polytechnic Institute with a focus on robotics. Luke is an engineer who likes building interfaces to robots, autonomous vehicles and automated machinery. He spent a couple years in Japan working in industrial / manufacturing robotics for MUJIN, and has been in San Francisco working on drones/robotics for over 4 years.</div>
+            </div>
+        </div>
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/lynn-regnier-73a8b7a3/" target="_blank">
@@ -108,6 +118,19 @@ redirect_from:
                 </div>
             </div>
         </div>
+    </div>
+    <div class="peopleRow">
+        <div class="peopleCol margPR">
+            <div class="recPadP">
+                <a style="display:inline-block;" href="https://brian.gerkey.org/" target="_blank">
+                    <div class="bioPic" style="background-image: url('../images/p12.png')"></div>
+                </a><br>
+                <a class="peopleName" href="https://brian.gerkey.org/" target="_blank">Brian Gerkey, PhD</a>
+                <div class="peoplePosition">Advisor</div>
+                <div class="peopleDesc"> Brian is CEO of Open Robotics, where they develop and drive adoption of open source software in robotics. Before Open Robotics, he was Director of Open Source Development at Willow Garage, where they focus primarily on ROS. Before Willow, he was a computer scientist in the SRI Artificial Intelligence Center. Before that, he was a post-doctoral scholar in Sebastian Thrun‘s group in the Stanford Artificial Intelligence Lab. And before that, he did his PhD with Maja Matarić in the USC Interaction Lab.
+                </div>
+            </div>
+        </div>
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/michael-hurowitz-a016a76/" target="_blank">
@@ -119,8 +142,6 @@ redirect_from:
                     and 127 new products developed working with 35 Fortune 500 companies and almost 60 startups, 14 federal agencies, and 16 university research groups.</div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/rosejn/" target="_blank">
