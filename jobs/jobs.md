@@ -153,7 +153,7 @@ permalink: /jobs/
                     <br>
                     <div class="bullet">&#9633;</div> Work a flexible schedule including working remotely when you need to
                     <br>
-                    <div class="bullet">&#9633;</div> Health Reimbursement Account (HRA)
+                    <div class="bullet">&#9633;</div> Health insurance and 401k savings plan
                     <br><br>
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
@@ -227,7 +227,7 @@ permalink: /jobs/
                     <br>
                     <div class="bullet">&#9633;</div> Work a flexible schedule including working remotely when you need to
                     <br>
-                    <div class="bullet">&#9633;</div> Health Reimbursement Account (HRA)
+                    <div class="bullet">&#9633;</div> Health insurance and 401k savings plan
                     <br><br>
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
@@ -296,7 +296,7 @@ permalink: /jobs/
                     <br>
                     <div class="bullet">&#9633;</div> Work a flexible schedule including working remotely when you need to
                     <br>
-                    <div class="bullet">&#9633;</div> Health Reimbursement Account (HRA)
+                    <div class="bullet">&#9633;</div> Health insurance and 401k savings plan
                     <br><br>
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
