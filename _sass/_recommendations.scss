@@ -1,0 +1,148 @@
+/*RECOMMENDATIONS*/
+
+.rec {
+  width: 100%;
+  text-align: center;
+  padding-top: 160px;
+  padding-bottom: 80px;
+  background-color: #f2f2f2;
+  margin-top: -80px;
+}
+
+.recTitle {
+  font-size: 30px;
+  color: #000;
+  font-weight: 500;
+}
+
+.recRow {
+  display: table;
+  height: auto;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.recColL {
+  display: table-cell;
+  width: 50%;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-right: 5px solid #f2f2f2;
+  border-bottom: 5px solid #f2f2f2;
+  background-color: #fff;
+}
+
+.recColR {
+  display: table-cell;
+  width: 50%;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-left: 5px solid #f2f2f2;
+  border-bottom: 5px solid #f2f2f2;
+  background-color: #fff;
+}
+
+.recColL2 {
+  display: table-cell;
+  width: 50%;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-right: 5px solid #f2f2f2;
+  border-top: 5px solid #f2f2f2;
+  background-color: #fff;
+  border-bottom: 10px solid #f2f2f2;
+}
+
+.recColR2 {
+  display: table-cell;
+  width: 50%;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-left: 5px solid #f2f2f2;
+  border-top: 5px solid #f2f2f2;
+  background-color: #fff;
+  border-bottom: 10px solid #f2f2f2;
+}
+
+.recColL3 {
+  display: table-cell;
+  width: 50%;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-right: 5px solid #f2f2f2;
+  border-top: 10px solid #f2f2f2;
+  background-color: #fff;
+}
+
+.recColR3 {
+  display: table-cell;
+  width: 50%;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-left: 5px solid #f2f2f2;
+  border-bottom: 5px solid #f2f2f2;
+  background-color: #fff;
+}
+
+.recPad {
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: left;
+}
+
+.recPadP {
+  padding-left: 60px;
+  padding-right: 60px;
+  text-align: left;
+}
+
+.recText {
+  font-size: 16px;
+  color: #000;
+  font-weight: 300;
+  line-height: 24px;
+}
+
+.recName {
+  font-size: 16px;
+  color: #04e79f;
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: 10px;
+}
+
+.recPos {
+  font-size: 14px;
+  color: #000;
+  font-weight: 300;
+}
+
+.recQ {
+  font-size: 30px;
+  color: #04e79f;
+  font-weight: 500;
+  display: inline;
+}
+
+.lineRec {
+  width: 75px;
+  height: 4px;
+  background-color: #000;
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 60px;
+}

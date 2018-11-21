@@ -1,0 +1,297 @@
+a.sLink:link {
+  font-size: 16px;
+  color: #000;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+a.sLink:visited {
+  font-size: 16px;
+  color: #000;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+a.sLink:hover {
+  color: #04e79f;
+}
+
+.servCon {
+  width: 85%;
+  margin: 0 auto;
+  text-align: left;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #fff;
+  margin-top: 80px;
+  border-radius: 3px;
+}
+
+.servCon2 {
+  width: 85%;
+  margin: 0 auto;
+  text-align: left;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #fff;
+  margin-top: 15px;
+  border-radius: 3px;
+}
+
+.servWrap {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.sIcon2 {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto;
+  margin-bottom: -22px;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.sSubText {
+  font-size: 14px;
+  color: #000;
+  font-weight: 300;
+  line-height: 28px;
+}
+
+.caseStudyLink {
+  font-size: 22px;
+  color: #04e79f;
+  font-weight: 500;
+  line-height: 24px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+
+.caseLogo {
+  width: 100%;
+  margin-top: 0;
+  padding-top: 0;
+  display: inline-block;
+  vertical-align: center;
+}
+
+.caseSubCol1 {
+  width: 30%;
+  float: left;
+  margin-top: 0;
+  padding-top: 0;
+  padding-right: 25px;
+}
+
+.caseSubCol2 {
+  width: 60%;
+  float: left;
+  overflow: hidden;
+}
+
+.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+
+.subTextCol {
+  width: 69%;
+  display: inline-block;
+}
+
+.caseStudySubText {
+  display: inline;
+  font-size: 14px;
+  color: #333;
+  font-weight: 300;
+  line-height: 24px;
+}
+
+.greenCaseName {
+  display: inline-block;
+  font-size: 16px;
+  color: #04e79f;
+  font-weight: 500;
+  margin-top: 14px;
+}
+
+.caseTitle {
+  margin-left: 50px;
+  display: block;
+  font-size: 22px;
+  color: #000000;
+  font-weight: 500;
+  margin-bottom: 20px;
+  min-height: 56px;
+}
+
+.lightgreybg {
+  background-color: #f2f2f2;
+}
+
+.whiteBox {
+  background-color: #fff;
+  padding-bottom: 30px;
+  height: 240px;
+  text-overflow: ellipsis;
+}
+
+.caseSubBox {
+  width: 85%;
+  margin: 0 auto;
+  height: auto;
+}
+
+.text-center {
+  text-align: center;
+  margin: auto 0;
+}
+
+.caseCol {
+  width: 32.5%;
+  max-height: 700px;
+  overflow: hidden;
+  display: inline-block;
+  background: white;
+  cursor: pointer;
+}
+
+.caseCol:hover .whiteBox {
+  background-color: #ededed;
+  cursor: pointer;
+}
+
+.caseCol:hover img {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.caseCol:hover .caseTitle {
+  color: #04e79f;
+  cursor: pointer;
+}
+
+.caseRow {
+  position: relative;
+  margin-top: 30px;
+  width: 100%;
+  height: auto;
+}
+
+.caseStudies {
+  padding-top: 80px;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.caseStudyImage {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+
+.servPageTitle {
+  font-size: 16px;
+  color: #04e79f;
+  font-weight: 500;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.servPageTitleSub {
+  font-size: 12px;
+  color: #000;
+  font-weight: 500;
+  line-height: 22px;
+  margin-bottom: 10px;
+}
+
+.servicesCont {
+  width: 100%;
+  background-color: #fff;
+}
+
+.servicesRowR {
+  display: none;
+}
+
+.servicesColR {
+  display: none;
+}
+
+.services {
+  width: 85%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  border: 6px solid #f2f2f2;
+  background-color: #fff;
+  position: relative;
+}
+
+.servicesTitle {
+  font-size: 30px;
+  color: #000;
+  font-weight: 500;
+}
+
+.servicesRow {
+  display: table;
+  height: auto;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.servicesCol {
+  display: table-cell;
+  width: 33.3%;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  cursor: pointer;
+}
+
+.servicesCol:hover {
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+
+.servicesCol:hover .sIcon {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.servicesCol:hover .sLink {
+  color: #04e79f;
+  cursor: pointer;
+}
+
+.sIcon {
+  width: 55px;
+  height: 55px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.sIcon:hover {
+  opacity: 0.5;
+}
+
+.sTitle {
+  font-size: 16px;
+  color: #000;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.sSubTitle {
+  font-size: 14px;
+  color: #000;
+  font-weight: 300;
+  margin-top: 7.5px;
+}

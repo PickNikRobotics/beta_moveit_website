@@ -1,0 +1,88 @@
+/* JOBS */
+
+.jobs {
+  display: table;
+  height: auto;
+  position: relative;
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.jobsPad {
+  padding-left: 40px;
+  padding-right: 100px;
+  text-align: left;
+}
+
+.perksSection {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.perksTitle {
+  font-size: 34px;
+  font-weight: 500;
+}
+
+.perksDesc {
+  font-weight: 300;
+  line-height: 24px;
+}
+
+.perksIcon {
+  padding: 100px;
+  background: url('../images/circle.png') no-repeat center center;
+}
+
+.perksCol {
+  width: 27%;
+  display: inline-block;
+  padding-right: 20px;
+  height: 500px;
+  overflow: hidden;
+}
+
+.perksSub {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+#teamPic {
+  width: 100%;
+  min-width: 300px;
+}
+
+.teamPicCol1 {
+  display: table-cell;
+  width: 33%;
+  min-width: 500px;
+  vertical-align: middle;
+  text-align: center;
+  background: white;
+}
+
+.teamPicCol2 {
+  display: table-cell;
+  width: 67%;
+  max-height: 450px;
+  overflow: hidden;
+  vertical-align: middle;
+  text-align: left;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #fff;
+}
+
+.valueSection {
+  height: 200px;
+  max-height: 450px;
+  overflow: hidden;
+  width: 90%;
+  margin: 20px auto 0 auto;
+  display: table;
+  table-layout: fixed;
+}

@@ -1,0 +1,168 @@
+/*Projects*/
+
+.introCol1P {
+  display: table-cell;
+  width: 33%;
+  vertical-align: middle;
+  text-align: center;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url('../images/projects-image.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.introCol1C {
+  display: table-cell;
+  width: 33%;
+  vertical-align: middle;
+  text-align: center;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url('../images/services-medical-robot.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.introCol1D {
+  background: white;
+  display: table-cell;
+  width: 33%;
+  vertical-align: middle;
+  text-align: center;
+  padding-top: 180px;
+  padding-bottom: 120px;
+  background-size: cover;
+  background-position: center center;
+}
+
+.introCol2P {
+  display: table-cell;
+  width: 67%;
+  vertical-align: middle;
+  text-align: left;
+  padding-top: 120px;
+  padding-bottom: 182px;
+  background-color: #fff;
+}
+
+.introSubTextP {
+  font-size: 16px;
+  color: #000;
+  font-weight: 300;
+  line-height: 24px;
+  margin-bottom: 10px;
+  padding-right: 15%;
+}
+
+.proName {
+  font-size: 12px;
+  color: #04e79f;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.pLogosRow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: auto;
+  text-align: center;
+}
+
+.pLogosRow::after {
+  clear: both;
+}
+
+.pLogos {
+  opacity: 0.5;
+  padding: 14px;
+  vertical-align: middle;
+  transition: filter 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.pLogos:hover {
+  opacity: 1;
+  -moz-filter: grayscale(0%);
+  -webkit-filter: grayscale(0%);
+  -ms-filter: grayscale(0%);
+  -o-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
+.projects {
+  width: 100%;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.pHolder {
+  width: 55%;
+  display: block;
+  margin-bottom: 20px;
+  float: left;
+  padding-right: 30px;
+}
+
+.pTitle {
+  font-size: 30px;
+  color: #04e79f;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.jTitle {
+  font-size: 24px;
+  color: #04e79f;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.pTitle2 {
+  font-size: 18px;
+  color: #808080;
+  font-weight: 500;
+  margin-bottom: 20px;
+  display: inline;
+}
+
+.pText {
+  font-size: 14px;
+  color: #333;
+  font-weight: 300;
+  line-height: 22px;
+}
+
+.pButton {
+  font-weight: 500;
+  font-size: 14px;
+  padding: 10px 35px 10px 35px;
+  background-color: #04e79f;
+  color: #000;
+  text-align: center;
+  border-radius: 3px;
+  margin-top: 20px;
+  border: 2px solid #04e79f;
+  display: inline-block;
+  letter-spacing: 2px;
+}
+
+.pButton:hover {
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+  border: 2px solid #000;
+}

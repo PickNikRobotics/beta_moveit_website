@@ -1,0 +1,31 @@
+/* Error Page */
+
+.errorContainer {
+  height: 100%;
+}
+
+.homeButton {
+  float: none;
+  display: block;
+  margin: 30px auto;
+  width: 240px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.onlyLg {
+  display: block;
+}
+
+@media only screen and (max-width: 1200px) {
+  .onlyLg {
+    display: none;
+  }
+  .perksCol {
+    width: 80%;
+    height: 450px;
+  }
+  .perksIcon {
+    margin-left: -15%;
+  }
+}

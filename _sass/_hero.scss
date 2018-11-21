@@ -1,0 +1,125 @@
+/*HERO AREA*/
+
+.move {
+  margin-right: 100px;
+}
+
+.hero {
+  display: table;
+  height: auto;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.heroCol1 {
+  display: table-cell;
+  min-width: 50%;
+  width: 50%;
+  max-width: 50%;
+  vertical-align: middle;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.heroCol2 {
+  display: table-cell;
+  width: 50%;
+  vertical-align: middle;
+  text-align: left;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.heroPad {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 2%;
+}
+
+.heroPad2 {
+  text-align: left;
+  padding-right: 10%;
+}
+
+.heroTitle {
+  font-size: 36px;
+  color: #000;
+  font-weight: 500;
+}
+
+.heroSubText {
+  font-size: 16px;
+  color: gray;
+  font-family: 'Source Code Pro', sans-serif;
+  font-weight: 300;
+  line-height: 22px;
+  margin-bottom: 40px;
+  padding-right: 15%;
+}
+
+.greenLine {
+  margin-top: -10px;
+  line-height: 20px;
+  width: 40px;
+  height: 4px;
+  background-color: #04e79f;
+  display: inline-block;
+}
+
+.line {
+  width: 75px;
+  height: 4px;
+  background-color: #000;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.line2 {
+  width: 75px;
+  height: 4px;
+  background-color: #000;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.lineService {
+  width: 45px;
+  height: 4px;
+  background-color: #000;
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 96px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.heroButton1 {
+  display: inline;
+  background-color: #04e79f;
+  border-radius: 3px;
+  padding: 17px 50px 17px 50px;
+  font-size: 14px;
+  color: #000;
+  letter-spacing: 1px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.heroButton1:hover {
+  cursor: pointer;
+  background-color: #000;
+  color: #fff;
+}
+
+.heroImg {
+  width: 100%;
+  max-width: 680px;
+}

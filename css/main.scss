@@ -1,0 +1,24 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import 'bioPic';
+@import 'body';
+@import 'blog';
+@import 'connect';
+@import 'errorPage';
+@import 'footer';
+@import 'header';
+@import 'hero';
+@import 'homeIntegration';
+@import 'homeIntro';
+@import 'homePeople';
+@import 'jobs';
+@import 'mission';
+@import 'projects';
+@import 'recommendations';
+@import 'singlePost';
+@import 'services';
+@import 'support';
+@import 'responsive';

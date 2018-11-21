@@ -1,13 +1,16 @@
 {% assign base = '' %} {% assign depth = page.url | split: '/' | size | minus: 1 %} {% if depth
-<=1 %}{% assign base='.' %} {% elsif depth==2 %}{% assign base='..' %} {% elsif depth==3 %}{% assign base='../..' %} {% elsif depth==4 %}{% assign base='../../..' %}{% endif %} <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<=1 %}{% assign base='.' %} {% elsif depth==2 %}{% assign base='..' %} {% elsif depth==3 %}{% assign base='../..' %} {%
+    elsif depth==4 %}{% assign base='../../..' %}{% endif %} <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 <title>
-    {% if page.title != "index" %} {{ page.title }} | PickNik {% else %} PickNik Robotic Software Consultants {% endif %}
+    {% if page.title != "index" %} {{ page.title }} | PickNik {% else %} PickNik Robotic Software Consultants {% endif
+    %}
 </title>
 
 <meta name="keywords" content="robot arm software robotic consulting picknik contractors consultants controls moveit ros">
 <meta name="description" content="We are robotic software experts available to develop, integrate, or provide general consulting and training for your robotic applications.">
-<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/styles.css">
+<link rel="stylesheet" href="{{ '/css/bootstrap-grid.min.css' | relative_url }}" />
+<link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}" />
 <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico">
 <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500, 700" rel="stylesheet">
@@ -15,7 +18,7 @@
 
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <script>
-    (function($, undefined) {
+    (function ($, undefined) {
         var open = [];
         var opts = {
             selector: '.dropdown',
@@ -23,7 +26,7 @@
             open: 'dropdown-open',
             nest: true
         };
-        $(document).on('click.dropdown touchstart.dropdown', function(e) {
+        $(document).on('click.dropdown touchstart.dropdown', function (e) {
             // Close the last open dropdown if click is from outside the target dropdown
             if (open.length && (!opts.nest || !open[open.length - 1].find(e.target).length)) {
                 open.pop().removeClass(opts.open);

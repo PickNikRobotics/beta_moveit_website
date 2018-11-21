@@ -1,0 +1,114 @@
+/*FOOTER*/
+
+.footer {
+  width: 100%;
+  background-color: #000;
+}
+
+.footerRow1 {
+  display: table;
+  height: auto;
+  position: relative;
+  width: 85%;
+  margin: 0 auto;
+  border-bottom: 1px solid #4f4f4f;
+  background-color: #000;
+}
+
+.footerRow {
+  display: table;
+  height: auto;
+  position: relative;
+  width: 85%;
+  margin: 0 auto;
+  background-color: #000;
+}
+
+.footerColL {
+  display: table-cell;
+  width: 50%;
+  vertical-align: middle;
+  text-align: left;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.footerColR {
+  display: table-cell;
+  width: 50%;
+  vertical-align: middle;
+  text-align: Right;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+a.footerLinks:link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  margin-right: 30px;
+  font-size: 14px;
+  letter-spacing: 2px;
+  line-height: 40px;
+}
+
+a.footerLinks:visited {
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+a.footerLinks:hover {
+  color: #04e79f;
+}
+
+a.footerLinks1:link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+a.footerLinks1:visited {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+a.footerLinks1:hover {
+  color: #04e79f;
+}
+
+a.ros:link {
+  color: #04e79f;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+a.ros:visited {
+  color: #04e79f;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+a.ros:hover {
+  color: #fff;
+}
+
+.footerText {
+  font-size: 14px;
+  color: #fff;
+  font-weight: 300;
+  line-height: 22px;
+  padding-left: 15%;
+}
+
+.logo2 {
+  width: 140px;
+  height: 44px;
+}
