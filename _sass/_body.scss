@@ -247,3 +247,12 @@ button:active {
   font-weight: 500;
   font-size: 15px;
 }
+
+.rss-feed{
+  display: block;
+  margin: 0 auto;
+  img{
+    max-width: 100%;
+    width: 120px;
+  }
+}
