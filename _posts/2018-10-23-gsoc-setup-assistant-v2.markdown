@@ -6,7 +6,7 @@ layout: post
 slug: gsoc-2018-setup-assistant-v2
 title: Google Summer of Code Improvements to Setup Assistant
 media_type: image
-media_link: /images/gsoc.png
+media_link: /images/moveit_setup_assistant.png
 description: Summary of Google Summer of Code improvements to the MoveIt! Setup Assistant.
 categories:
   - MoveIt!

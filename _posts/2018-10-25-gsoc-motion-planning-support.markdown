@@ -6,7 +6,7 @@ layout: post
 slug: gsoc-motion-planning-support
 title: Google Summer Of Code Project Improvements to Motion Planning Support
 media_type: image
-media_link: /images/gsoc.png
+media_link: /images/chomp_1.png
 description: Updates for motion planners in MoveIt!
 categories:
   - MoveIt!
