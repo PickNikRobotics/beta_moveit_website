@@ -108,6 +108,40 @@ redirect_from:
         </div>
         <div class="peopleCol margPR">
             <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/lars-henning-kayser-79ab18178/" target="_blank">
+                    <div class="bioPic" style="background-image: url('../images/p14.jpg')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/lars-henning-kayser-79ab18178/" target="_blank">Henning Kayser, MSE</a>
+                <div class="peoplePosition">Applied Robotics Scientist</div>
+                <div class="peopleDesc">B.S. CS at University of Hamburg w/focus on distributed systems. M.S. CS w/focus on motion planning and machine learning. Broad experience with autonomous robots and scenarios with unstable dynamics like liquid pouring or pushing of objects. Expertise in motion planning, trajectory optimization, constrained and Cartesian path planning as well as 3D-perception and image processing. Winning team participant in the IROS 2018 Mobile Manipulation Hackathon.
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="peopleRow">
+        <div class="peopleCol">
+            <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/andy-zelenak-a659b3127" target="_blank">
+                    <div class="bioPic" style="background-image: url('../images/p16.jpg')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/andy-zelenak-a659b3127" target="_blank">Andy Zelenak, PhD</a>
+                <div class="peoplePosition">Senior Controls Engineer</div>
+                <div class="peopleDesc">B.S. ME/EE from Colorado School of Mines, PhD from the University of Texas. Andy has focused on bringing a more responsive, delicate touch to industrial robots, with emphasis on control theory. Andy has collaborated with roboticists in the nuclear, oil/gas, and aerospace domains. Some of his favorite projects were joint current based collision detection, balancing an egg between Motoman SIA5 manipulators, and design of teleoperation software for a dual-arm Clearpath robot.
+                </div>
+            </div>
+        </div>
+        <div class="peopleCol">
+            <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/christofferheckman/" target="_blank">
+                    <div class="bioPic" style="background-image: url('../images/p15.jpg')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/christofferheckman/" target="_blank">Chris Heckman, PhD</a>
+                <div class="peoplePosition">Senior Perception Researcher</div>
+                <div class="peopleDesc">B.S. MechEng UC Berkeley, PhD Theoretical and Applied Mechanics Cornell University (NSF Graduate Research Fellow). Two Postdocs at the Naval Research Laboratory, Washington, DC and at CU Boulder. Assistant Professor in the Dept of Computer Science. Chris's research focuses on autonomy, perception, field robotics, machine learning and artificial intelligence. His work is used by industry in the development of autonomous vehicles, agricultural robotics and other mobile robots including for medicine and automation, as well as the federal government for civil environmental monitoring, intelligence and defense.</div>
+            </div>
+        </div>
+        <div class="peopleCol margPR">
+            <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/ioansucan/" target="_blank">
                     <div class="bioPic" style="background-image: url('../images/p8.jpg')"></div>
                 </a><br>
@@ -153,9 +187,5 @@ redirect_from:
                     ThinkTopic, Jeff was one of the first research engineers at (Google) DeepMind, where he collaborated with neuroscientists to develop novel machine learning algorithms.</div>
             </div>
         </div>
-        <div></div>
     </div>
-    <!--div class="peopleRow" style="font-family: 'Source Code Pro', sans-serif; font-size:11px;text-align:center;">
-        <br /> pssst... PickNik is hiring! Apply now <a href="{{site.baseurl}}/jobs">here</a>
-    </div-->
 </div>
