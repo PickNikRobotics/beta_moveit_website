@@ -137,7 +137,7 @@ redirect_from:
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/christofferheckman/" target="_blank">Chris Heckman, PhD</a>
                 <div class="peoplePosition">Senior Perception Researcher</div>
-                <div class="peopleDesc">B.S. MechEng UC Berkeley, PhD Theoretical and Applied Mechanics Cornell University (NSF Graduate Research Fellow). Two Postdocs at the Naval Research Laboratory, Washington, DC and at CU Boulder. Assistant Professor in the Dept of Computer Science. Chris's research focuses on autonomy, perception, field robotics, machine learning and artificial intelligence. His work is used by industry in the development of autonomous vehicles, agricultural robotics and other mobile robots including for medicine and automation, as well as the federal government for civil environmental monitoring, intelligence and defense.</div>
+                <div class="peopleDesc">B.S. MechEng UC Berkeley, PhD Theoretical & Applied Mechanics Cornell University. Two Postdocs at the Naval Research Laboratory. Asst Professor in the Dept of Computer Science. Chris's research focuses on autonomy, perception, field robotics, machine learning, and AI. His work is used by industry in the development of autonomous vehicles, agricultural robotics and other mobile robots including for medicine and automation, as well as the federal government for civil environmental monitoring, intelligence and defense.</div>
             </div>
         </div>
         <div class="peopleCol margPR">
