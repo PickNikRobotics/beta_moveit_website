@@ -6,7 +6,7 @@ layout: post
 slug: gsoc-2018-perception-pipeline
 title: Google Summer Of Code Improvements to Perception Pipeline
 media_type: image
-media_link: /images/octomap.png
+media_link: /images/gsoc-18/octomap.png
 description: Updates about the perception pipeline improvements from GSOC
 categories:
 - MoveIt!
@@ -25,17 +25,17 @@ While developing the [perception pipeline tutorial](https://ros-planning.github.
 
 The animation below shows MoveIt! using an octomap to perform collision avoidance.
 
-[<img src="{{ site.url }}/images/obstacle_avoidance.gif" width="500" style="margin-right:20px"/>]({{ site.url }}/images/obstacle_avoidance.gif)
+[<img src="{{ site.url }}/images/gsoc-18/obstacle_avoidance.gif" width="500" style="margin-right:20px"/>]({{ site.url }}/images/gsoc-18/obstacle_avoidance.gif)
 
 The next item Ridhwan worked on was building a pipeline to detect, segment, and add a cylinder from point cloud data as a collision object. The first image below shows the original octomap and the second image shows the final octomap with the cylinder collision object added to the planning scene.
 
-[<img src="{{ site.url }}/images/cylinder_collision_object.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/cylinder_collision_object.png)
+[<img src="{{ site.url }}/images/gsoc-18/cylinder_collision_object.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/gsoc-18/cylinder_collision_object.png)
 
-[<img src="{{ site.url }}/images/octomap.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/octomap.png)
+[<img src="{{ site.url }}/images/gsoc-18/octomap.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/gsoc-18/octomap.png)
 
 ### Pick and Place Pipeline Tutorial
 After finding a collision object, the next task is to pick it up. There was previously no tutorial on how the 'pick and place' pipeline worked, so Ridhwan [created a tutorial](https://ros-planning.github.io/moveit_tutorials/doc/pick_place/pick_place_tutorial.html) to address this gap.
 
 The animation below shows a cuboidal object being moved from one table to another using the pick and place pipeline.
 
-[<img src="{{ site.url }}/images/pick_and_place.gif" width="500" style="margin-right:20px"/>]({{ site.url }}/images/pick_and_place.gif)
+[<img src="{{ site.url }}/images/gsoc-18/pick_and_place.gif" width="500" style="margin-right:20px"/>]({{ site.url }}/images/gsoc-18/pick_and_place.gif)

@@ -44,7 +44,7 @@
 
 name: PickNik Robotic Software Consultants
 description: We are robotic software experts available to develop, integrate, or provide general consulting and training for your robotic applications.
-url: https://picknik.ai/
+url: http://localhost
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
