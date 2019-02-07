@@ -158,10 +158,10 @@ permalink: /jobs/
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
-                    <br><br> Submit your resume to <a href="mailto:jobs@picknik.ai">jobs@picknik.ai</a> and highlight relevant experience.
+                    <br><br> Submit your resume <a href="https://workable.com/j/C90064C632">here</a> and highlight relevant experience.
                     <br>
                     <br>
-                    <div class="applyButton">APPLY NOW</div>
+                    <div class="applyButton" onclick="location.href='https://workable.com/j/C90064C632';">APPLY NOW</div>
                 </div>
             </div>
         </div>
@@ -232,9 +232,9 @@ permalink: /jobs/
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
-                    <br><br> Submit your resume to <a href="mailto:jobs@picknik.ai">jobs@picknik.ai</a> and highlight relevant experience.
+                    <br><br> Submit your resume <a href="https://workable.com/j/BABC82A4CA">here</a> and highlight relevant experience.
                     <br><br>
-                    <div class="applyButton" onclick="location.href='mailto:jobs@picknik.ai';">APPLY NOW</div>
+                    <div class="applyButton" onclick="location.href='https://workable.com/j/BABC82A4CA';">APPLY NOW</div>
                 </div>
             </div>
         </div>
