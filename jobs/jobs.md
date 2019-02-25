@@ -250,7 +250,7 @@ permalink: /jobs/
                 <br><hr>
                     <div class="ital">Boulder, Denver · Full Time</div><br><br>
                     <div class="pTitle2">Job Description:</div>
-                    <br><br> As a Motion Planning Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated motion planning and controls software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
+                    <br><br> As a Motion Planning & Controls Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated motion planning and controls software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
                     <br><br> Am I a good fit?
                     <br><br>
                     <div class="bullet">&#9633;</div> You love robotics and have a passion for creating the next generation of robot software
@@ -301,9 +301,11 @@ permalink: /jobs/
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
-                    <br><br> Submit your resume to <a href="mailto:jobs@picknik.ai">jobs@picknik.ai</a> and highlight relevant experience.
-                    <br><br>
-                    <div class="applyButton" onclick="location.href='mailto:jobs@picknik.ai';">APPLY NOW</div>
+                    
+                      <br><br> Submit your resume <a href="https://workable.com/j/CB0ED353E7">here</a> and highlight relevant experience.
+                    <br>
+                    <br>
+                    <div class="applyButton" onclick="location.href='https://workable.com/j/CB0ED353E7';">APPLY NOW</div>
                 </div>
             </div>
         </div>
