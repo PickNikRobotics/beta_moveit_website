@@ -292,7 +292,7 @@ permalink: /services/
                         <BR>
                         <div class="bullet">□</div> Deploy teleop environments with a high degree of situational awareness
                         <BR>
-                        <div class="bullet">□</div> Use ROS Rviz with off-the-shelf 3D headsets like the HTC Vive and Occulus Rift
+                        <div class="bullet">□</div> Use ROS, Gazebo, and Rviz with off-the-shelf 3D headsets like the HTC Vive and Occulus Rift
                         <BR>
                         <div class="bullet">□</div> Evaluate and plan your collaborative robot integration strategy in virtual reality
                         <BR>
@@ -436,7 +436,7 @@ permalink: /services/
             <div class="lineService"></div>
             <div class="row">
                 <div class="column">
-                    <div class="servPageTitle">WE CAN CONVERT YOUR ROS1 CODE WITH EASE</div>
+                    <div class="servPageTitle">WE CAN CONVERT YOUR CODE WITH EASE</div>
                     <div class="sSubText">
                         <div class="bullet">□</div> Next generation of ROS development                        <BR>
                         <div class="bullet">□</div> Migration to DDS. Colcon, & Managed Nodes
@@ -484,13 +484,13 @@ permalink: /services/
                 <div class="column">
                     <div class="servPageTitle">MODERN PLATFORM-AGNOSTIC FRONT-ENDS</div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> Develop React and Python apps for your robotic system
+                        <div class="bullet">□</div> Develop React and Python apps to your robotic system
                         <BR>
-                        <div class="bullet">□</div> Leverage latest web standards and technologies
+                        <div class="bullet">□</div> Leverage the latest web standards and technologies
                         <BR>
                         <div class="bullet">□</div> Remote monitoring via video feeds and full situational awareness
                         <BR>
-                        <div class="bullet">□</div> Connecting JavaScript to ROS via rosbridge
+                        <div class="bullet">□</div> Connecting to ROS via ros_bridge
                         <BR>
                         <br>
                     </div>
