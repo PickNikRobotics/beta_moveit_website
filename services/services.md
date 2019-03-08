@@ -426,12 +426,12 @@ permalink: /services/
                 <div class="column">
                 </div>
             </div>
-              <div id=“ROS 2 Porting”></div>
+           <div id=“ros_2_integration”></div>
         </div>
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/ruler-icon.png">
+            <img class="sIcon2" src="../images/ros2-icon.png">
             <div class="introTitleS">ROS 2 INTEGRATION</div>
             <div class="lineService"></div>
             <div class="row">
@@ -449,12 +449,12 @@ permalink: /services/
                     </div>
                 </div>
             </div>
-<div id=“cloud integration”></div>
+           <div id=“cloud_integration”></div>
         </div>
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/ruler-icon.png">
+            <img class="sIcon2" src="../images/cloud-icon.png">
             <div class="introTitleS">CLOUD INTEGRATION</div>
             <div class="lineService"></div>
             <div class="row">
@@ -472,12 +472,12 @@ permalink: /services/
                     </div>
                 </div>
             </div>
-<div id=“web-based robot control“></div>
+           <div id=“web-based_robot_control“></div>
         </div>
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/ruler-icon.png">
+            <img class="sIcon2" src="../images/react-icon.png">
             <div class="introTitleS">WEB-BASED ROBOT CONTROL</div>
             <div class="lineService"></div>
             <div class="row">
