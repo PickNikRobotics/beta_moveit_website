@@ -490,7 +490,7 @@ permalink: /services/
                         <BR>
                         <div class="bullet">□</div> Remote monitoring via video feeds and full situational awareness
                         <BR>
-                        <div class="bullet">□</div> Connecting to ROS via ros_bridge
+                        <div class="bullet">□</div> Connecting to ROS via rosbridge
                         <BR>
                         <br>
                     </div>
