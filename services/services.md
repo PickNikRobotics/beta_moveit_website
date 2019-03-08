@@ -426,6 +426,76 @@ permalink: /services/
                 <div class="column">
                 </div>
             </div>
+              <div id=“ROS 2 Porting”></div>
+        </div>
+    </div>
+    <div class="servCon2">
+        <div class="servWrap">
+            <img class="sIcon2" src="../images/ruler-icon.png">
+            <div class="introTitleS">ROS 2 INTEGRATION</div>
+            <div class="lineService"></div>
+            <div class="row">
+                <div class="column">
+                    <div class="servPageTitle">WE CAN CONVERT YOUR ROS1 CODE WITH EASE</div>
+                    <div class="sSubText">
+                        <div class="bullet">□</div> Next generation of ROS development                        <BR>
+                        <div class="bullet">□</div> Migration to DDS. Colcon, & Managed Nodes
+                        <BR>
+                        <div class="bullet">□</div> Expanded industrial-grade features
+                        <BR>
+                        <div class="bullet">□</div> Future-proof your work
+                        <BR>
+                        <br>
+                    </div>
+                </div>
+            </div>
+<div id=“cloud integration”></div>
+        </div>
+    </div>
+    <div class="servCon2">
+        <div class="servWrap">
+            <img class="sIcon2" src="../images/ruler-icon.png">
+            <div class="introTitleS">CLOUD INTEGRATION</div>
+            <div class="lineService"></div>
+            <div class="row">
+                <div class="column">
+                    <div class="servPageTitle">AMAZON ROBOMAKER AND GOOGLE CLOUD INTEGRATION</div>
+                    <div class="sSubText">
+                        <div class="bullet">□</div> Easily develop and deploy robotic fleets at scale <BR>
+                        <div class="bullet">□</div> Remote monitoring, logging, and control
+                        <BR>
+                        <div class="bullet">□</div> Improved cloud-based visual and speech recognition
+                        <BR>
+                        <div class="bullet">□</div> Simulation service to accelerate application testing
+                        <BR>
+                        <br>
+                    </div>
+                </div>
+            </div>
+<div id=“web-based robot control“></div>
+        </div>
+    </div>
+    <div class="servCon2">
+        <div class="servWrap">
+            <img class="sIcon2" src="../images/ruler-icon.png">
+            <div class="introTitleS">WEB-BASED ROBOT CONTROL</div>
+            <div class="lineService"></div>
+            <div class="row">
+                <div class="column">
+                    <div class="servPageTitle">MODERN PLATFORM-AGNOSTIC FRONT-ENDS</div>
+                    <div class="sSubText">
+                        <div class="bullet">□</div> Develop React and Python apps for your robotic system
+                        <BR>
+                        <div class="bullet">□</div> Leverage latest web standards and technologies
+                        <BR>
+                        <div class="bullet">□</div> Remote monitoring via video feeds and full situational awareness
+                        <BR>
+                        <div class="bullet">□</div> Connecting JavaScript to ROS via rosbridge
+                        <BR>
+                        <br>
+                    </div>
+                </div>
+            </div>          
         </div>
     </div>
 </div>
