@@ -426,7 +426,7 @@ permalink: /services/
                 <div class="column">
                 </div>
             </div>
-           <div id=“ros_2_integration”></div>
+           <div id="ros_2_integration"></div>
         </div>
     </div>
     <div class="servCon2">
@@ -449,7 +449,7 @@ permalink: /services/
                     </div>
                 </div>
             </div>
-           <div id=“cloud_integration”></div>
+           <div id="cloud_integration"></div>
         </div>
     </div>
     <div class="servCon2">
@@ -472,7 +472,7 @@ permalink: /services/
                     </div>
                 </div>
             </div>
-           <div id=“web-based_robot_control“></div>
+           <div id="web-based_robot_control"></div>
         </div>
     </div>
     <div class="servCon2">
