@@ -313,8 +313,8 @@ permalink: /jobs/
     <div class="jobs container">
         <div class="recColL">
             <div class="jobsPad">
-                <div class="jTitle collapsible-header" data-collapsed="true" id="job2">Software Engineer - Robotics
-                <span class="collapseText" id="collapseText2">EXPAND<span class="plus">+</span>
+                <div class="jTitle collapsible-header" data-collapsed="true" id="job4">Software Engineer - Robotics
+                <span class="collapseText" id="collapseText4">EXPAND<span class="plus">+</span>
                 </span>
                 </div>
                 <div class="pText content">
@@ -386,8 +386,8 @@ permalink: /jobs/
     <div class="jobs container">
         <div class="recColL">
             <div class="jobsPad">
-                <div class="jTitle collapsible-header" data-collapsed="true" id="job4">Office Linebacker
-                <span class="collapseText" id="collapseText4">EXPAND<span class="plus">+</span>
+                <div class="jTitle collapsible-header" data-collapsed="true" id="job5">Office Linebacker
+                <span class="collapseText" id="collapseText5">EXPAND<span class="plus">+</span>
                 </span>
                 </div>
                 <div class="pText content">
