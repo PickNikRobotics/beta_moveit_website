@@ -5,7 +5,7 @@ date: 2019-03-01
 layout: post
 title: Announcing the MoveIt2 Port
 media_type: image
-media_link: /assets/images/acutronic_mara.jpg
+media_link: /images/acutronic_mara.jpg
 description: Exciting news – the MoveIt! port to ROS 2.0 has begun! We are happy to announce that [Acutronic Robotics](https://acutronicrobotics.com/) is partnering with [PickNik](https://picknik.ai/) to sponsor a MoveIt! codesprint to begin the port to ROS 2.
 categories:
 - MoveIt!
