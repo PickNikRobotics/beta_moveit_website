@@ -216,8 +216,6 @@ permalink: /services/
                 <div class="column">
                     <div class="servPageTitle">ROS FRAMEWORK DESIGN</div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> Custom ROS development for your application / hardware
-                        <BR>
                         <div class="bullet">□</div> Consulting on best practices for standard ROS paradigms
                         <BR>
                         <div class="bullet">□</div> Training for internal development teams new to ROS
@@ -228,19 +226,6 @@ permalink: /services/
                     <BR>
                     <BR>
                 </div>
-                <div class="column">
-                    <div class="servPageTitle">ROS2 DDS MIDDLEWARE CONVERSION</div>
-                    <div class="sSubText">
-                        <div class="bullet">□</div> Assistance with converting legacy ROS packages to ROS2
-                        <BR>
-                        <div class="bullet">□</div> Expertise in ROS2 advantages and release status
-                        <BR>
-                    </div>
-                    <BR>
-                    <BR>
-                </div>
-            </div>
-            <div class="row">
                 <div class="column">
                     <div class="servPageTitle">HIGH-QUALITY ROS PACKAGES / STACKS</div>
                     <div class="sSubText">
@@ -344,6 +329,20 @@ permalink: /services/
                 </div>
             </div>
             <div class="row">
+                <div class="column">
+                    <div class="servPageTitle">MESH COLLISION OPTIMIZATION</div>
+                    <div class="sSubText">
+                        <div class="bullet">□</div> Defeature and reduce mesh complexity
+                        <BR>
+                        <div class="bullet">□</div> Reduce triangle count on meshes
+                        <BR>
+                        <div class="bullet">□</div> Create bounding convex decompositions of meshes
+                        <BR>
+                        <div class="bullet">□</div> Convert to coarse grain geometric primitives for highest speed optimizations                    
+                    </div>
+                    <BR>
+                    <BR>
+                </div>
                 <div class="column">
                     <div class="servPageTitle">CAD PACKAGES</div>
                     <div class="servPageTitleSub">We​ ​are​ ​currently​ ​compatible​ ​with​ ​the​ ​following​ ​CAD​ ​packages:</div>
