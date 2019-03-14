@@ -26,7 +26,7 @@ permalink: /services/
                 <div class="column">
                     <div class="servPageTitle">IDENTIFICATION OF THE BEST PATH PLANNING APPROACH </div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> Consulting services to use the best algorithm for a given application and problem type
+                        <div class="bullet">□</div> Consulting services to use the ideal algorithm for a given application and problem type
                         <BR>
                         <div class="bullet">□</div> Benchmarking competing approaches for analytical analysis
                         <BR>
@@ -60,7 +60,9 @@ permalink: /services/
                 <div class="column">
                     <div class="servPageTitle">OTHER MOTION PLANNING METHODS </div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> Search Based Planning Library (SBPL)
+                         <div class="bullet">□</div> Trajectory Optimization (TrajOpt)
+                        <BR>
+                         <div class="bullet">□</div> Search Based Planning Library (SBPL)
                         <BR>
                         <div class="bullet">□</div> Stochastic Trajectory Optimization for Motion Planning (STOMP)
                         <BR>
@@ -79,7 +81,7 @@ permalink: /services/
                         <BR>
                         <div class="bullet">□</div> More deterministic results
                         <BR>
-                        <div class="bullet">□</div> Experts in Thunder, Bolt, and Lightning algorithms
+                        <div class="bullet">□</div> Experts in Thunder and Lightning algorithms
                         <BR>
                     </div>
                 </div>
@@ -111,9 +113,11 @@ permalink: /services/
                 <div class="column">
                     <div class="servPageTitle">ITERATIVE METHODS</div>
                     <div class="sSubText">
+                        <div class="bullet">□</div> 7 degrees of freedom or more solvers
+                        <BR>
                         <div class="bullet">□</div> Advice in choosing the best inverse kinematics solvers for your application
                         <BR>
-                        <div class="bullet">□</div> Experts with off-the-shelf open source KDL, LMA, and Trac_IK solvers
+                        <div class="bullet">□</div> Experts with off-the-shelf open source KDL, LMA, and TracIK solvers
                         <BR>
                         <div class="bullet">□</div> Customize inverse Jacobian methods, gradient projection method, heuristic method, etc.
                         <BR>
@@ -166,7 +170,7 @@ permalink: /services/
                     <div class="sSubText">
                         <div class="bullet">□</div> Fast planners that are able to react and adjust to a changing environment
                         <BR>
-                        <div class="bullet">□</div> Dual mode Cartesian and free-space planning algorithms for wide range of applications
+                        <div class="bullet">□</div> Dual mode Cartesian and free-space planning algorithms for a wide range of applications
                         <BR>
                         <div class="bullet">□</div> System wide performance benchmarking
                         <BR>
@@ -189,6 +193,8 @@ permalink: /services/
                         <BR>
                         <div class="bullet">□</div> Collision aware planning using virtual maps of the environment
                         <BR>
+                        <div class="bullet">□</div> Continuous collision checking approaches 
+                        <BR>
                         <div class="bullet">□</div> Avoidance of local minimum around obstacles while planning
                         <BR>
                         <div class="bullet">□</div> Experts with relevant libraries including the Flexible Collision Library (FCL), Octomaps, and the Point Cloud Library (PCL)
@@ -204,7 +210,7 @@ permalink: /services/
     <div class="servCon2">
         <div class="servWrap">
             <img class="sIcon2" src="../images/icon5.jpg">
-            <div class="introTitleS">CUSTOM ROS INTEGRATION</div>
+            <div class="introTitleS">ROS FRAMEWORK DESIGN</div>
             <div class="lineService"></div>
             <div class="row">
                 <div class="column">
@@ -238,7 +244,7 @@ permalink: /services/
                 <div class="column">
                     <div class="servPageTitle">HIGH-QUALITY ROS PACKAGES / STACKS</div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> Fully ROS compliant code repository setup and catkinization
+                        <div class="bullet">□</div> Fully ROS-compliant code repository with best practices
                         <BR>
                         <div class="bullet">□</div> Documented, tested, and code-reviewed deliverables
                         <BR>
@@ -271,7 +277,7 @@ permalink: /services/
                         <BR>
                         <div class="bullet">□</div> ROS-Control framework for switching between simulated and real-world environments
                         <BR>
-                        <div class="bullet">□</div> Gazebo-based simulation of mobile navigation</div>
+                        <div class="bullet">□</div> Simulated Gazebo system of robot base navigation</div>
                 </div>
                 <div class="column">
                 </div>
@@ -290,7 +296,7 @@ permalink: /services/
                     <div class="sSubText">
                         <div class="bullet">□</div> Iterate faster on hardware by testing new designs virtually before physical prototyping
                         <BR>
-                        <div class="bullet">□</div> Deploy teleop environments with a high degree of situational awareness
+                        <div class="bullet">□</div> Deploy high situational awareness teleop environments
                         <BR>
                         <div class="bullet">□</div> Use ROS, Gazebo, and Rviz with off-the-shelf 3D headsets like the HTC Vive and Occulus Rift
                         <BR>
@@ -342,7 +348,7 @@ permalink: /services/
                     <div class="servPageTitle">CAD PACKAGES</div>
                     <div class="servPageTitleSub">We​ ​are​ ​currently​ ​compatible​ ​with​ ​the​ ​following​ ​CAD​ ​packages:</div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> Solidworks​ ​2017​ ​/​ ​2018
+                        <div class="bullet">□</div> Solidworks
                         <BR>
                         <div class="bullet">□</div> OnShape
                     </div>
@@ -374,58 +380,28 @@ permalink: /services/
                     </div>
                 </div>
             </div>
-            <div id="machine_learning"></div>
+            <div id="multilingual"></div>
         </div>
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon10.png">
-            <div class="introTitleS">MACHINE LEARNING</div>
+            <img class="sIcon2" src="../images/icon9.png">
+            <div class="introTitleS">MULTILINGUAL</div>
             <div class="lineService"></div>
             <div class="row">
                 <div class="column">
-                    <div class="servPageTitle">IDENTIFICATION OF BEST MACHINE LEARNING APPROACH</div>
+                    <div class="servPageTitle">MULTI-LINGUAL ROBOTS</div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> Consulting on best machine learning approaches to use for various applications
+                        <div class="bullet">□</div> C/C++ for high performance cross-platform code 
                         <BR>
-                        <div class="bullet">□</div> Experience with wide variety of machine learning algorithms for a wide variety of tasks
+                        <div class="bullet">□</div> Python - Wrap existing C/C++ functionality in the most common ROS scripting language
                         <BR>
-                        <div class="bullet">□</div> Implementation of novel algorithms and approaches
-                        <BR>
-                        <div class="bullet">□</div> Technical road-mapping
+                        <div class="bullet">□</div> Matlab - Prototype new algorithms or use codegen to run your code in C as a standalone app
                         <BR>
                         <br>
                     </div>
                 </div>
-                <div class="column">
-                    <div class="servPageTitle">PERCEPTION PIPELINES</div>
-                    <div class="sSubText">
-                        <div class="bullet">□</div> Neural Network based perception systems
-                        <BR>
-                        <div class="bullet">□</div> SVD, Random Forests, Naive Bayes, etc...
-                        <BR>
-                        <div class="bullet">□</div> Sophisticated algorithm analysis
-                        <BR>
-                        <div class="bullet">□</div> Structured and unstructured learning
-                        <BR>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="column">
-                    <div class="servPageTitle">DATA PIPELINE MANAGEMENT</div>
-                    <div class="sSubText">
-                        <div class="bullet">□</div> Dataset Generation and Labeling
-                        <BR>
-                        <div class="bullet">□</div> Feature Extraction and Data Munging
-                        <BR>
-                        <div class="bullet">□</div> ETL Pipelines using AWS and other cloud based services
-                        <BR>
-                    </div>
-                </div>
-                <div class="column">
-                </div>
-            </div>
+            </div>            
            <div id="ros_2_integration"></div>
         </div>
     </div>
@@ -436,10 +412,26 @@ permalink: /services/
             <div class="lineService"></div>
             <div class="row">
                 <div class="column">
-                    <div class="servPageTitle">WE CAN CONVERT YOUR CODE WITH EASE</div>
+                    <div class="servPageTitle">WE SPEAK BOTH ROS AND ROS2</div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> Next generation of ROS development                        <BR>
-                        <div class="bullet">□</div> Migration to DDS. Colcon, & Managed Nodes
+                        <div class="bullet">□</div> Expertise in ROS2 enabling technologies and release status
+                        <BR>
+                        <div class="bullet">□</div> Build your application on the next generation of ROS and future-proof your work
+                        <BR>
+                        <div class="bullet">□</div> Utilize industrial-grade features for enterprise systems
+                        <BR>
+                        <div class="bullet">□</div> Improved distributed robotic system support
+                        <BR>
+                        <div class="bullet">□</div> Quality of service guarantees for tough communication environments
+                        <BR>
+                    </div>
+                </div>         
+               <div class="column">          
+               <div class="servPageTitle">WE CAN CONVERT YOUR CODE WITH EASE</div>
+                    <div class="sSubText">
+                        <div class="bullet">□</div> Convert your ROS applications and their dependencies to ROS2               
+                        <BR>
+                        <div class="bullet">□</div> Migration to DDS, Colcon, & Managed Nodes
                         <BR>
                         <div class="bullet">□</div> Expanded industrial-grade features
                         <BR>
