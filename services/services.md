@@ -385,7 +385,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/ruler-icon9.png">
+            <img class="sIcon2" src="../images/icon9.png">
             <div class="introTitleS">MULTILINGUAL</div>
             <div class="lineService"></div>
             <div class="row">
