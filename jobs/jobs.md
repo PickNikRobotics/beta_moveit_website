@@ -141,7 +141,7 @@ permalink: /jobs/
                     <br><br>
                     <div class="pTitle2">Some preferred skills/experience:</div>
                     <br><br>
-                    <div class="bullet">&#9633;</div> MoveIt!, Gazebo, OpenRave, or other robotic libraries are advantageous
+                    <div class="bullet">&#9633;</div> MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
                     <br>
                     <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen and Boost
                     <br><br>
@@ -156,7 +156,7 @@ permalink: /jobs/
                     <div class="bullet">&#9633;</div> Health insurance and 401k savings plan
                     <br><br>
                     <div class="pTitle2">Skill Keywords: </div>
-                    <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
+                    <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
                     <br><br> Submit your resume <a href="https://workable.com/j/C90064C632">here</a> and highlight relevant experience.
                     <br>
@@ -230,7 +230,7 @@ permalink: /jobs/
                     <div class="bullet">&#9633;</div> Health insurance and 401k savings plan
                     <br><br>
                     <div class="pTitle2">Skill Keywords: </div>
-                    <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
+                    <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
                     <br><br> Submit your resume <a href="https://workable.com/j/BABC82A4CA">here</a> and highlight relevant experience.
                     <br><br>
@@ -277,7 +277,7 @@ permalink: /jobs/
                     <br>
                     <div class="bullet">&#9633;</div> Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field.
                     <br>
-                    <div class="bullet">&#9633;</div> Experience with MoveIt!, OMPL, OpenRave, Drake or similar motion planning frameworks.
+                    <div class="bullet">&#9633;</div> Experience with MoveIt, OMPL, OpenRave, Drake or similar motion planning frameworks.
                     <br><br>
                     <div class="pTitle2">Some preferred skills/experience:</div>
                     <br><br>
@@ -299,7 +299,7 @@ permalink: /jobs/
                     <div class="bullet">&#9633;</div> Health insurance and 401k savings plan
                     <br><br>
                     <div class="pTitle2">Skill Keywords: </div>
-                    <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit!, Inverse Kinematics
+                    <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
                     
                       <br><br> Submit your resume <a href="https://workable.com/j/CB0ED353E7">here</a> and highlight relevant experience.
