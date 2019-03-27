@@ -21,7 +21,7 @@ redirect_from:
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/davetcoleman/" target="_blank">Dave Coleman, PhD</a>
                 <div class="peoplePosition">Co-Founder, Senior Roboticist</div>
-                <div class="peopleDesc">B.S. MechEng Georgia Tech, Masters and PhD CompSci CU Boulder focusing on motion planning. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt! and ROS communities. His insights into robot-agnostic platforms that works for different morphologies, different theoretical approaches, and different end-user technical requirements give him a well-rounded understanding of the needs of powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, the Open Source Robotics Foundation, and Willow Garage.</div>
+                <div class="peopleDesc">B.S. MechEng Georgia Tech, Masters and PhD CompSci CU Boulder focusing on motion planning. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms that works for different morphologies, different theoretical approaches, and different end-user technical requirements give him a well-rounded understanding of the needs of powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, the Open Source Robotics Foundation, and Willow Garage.</div>
             </div>
         </div>
         <div class="peopleCol">
@@ -147,7 +147,7 @@ redirect_from:
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/ioansucan/" target="_blank">Ioan Sucan, PhD</a>
                 <div class="peoplePosition">Advisor</div>
-                <div class="peopleDesc">PhD in Computer Science, Rice University, Ioan is the original author of MoveIt! and the Open Motion Planning Library. In 2016 he was the winner of the IEEE RAS Early Career Award "for contributions to open source software for robot
+                <div class="peopleDesc">PhD in Computer Science, Rice University, Ioan is the original author of MoveIt and the Open Motion Planning Library. In 2016 he was the winner of the IEEE RAS Early Career Award "for contributions to open source software for robot
                     motion planning." He is currently a manager on the planning team at Alphabet's Waymo self-driving car division.
                 </div>
             </div>
