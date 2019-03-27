@@ -15,7 +15,7 @@ permalink: /jobs/
     <br><br><br>
     <div class="valueSection">
         <div class="teamPicCol1">
-            <img src="../images/team.png" id="teamPic">
+            <img src="../images/team.jpg" id="teamPic">
         </div>
         <div class="teamPicCol2">
             <div class="valuePadding">
