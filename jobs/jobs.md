@@ -40,7 +40,7 @@ permalink: /jobs/
                 </div>
                 <br>
                 <div class="perksDesc">
-                Standing desks, multiple monitors, toy dinosaurs... whatever you need to be happy at work.
+                Enjoy standing desks, multiple monitors, toy dinosaurs... whatever you need to be happy at work.
                 </div>
             </div>
             <div class="perksCol">
@@ -92,7 +92,7 @@ permalink: /jobs/
                 </div>
                 <br>
                 <div class="perksDesc">
-                Boulder's prime location in the foothills of the Rocky Mountains gives you easy access to all your favorite outdoor activities.
+                Boulder's location in the foothills of the Rockies gives you easy access to all your favorite outdoor activities.
                 </div>
             </div>
         </div>
