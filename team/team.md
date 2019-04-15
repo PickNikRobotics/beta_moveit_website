@@ -140,8 +140,6 @@ redirect_from:
                 <div class="peopleDesc">B.S. MechEng UC Berkeley, PhD Theoretical & Applied Mechanics Cornell University and two Postdocs. Asst Professor in the Dept of Computer Science. Chris's research focuses on autonomy, perception, field robotics, machine learning, and AI. His work is used by industry in the development of autonomous vehicles, agricultural robotics and other mobile robots including for medicine and automation, as well as the federal government for civil environmental monitoring, intelligence and defense.</div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/ioansucan/" target="_blank">
@@ -154,6 +152,8 @@ redirect_from:
                 </div>
             </div>
         </div>
+    </div>
+    <div class="peopleRow">
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://brian.gerkey.org/" target="_blank">
@@ -165,8 +165,6 @@ redirect_from:
                 </div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/michael-hurowitz-a016a76/" target="_blank">
@@ -178,8 +176,6 @@ redirect_from:
                     and 127 new products developed working with 35 Fortune 500 companies and almost 60 startups, 14 federal agencies, and 16 university research groups.</div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/rosejn/" target="_blank">

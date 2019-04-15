@@ -858,25 +858,19 @@
     margin-left: 60px;
   }
 
-  .introPadding{
-    .connectTextAdress {
-      margin-top: 22px;
-    }
-  }
-
   a.connectText:link {
     color: #000;
     text-decoration: none;
     font-weight: 500;
     font-size: 18px;
-    display: Inline;
+    display: inline-block;
   }
   a.connectText:visited {
     color: #000;
     text-decoration: none;
     font-weight: 500;
     font-size: 18px;
-    display: inline;
+    display: inline-block;
   }
   a.connectText:hover {
     color: #04e79f;
@@ -1099,4 +1093,13 @@
     background-color: #fff;
   }
   /* END People */
+}
+
+
+@media only screen and (max-width: 405px) {
+  .introPadding{
+    .connectTextAdress {
+      margin-top: 22px;
+    }
+  }
 }
