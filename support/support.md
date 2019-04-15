@@ -11,66 +11,51 @@ permalink: /support/
         <div class="sppRow">
             <div class="sppCol1"><img class="sppArrow" src="../assets/images/support-check.png"></div>
             <div class="sppCol2">
-                <div class="sppText">Design and consulting services for clients creating MoveIt!-enabled robotic applications</div>
+            <div class="sppText">Keep your robotics team moving quickly and efficiently as they integrate MoveIt</div>
                 <div class="margspp"></div>
             </div>
         </div>
         <div class="sppRow">
             <div class="sppCol1"><img class="sppArrow" src="../assets/images/support-check.png"></div>
             <div class="sppCol2">
-                <div class="sppText">Ongoing integration and development support for your engineering team</div>
+                <div class="sppText">Gain valuable access to the core MoveIt development team when problems arise</div>
                 <div class="margspp"></div>
             </div>
         </div>
         <div class="sppRow">
             <div class="sppCol1"><img class="sppArrow" src="../assets/images/support-check.png"></div>
             <div class="sppCol2">
-                <div class="sppText">Expert training and advice rooted in robotic theory</div>
+            <div class="sppText">Maximize effectiveness of open source software by having experts de-risk your project</div>
             </div>
         </div>
         <div class="sppRow">
             <div class="sppCol1"><img class="sppArrow" src="../assets/images/support-check.png"></div>
             <div class="sppCol2">
-                <div class="sppText">Cost-effective and reliable fixed-fee arrangement</div>
+            <div class="sppText">Utilize cost-effective and reliable long-term support</div>
             </div>
         </div>
     </div>
 </div>
 <div class="sppEngage">
     <div class="sppEngageWrap">
-        <div class="sppEngageTitle">WHAT HAPPENS WHEN YOU
-            <BR>ENGAGE WITH US?</div>
-        <div class="line"></div>
-        <div class="sppEngageRow">
-            <div class="sppEngageCol1">
-                <div class="sppEngageSubTitle">+ PLAN</div>
-                <div class="sppEngageSubText">We examine your robotic application and operation requirements, before proposing a customized solution. A full report accompanies the resulting integration recommendation.</div>
-            </div>
-            <div class="sppEngageCol2">
-                <div class="sppEngageSubTitle">+ INTEGRATE</div>
-                <div class="sppEngageSubText">We develop in house, or assist your engineers, in rolling out your MoveIt! and ROS-enabled system.</div>
-            </div>
-        </div>
-        <div class="sppEngageRow1">
-            <div class="sppEngageCol1">
-                <div class="sppEngageSubTitle">+ TRAIN</div>
-                <div class="sppEngageSubText">A vital element of the handover of your ROS packages concerns the transfer of detailed knowledge and documentation to your team on how build, test, and further customize as your robotic applications evolve.</div>
-            </div>
-            <div class="sppEngageCol2">
-                <div class="sppEngageSubTitle">+ SUPPORT</div>
-                <div class="sppEngageSubText">More than ever, having a team that can provide quick software support is crucial to avoiding project delays or blockers. PickNik guarantees support for those critical tasks.</div>
-            </div>
-        </div>
-        <div class="sppEngageRow1">
-            <div class="sppEngageCol1">
-                <div class="sppEngageSubTitle">+ UPGRADE</div>
-                <div class="sppEngageSubText">As your robotic application needs evolve, we collaborate closely with your team to improve your packages, taking advantages of open source contributions and academic research.</div>
-            </div>
-            <div class="sppEngageCol2">
-                <div class="sppEngageSubTitle">+ GIVE BACK</div>
-                <div class="sppEngageSubText">Any unused hours on your monthly support plan will be contributed to the open source maintenance and development of MoveIt! and related ROS packages.</div>
-            </div>
-        </div>
+        <div class="sppEngageTitle">CONTINUOUS VALUE IN
+            <BR>EVERY PHASE OF YOUR DEVELOPMENT</div>
+            <div class="line"></div>
+
+PickNik is the organization behind the MoveIt Motion Planning Framework. With a subscription to PickNik’s MoveIt ROS Support package, you get trusted knowledge and technical support from engineers deeply involved with MoveIt’s development. Your subscription offers value during each phase of your product development and empowers you to take full advantage of the open source robotics ecosystem.
+
+<br />
+<br />
+Our ongoing support of the MoveIt project ensures that we are uniquely qualified to assist your team in the integration and customization of MoveIt. From high level architecture decisions, to resolving common issues, this low-hassle engagement will help de-risk your robotics projects and provide enormous value to your organization.
+
+<br />
+<br />
+PickNik offers two support packages that will help keep your MoveIt ROS based project on track and your engineers focused on the problems that matter most to your core technologies.
+
+<br />
+<br />
+<!--For full details, see our <a href="">User Guide</a> -->
+
     </div>
 </div>
 <div class="ctaSupport">
