@@ -121,6 +121,17 @@ redirect_from:
     <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/tyler-weaver-b504626" target="_blank">
+                    <div class="bioPic" style="background-image: url('../images/p17.jpg')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/tyler-weaver-b504626" target="_blank">Tyler Weaver, BS</a>
+                <div class="peoplePosition">Software Engineer - Robotics</div>
+                <div class="peopleDesc">B.S. Computer Engineering from DeVry University. Tyler has a talent for C++ and Python programming having completed a number of different software applications over the past decade.  In 2013 he supported Special Operations in Afghanistan and at DeVry Tyler he built a stereo vision sensor for a robot for competing in the Colorado Robotics Challenge. He has since developed software defined radio libraries for wireless communication and sensing applications. In that position, Tyler worked on a large legacy codebase adding new signal types and improving the accelerated math library. 
+                </div>
+            </div>
+        </div>
+        <div class="peopleCol">
+            <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/christofferheckman/" target="_blank">
                     <div class="bioPic" style="background-image: url('../assets/images/p15.jpg')"></div>
                 </a><br>
@@ -129,6 +140,8 @@ redirect_from:
                 <div class="peopleDesc">B.S. MechEng UC Berkeley, PhD Theoretical & Applied Mechanics Cornell University and two Postdocs. Asst Professor in the Dept of Computer Science. Chris's research focuses on autonomy, perception, field robotics, machine learning, and AI. His work is used by industry in the development of autonomous vehicles, agricultural robotics and other mobile robots including for medicine and automation, as well as the federal government for civil environmental monitoring, intelligence and defense.</div>
             </div>
         </div>
+    </div>
+    <div class="peopleRow">
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/ioansucan/" target="_blank">
@@ -165,6 +178,8 @@ redirect_from:
                     and 127 new products developed working with 35 Fortune 500 companies and almost 60 startups, 14 federal agencies, and 16 university research groups.</div>
             </div>
         </div>
+    </div>
+    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/rosejn/" target="_blank">
