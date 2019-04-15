@@ -11,7 +11,7 @@ if [[ "$0" != "${BASH_SOURCE}" ]]; then
 fi
 
 # Install dependencies
-sudo apt-get install ruby ruby-dev build-essential
+sudo apt-get install ruby ruby-dev build-essential zlib1g-dev
 export GEM_HOME=$HOME/gems
 export PATH=$HOME/gems/bin:$PATH
 gem install jekyll bundler
