@@ -6,14 +6,14 @@ layout: post
 slug: gsoc-motion-planning-support
 title: Google Summer Of Code Project Improvements to Motion Planning Support
 media_type: image
-media_link: /images/chomp_1.png
+media_link: /assets/images/chomp_1.png
 description: Updates for motion planners in MoveIt!
 categories:
   - MoveIt!
   - ROS
 ---
 
-[<img src="{{ site.url }}/images/cover.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/cover.png)
+[<img src="{{ site.url }}/assets/images/cover.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/cover.png)
 
 Submitted by: Raghavender Sahdev, York University
 
@@ -36,7 +36,7 @@ In the initial phase of the project, MoveIt! tutorials were followed to get an u
 - [MoveIt! PR#987](https://github.com/ros-planning/moveit/pull/987): Addition of Failure Recovery options for CHOMP
 - [Panda_moveit_config PR#10](https://github.com/ros-planning/panda_moveit_config/pull/10): Added documentation in tutorial subsection on 3 new parameters in the chomp_planning.yaml file.
 
-[<img src="{{ site.url }}/images/chomp_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/chomp_1.png)
+[<img src="{{ site.url }}/assets/images/chomp_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/chomp_1.png)
 <br/>Figure 1: Motion Plan obtained from CHOMP In the presence of obstacles.
 
 Open Github issues looked into / addressed:
@@ -55,7 +55,7 @@ In this phase, STOMP support was added to make it work as a core motion planning
 - [Moveit_tutorials PR#185](https://github.com/ros-planning/moveit_tutorials/pull/185): Addition of STOMP Tutorial for STOMP motion planner in MoveIt! tutorials
 - [Panda_moveit_config PR#5](https://github.com/ros-planning/panda_moveit_config/pull/5): Addition of STOMP related planning files
 
-[<img src="{{ site.url }}/images/stomp_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/stomp_1.png)
+[<img src="{{ site.url }}/assets/images/stomp_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/stomp_1.png)
 <br/>Figure 2: Motion Plan obtained from STOMP In the presence of obstacles
 
 Github issues addressed / looked into:
@@ -63,12 +63,12 @@ Github issues addressed / looked into:
 
 ### 3. Benchmarking and Planning Adapters
 
-[<img src="{{ site.url }}/images/ompl_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/ompl_1.png)
+[<img src="{{ site.url }}/assets/images/ompl_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/ompl_1.png)
 <br/>Figure 3: Motion Plan obtained from OMPL In the presence of obstacles
 
 In this phase, the benchmarking code was made to work with different Motion Planning Algorithms like CHOMP, STOMP, and OMPL. Planning Request adapters were written for CHOMP and STOMP so they can be used as post-processor planners for the output obtained from other planners.
 
-[<img src="{{ site.url }}/images/planners_benchmark.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/planners_benchmark.png)
+[<img src="{{ site.url }}/assets/images/planners_benchmark.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/planners_benchmark.png)
 <br/>Figure 4: This image shows the benchmarking results for 5 different planning algorithms available in MoveIt! The parameter time is shown for the planners, other benchmarking parameters can also be selected for viewing for each of the planners.
 
 **Benchmarking results below:**
@@ -78,10 +78,10 @@ Sample environments (with obstacles) are available in MoveIt for testing motion 
 - rosrun moveit_tutorials collision_scene_example.py sparse (Figure 5) OR
 - rosrun moveit_tutorials collision_scene_example.py cluttered (Figure 6)
 
-[<img src="{{ site.url }}/images/single_obstacle.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/single_obstacle.png)
+[<img src="{{ site.url }}/assets/images/single_obstacle.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/single_obstacle.png)
 <br/>Figure 5. Simple Environment (Collision Scene example) with a single obstacle.
 
-[<img src="{{ site.url }}/images/multiple_obstacle.png" width="500" style="margin-right:20px"/>]({{ site.url }}/images/multiple_obstacle.png)
+[<img src="{{ site.url }}/assets/images/multiple_obstacle.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/multiple_obstacle.png)
 <br/>Figure 6. Complex Environment (Collision Scene example) with multiple obstacles.
 
 The Pull Requests for the same can be seen below:

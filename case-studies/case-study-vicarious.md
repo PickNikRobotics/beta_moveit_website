@@ -8,7 +8,7 @@ permalink: /case-study-vicarious/
         <div class="recRow">
             <div class="recColL">
                 <div class="recPad">
-                    <img class="pHolder" src="../images/cs-image.png">
+                    <img class="pHolder" src="../assets/images/cs-image.png">
                     <div class="pTitle">Vicarious​ ​-​ ​AI​ ​for​ ​the​ ​robot​ ​age</div>
                     <div class="pText">
                         <div class="ital">Improving​ ​Baxter​ ​robot​ ​to​ ​work​ ​on​ ​the​ ​latest​ ​Gazebo​ ​simulator​ ​and​ ​ROS​ ​release.</div><br><br>

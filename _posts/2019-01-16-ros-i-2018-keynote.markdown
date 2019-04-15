@@ -5,7 +5,7 @@ date: 2019-01-16
 layout: post
 title: PickNik Keynote at ROS Industrial Conference 2018
 media_type: image
-media_link: /images/ros-i-18/dave-keynote.png
+media_link: /assets/images/ros-i-18/dave-keynote.png
 description: Open Source Robotics for Fun and Profit
 categories:
   - MoveIt!

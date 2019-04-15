@@ -44,25 +44,26 @@ permalink: /connect/
                 <div class="introSubText2">
                     Let us know how we can help. Request a free consultation today:
                 </div>
-                <img class="connectIcon" src="../images/connect-mail.jpg">
+                <img class="connectIcon" src="../assets/images/connect-mail.jpg">
                 <a class="connectText" href="mailto:hello@picknik.ai">hello@picknik.ai</a>
                 <div class="connectMarg"></div>
-                <img class="connectIcon" src="../images/connect-github.png">
+                <img class="connectIcon" src="../assets/images/connect-github.png">
                 <a class="connectText" target="_blank" href="https://github.com/PickNikRobotics/">GitHub</a>
                 <div class="connectMarg"></div>
-                <img class="connectIcon" src="../images/connect-phone.jpg">
+                <img class="connectIcon" src="../assets/images/connect-phone.jpg">
                 <div class="connectText2">720.513.2221</div>
                 <div class="connectMarg"></div>
-                <img class="connectIcon" src="../images/connect-twitter.jpg">
+                <img class="connectIcon" src="../assets/images/connect-twitter.jpg">
                 <a class="connectText" target="_blank" href="https://twitter.com/PickNikRobotics">@PickNikRobotics</a>
                 <div class="connectMarg"></div>
-                <img class="connectIcon" src="../images/connect-linkedin.png">
+                <img class="connectIcon" src="../assets/images/connect-linkedin.png">
                 <a class="connectText" target="_blank" href="https://www.linkedin.com/company/16217177/">LinkedIn</a>
                 <div class="connectMarg"></div>
-                <img class="connectIcon" src="../images/office-icon.png">
-                <a class="connectText" target="_blank" href="https://maps.google.com/?q=1942 Broadway, Suite 314 Boulder, Colorado 80302">
-                    <span id="addressText1">1942 Broadway, Suite 314</span> <br>
-                    <span id="addressText2">Boulder, Colorado 80302</span></a>
+                <img class="connectIcon connectIconAdress" src="../assets/images/office-icon.png">
+                <a class="connectText connectTextAdress" target="_blank" href="https://maps.google.com/?q=1942 Broadway, Suite 314 Boulder, Colorado 80302">
+                    <span>1942 Broadway, Suite 314</span>
+                    <span>Boulder, Colorado 80302</span>
+                </a>
                 <div class="connectMarg"></div>
             </div>
         </div>

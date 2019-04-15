@@ -8,7 +8,7 @@ permalink: /case-study-franka/
     <div class="recRow">
         <div class="recColL">
             <div class="recPad">
-                <img class="pHolder" src="../images/franka-cs.png">
+                <img class="pHolder" src="../assets/images/franka-cs.png">
                 <div class="pTitle">FRANKA EMIKA ​-​ ​ROBOTS FOR EVERYONE</div>
                 <div class="pText">
                     <div class="ital">Codesprint to make Panda the flagship robot of the MoveIt tutorials.</div>

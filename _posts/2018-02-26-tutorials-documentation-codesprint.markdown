@@ -6,7 +6,7 @@ layout: post
 slug: tutorials-documentation-codesprint
 title: Announcing MoveIt! Tutorials Codesprint with Franka Emika & PickNik
 media_type: image
-media_link: /images/Franka_Emika_Panda.jpg
+media_link: /assets/images/Franka_Emika_Panda.jpg
 description: We are excited to announce that the robotic arm manufacturer Franka Emika is partnering with PickNik to sponsor a MoveIt! codesprint to further improve MoveIt!’s tutorials, documentation, and website.
 categories:
   - MoveIt!
@@ -27,4 +27,4 @@ There are several key objectives we want to achieve:
 
 We would like to thank Franka Emika for agreeing to sponsor this code sprint and their newest sensitive robotic arm - Panda - becoming the new flagship robot in the MoveIt! tutorials. You can find more information about open-source libraries and existing ROS integration of Panda at [https://frankaemika.github.io](https://frankaemika.github.io).
 
-<img src="{{ site.url }}/images/franka_logo.png" width="300" style="margin-top:20px"/>
+<img src="{{ site.url }}/assets/images/franka_logo.png" width="300" style="margin-top:20px"/>

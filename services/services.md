@@ -7,7 +7,7 @@ permalink: /services/
     <div class="introCol1C"></div>
     <div class="introCol2P">
         <div class="introPadding">
-            <img class="peopleIcon" src="../images/serv-icon.png">
+            <img class="peopleIcon" src="../assets/images/serv-icon.png">
             <div class="introTitle">Our Services</div>
             <div class="line"></div>
             <div class="introSubTextP">At PickNik, we care about the quality of your robotic system. We listen to your needs and tailor our services to ensure smooth delivery of highly-quality solutions. <br><br>Read on to learn more.
@@ -19,7 +19,7 @@ permalink: /services/
     <div id="motion_planning_service"></div>
     <div class="servCon">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon1.jpg">
+            <img class="sIcon2" src="../assets/images/icon1.jpg">
             <div class="introTitleS">MOTION PLANNING</div>
             <div class="lineService"></div>
             <div class="row">
@@ -91,7 +91,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon2.jpg">
+            <img class="sIcon2" src="../assets/images/icon2.jpg">
             <div class="introTitleS">ADVANCED INVERSE KINEMATICS</div>
             <div class="lineService"></div>
             <div class="row">
@@ -148,7 +148,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon3.jpg">
+            <img class="sIcon2" src="../assets/images/icon3.jpg">
             <div class="introTitleS">REAL-TIME CONTROL</div>
             <div class="lineService"></div>
             <div class="row">
@@ -182,7 +182,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon4.jpg">
+            <img class="sIcon2" src="../assets/images/icon4.jpg">
             <div class="introTitleS">COLLISION AVOIDANCE</div>
             <div class="lineService"></div>
             <div class="row">
@@ -193,7 +193,7 @@ permalink: /services/
                         <BR>
                         <div class="bullet">□</div> Collision aware planning using virtual maps of the environment
                         <BR>
-                        <div class="bullet">□</div> Continuous collision checking approaches 
+                        <div class="bullet">□</div> Continuous collision checking approaches
                         <BR>
                         <div class="bullet">□</div> Avoidance of local minimum around obstacles while planning
                         <BR>
@@ -209,7 +209,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon5.jpg">
+            <img class="sIcon2" src="../assets/images/icon5.jpg">
             <div class="introTitleS">ROS FRAMEWORK DESIGN</div>
             <div class="lineService"></div>
             <div class="row">
@@ -247,7 +247,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon6.jpg">
+            <img class="sIcon2" src="../assets/images/icon6.jpg">
             <div class="introTitleS">2D NAVIGATION</div>
             <div class="lineService"></div>
             <div class="row">
@@ -272,7 +272,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon7.jpg">
+            <img class="sIcon2" src="../assets/images/icon7.jpg">
             <div class="introTitleS">VIRTUAL REALITY</div>
             <div class="lineService"></div>
             <div class="row">
@@ -297,7 +297,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon8.jpg">
+            <img class="sIcon2" src="../assets/images/icon8.jpg">
             <div class="introTitleS">ROBOT MODELLING</div>
             <div class="lineService"></div>
             <div class="row">
@@ -338,7 +338,7 @@ permalink: /services/
                         <BR>
                         <div class="bullet">□</div> Create bounding convex decompositions of meshes
                         <BR>
-                        <div class="bullet">□</div> Convert to coarse grain geometric primitives for highest speed optimizations                    
+                        <div class="bullet">□</div> Convert to coarse grain geometric primitives for highest speed optimizations
                     </div>
                     <BR>
                     <BR>
@@ -360,7 +360,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/ruler-icon.png">
+            <img class="sIcon2" src="../assets/images/ruler-icon.png">
             <div class="introTitleS">WORKSPACE ANALYSIS</div>
             <div class="lineService"></div>
             <div class="row">
@@ -384,14 +384,14 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/icon9.png">
+            <img class="sIcon2" src="../assets/images/icon9.png">
             <div class="introTitleS">MULTILINGUAL</div>
             <div class="lineService"></div>
             <div class="row">
                 <div class="column">
                     <div class="servPageTitle">MULTI-LINGUAL ROBOTS</div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> C/C++ for high performance cross-platform code 
+                        <div class="bullet">□</div> C/C++ for high performance cross-platform code
                         <BR>
                         <div class="bullet">□</div> Python - Wrap existing C/C++ functionality in the most common ROS scripting language
                         <BR>
@@ -400,13 +400,13 @@ permalink: /services/
                         <br>
                     </div>
                 </div>
-            </div>            
+            </div>
            <div id="ros_2_integration"></div>
         </div>
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/ros2-icon.png">
+            <img class="sIcon2" src="../assets/images/ros2-icon.png">
             <div class="introTitleS">ROS 2 INTEGRATION</div>
             <div class="lineService"></div>
             <div class="row">
@@ -424,11 +424,11 @@ permalink: /services/
                         <div class="bullet">□</div> Quality of service guarantees for tough communication environments
                         <BR>
                     </div>
-                </div>         
-               <div class="column">          
+                </div>
+               <div class="column">
                <div class="servPageTitle">WE CAN CONVERT YOUR CODE WITH EASE</div>
                     <div class="sSubText">
-                        <div class="bullet">□</div> Convert your ROS applications and their dependencies to ROS2               
+                        <div class="bullet">□</div> Convert your ROS applications and their dependencies to ROS2
                         <BR>
                         <div class="bullet">□</div> Migration to DDS, Colcon, & Managed Nodes
                         <BR>
@@ -445,7 +445,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/cloud-icon.png">
+            <img class="sIcon2" src="../assets/images/cloud-icon.png">
             <div class="introTitleS">CLOUD INTEGRATION</div>
             <div class="lineService"></div>
             <div class="row">
@@ -468,7 +468,7 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../images/react-icon.png">
+            <img class="sIcon2" src="../assets/images/react-icon.png">
             <div class="introTitleS">WEB-BASED ROBOT CONTROL</div>
             <div class="lineService"></div>
             <div class="row">
@@ -486,7 +486,7 @@ permalink: /services/
                         <br>
                     </div>
                 </div>
-            </div>          
+            </div>
         </div>
     </div>
 </div>

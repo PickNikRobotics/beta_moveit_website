@@ -6,7 +6,7 @@ layout: post
 slug: firstmelodicrelease
 title: MoveIt! officially released into ROS Melodic
 media_type: image
-media_link: /images/melodic.jpg
+media_link: /assets/images/melodic.jpg
 description: MoveIt! is now released into ROS Melodic LTS (Long Term Support)!
 categories:
   - MoveIt!

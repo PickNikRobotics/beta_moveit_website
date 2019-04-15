@@ -8,7 +8,7 @@ permalink: /case-study-carbon/
     <div class="recRow">
         <div class="recColL">
             <div class="recPad">
-                <img class="pHolder" src="../images/carbon-cs.png">
+                <img class="pHolder" src="../assets/images/carbon-cs.png">
                 <div class="pTitle">CARBON ROBOTICS -​ ​ADVANCED ROBOTICS TO THE MASSES</div>
                 <div class="pText">
                     <div class="ital">Leveraging MoveIt for the application layer of a robot hardware manufacturer.</div>

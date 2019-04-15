@@ -21,7 +21,7 @@ title: Blog
       </div>
       {% else %}
       <div class="blog-image-wrapper blog-image-wrapper-main">
-        <img src="/assets/images/main/default-image.png" style="width:100%;">
+        <img src="/assets/assets/images/main/default-image.png" style="width:100%;">
       </div>
       {% endif %}
     </a>
@@ -29,6 +29,9 @@ title: Blog
   <div class="col-sm-6 col-lg-4 blog-align-center">
     <a href="{{ post.url }}">
       <div class="blog-text-wrapper">
+        <span class="blog-date">
+          {{ post.date | date: '%B %d, %Y'}}
+        </span>
         <h3>
           {{ post.title }}
         </h3>
@@ -52,10 +55,13 @@ title: Blog
         </div>
         {% else %}
         <div class="blog-image-wrapper">
-          <img src="/images/default-image.jpg" style="width:100%;">
+          <img src="/assets/images/default-image.jpg" style="width:100%;">
         </div>
         {% endif %}
         <div class="blog-text-wrapper">
+          <span class="blog-date">
+            {{ post.date | date: '%B %d, %Y'}}
+          </span>
           <h3>{{ post.title | truncate: 50}}</h3>
           <p>{{ post.description | truncate: 156 }}</p>
         </div>
@@ -66,6 +72,6 @@ title: Blog
 </div>
 <div class="row">
     <a href="/feed.xml" class="rss-feed">
-      <img src="/images/feed-icon.jpg">
+      <img src="/assets/images/feed-icon.jpg">
     </a>
 </div>

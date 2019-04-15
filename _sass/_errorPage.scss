@@ -4,6 +4,12 @@
   height: 100%;
 }
 
+.errorContainer {
+  .peopleIcon {
+    margin-top: 30px;
+  }
+}
+
 .homeButton {
   float: none;
   display: block;
@@ -20,12 +26,5 @@
 @media only screen and (max-width: 1200px) {
   .onlyLg {
     display: none;
-  }
-  .perksCol {
-    width: 80%;
-    height: 450px;
-  }
-  .perksIcon {
-    margin-left: -15%;
   }
 }

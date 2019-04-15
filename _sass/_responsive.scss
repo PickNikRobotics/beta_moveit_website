@@ -1,3 +1,11 @@
+@media only screen and (max-width: 1200px) {
+  .perksCol {
+    width: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
 @media only screen and (max-width: 900px) {
   .mobileOnly {
     display: block;
@@ -53,7 +61,7 @@
     width: 100%;
     padding-top: 140px;
     padding-bottom: 90px;
-    background-image: url('../images/suppbg.jpg');
+    background-image: url('../assets/images/suppbg.jpg');
     background-size: cover;
   }
   .sppWrap {
@@ -786,7 +794,7 @@
     text-align: center;
     padding-top: 120px;
     padding-bottom: 120px;
-    background-image: url('../images/red-arm.jpg');
+    background-image: url('../assets/images/red-arm.jpg');
     background-size: cover;
     background-position: center center;
   }
@@ -798,7 +806,7 @@
     text-align: center;
     padding-top: 120px;
     padding-bottom: 120px;
-    background-image: url('../images/red-arm.jpg');
+    background-image: url('../assets/images/red-arm.jpg');
     background-size: cover;
     background-position: center center;
   }
@@ -849,6 +857,13 @@
   #addressText2 {
     margin-left: 60px;
   }
+
+  .introPadding{
+    .connectTextAdress {
+      margin-top: 22px;
+    }
+  }
+
   a.connectText:link {
     color: #000;
     text-decoration: none;
@@ -885,7 +900,7 @@
     text-align: center;
     padding-top: 120px;
     padding-bottom: 120px;
-    background-image: url('../images/projects-image.jpg');
+    background-image: url('../assets/images/projects-image.jpg');
     background-size: cover;
     background-position: center center;
   }
@@ -896,7 +911,7 @@
     text-align: center;
     padding-top: 120px;
     padding-bottom: 120px;
-    background-image: url('../images/services-medical-robot.jpg');
+    background-image: url('../assets/images/services-medical-robot.jpg');
     background-size: cover;
     background-position: center center;
   }
@@ -1025,11 +1040,12 @@
   .perksIcon {
     margin: 0;
   }
+
   .perksCol {
     width: 100%;
+    flex: 100%;
     padding: 0;
-    margin: 0;
-    display: block;
+    max-width: 100%;
   }
   /*END Jobs */
   .caseLogo {
@@ -1067,6 +1083,9 @@
   .peopleSubText {
     padding-left: 5%;
     padding-right: 5%;
+  }
+  .peopleRow {
+    display: block;
   }
   .peopleCol {
     display: block;

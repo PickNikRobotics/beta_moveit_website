@@ -5,7 +5,7 @@ permalink: /jobs/
 ---
 
 <div class="people">
-    <img class="peopleIcon" src="../images/people-icon.png">
+    <img class="peopleIcon" src="../assets/images/people-icon.png">
     <div class="integTitle">WORK AT PICKNIK</div>
     <div class="lineN"></div>
     <div class="integSubText">Cutting edge. Dynamic. Robotics.
@@ -15,11 +15,11 @@ permalink: /jobs/
     <br><br><br>
     <div class="valueSection">
         <div class="teamPicCol1">
-            <img src="../images/team.jpg" id="teamPic">
+            <img src="../assets/images/team.jpg" id="teamPic">
         </div>
         <div class="teamPicCol2">
             <div class="valuePadding">
-                <img class="peopleIcon" src="../images/hand-icon.png">
+                <img class="peopleIcon" src="../assets/images/hand-icon.png">
                 <div class="introTitle">We Value Our Team</div>
                 <div class="line"></div>
                 <div class="introSubTextP">We are building a team of world-class professionals. Work-life balance is a key value for us. We work hard and smart. We believe in flexibility, freedom, internal mentorship, and the ability to work from anywhere. We take the initiative to do it right and believe in continuous improvement.
@@ -34,7 +34,7 @@ permalink: /jobs/
         <div class="lineN"></div>
         <div class="perksRow">
             <div class="perksCol">
-                <img src="../images/workspace-icon-2.png" class="perksIcon">
+                <img src="../assets/images/workspace-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Dream Workspaces
                 </div>
@@ -44,7 +44,7 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="perksCol">
-                <img src="../images/lunch-icon-2.png" class="perksIcon">
+                <img src="../assets/images/lunch-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Free Lunch
                 </div>
@@ -54,7 +54,7 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="perksCol">
-                <img src="../images/bus-bike-icon-2.png" class="perksIcon">
+                <img src="../assets/images/bus-bike-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Bus/Bike To Work
                 </div>
@@ -66,7 +66,7 @@ permalink: /jobs/
         </div>
         <div class="perksRow">
             <div class="perksCol">
-                <img src="../images/vacation-icon-2.png" class="perksIcon">
+                <img src="../assets/images/vacation-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Flexible Vacation Policy
                 </div>
@@ -76,7 +76,7 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="perksCol">
-                <img src="../images/sun-icon-2.png" class="perksIcon">
+                <img src="../assets/images/sun-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Great Weather
                 </div>
@@ -86,7 +86,7 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="perksCol">
-                <img src="../images/location-icon-2.png" class="perksIcon">
+                <img src="../assets/images/location-icon-2.png" class="perksIcon">
                 <div class="perksSub">
                 Location
                 </div>
@@ -107,7 +107,7 @@ permalink: /jobs/
                 <div class="pText content">
                 <br><hr><br>
                     <div class="ital">Boulder, Denver · Full Time</div><br><br>
-                    <div class="pTitle2">Job Description:</div> 
+                    <div class="pTitle2">Job Description:</div>
                     <br><br> As an Applied Robotics Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software
                     applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated software in a variety of languages and
                     platforms that will be used on robots around the world (and in outer space!).
@@ -176,7 +176,7 @@ permalink: /jobs/
                 <div class="pText content">
                 <br><hr>
                     <div class="ital">Boulder, Denver · Full Time</div><br><br>
-                    <div class="pTitle2">Job Description:</div> 
+                    <div class="pTitle2">Job Description:</div>
                     <br><br> As a Senior Robotics Software Engineer at PickNik Consulting you’ll be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source
                     projects. Duties will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to framework design and
                     implementation.
@@ -301,7 +301,7 @@ permalink: /jobs/
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
-                    
+
                       <br><br> Submit your resume <a href="https://workable.com/j/CB0ED353E7">here</a> and highlight relevant experience.
                     <br>
                     <br>
@@ -320,8 +320,8 @@ permalink: /jobs/
                 <div class="pText content">
                 <br><hr>
                     <div class="ital">Boulder, Denver · Full Time</div><br><br>
-                    <div class="pTitle2">Job Description:</div> 
-                    <br><br> As a Software Engineer (Robotics) at PickNik Consulting you’ll be developing software applications, creating user interfaces, optimizing algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Responsibilities will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to software design and implementation. 
+                    <div class="pTitle2">Job Description:</div>
+                    <br><br> As a Software Engineer (Robotics) at PickNik Consulting you’ll be developing software applications, creating user interfaces, optimizing algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Responsibilities will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to software design and implementation.
                     <br><br> Am I a good fit?
                     <br><br>
                     <div class="bullet">&#9633;</div> You love robotics and have a passion for creating the next generation of robot software
@@ -354,9 +354,9 @@ permalink: /jobs/
 		            <br><br>
 		        	<div class="pTitle2">Some preferred skills/experience:</div>
 		            <br><br>
-		        	<div class="bullet">&#9633; </div> ROS, MoveIt!, Gazebo, OpenRave, or other robotic libraries are advantageous 
+		        	<div class="bullet">&#9633; </div> ROS, MoveIt!, Gazebo, OpenRave, or other robotic libraries are advantageous
 		            <br>
-		        	<div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen, Qt, CMake, Bazel, and Protobufs 
+		        	<div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen, Qt, CMake, Bazel, and Protobufs
 		            <br>
 		        	<div class="bullet">&#9633;</div> Background in Agile software development methodology e.g. JIRA
 		            <br>

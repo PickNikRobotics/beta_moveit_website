@@ -1,36 +1,36 @@
---- 
+---
 layout: page
-title: MoveIt-Advantage-Support 
-permalink: /moveit-advantage-support/ 
+title: MoveIt-Advantage-Support
+permalink: /moveit-advantage-support/
 ---
 <!DOCTYPE html>
 <div class="sppHero">
     <div class="sppWrap">
-        <div class="sppHeroTitle"> <img id="moveit-logo-black" src="../images/moveit-logo-black.png"> </div>
+        <div class="sppHeroTitle"> <img id="moveit-logo-black" src="../assets/images/moveit-logo-black.png"> </div>
         <div class="sppHeroSubTitle">ONGOING SUPPORT</div>
         <div class="sppLine"></div>
         <div class="sppRow">
-            <div class="sppCol1"><img class="sppArrow" src="../images/support-check.png"></div>
+            <div class="sppCol1"><img class="sppArrow" src="../assets/images/support-check.png"></div>
             <div class="sppCol2">
                 <div class="sppText">Design and consulting services for clients creating MoveIt!-enabled robotic applications</div>
                 <div class="margspp"></div>
             </div>
         </div>
         <div class="sppRow">
-            <div class="sppCol1"><img class="sppArrow" src="../images/support-check.png"></div>
+            <div class="sppCol1"><img class="sppArrow" src="../assets/images/support-check.png"></div>
             <div class="sppCol2">
                 <div class="sppText">Ongoing integration and development support for your engineering team</div>
                 <div class="margspp"></div>
             </div>
         </div>
         <div class="sppRow">
-            <div class="sppCol1"><img class="sppArrow" src="../images/support-check.png"></div>
+            <div class="sppCol1"><img class="sppArrow" src="../assets/images/support-check.png"></div>
             <div class="sppCol2">
                 <div class="sppText">Expert training and advice rooted in robotic theory</div>
             </div>
         </div>
         <div class="sppRow">
-            <div class="sppCol1"><img class="sppArrow" src="../images/support-check.png"></div>
+            <div class="sppCol1"><img class="sppArrow" src="../assets/images/support-check.png"></div>
             <div class="sppCol2">
                 <div class="sppText">Cost-effective and reliable fixed-fee arrangement</div>
             </div>

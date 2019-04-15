@@ -3,10 +3,11 @@ layout: page
 title: Team
 permalink: /team/
 redirect_from:
-    - /people/
+  - /people/
 ---
+
 <div class="people">
-    <img class="peopleIcon" src="../images/people-icon.png">
+    <img class="peopleIcon" src="../assets/images/people-icon.png">
     <div class="integTitle">OUR TEAM</div>
     <div class="lineN"></div>
     <div class="peopleSubText">PickNik has over 62 years of combined experience in the field of robotics and automation, and the team is rooted in a deep academic background of robotics theory.
@@ -17,7 +18,7 @@ redirect_from:
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/davetcoleman/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p1.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p1.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/davetcoleman/" target="_blank">Dave Coleman, PhD</a>
                 <div class="peoplePosition">Co-Founder, Senior Roboticist</div>
@@ -27,7 +28,7 @@ redirect_from:
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/andymcevoy/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p2.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p2.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/andymcevoy/" target="_blank">Andy McEvoy, PhD</a>
                 <div class="peoplePosition">Co-Founder, Senior Roboticist</div>
@@ -39,7 +40,7 @@ redirect_from:
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/mikelautman/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p3.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p3.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/mikelautman/" target="_blank">Mike Lautman, MSE</a>
                 <div class="peoplePosition">Co-Founder, Roboticist</div>
@@ -53,7 +54,7 @@ redirect_from:
     <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p4.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p4.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/robertccoleman/" target="_blank">Rob Coleman</a>
                 <div class="peoplePosition">Co-Founder, Business Operations</div>
@@ -65,7 +66,7 @@ redirect_from:
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/nathan-b-brooks/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p10.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p10.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/nathan-b-brooks/" target="_blank">Nathan Brooks, PhD</a>
                 <div class="peoplePosition">Applied Robotics Scientist</div>
@@ -75,7 +76,7 @@ redirect_from:
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/stephenbrawner/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p11.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p11.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/stephenbrawner/" target="_blank">Stephen Brawner, PhD, PE</a>
                 <div class="peoplePosition">Applied Robotics Scientist</div>
@@ -87,29 +88,17 @@ redirect_from:
     <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/stonelinks/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p13.png')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p13.png')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/stonelinks/" target="_blank">Lucas Doyle</a>
                 <div class="peoplePosition">Senior Software Engineer</div>
                 <div class="peopleDesc">B.S. Computer and Systems Engineering, Rensselaer Polytechnic Institute with a focus on robotics. Luke is an engineer who likes building interfaces to robots, autonomous vehicles and automated machinery. He spent a couple years in Japan working in industrial / manufacturing robotics for MUJIN, and has been in San Francisco working on drones/robotics for over 4 years.</div>
             </div>
         </div>
-        <div class="peopleCol">
-            <div class="recPadP">
-                <a style="display:inline-block;" href="https://www.linkedin.com/in/lynn-regnier-73a8b7a3/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p9.jpg')"></div>
-                </a><br>
-                <a class="peopleName" href="https://www.linkedin.com/in/lynn-regnier-73a8b7a3/" target="_blank">Lynn Regnier</a>
-                <div class="peoplePosition">Accountant & Financial Manager</div>
-                <div class="peopleDesc">MS in Accounting (in progress), University of Colorado, Boulder. MS in Food Science, University of Massachusetts, Amherst. Lynn has been working in operations for software companies since 2015. She made this career change after a long
-                    career as a food scientist. Lynn enjoys learning about organizations and compiling the financial information organizations need for decision making.
-                </div>
-            </div>
-        </div>
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/lars-henning-kayser-79ab18178/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p14.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p14.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/lars-henning-kayser-79ab18178/" target="_blank">Henning Kayser, MSE</a>
                 <div class="peoplePosition">Applied Robotics Scientist</div>
@@ -117,12 +106,10 @@ redirect_from:
                 </div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/andy-zelenak-a659b3127" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p16.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p16.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/andy-zelenak-a659b3127" target="_blank">Andy Zelenak, PhD</a>
                 <div class="peoplePosition">Senior Controls Engineer</div>
@@ -130,10 +117,12 @@ redirect_from:
                 </div>
             </div>
         </div>
+    </div>
+    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/christofferheckman/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p15.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p15.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/christofferheckman/" target="_blank">Chris Heckman, PhD</a>
                 <div class="peoplePosition">Senior Perception Researcher</div>
@@ -143,7 +132,7 @@ redirect_from:
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/ioansucan/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p8.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p8.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/ioansucan/" target="_blank">Ioan Sucan, PhD</a>
                 <div class="peoplePosition">Advisor</div>
@@ -152,12 +141,10 @@ redirect_from:
                 </div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://brian.gerkey.org/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p12.png')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p12.png')"></div>
                 </a><br>
                 <a class="peopleName" href="https://brian.gerkey.org/" target="_blank">Brian Gerkey, PhD</a>
                 <div class="peoplePosition">Advisor</div>
@@ -165,10 +152,12 @@ redirect_from:
                 </div>
             </div>
         </div>
+    </div>
+    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/michael-hurowitz-a016a76/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p5.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p5.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/michael-hurowitz-a016a76/" target="_blank">Mike Hurowitz</a>
                 <div class="peoplePosition">Advisor</div>
@@ -179,12 +168,13 @@ redirect_from:
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/rosejn/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p6.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p6.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/rosejn/" target="_blank">Jeff Rose</a>
                 <div class="peoplePosition">Advisor</div>
                 <div class="peopleDesc">Jeff is a Partner of Origin Rose, a strategic consulting company. Over the last 3 years, he also led ThinkTopic, a Boulder based AI company, as Co-founder and CEO. ThinkTopic has worked with a wide range of organizations, from the Asian Development Bank to Conde Nast and Digital Globe. Before starting
-                    ThinkTopic, Jeff was one of the first research engineers at (Google) DeepMind, where he collaborated with neuroscientists to develop novel machine learning algorithms.</div>
+                    ThinkTopic, Jeff was one of the first research engineers at (Google) DeepMind, where he collaborated with neuroscientists to develop novel machine learning algorithms.
+                </div>
             </div>
         </div>
     </div>
