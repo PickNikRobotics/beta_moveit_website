@@ -17,17 +17,20 @@ export PATH=$HOME/gems/bin:$PATH
 gem install jekyll bundler
 bundle install
 
-# Build website using same script as Travis
+# Test website using same script as Travis
 ./.travis.sh
 
 # Launch website
 echo
 echo "-------------------------------------"
 echo "-------------------------------------"
-read -p "Press any key to start serving website, then open http://localhost:4000 in browser"
+echo "Preparing to open http://localhost:4000"
+echo "Be sure to refresh auto-opened webpage"
+read -p "Press any key to start serving website..."
 echo "-------------------------------------"
 echo "-------------------------------------"
 echo
+google-chrome http://localhost:4000
 
 # Start serving website locally
 bundle exec jekyll serve
