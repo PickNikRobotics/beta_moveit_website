@@ -8,10 +8,10 @@ media_type: image
 media_link: /assets/images/ros-i-18/dave-keynote.png
 description: Open Source Robotics for Fun and Profit
 categories:
-  - MoveIt!
+  - MoveIt
   - ROS
 ---
 
 From public funding opportunities to the latest technologies in software and system integration, this year's [2018 ROS-Industrial European Conference](https://rosindustrial.org/events/2018/12/11/ros-industrial-conference-2018) in Stuttgart, Germany in December offered a varied and top-class program to more than 150 attendees. For the sixth year in a row, Fraunhofer IPA organized a ROS event in Stuttgart to present the status of ROS in Europe and to discuss existing challenges. Once again, ROS-I highlighted the combination of robotics and IT to hardware and applications.
 
-PickNik's Dr. Dave Coleman presented a keynote and spoke on the topic of "[Open Source Robotics: for Fun and Profit](https://www.youtube.com/watch?v=Ui2ceU0D8VE)". He elaborated on how PickNik has grown from a personal hobby in graduate school to a fast growing consulting firm that promotes open source software. He also discussed and shared with attendees many learnings and struggles from growing the MoveIt! project.
+PickNik's Dr. Dave Coleman presented a keynote and spoke on the topic of "[Open Source Robotics: for Fun and Profit](https://www.youtube.com/watch?v=Ui2ceU0D8VE)". He elaborated on how PickNik has grown from a personal hobby in graduate school to a fast growing consulting firm that promotes open source software. He also discussed and shared with attendees many learnings and struggles from growing the MoveIt project.

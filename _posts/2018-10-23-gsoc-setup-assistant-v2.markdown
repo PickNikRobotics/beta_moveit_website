@@ -7,9 +7,9 @@ slug: gsoc-2018-setup-assistant-v2
 title: Google Summer of Code Improvements to Setup Assistant
 media_type: image
 media_link: /assets/images/moveit_setup_assistant.png
-description: Summary of Google Summer of Code improvements to the MoveIt! Setup Assistant.
+description: Summary of Google Summer of Code improvements to the MoveIt Setup Assistant.
 categories:
-  - MoveIt!
+  - MoveIt
   - ROS
 ---
 
@@ -25,17 +25,17 @@ A sneak peak at the end result:
 <br/>
 [<img src="{{ site.url }}/assets/images/simulation.gif" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/simulation.gif)
 
-Say you are using the Panda robot with MoveIt! and you want to see your plan being executed in Gazebo. First open the `moveit_setup_assistant` and load the [panda_moveit_config](https://github.com/ros-planning/panda_moveit_config) package. Then navigate to the ROS Control screen and add the Follow Joint Controllers for each planning group using the “Auto Add FollowJointsTrajectory Controllers ...” [button]({{ site.url }}/assets/images/control_screen.png). Next navigate to the Simulation screen to generate a Gazebo compatible URDF; the Simulation screen adds the missing inertia and transmission elements required by Gazebo. The Simulation screen also adds the `gazebo_ros_control` plugin to the end of the URDF.
+Say you are using the Panda robot with MoveIt and you want to see your plan being executed in Gazebo. First open the `moveit_setup_assistant` and load the [panda_moveit_config](https://github.com/ros-planning/panda_moveit_config) package. Then navigate to the ROS Control screen and add the Follow Joint Controllers for each planning group using the “Auto Add FollowJointsTrajectory Controllers ...” [button]({{ site.url }}/assets/images/control_screen.png). Next navigate to the Simulation screen to generate a Gazebo compatible URDF; the Simulation screen adds the missing inertia and transmission elements required by Gazebo. The Simulation screen also adds the `gazebo_ros_control` plugin to the end of the URDF.
 
 ### Outcomes
 
 The outcomes, successes, and key metrics of improvement:
 
-Instead of writing many configuration files manually, you can now simulate your motion planning in Rviz along side Gazebo by using a few clicks in the MoveIt! Setup Assistant!
+Instead of writing many configuration files manually, you can now simulate your motion planning in Rviz along side Gazebo by using a few clicks in the MoveIt Setup Assistant!
 
 ### Useful resources / links
 
-For further reading look at the [GitHub issue of the project](https://github.com/ros-planning/moveit/issues/894) and [MoveIt! Tutorial](http://docs.ros.org/kinetic/api/moveit_tutorials/html/doc/setup_assistant/setup_assistant_tutorial.html).
+For further reading look at the [GitHub issue of the project](https://github.com/ros-planning/moveit/issues/894) and [MoveIt Tutorial](http://docs.ros.org/kinetic/api/moveit_tutorials/html/doc/setup_assistant/setup_assistant_tutorial.html).
 The GitHub issue for the project is [here](https://github.com/ros-planning/moveit/issues/894) and an overview of the relationship between simulation, hardware, controllers, and transmissions is [here](http://gazebosim.org/tutorials/?tut=ros_control).
 
 [<img src="{{ site.url }}/assets/images/control_screen.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/control_screen.png)

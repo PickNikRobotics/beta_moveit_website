@@ -4,20 +4,20 @@ comments: false
 date: 2018-02-01 08:15:12+00:00
 layout: post
 slug: wordlmoveitdayreport2
-title: Report On Second Annual World MoveIt! Day
+title: Report On Second Annual World MoveIt Day
 media_type: image
 media_link: /assets/images/wmd17/SF1.jpg
-description: Results from our second annual international hackathon to improve the MoveIt! code base, documentation, and community.
+description: Results from our second annual international hackathon to improve the MoveIt code base, documentation, and community.
 categories:
-  - MoveIt!
+  - MoveIt
   - ROS
 ---
 
-Thank you for joining us for our second annual international MoveIt! hackathon event! We are thrilled to report that World MoveIt! Day was a great success last October, setting new records for the annual event. We would like to thank everyone who participated, sponsored, and supported.
+Thank you for joining us for our second annual international MoveIt hackathon event! We are thrilled to report that World MoveIt Day was a great success last October, setting new records for the annual event. We would like to thank everyone who participated, sponsored, and supported.
 
-We’re excited to see new locations and interest in MoveIt!
+We’re excited to see new locations and interest in MoveIt
 
-MoveIt! continues to grow and improve and we appreciate everyone’s contributions.
+MoveIt continues to grow and improve and we appreciate everyone’s contributions.
 
 Now for the numbers:
 
@@ -36,7 +36,7 @@ Locations and participants:
 - 4 @ Xamla Robotics (PROVISIO GmbH), Münster, Germany
 - 1 @ Shadow Robot Company, London, UK
 
-A few other stats from the event and 30 days after, in the consolidated moveit repo. There are many other MoveIt! related repos that we did not measure for this report:
+A few other stats from the event and 30 days after, in the consolidated moveit repo. There are many other MoveIt related repos that we did not measure for this report:
 
 - 15 pull requests merged
 - 13 pull requests opened

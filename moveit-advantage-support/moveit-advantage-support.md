@@ -12,7 +12,7 @@ permalink: /moveit-advantage-support/
         <div class="sppRow">
             <div class="sppCol1"><img class="sppArrow" src="../assets/images/support-check.png"></div>
             <div class="sppCol2">
-                <div class="sppText">Design and consulting services for clients creating MoveIt!-enabled robotic applications</div>
+                <div class="sppText">Design and consulting services for clients creating MoveIt-enabled robotic applications</div>
                 <div class="margspp"></div>
             </div>
         </div>
@@ -39,7 +39,7 @@ permalink: /moveit-advantage-support/
 </div>
 <div class="sppEngage">
     <div class="sppEngageWrap">
-        <div id="mc3t75agp7ksfb"><a href="https://app.moonclerk.com/pay/3t75agp7ksfb">MoveIt! Advantage Support Subscription</a></div>
+        <div id="mc3t75agp7ksfb"><a href="https://app.moonclerk.com/pay/3t75agp7ksfb">MoveIt Advantage Support Subscription</a></div>
         <script type="text/javascript">
             var mc3t75agp7ksfb;
             (function(d, t) {

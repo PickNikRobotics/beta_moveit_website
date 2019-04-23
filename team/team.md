@@ -122,11 +122,11 @@ redirect_from:
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/tyler-weaver-b504626" target="_blank">
-                    <div class="bioPic" style="background-image: url('../images/p17.jpg')"></div>
+                    <div class="bioPic" style="background-image: url('../assets/images/p17.jpg')"></div>
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/tyler-weaver-b504626" target="_blank">Tyler Weaver, BS</a>
                 <div class="peoplePosition">Software Engineer - Robotics</div>
-                <div class="peopleDesc">B.S. Computer Engineering from DeVry University. Tyler has a talent for C++ and Python programming having completed a number of different software applications over the past decade.  In 2013 he supported Special Operations in Afghanistan and at DeVry Tyler he built a stereo vision sensor for a robot for competing in the Colorado Robotics Challenge. He has since developed software defined radio libraries for wireless communication and sensing applications. In that position, Tyler worked on a large legacy codebase adding new signal types and improving the accelerated math library. 
+                <div class="peopleDesc">B.S. Computer Engineering from DeVry University. Tyler has a talent for C++ and Python programming having completed a number of different software applications over the past decade.  In 2013 he supported Special Operations in Afghanistan and at DeVry Tyler he built a stereo vision sensor for a robot for competing in the Colorado Robotics Challenge. He has since developed software defined radio libraries for wireless communication and sensing applications. In that position, Tyler worked on a large legacy codebase adding new signal types and improving the accelerated math library.
                 </div>
             </div>
         </div>

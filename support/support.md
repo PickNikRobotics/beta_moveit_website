@@ -5,7 +5,7 @@ permalink: /support/
 ---
 <div class="sppHero">
     <div class="sppWrap">
-        <div class="sppHeroTitle"> <img id="moveit-logo-black" src="../assets/images/moveit-logo-black-2.png"> </div>
+        <div class="sppHeroTitle"> <img id="moveit-logo-black" src="../assets/images/moveit-logo-black.png"> </div>
         <div class="sppHeroSubTitle">ONGOING SUPPORT</div>
         <div class="sppLine"></div>
         <div class="sppRow">

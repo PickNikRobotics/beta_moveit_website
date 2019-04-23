@@ -111,19 +111,6 @@ permalink: /jobs/
                     <br><br> As an Applied Robotics Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software
                     applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated software in a variety of languages and
                     platforms that will be used on robots around the world (and in outer space!).
-                    <br><br> Am I a good fit?
-                    <br><br>
-                    <div class="bullet">&#9633;</div> You love robotics and have a passion for creating the next generation of robot software
-                    <br>
-                    <div class="bullet">&#9633;</div> Are excited to be involved in a startup with steady flow of client projects
-                    <br>
-                    <div class="bullet">&#9633;</div> Must work efficiently, always be ready to learn, and have great attention to detail
-                    <br>
-                    <div class="bullet">&#9633;</div> Desire to contribute to open source projects solving big problems
-                    <br>
-                    <div class="bullet">&#9633;</div> Ability to collaborate with teams around the world
-                    <br>
-                    <div class="bullet">&#9633;</div> Need to be living in or willing to relocate to Boulder or greater Denver area (or spend significant time there) to foster a great team learning environment
                     <br><br>
                     <div class="pTitle2">Job Requirements</div>
                     <br><br>
@@ -212,7 +199,7 @@ permalink: /jobs/
                     <br><br>
                     <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen, OGRE, Qt, CMake, Bazel, and Protobufs.
                     <br>
-                    <div class="bullet">&#9633;</div> ROS, MoveIt!, Gazebo, OpenRave, or other robotic libraries are advantageous.
+                    <div class="bullet">&#9633;</div> ROS, MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous.
                     <br>
                     <div class="bullet">&#9633;</div> General understanding of motion planning, inverse kinematics, control systems, graph theory, and/or simulation.
                     <br>
@@ -354,7 +341,7 @@ permalink: /jobs/
 		            <br><br>
 		        	<div class="pTitle2">Some preferred skills/experience:</div>
 		            <br><br>
-		        	<div class="bullet">&#9633; </div> ROS, MoveIt!, Gazebo, OpenRave, or other robotic libraries are advantageous
+		        	<div class="bullet">&#9633; </div> ROS, MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
 		            <br>
 		        	<div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen, Qt, CMake, Bazel, and Protobufs
 		            <br>
@@ -374,7 +361,7 @@ permalink: /jobs/
 		        	<div class="bullet">&#9633;</div> Health insurance and 401k savings plan
 		            <br><br>
 		        	<div class="pTitle2">Skill Keywords: </div>
-	            	<br><br> Software Engineering, Robotics, Javascript, Python, Matlab, Motion Planning, Simulation, ROS, Robot Operating System, Gazebo, MoveIt!, C++
+	            	<br><br> Software Engineering, Robotics, Javascript, Python, Matlab, Motion Planning, Simulation, ROS, Robot Operating System, Gazebo, MoveIt, C++
 		            <br><br> So you wanna join, what do you need to do?
 		            <br><br> Submit your resume <a href="https://workable.com/j/72A610F1B8">here</a> and highlight relevant experience.
 		            <br><br>
