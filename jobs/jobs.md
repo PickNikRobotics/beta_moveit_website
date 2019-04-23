@@ -132,16 +132,6 @@ permalink: /jobs/
                     <br>
                     <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen and Boost
                     <br><br>
-                    <div class="pTitle2">Benefits</div>
-                    <br><br>
-                    <div class="bullet">&#9633;</div> Live in beautiful Boulder, CO with easy access to renowned skiing, biking, climbing, and ranked #2 by US News and Report Best Places to Live
-                    <br>
-                    <div class="bullet">&#9633;</div> Enjoy a relaxed work environment with a generous vacation policy
-                    <br>
-                    <div class="bullet">&#9633;</div> Work a flexible schedule including working remotely when you need to
-                    <br>
-                    <div class="bullet">&#9633;</div> Health insurance and 401k savings plan
-                    <br><br>
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
@@ -167,19 +157,6 @@ permalink: /jobs/
                     <br><br> As a Senior Robotics Software Engineer at PickNik Consulting you’ll be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source
                     projects. Duties will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to framework design and
                     implementation.
-                    <br><br> Am I a good fit?
-                    <br><br>
-                    <div class="bullet">&#9633;</div> You love robotics and have a passion for creating the next generation of robot software
-                    <br>
-                    <div class="bullet">&#9633;</div> Are excited to be involved in a startup with steady flow of client projects
-                    <br>
-                    <div class="bullet">&#9633;</div> Must work efficiently, always be ready to learn, and have great attention to detail
-                    <br>
-                    <div class="bullet">&#9633;</div> Desire to contribute to open source projects solving big problems
-                    <br>
-                    <div class="bullet">&#9633;</div> Ability to collaborate with teams around the world
-                    <br>
-                    <div class="bullet">&#9633;</div> Need to be living in or willing to relocate to Boulder or greater Denver area (or spend significant time there) to foster a great team learning environment
                     <br><br>
                     <div class="pTitle2">Job Requirements</div>
                     <br><br>
@@ -206,16 +183,6 @@ permalink: /jobs/
                     <div class="bullet">&#9633;</div> Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field.
                     <br>
                     <br>
-                    <div class="pTitle2">Benefits</div>
-                    <br><br>
-                    <div class="bullet">&#9633;</div> Live in beautiful Boulder, CO with easy access to renowned skiing, biking, climbing, and ranked #2 by US News and Report Best Places to Live
-                    <br>
-                    <div class="bullet">&#9633;</div> Enjoy a relaxed work environment with a generous vacation policy
-                    <br>
-                    <div class="bullet">&#9633;</div> Work a flexible schedule including working remotely when you need to
-                    <br>
-                    <div class="bullet">&#9633;</div> Health insurance and 401k savings plan
-                    <br><br>
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
@@ -238,19 +205,6 @@ permalink: /jobs/
                     <div class="ital">Boulder, Denver · Full Time</div><br><br>
                     <div class="pTitle2">Job Description:</div>
                     <br><br> As a Motion Planning & Controls Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated motion planning and controls software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
-                    <br><br> Am I a good fit?
-                    <br><br>
-                    <div class="bullet">&#9633;</div> You love robotics and have a passion for creating the next generation of robot software
-                    <br>
-                    <div class="bullet">&#9633;</div> Are excited to be involved in a startup with steady flow of client projects
-                    <br>
-                    <div class="bullet">&#9633;</div> Must work efficiently, always be ready to learn, and have great attention to detail
-                    <br>
-                    <div class="bullet">&#9633;</div> Desire to contribute to open source projects solving big problems
-                    <br>
-                    <div class="bullet">&#9633;</div> Ability to collaborate with teams around the world
-                    <br>
-                    <div class="bullet">&#9633;</div> Ideally would be living in or willing to relocate to Boulder/Denver to foster a great team learning environment. Remote work arrangement with quarterly onsites possible.
                     <br><br>
                     <div class="pTitle2">Job Requirements</div>
                     <br><br>
@@ -275,20 +229,9 @@ permalink: /jobs/
                     <div class="bullet">&#9633;</div> Git ninja skills.
                     <br>
                     <br>
-                    <div class="pTitle2">Benefits</div>
-                    <br><br>
-                    <div class="bullet">&#9633;</div> Live in beautiful Boulder, CO with easy access to renowned skiing, biking, climbing, and ranked #2 by US News and Report Best Places to Live
-                    <br>
-                    <div class="bullet">&#9633;</div> Enjoy a relaxed work environment with a generous vacation policy
-                    <br>
-                    <div class="bullet">&#9633;</div> Work a flexible schedule including working remotely when you need to
-                    <br>
-                    <div class="bullet">&#9633;</div> Health insurance and 401k savings plan
-                    <br><br>
                     <div class="pTitle2">Skill Keywords: </div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
-
                       <br><br> Submit your resume <a href="https://workable.com/j/CB0ED353E7">here</a> and highlight relevant experience.
                     <br>
                     <br>
@@ -309,19 +252,6 @@ permalink: /jobs/
                     <div class="ital">Boulder, Denver · Full Time</div><br><br>
                     <div class="pTitle2">Job Description:</div>
                     <br><br> As a Software Engineer (Robotics) at PickNik Consulting you’ll be developing software applications, creating user interfaces, optimizing algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Responsibilities will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to software design and implementation.
-                    <br><br> Am I a good fit?
-                    <br><br>
-                    <div class="bullet">&#9633;</div> You love robotics and have a passion for creating the next generation of robot software
-                    <br>
-                    <div class="bullet">&#9633;</div> Are excited to be involved in a startup with steady flow of client projects
-                    <br>
-                    <div class="bullet">&#9633;</div> Should work efficiently, always be ready to learn, and have great attention to detail
-                    <br>
-                    <div class="bullet">&#9633;</div> Desire to contribute to open source projects solving big problems
-                    <br>
-                    <div class="bullet">&#9633;</div> Ability to collaborate with teams around the world
-                    <br>
-                    <div class="bullet">&#9633;</div> Need to be living in or willing to relocate to Boulder or greater Denver area (or spend significant time there) to foster a great team learning environment
                     <br><br>
                     <div class="pTitle2">Job Requirements</div>
                     <br><br>
@@ -335,38 +265,28 @@ permalink: /jobs/
                     <br>
                     <div class="bullet">&#9633;</div> Experience with C++ and willingness to learn more
                     <br>
-			        <div class="bullet">&#9633;</div> Experience with full life-cycle application development, Git version control, software testing, and continuous integration
-		            <br>
-		        	<div class="bullet">&#9633;</div> Knowledge of software development in Linux
-		            <br><br>
-		        	<div class="pTitle2">Some preferred skills/experience:</div>
-		            <br><br>
-		        	<div class="bullet">&#9633; </div> ROS, MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
-		            <br>
-		        	<div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen, Qt, CMake, Bazel, and Protobufs
-		            <br>
-		        	<div class="bullet">&#9633;</div> Background in Agile software development methodology e.g. JIRA
-		            <br>
-		        	<div class="bullet">&#9633;</div> Demonstrated ability through previous projects
-		            <br>
-		            <br>
-		        	<div class="pTitle2">Benefits</div>
-		            <br><br>
-		        	<div class="bullet">&#9633;</div> Live in beautiful Boulder, CO with easy access to renowned skiing, biking, climbing, and ranked #2 by US News and Report Best Places to Live
-		            <br>
-			        <div class="bullet">&#9633;</div> Enjoy a relaxed work environment with a generous vacation policy
-		            <br>
-		        	<div class="bullet">&#9633;</div> Work a flexible schedule including working remotely when you need to
-		            <br>
-		        	<div class="bullet">&#9633;</div> Health insurance and 401k savings plan
-		            <br><br>
-		        	<div class="pTitle2">Skill Keywords: </div>
-	            	<br><br> Software Engineering, Robotics, Javascript, Python, Matlab, Motion Planning, Simulation, ROS, Robot Operating System, Gazebo, MoveIt, C++
-		            <br><br> So you wanna join, what do you need to do?
-		            <br><br> Submit your resume <a href="https://workable.com/j/72A610F1B8">here</a> and highlight relevant experience.
-		            <br><br>
-		            <div class="applyButton" onclick="location.href='https://workable.com/j/72A610F1B8';">APPLY NOW</div>
-	            </div>
+                    <div class="bullet">&#9633;</div> Experience with full life-cycle application development, Git version control, software testing, and continuous integration
+                    <br>
+                    <div class="bullet">&#9633;</div> Knowledge of software development in Linux
+                    <br><br>
+                    <div class="pTitle2">Some preferred skills/experience:</div>
+                    <br><br>
+                    <div class="bullet">&#9633; </div> ROS, MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
+                    <br>
+                    <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen, Qt, CMake, Bazel, and Protobufs
+                    <br>
+                    <div class="bullet">&#9633;</div> Background in Agile software development methodology e.g. JIRA
+                    <br>
+                    <div class="bullet">&#9633;</div> Demonstrated ability through previous projects
+                    <br>
+                    <br>
+                    <div class="pTitle2">Skill Keywords: </div>
+                    <br><br> Software Engineering, Robotics, Javascript, Python, Matlab, Motion Planning, Simulation, ROS, Robot Operating System, Gazebo, MoveIt, C++
+                    <br><br> So you wanna join, what do you need to do?
+                    <br><br> Submit your resume <a href="https://workable.com/j/72A610F1B8">here</a> and highlight relevant experience.
+                    <br><br>
+                    <div class="applyButton" onclick="location.href='https://workable.com/j/72A610F1B8';">APPLY NOW</div>
+                </div>
             </div>
         </div>
     </div>
