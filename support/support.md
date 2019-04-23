@@ -42,7 +42,7 @@ permalink: /support/
             <BR>EVERY PHASE OF YOUR DEVELOPMENT</div>
             <div class="line"></div>
 
-PickNik is the organization behind the MoveIt Motion Planning Framework. With a subscription to PickNik’s MoveIt ROS Support package, you get trusted knowledge and technical support from engineers deeply involved with MoveIt’s development. Your subscription offers value during each phase of your product development and empowers you to take full advantage of the open source robotics ecosystem.
+PickNik is the organization behind the MoveIt Motion Planning Framework. With a subscription to PickNik’s MoveIt ROS Support program, you get trusted knowledge and technical support from engineers deeply involved with MoveIt’s development. Your subscription offers value during each phase of your product development and empowers you to take full advantage of the open source robotics ecosystem.
 
 <br />
 <br />
@@ -50,7 +50,7 @@ Our ongoing support of the MoveIt project ensures that we are uniquely qualified
 
 <br />
 <br />
-PickNik offers two support packages that will help keep your MoveIt ROS based project on track and your engineers focused on the problems that matter most to your core technologies.
+PickNik offers two support tiers that will help keep your MoveIt ROS based project on track and your engineers focused on the problems that matter most to your core technologies.
 
 <br />
 <br />
