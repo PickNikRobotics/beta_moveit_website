@@ -1099,7 +1099,10 @@
 @media only screen and (max-width: 405px) {
   .introPadding{
     .connectTextAdress {
-      margin-top: 22px;
+      max-width: 190px;
+    }
+    .connectIconAdress {
+      margin-bottom: 42px;
     }
   }
 }

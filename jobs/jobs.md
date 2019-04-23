@@ -398,13 +398,13 @@ permalink: /jobs/
         if($header.attr('data-collapsed') === "true") {
             $header.attr("data-collapsed", "false");
             setTimeout(() => {
-                $("#collapseText"+id).html("RESIZE <span class='plus'>-</span>")
+                $("#collapseText"+id).html("RESIZE<span class='plus'>-</span>")
             }, 500)
         }
         else {
             $header.attr("data-collapsed", true);
             setTimeout(() => {
-            $("#collapseText"+id).html("EXPAND <span class='plus'>+</span>")
+            $("#collapseText"+id).html("EXPAND<span class='plus'>+</span>")
             }, 500)
         }
         //getting the next element
