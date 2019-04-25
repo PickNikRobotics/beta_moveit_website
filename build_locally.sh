@@ -1,6 +1,15 @@
 #!/bin/bash -eu
 # Locally build the Jekyl site for testing on Ubuntu 16.04
 
+have_travis() {
+  for arg in "$@"; do
+    if [[ "${arg}" == "travis" ]]; then
+      return 0
+    fi
+  done
+  return 1
+}
+
 if [[ "$0" != "${BASH_SOURCE}" ]]; then
   {
     echo "This file is meant to be executed, not 'source'd:"
@@ -18,7 +27,9 @@ gem install jekyll bundler
 bundle install
 
 # Test website using same script as Travis
-./.travis.sh
+if have_travis "$@"; then
+  ./.travis.sh
+fi
 
 # Launch website
 echo
