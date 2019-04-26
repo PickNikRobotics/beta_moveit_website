@@ -41,7 +41,7 @@ read -p "Press any key to start serving website..."
 echo "-------------------------------------"
 echo "-------------------------------------"
 echo
-google-chrome http://localhost:4000
+xdg-open http://localhost:4000
 
 # Start serving website locally
 bundle exec jekyll serve
