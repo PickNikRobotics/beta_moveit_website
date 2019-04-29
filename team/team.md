@@ -22,7 +22,7 @@ redirect_from:
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/davetcoleman/" target="_blank">Dave Coleman, PhD</a>
                 <div class="peoplePosition">Co-Founder, Senior Roboticist</div>
-                <div class="peopleDesc">B.S. MechEng Georgia Tech, Masters and PhD CompSci CU Boulder focusing on motion planning. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms that works for different morphologies, different theoretical approaches, and different end-user technical requirements give him a well-rounded understanding of the needs of powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, the Open Source Robotics Foundation, and Willow Garage.</div>
+                <div class="peopleDesc">B.S. MechEng Georgia Tech, Masters and PhD CompSci CU Boulder focusing on motion planning. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.</div>
             </div>
         </div>
         <div class="peopleCol">
@@ -80,7 +80,7 @@ redirect_from:
                 </a><br>
                 <a class="peopleName" href="https://www.linkedin.com/in/stephenbrawner/" target="_blank">Stephen Brawner, PhD, PE</a>
                 <div class="peoplePosition">Applied Robotics Scientist</div>
-                <div class="peopleDesc">PhD, Sc.M Computer Science from Brown University, B.S Engineering from Harvey Mudd College. Stephen has an interdisciplinary background in electromechanical engineering, robotics and AI. Prior to grad school he designed and built robots culminating in an automated heliostat cleaning system for eSolar, Inc - a concentrating solar thermal technology developer. Currently he leverages his broad expertise to develop automated behaviors for robots, incorporating machine learning, sensing and perception. Stephen is also the developer of the SolidWorks to URDF Exporter, an open-source SolidWorks add-in.</div>
+                <div class="peopleDesc">PhD, Sc.M Comp Sci from Brown Univ, B.S Eng from Harvey Mudd College. Stephen has an interdisciplinary background in electromechanical engineering, robotics, and AI. Prior to grad school, he designed and built robots culminating in an automated heliostat cleaning system for eSolar, Inc - a concentrating solar thermal technology developer. Currently he leverages his broad expertise to develop automated behaviors for robots, incorporating machine learning, sensing, and perception. Stephen is also the developer of the SolidWorks to URDF Exporter.</div>
             </div>
         </div>
     </div>
@@ -124,9 +124,9 @@ redirect_from:
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/tyler-weaver-b504626" target="_blank">
                     <div class="bioPic" style="background-image: url('../assets/images/p17.jpg')"></div>
                 </a><br>
-                <a class="peopleName" href="https://www.linkedin.com/in/tyler-weaver-b504626" target="_blank">Tyler Weaver, BS</a>
+                <a class="peopleName" href="https://www.linkedin.com/in/tyler-weaver-b504626" target="_blank">Tyler Weaver</a>
                 <div class="peoplePosition">Software Engineer - Robotics</div>
-                <div class="peopleDesc">B.S. Computer Engineering from DeVry University. Tyler has a talent for C++ and Python programming having completed a number of different software applications over the past decade.  In 2013 he supported Special Operations in Afghanistan and at DeVry Tyler he built a stereo vision sensor for a robot for competing in the Colorado Robotics Challenge. He has since developed software defined radio libraries for wireless communication and sensing applications. In that position, Tyler worked on a large legacy codebase adding new signal types and improving the accelerated math library.
+                <div class="peopleDesc">B.S. Comp Engineering from DeVry Univ. Tyler has a talent for C++ and Python programming, having created many different software applications over the past decade.  In 2013 he supported Special Operations in Afghanistan, and at DeVry Tyler built a stereo vision sensor for a robot competing in the CO Robotics Challenge. He has since developed software defined radio libraries for wireless communication and sensing applications. In that position, Tyler worked on a large legacy codebase adding new signal types and improving the accelerated math library.
                 </div>
             </div>
         </div>
