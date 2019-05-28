@@ -54,7 +54,7 @@ PickNik offers two support tiers that will help keep your MoveIt ROS based proje
 
 <br />
 <br />
-For full details, see our <a href="../docs/MoveIt_Support_User_Guide_v3.0.pdf">MoveIt Support User Guide</a>
+For full details, see our <a href="../docs/MoveIt_Support_User_Guide_v3.1.pdf">MoveIt Support User Guide</a>
 
     </div>
 </div>
