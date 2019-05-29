@@ -51,7 +51,7 @@ redirect_from:
         </div>
     </div>
     <div class="peopleRow">
-    <div class="peopleCol margPR">
+         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
                     <div class="bioPic" style="background-image: url('../assets/images/p4.jpg')"></div>
@@ -85,16 +85,6 @@ redirect_from:
         </div>
     </div>
     <div class="peopleRow">
-    <div class="peopleCol margPR">
-            <div class="recPadP">
-                <a style="display:inline-block;" href="https://www.linkedin.com/in/stonelinks/" target="_blank">
-                    <div class="bioPic" style="background-image: url('../assets/images/p13.png')"></div>
-                </a><br>
-                <a class="peopleName" href="https://www.linkedin.com/in/stonelinks/" target="_blank">Lucas Doyle</a>
-                <div class="peoplePosition">Senior Software Engineer</div>
-                <div class="peopleDesc">B.S. Computer and Systems Engineering, Rensselaer Polytechnic Institute with a focus on robotics. Luke is an engineer who likes building interfaces to robots, autonomous vehicles and automated machinery. He spent a couple years in Japan working in industrial / manufacturing robotics for MUJIN, and has been in San Francisco working on drones/robotics for over 4 years.</div>
-            </div>
-        </div>
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/lars-henning-kayser-79ab18178/" target="_blank">
@@ -117,8 +107,6 @@ redirect_from:
                 </div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/tyler-weaver-b504626" target="_blank">
@@ -130,6 +118,8 @@ redirect_from:
                 </div>
             </div>
         </div>
+    </div>
+    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/christofferheckman/" target="_blank">
@@ -140,7 +130,31 @@ redirect_from:
                 <div class="peopleDesc">B.S. MechEng UC Berkeley, PhD Theoretical & Applied Mechanics Cornell University and two Postdocs. Asst Professor in the Dept of Computer Science. Chris's research focuses on autonomy, perception, field robotics, machine learning, and AI. His work is used by industry in the development of autonomous vehicles, agricultural robotics and other mobile robots including for medicine and automation, as well as the federal government for civil environmental monitoring, intelligence and defense.</div>
             </div>
         </div>
-        <div class="peopleCol margPR">
+        <div class="peopleCol">
+            <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">
+                    <div class="bioPic" style="background-image: url('../assets/images/p18.jpg')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">Omid Heidari, PhD Candidate</a>
+                <div class="peoplePosition">Robotics Intern</div>
+                <div class="peopleDesc">M.S. MechEng from Babol Univ. of Technology; currently PhD candidate in Robotics, Idaho State University. Omid has worked extensively on forward & inverse kinematics as well as the dimensional synthesis of serial and parallel manipulators. He has studied human upper extremity kinematics for rehabilitation purposes which led to suggesting a task-based methodology for designing exoskeletons and a virtual reality environment for kinematics synthesis. His most recent work focuses on human-robot interaction through augmented reality.
+                </div>
+            </div>
+        </div>
+        <div class="peopleCol">
+            <div class="recPadP">
+                <a style="display:inline-block;" href="https://www.linkedin.com/in/simon-goldstein" target="_blank">
+                    <div class="bioPic" style="background-image: url('../assets/images/p19.jpg')"></div>
+                </a><br>
+                <a class="peopleName" href="https://www.linkedin.com/in/simon-goldstein" target="_blank">Simon Goldstein</a>
+                <div class="peoplePosition">Robotics Intern</div>
+                <div class="peopleDesc">B.S. Comp Sci student at Colorado School of Mines, Robotics and Intelligent Systems track. Simon started his journey into robotics during high school with his Rocky Mountain BEST robotics team Robocalypse; he was a team leader for three years. In College, he helped design a road safety motion tracking signs for the Road X safety Challenge. Since then he has helped prototype robotic automation in a Vermont roofing company using a Motoman UP50 to move payloads with vacuum grippers.
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="peopleRow">
+         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/ioansucan/" target="_blank">
                     <div class="bioPic" style="background-image: url('../assets/images/p8.jpg')"></div>
@@ -152,8 +166,6 @@ redirect_from:
                 </div>
             </div>
         </div>
-    </div>
-    <div class="peopleRow">
         <div class="peopleCol margPR">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://brian.gerkey.org/" target="_blank">
@@ -176,6 +188,8 @@ redirect_from:
                     and 127 new products developed working with 35 Fortune 500 companies and almost 60 startups, 14 federal agencies, and 16 university research groups.</div>
             </div>
         </div>
+    </div>
+    <div class="peopleRow">
         <div class="peopleCol">
             <div class="recPadP">
                 <a style="display:inline-block;" href="https://www.linkedin.com/in/rosejn/" target="_blank">
