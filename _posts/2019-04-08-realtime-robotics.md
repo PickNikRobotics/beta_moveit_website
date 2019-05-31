@@ -6,6 +6,8 @@ layout: post
 title: Announcing Realtime Robotics RapidPlan Integration
 media_type: image
 media_link: /assets/images/plan_visualization.png
+redirect_from:
+  - /moveit!/ros/2019/04/08/realtime-robotics.html
 description: Boston-area startup Realtime Robotics has just released RapidPlan, its innovative solution for collision-free motion planning and we’re happy to announce that there is already a MoveIt integration in place.
 categories:
 - MoveIt
