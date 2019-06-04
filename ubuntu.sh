@@ -1,5 +1,10 @@
 #!/bin/bash -eu
 
+if [[ $EUID -eq 0  ]]; then
+  echo "Do not run this script as root"
+  return
+fi
+
 # Bootstrap setting up the bitchin_unix environment for ubuntu
 
 if [[ "$0" != "${BASH_SOURCE}" ]]; then
