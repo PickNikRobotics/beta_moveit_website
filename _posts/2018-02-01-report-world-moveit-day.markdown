@@ -7,6 +7,8 @@ slug: wordlmoveitdayreport2
 title: Report On Second Annual World MoveIt Day
 media_type: image
 media_link: /assets/images/wmd17/SF1.jpg
+redirect_from:
+  - /moveit!/ros/2018/02/01/wordlmoveitdayreport2.html
 description: Results from our second annual international hackathon to improve the MoveIt code base, documentation, and community.
 categories:
   - MoveIt

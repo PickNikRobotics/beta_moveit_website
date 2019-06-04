@@ -6,6 +6,8 @@ layout: post
 title: PickNik At ROSCon 2018
 media_type: image
 media_link: /assets/images/ROSConMadrid.jpg
+redirect_from:
+  - /moveit!/ros/2018/09/26/PickNik-at-roscon-2018.html
 description: Join us at ROSCon Madrid this year to meet your fellow developers, bring your ideas, and ask pressing questions about MoveIt.
 categories:
   - MoveIt

@@ -6,6 +6,8 @@ layout: post
 title: Save the Date - World MoveIt Day 2018
 media_type: image
 media_link: /assets/images/world_moveit_day_2018.jpg
+redirect_from:
+  - /moveit!/ros/2018/08/03/save-the-date-world-moveit-day.html
 description: We are excited to announce that this year’s World MoveIt Day will be Thursday, October 25, 2018! The event is a day long international hackathon to improve the MoveIt code base, documentation, and community.
 categories:
   - MoveIt

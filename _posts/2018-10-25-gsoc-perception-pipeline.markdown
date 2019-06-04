@@ -7,6 +7,8 @@ slug: gsoc-2018-perception-pipeline
 title: Google Summer Of Code Improvements to Perception Pipeline
 media_type: image
 media_link: /assets/images/gsoc-18/octomap.png
+redirect_from:
+  - /moveit!/ros/2018/12/11/gsoc-2018-perception-pipeline.html
 description: Updates about the perception pipeline improvements from GSOC
 categories:
 - MoveIt

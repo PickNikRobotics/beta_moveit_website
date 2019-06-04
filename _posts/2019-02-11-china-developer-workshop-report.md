@@ -6,6 +6,8 @@ layout: post
 title: Report On MoveIt China Developer Workshop 2019
 media_type: image
 media_link: /assets/images/wmd19/cdw_1.jpg
+redirect_from:
+  - /moveit!/ros/2019/02/11/china-developer-workshop-report.html
 description: Following last October's World MoveIt Day, the first-ever MoveIt China Developer Workshop 2019 was successfully held on Jan 16th in Suzhou, China.
 categories:
 - MoveIt
