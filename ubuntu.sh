@@ -18,7 +18,7 @@ Welcome to the BITCHIN UNIX Bootstrap script!
 ---------------------------------------------
 An internal tool of PICKNIK Robotics.
 
-We will clone the github.com/PickNikRobotics/bitchin_unix repository. 
+We will clone the github.com/PickNikRobotics/bitchin_unix repository.
 We will also help you setup a 2-factor authentication key through the Chrome browser, instead of using your normal Github password.
 
 EOF
@@ -38,7 +38,7 @@ cd ~
 
 if [ "$resp" = "y" ]; then
   wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-  echo 'deb http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee -a /etc/apt/sources.list.d/google-chrome.list
+  echo 'deb http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
   sudo apt update
   sudo apt install -y google-chrome-stable || echo -e "\e[00;31mAPT-GET FAILED\e[00m"
   google-chrome https://github.com/settings/tokens
