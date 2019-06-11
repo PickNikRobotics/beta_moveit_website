@@ -112,7 +112,7 @@ permalink: /jobs/
                     applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated software in a variety of languages and
                     platforms that will be used on robots around the world (and in outer space!).
                     <br><br>
-                    <div class="pTitle2">Job Requirements</div>
+                    <div class="pTitle2">Job Requirements:</div>
                     <br><br>
                     <div class="bullet">&#9633;</div> Masters or PhD in Robotics, Computer Science, or a related robotics-focused field
                     <br>
@@ -132,10 +132,10 @@ permalink: /jobs/
                     <br>
                     <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen and Boost
                     <br><br>
-                    <div class="pTitle2">Skill Keywords: </div>
+                    <div class="pTitle2">Skill Keywords:</div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
-                    <br><br> Submit your resume <a href="https://workable.com/j/C90064C632">here</a> and highlight relevant experience.
+                    <br><br> Submit your resume <a href="https://workable.com/j/C90064C632">here</a> and highlight relevant experience
                     <br>
                     <br>
                     <div class="applyButton" onclick="location.href='https://workable.com/j/C90064C632';">APPLY NOW</div>
@@ -158,32 +158,32 @@ permalink: /jobs/
                     projects. Duties will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to framework design and
                     implementation.
                     <br><br>
-                    <div class="pTitle2">Job Requirements</div>
+                    <div class="pTitle2">Job Requirements:</div>
                     <br><br>
-                    <div class="bullet">&#9633;</div> Degree(s) in Computer Science, Robotics, Engineering, or a related field and/or equivalent industry experience. Advanced degrees are a plus.
+                    <div class="bullet">&#9633;</div> Degree(s) in Computer Science, Robotics, Engineering, or a related field and/or equivalent industry experience. Advanced degrees are a plus
                     <br>
-                    <div class="bullet">&#9633;</div> Extensive knowledge of C++11 or newer.
+                    <div class="bullet">&#9633;</div> Extensive knowledge of C++11 or newer
                     <br>
-                    <div class="bullet">&#9633;</div> Skilled with at least one scripting language such as Python or Matlab.
+                    <div class="bullet">&#9633;</div> Skilled with at least one scripting language such as Python or Matlab
                     <br>
-                    <div class="bullet">&#9633;</div> Extensive knowledge of software development in Linux.
+                    <div class="bullet">&#9633;</div> Extensive knowledge of software development in Linux
                     <br>
-                    <div class="bullet">&#9633;</div> Experience with full life-cycle library and application development, Git version control, software testing, and continuous integration.
+                    <div class="bullet">&#9633;</div> Experience with full life-cycle library and application development, Git version control, software testing, and continuous integration
                     <br>
                     <div class="bullet">&#9633;</div> Experience with communication middleware
                     <br><br>
                     <div class="pTitle2">Some preferred skills/experience:</div>
                     <br><br>
-                    <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen, OGRE, Qt, CMake, Bazel, and Protobufs.
+                    <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen, OGRE, Qt, CMake, Bazel, and Protobufs
                     <br>
-                    <div class="bullet">&#9633;</div> ROS, MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous.
+                    <div class="bullet">&#9633;</div> ROS, MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
                     <br>
-                    <div class="bullet">&#9633;</div> General understanding of motion planning, inverse kinematics, control systems, graph theory, and/or simulation.
+                    <div class="bullet">&#9633;</div> General understanding of motion planning, inverse kinematics, control systems, graph theory, and/or simulation
                     <br>
-                    <div class="bullet">&#9633;</div> Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field.
+                    <div class="bullet">&#9633;</div> Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field
                     <br>
                     <br>
-                    <div class="pTitle2">Skill Keywords: </div>
+                    <div class="pTitle2">Skill Keywords:</div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, Moveit, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
                     <br><br> Submit your resume <a href="https://workable.com/j/BABC82A4CA">here</a> and highlight relevant experience.
@@ -206,30 +206,30 @@ permalink: /jobs/
                     <div class="pTitle2">Job Description:</div>
                     <br><br> As a Motion Planning & Controls Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated motion planning and controls software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
                     <br><br>
-                    <div class="pTitle2">Job Requirements</div>
+                    <div class="pTitle2">Job Requirements:</div>
                     <br><br>
-                    <div class="bullet">&#9633;</div> Masters or PhD in Robotics, Computer Science, or a related field focused on motion planning and controls.
+                    <div class="bullet">&#9633;</div> Masters or PhD in Robotics, Computer Science, or a related field focused on motion planning and controls
                     <br>
-                    <div class="bullet">&#9633;</div> Deep theoretical understanding of motion planning, inverse kinematics, and/or control systems.
+                    <div class="bullet">&#9633;</div> Deep theoretical understanding of motion planning, inverse kinematics, and/or control systems
                     <br>
-                    <div class="bullet">&#9633;</div> Proven track record of innovation in applying algorithms and advancing robotics.
+                    <div class="bullet">&#9633;</div> Proven track record of innovation in applying algorithms and advancing robotics
                     <br>
-                    <div class="bullet">&#9633;</div> Strong C++ experience and familiarity with at least one scripting language, preferably Matlab or Python.
+                    <div class="bullet">&#9633;</div> Strong C++ experience and familiarity with at least one scripting language, preferably Matlab or Python
                     <br>
-                    <div class="bullet">&#9633;</div> Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field.
+                    <div class="bullet">&#9633;</div> Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field
                     <br>
-                    <div class="bullet">&#9633;</div> Experience with MoveIt, OMPL, OpenRave, Drake or similar motion planning frameworks.
+                    <div class="bullet">&#9633;</div> Experience with MoveIt, OMPL, OpenRave, Drake or similar motion planning frameworks
                     <br><br>
                     <div class="pTitle2">Some preferred skills/experience:</div>
                     <br><br>
-                    <div class="bullet">&#9633;</div> ROS, Gazebo, or other robotic libraries are advantageous.
+                    <div class="bullet">&#9633;</div> ROS, Gazebo, or other robotic libraries are advantageous
                     <br>
-                    <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen and Boost.
+                    <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen and Boost
                     <br>
-                    <div class="bullet">&#9633;</div> Git ninja skills.
+                    <div class="bullet">&#9633;</div> Git ninja skills
                     <br>
                     <br>
-                    <div class="pTitle2">Skill Keywords: </div>
+                    <div class="pTitle2">Skill Keywords:</div>
                     <br><br> Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
                     <br><br> So you wanna join, what do you need to do?
                       <br><br> Submit your resume <a href="https://workable.com/j/CB0ED353E7">here</a> and highlight relevant experience.
@@ -253,59 +253,39 @@ permalink: /jobs/
                     <div class="pTitle2">Job Description:</div>
                     <br><br> As a Software Engineer (Robotics) at PickNik Consulting you’ll be developing software applications, creating user interfaces, optimizing algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Responsibilities will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to software design and implementation.
                     <br><br>
-                    <div class="pTitle2">Job Requirements</div>
+                    <div class="pTitle2">Job Requirements:</div>
                     <br><br>
-                    <div class="bullet">&#9633;</div> Degree(s) in Computer Science, Robotics, or a related field and/or equivalent industry experience.
-                    <br>
-                    <div class="bullet">&#9633;</div> Skilled with at least one scripting language such as Python or Matlab
-                    <br>
-                    <div class="bullet">&#9633;</div> Abilities in standard web technologies such as HTML, CSS, Javascript, React, NodeJS
-                    <br>
-                    <div class="bullet">&#9633;</div> Experience developing user interfaces through technologies such as Qt or web apps
+                    <div class="bullet">&#9633;</div> Degree(s) in Computer Science, Robotics, or a related field and/or equivalent industry experience
                     <br>
                     <div class="bullet">&#9633;</div> Experience with C++ and willingness to learn more
                     <br>
-                    <div class="bullet">&#9633;</div> Experience with full life-cycle application development, Git version control, software testing, and continuous integration
+                    <div class="bullet">&#9633;</div> Experience with the Robotics Operating System (ROS) and robotic application development
+                    <br>
+                    <div class="bullet">&#9633;</div> Skilled with at least one scripting language such as Python or Matlab
                     <br>
                     <div class="bullet">&#9633;</div> Knowledge of software development in Linux
+                    <br>
+                    <div class="bullet">&#9633;</div> Experience with full life-cycle application development, Git version control, software testing, and continuous integration
                     <br><br>
                     <div class="pTitle2">Some preferred skills/experience:</div>
                     <br><br>
-                    <div class="bullet">&#9633; </div> ROS, MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
+                    <div class="bullet">&#9633;</div> MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
                     <br>
                     <div class="bullet">&#9633;</div> Common open source libraries and tools such as Eigen, Qt, CMake, Bazel, and Protobufs
                     <br>
                     <div class="bullet">&#9633;</div> Background in Agile software development methodology e.g. JIRA
                     <br>
-                    <div class="bullet">&#9633;</div> Demonstrated ability through previous projects
+                    <div class="bullet">&#9633;</div> Experience developing user interfaces through technologies such as Qt or web apps
+                    <br>
+                    <div class="bullet">&#9633;</div> Demonstrated ability through previous work experience
                     <br>
                     <br>
-                    <div class="pTitle2">Skill Keywords: </div>
+                    <div class="pTitle2">Skill Keywords:</div>
                     <br><br> Software Engineering, Robotics, Javascript, Python, Matlab, Motion Planning, Simulation, ROS, Robot Operating System, Gazebo, MoveIt, C++
                     <br><br> So you wanna join, what do you need to do?
                     <br><br> Submit your resume <a href="https://workable.com/j/72A610F1B8">here</a> and highlight relevant experience.
                     <br><br>
                     <div class="applyButton" onclick="location.href='https://workable.com/j/72A610F1B8';">APPLY NOW</div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="jobs container">
-        <div class="recColL">
-            <div class="jobsPad">
-                <div class="jTitle collapsible-header" data-collapsed="true" id="job5">Office Linebacker
-                <span class="collapseText" id="collapseText5">EXPAND<span class="plus">+</span>
-                </span>
-                </div>
-                <div class="pText content">
-                    <div class="ital">Boulder, Denver · Full Time</div><br><br>
-                    <div class="pTitle2">Job Description:</div>
-                    <br><br> Tackle some of the toughest problems in an office setting.
-                    <br><br>
-                    <div>
-                        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kg5cdZ-Fnpc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                    <br> Submit your resume and highlight reel to <a href="mailto:jobs@picknik.ai">jobs@picknik.ai</a>.
                 </div>
             </div>
         </div>
