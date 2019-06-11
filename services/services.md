@@ -91,6 +91,33 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
+            <img class="sIcon2" src="../assets/images/icon4.jpg">
+            <div class="introTitleS">COLLISION AVOIDANCE</div>
+            <div class="lineService"></div>
+            <div class="row">
+                <div class="column">
+                    <div class="servPageTitle">PLANNING AROUND STATIC AND DYNAMIC OBSTACLES</div>
+                    <div class="sSubText">
+                        <div class="bullet">□</div> Modeling of static and dynamic environments as “Planning Scenes”
+                        <BR>
+                        <div class="bullet">□</div> Collision aware planning using virtual maps of the environment
+                        <BR>
+                        <div class="bullet">□</div> Continuous collision checking approaches
+                        <BR>
+                        <div class="bullet">□</div> Avoidance of local minimum around obstacles while planning
+                        <BR>
+                        <div class="bullet">□</div> Experts with relevant libraries including the Flexible Collision Library (FCL), Octomaps, and the Point Cloud Library (PCL)
+                        <BR>
+                    </div>
+                    <div class="column">
+                    </div>
+                </div>
+            </div>
+            <div id="ros_framework_design"></div>
+        </div>
+    </div>
+    <div class="servCon2">
+        <div class="servWrap">
             <img class="sIcon2" src="../assets/images/icon2.jpg">
             <div class="introTitleS">ADVANCED INVERSE KINEMATICS</div>
             <div class="lineService"></div>
@@ -149,7 +176,7 @@ permalink: /services/
     <div class="servCon2">
         <div class="servWrap">
             <img class="sIcon2" src="../assets/images/icon3.jpg">
-            <div class="introTitleS">REAL-TIME CONTROL</div>
+            <div class="introTitleS">REALTIME CONTROL</div>
             <div class="lineService"></div>
             <div class="row">
                 <div class="column">
@@ -182,39 +209,12 @@ permalink: /services/
     </div>
     <div class="servCon2">
         <div class="servWrap">
-            <img class="sIcon2" src="../assets/images/icon4.jpg">
-            <div class="introTitleS">COLLISION AVOIDANCE</div>
-            <div class="lineService"></div>
-            <div class="row">
-                <div class="column">
-                    <div class="servPageTitle">PLANNING AROUND STATIC AND DYNAMIC OBSTACLES</div>
-                    <div class="sSubText">
-                        <div class="bullet">□</div> Modeling of static and dynamic environments as “Planning Scenes”
-                        <BR>
-                        <div class="bullet">□</div> Collision aware planning using virtual maps of the environment
-                        <BR>
-                        <div class="bullet">□</div> Continuous collision checking approaches
-                        <BR>
-                        <div class="bullet">□</div> Avoidance of local minimum around obstacles while planning
-                        <BR>
-                        <div class="bullet">□</div> Experts with relevant libraries including the Flexible Collision Library (FCL), Octomaps, and the Point Cloud Library (PCL)
-                        <BR>
-                    </div>
-                    <div class="column">
-                    </div>
-                </div>
-            </div>
-            <div id="ros_framework_design"></div>
-        </div>
-    </div>
-    <div class="servCon2">
-        <div class="servWrap">
             <img class="sIcon2" src="../assets/images/icon5.jpg">
             <div class="introTitleS">ROS FRAMEWORK DESIGN</div>
             <div class="lineService"></div>
             <div class="row">
                 <div class="column">
-                    <div class="servPageTitle">ROS FRAMEWORK DESIGN</div>
+                    <div class="servPageTitle">SOFTWARE ARCHITECTING WITH ROS</div>
                     <div class="sSubText">
                         <div class="bullet">□</div> Consulting on best practices for standard ROS paradigms
                         <BR>
@@ -243,6 +243,45 @@ permalink: /services/
                 </div>
             </div>
             <div id="2d_navigation"></div>
+        </div>
+    </div>
+    <div class="servCon2">
+        <div class="servWrap">
+            <img class="sIcon2" src="../assets/images/ros2-icon.png">
+            <div class="introTitleS">ROS 2 INTEGRATION</div>
+            <div class="lineService"></div>
+            <div class="row">
+                <div class="column">
+                    <div class="servPageTitle">WE SPEAK BOTH ROS AND ROS2</div>
+                    <div class="sSubText">
+                        <div class="bullet">□</div> Expertise in ROS2 enabling technologies and release status
+                        <BR>
+                        <div class="bullet">□</div> Build your application on the next generation of ROS and future-proof your work
+                        <BR>
+                        <div class="bullet">□</div> Utilize industrial-grade features for enterprise systems
+                        <BR>
+                        <div class="bullet">□</div> Improved distributed robotic system support
+                        <BR>
+                        <div class="bullet">□</div> Quality of service guarantees for tough communication environments
+                        <BR>
+                    </div>
+                </div>
+               <div class="column">
+               <div class="servPageTitle">WE CAN CONVERT YOUR CODE WITH EASE</div>
+                    <div class="sSubText">
+                        <div class="bullet">□</div> Convert your ROS applications and their dependencies to ROS2
+                        <BR>
+                        <div class="bullet">□</div> Migration to DDS, Colcon, & Managed Nodes
+                        <BR>
+                        <div class="bullet">□</div> Expanded industrial-grade features
+                        <BR>
+                        <div class="bullet">□</div> Future-proof your work
+                        <BR>
+                        <br>
+                    </div>
+                </div>
+            </div>
+           <div id="cloud_integration"></div>
         </div>
     </div>
     <div class="servCon2">
@@ -389,7 +428,7 @@ permalink: /services/
             <div class="lineService"></div>
             <div class="row">
                 <div class="column">
-                    <div class="servPageTitle">MULTI-LINGUAL ROBOTS</div>
+                    <div class="servPageTitle">MULTILINGUAL ROBOTS</div>
                     <div class="sSubText">
                         <div class="bullet">□</div> C/C++ for high performance cross-platform code
                         <BR>
@@ -402,45 +441,6 @@ permalink: /services/
                 </div>
             </div>
            <div id="ros_2_integration"></div>
-        </div>
-    </div>
-    <div class="servCon2">
-        <div class="servWrap">
-            <img class="sIcon2" src="../assets/images/ros2-icon.png">
-            <div class="introTitleS">ROS 2 INTEGRATION</div>
-            <div class="lineService"></div>
-            <div class="row">
-                <div class="column">
-                    <div class="servPageTitle">WE SPEAK BOTH ROS AND ROS2</div>
-                    <div class="sSubText">
-                        <div class="bullet">□</div> Expertise in ROS2 enabling technologies and release status
-                        <BR>
-                        <div class="bullet">□</div> Build your application on the next generation of ROS and future-proof your work
-                        <BR>
-                        <div class="bullet">□</div> Utilize industrial-grade features for enterprise systems
-                        <BR>
-                        <div class="bullet">□</div> Improved distributed robotic system support
-                        <BR>
-                        <div class="bullet">□</div> Quality of service guarantees for tough communication environments
-                        <BR>
-                    </div>
-                </div>
-               <div class="column">
-               <div class="servPageTitle">WE CAN CONVERT YOUR CODE WITH EASE</div>
-                    <div class="sSubText">
-                        <div class="bullet">□</div> Convert your ROS applications and their dependencies to ROS2
-                        <BR>
-                        <div class="bullet">□</div> Migration to DDS, Colcon, & Managed Nodes
-                        <BR>
-                        <div class="bullet">□</div> Expanded industrial-grade features
-                        <BR>
-                        <div class="bullet">□</div> Future-proof your work
-                        <BR>
-                        <br>
-                    </div>
-                </div>
-            </div>
-           <div id="cloud_integration"></div>
         </div>
     </div>
     <div class="servCon2">
