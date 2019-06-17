@@ -10,7 +10,7 @@ permalink: /services/
             <img class="peopleIcon" src="../assets/images/serv-icon.png">
             <div class="introTitle">Our Services</div>
             <div class="line"></div>
-            <div class="introSubTextP">At PickNik, we care about the quality of your robotic system. We listen to your needs and tailor our services to ensure smooth delivery of highly-quality solutions. <br><br>Read on to learn more.
+            <div class="introSubTextP">At PickNik, we care about the quality of your robotic system. We listen to your needs and tailor our services to ensure smooth delivery of high-quality solutions. <br><br>Read on to learn more.
             </div>
         </div>
     </div>
