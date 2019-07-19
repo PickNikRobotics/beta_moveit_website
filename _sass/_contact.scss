@@ -1,0 +1,118 @@
+.contact-top {
+  padding: 100px 0;
+  @media screen and (max-width: 1199px) {
+    padding: 80px 0;
+  }
+  h1 {
+    width: 389px;
+    margin-bottom: 24px;
+    max-width: 100%;
+    @media screen and (max-width: 1199px) {
+      text-align: center;
+      width: auto;
+    }
+  }
+  p {
+    color: #3c4a69;
+    font-size: 18px;
+    @media screen and (max-width: 1199px) {
+      text-align: center;
+    }
+  }
+}
+
+.contact-bottom {
+  background-color: #f5f5fa;
+  padding-top: 40px;
+  padding-bottom: 200px;
+}
+
+.contact-info {
+  margin-bottom: 20px;
+}
+
+.contact-info-social {
+  display: flex;
+  align-items: center;
+  @media screen and (max-width: 1199px) {
+    justify-content: center;
+  }
+  a {
+    margin-left: 16px;
+  }
+}
+
+.contact-info-single {
+  margin-bottom: 8px;
+  @media screen and (max-width: 1199px) {
+    text-align: center;
+  }
+  img {
+    margin-right: 16px;
+  }
+  a {
+    color: #121929;
+    font-size: 16px;
+    line-height: 34px;
+    font-weight: 500;
+    &:hover,
+    &:focus {
+      color: #04e79f;
+      text-decoration: none;
+    }
+  }
+}
+
+.contact-form {
+  width: 600px;
+  position: absolute;
+  top: 50%;
+  right: 10%;
+  transform: translateY(-50%);
+  @media screen and (max-width: 1199px) {
+    position: relative;
+    top: -130px;
+    right: auto;
+    transform: none;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  form {
+    width: auto;
+    margin: 0;
+    padding: 76px;
+    background: white;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+    border-radius: 14px;
+    @media screen and (max-width: 520px) {
+      padding: 60px 30px;
+    }
+    label {
+      font-size: 20px;
+      color: #121929;
+      font-weight: 500;
+      margin-top: 40px;
+      margin-bottom: 0px;
+    }
+    input, textarea {
+      color: #3c4a69;
+      font-size: 16px;
+      border: none;
+      border-radius: 0;
+      padding-left: 0;
+      padding-right: 0;
+      border-bottom: 1px solid #121929;
+    }
+    button {
+      float: none;
+      width: 200px;
+      max-width: 100%;
+      height: 50px;
+      display: table;
+      margin-top: 44px;
+      line-height: normal;
+      margin-right: auto;
+      margin-left: auto;
+    }
+  }
+}

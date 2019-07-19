@@ -1,11 +1,40 @@
 .blog-container {
-  padding-top: 140px;
   padding-bottom: 80px;
 }
 
+.blog-card-big-wrapper {
+  margin-bottom: 120px;
+}
+.blog-card-big {
+  max-width: 60%;
+  flex: 0 0 60%;
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  @media screen and (max-width: 992px) {
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+}
+
+.blog-card-small {
+  max-width: 46%;
+  flex: 0 0 46%;
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  @media screen and (max-width: 768px) {
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+}
+
 .blog-single {
-  max-width: 300px;
-  margin: 0 auto 70px;
+  width: 560px;
+  max-width: 100%;
+  margin: 0 auto 90px;
 }
 
 .blog-align-center {
@@ -17,13 +46,13 @@
 }
 
 .blog-image-wrapper {
-  height: 160px;
+  height: 350px;
   width: 100%;
   position: relative;
   overflow: hidden;
-  margin-bottom: 25px;
+  margin-bottom: 35px;
   border: 1px solid rgba(128, 128, 128, 0.1);
-
+  border-radius: 14px;
   &.real-image {
     background-size: contain;
     background-repeat: no-repeat;
@@ -44,9 +73,10 @@
   }
 
   &-main {
-    height: 320px;
-    margin-bottom: 60px;
-
+    height: 600px;
+    @media screen and (max-width: 992px) {
+      height: 350px;
+    }
     iframe,
     img {
       @media screen and (max-width: 768px) {
@@ -64,21 +94,38 @@
 
 .blog-text-wrapper {
   .blog-date {
+    opacity: 0.5;
+    color: #3C4A69;
     font-size: 14px;
-    color: rgba(25, 26, 32, 0.5);
+    line-height: 30px;
+    padding-left: 30px;
+    position: relative;
+    text-transform: uppercase;
+    &:before {
+      content: '';
+      width: 22px;
+      height: 1px;
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: #3C4A69;
+    }
   }
 
   h3 {
-    font-size: 17px;
-    margin-bottom: 15px;
-    line-height: 1.4;
-    color: #04e79f;
+    color: #121929;
+    font-size: 32px;
     font-weight: 500;
+    line-height: 46px;
+    margin-bottom: 12px;
   }
 
   p {
-    line-height: 24px;
-    color: rgba(25, 26, 32, 0.8);
+    color: #3C4A69;
+    font-size: 14px;
+    line-height: 30px;
+    margin-bottom: 32px;
   }
 }
 

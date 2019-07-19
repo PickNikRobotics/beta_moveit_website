@@ -3,22 +3,20 @@
 # only Main files contain this front matter, not partials.
 ---
 
-@import 'bioPic';
 @import 'body';
 @import 'blog';
 @import 'connect';
 @import 'errorPage';
 @import 'footer';
-@import 'header';
-@import 'hero';
-@import 'homeIntegration';
-@import 'homeIntro';
-@import 'homePeople';
 @import 'jobs';
-@import 'mission';
-@import 'projects';
-@import 'recommendations';
 @import 'singlePost';
 @import 'services';
-@import 'support';
-@import 'responsive';
+@import 'navigation';
+@import 'button';
+@import 'block';
+@import 'lighslider';
+@import 'slider';
+@import 'contact';
+@import 'collapses';
+@import 'products';
+@import 'team';

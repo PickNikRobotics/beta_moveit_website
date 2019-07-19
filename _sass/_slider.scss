@@ -1,0 +1,107 @@
+.casestudies-single {
+  overflow: hidden;
+  background-color: #ffffff;
+  border-radius: 14px;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  width: 100%;
+  display: block;
+
+  &:hover {
+    .casestudies-content {
+      h4 {
+        color: #04e79f;
+      }
+    }
+  }
+
+  img {
+    width: 100%;
+  }
+
+  .casestudies-content {
+    padding: 40px;
+    h4 {
+      margin-bottom: 10px;
+      line-height: 34px;
+    }
+    p {
+      font-size: 14px;
+      margin-bottom: 30px;
+      color: #3c4a69;
+    }
+    .casestudies-logo {
+      width: 100%;
+      max-width: 100px;
+    }
+  }
+}
+
+.recommendations-single {
+  border-radius: 14px;
+  background-color: #ffffff;
+  padding: 60px 30px 30px;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  p {
+    font-size: 16px;
+    line-height: 30px;
+    color: #3c4a69;
+    height: 380px;
+    overflow: hidden;
+    @media screen and (max-width: 520px) {
+      height: 100%;
+    }
+  }
+}
+
+.recommendations-logo {
+  max-width: 100%;
+  width: 100px;
+  margin: 50px auto;
+  display: table;
+}
+
+#lightSlider {
+  margin-bottom: 50px;
+}
+
+#recommendations {
+  margin-bottom: 50px;
+}
+
+.casestudies-arrow-prev {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  padding: 12px;
+  cursor: pointer;
+  @media screen and (max-width: 1199px) {
+    display: none;
+  }
+  &:hover {
+    svg {
+      g {
+        stroke: #04e79f;
+      }
+    }
+  }
+}
+
+.casestudies-arrow-next {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  padding: 12px;
+  cursor: pointer;
+  @media screen and (max-width: 1199px) {
+    display: none;
+  }
+  &:hover {
+    svg {
+      g {
+        stroke: #04e79f;
+      }
+    }
+  }
+}

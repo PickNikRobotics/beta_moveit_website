@@ -4,67 +4,76 @@ title: Connect
 permalink: /connect/
 ---
 
-<div class="intro" id="intro">
-        <div class="introCol1D">
-            <script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCZXCRwRpwuj2OyFK-6UryZhGy21RpOnb4'></script>
-            <div style='overflow:hidden;height:500px;width:100%;'>
-                <div id='gmap_canvas' style='height:450px;width:100%;'></div>
-                <style>
-                    #gmap_canvas img {
-                        max-width: none!important;
-                        background: none!important
-                    }
-                </style>
-            </div> <a href='https://embedmaps.org/'>&nbsp;</a>
-            <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=e253f669ba1ffff4e12c837c99aa6f3efd873ce0'></script>
-            <script type='text/javascript'>
-                function init_map() {
-                    var myOptions = {
-                        zoom: 4,
-                        center: new google.maps.LatLng(40.01768, -105.279576),
-                        mapTypeId: google.maps.MapTypeId.ROADMAP
-                    };
-                    map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
-                    marker = new google.maps.Marker({
-                        map: map,
-                        position: new google.maps.LatLng(40.01768, -105.279576)
-                    });
-                    google.maps.event.addListener(marker, 'click', function() {
-                        infowindow.open(map, marker);
-                    });
-                    infowindow.open(map, marker);
-                }
-                google.maps.event.addDomListener(window, 'load', init_map);
-            </script>
-        </div>
-        <div class="introCol2C">
-            <div class="introPadding">
-                <div class="introTitle">CONNECT</div>
-                <div class="line"></div>
-                <div class="introSubText2">
-                    Let us know how we can help. Request a free consultation today:
+<div class="container-flow" style="position: relative;">
+    <div class="contact-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-xl-6">
+                    <div class="contact-content">
+                        <h1>We would love to hear about your project</h1>
+                        <p>Let us know how we can help!</p>
+                    </div>
                 </div>
-                <img class="connectIcon" src="../assets/images/connect-mail.jpg">
-                <a class="connectText" href="mailto:hello@picknik.ai">hello@picknik.ai</a>
-                <div class="connectMarg"></div>
-                <img class="connectIcon" src="../assets/images/connect-github.png">
-                <a class="connectText" target="_blank" href="https://github.com/PickNikRobotics/">GitHub</a>
-                <div class="connectMarg"></div>
-                <img class="connectIcon" src="../assets/images/connect-phone.jpg">
-                <div class="connectText2">720.513.2221</div>
-                <div class="connectMarg"></div>
-                <img class="connectIcon" src="../assets/images/connect-twitter.jpg">
-                <a class="connectText" target="_blank" href="https://twitter.com/PickNikRobotics">@PickNikRobotics</a>
-                <div class="connectMarg"></div>
-                <img class="connectIcon" src="../assets/images/connect-linkedin.png">
-                <a class="connectText" target="_blank" href="https://www.linkedin.com/company/16217177/">LinkedIn</a>
-                <div class="connectMarg"></div>
-                <img class="connectIcon connectIconAdress" src="../assets/images/office-icon.png">
-                <a class="connectText connectTextAdress" target="_blank" href="https://maps.google.com/?q=1942 Broadway, Suite 314 Boulder, Colorado 80302">
-                    <span>1942 Broadway, Suite 314</span>
-                    <span>Boulder, Colorado 80302</span>
-                </a>
-                <div class="connectMarg"></div>
             </div>
         </div>
     </div>
+    <div class="contact-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-xl-6">
+                    <div class="contact-info">
+                        <div class="contact-info-single">
+                            <a class="contact-info-text" href="mailto:hello@picknik.ai">
+                                <img src="../assets/images/redesign/mail.svg">
+                                hello@picknik.ai
+                            </a>
+                        </div>
+                        <div class="contact-info-single">
+                            <a class="contact-info-text" href="tel:+17205132221">               <img src="../assets/images/redesign/phone.svg">
+                                + 1 720 513 2221
+                            </a>
+                        </div>
+                        <div class="contact-info-single">
+                            <a class="contact-info-text" target="_blank" href="https://maps.google.com/?q=1942 Broadway, Suite 314 Boulder, Colorado 80302">
+                                <img src="../assets/images/redesign/address.svg">
+                                1942 Broadway, Suite 314 Boulder, Colorado 80302
+                            </a>
+                        </div>
+                    </div>
+                    <div class="contact-info-social">
+                        <span>You can find us here:</span>
+                        <a class="contact-info-text" target="_blank" href="https://www.linkedin.com/company/16217177/">
+                            <img src="../assets/images/redesign/linkedin.svg">
+                        </a>
+                        <a class="contact-info-text" target="_blank" href="https://twitter.com/PickNikRobotics">
+                            <img src="../assets/images/redesign/twitter.svg">
+                        </a>
+                        <a class="contact-info-text" target="_blank" href="https://github.com/pickNikRobotics/">
+                            <img src="../assets/images/redesign/github.svg">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="contact-form">
+        <form action="https://formcarry.com/s/I_R-0DVKskS" method="POST" accept-charset="UTF-8">
+            <div class="form-group">
+                <label for="nameInput">Name</label>
+                <input type="text" name="name" class="form-control" id="nameInput" placeholder="Your Name">
+            </div>
+            <div class="form-group">
+                <label for="emailInput">Email</label>
+                <input type="email" name="email" class="form-control" id="emailInput" placeholder="Your Email">
+            </div>
+            <div class="form-group">
+                <label for="textArea">Message</label>
+                <textarea class="form-control" name="textarea" data-autoresize id="textArea" rows="1" placeholder="Your Message"></textarea>
+            </div>
+            <input type="hidden" name="_gotcha"/><!-- use this to prevent spam -->
+            <div class="form-group">
+                <button type="submit" class="btn">Send Message</button>
+            </div>
+        </form>
+    </div>
+</div>

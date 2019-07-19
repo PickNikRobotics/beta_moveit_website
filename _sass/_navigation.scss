@@ -1,0 +1,66 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  background-color: #ffffff;
+  transition: all 0.5s ease-in-out;
+  padding: 20px 0;
+  @media screen and (max-width: 560px) {
+    padding: 20px 12px;
+  }
+  &.navbar--sticky {
+    box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.1);
+  }
+  .navbar-brand {
+    img {
+      width: 150px;
+      @media screen and (max-width: 560px) {
+        width: 120px;
+      }
+    }
+  }
+  .navbar-nav {
+    margin-left: 100px;
+    @media screen and (max-width: 992px) {
+      margin-left: 0;
+      margin-bottom: 12px;
+      text-align: center;
+    }
+    .nav-link {
+      padding-right: 20px;
+      padding-left: 20px;
+      @media screen and (max-width: 992px) {
+        padding-top: 12px;
+        padding-bottom: 12px;
+      }
+      &:hover,
+      &:focus {
+        color: #121929;
+        text-decoration: none;
+      }
+      &.active {
+        font-weight: bold;
+        color: #121929;
+      }
+    }
+  }
+  .navbar-collapse {
+    justify-content: space-between;
+  }
+  .nav-button {
+    justify-self: flex-end;
+    color: #121929;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 17px;
+    @media screen and (max-width: 992px) {
+      margin: 0 auto;
+      display: table;
+    }
+  }
+  .navbar-toggler {
+    border: none;
+  }
+}

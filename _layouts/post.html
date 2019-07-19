@@ -6,43 +6,91 @@
     <div class="row justify-content-between">
       <div class="col-sm-12 col-xs-12">
         <div class="single-post">
-          {% if page.media_type == 'video' %}
-          <div class="image-wrapper">
-            <iframe
-              style="width:100%;"
-              height="315"
-              src="{{ page.media_link }}"
-              frameborder="0"
-              allowfullscreen
-            ></iframe>
-          </div>
-          {% elsif page.media_type == 'image' %}
-          <div
-            class="image-wrapper real-image"
-            style="background-image: url('{{ page.media_link }}');"
-          ></div>
-          {% else %}
-          <div class="image-wrapper">
-            <img
-              src="/assets/images/default-image.jpg"
-              style="width:100%;"
-            />
-          </div>
+          {% if page.date  %}
+          <span class="blog-date">
+            {{ page.date | date: '%B %d, %Y'}}
+          </span>
           {% endif %}
-          <h3>{{ page.title }}</h3>
+          <h1>{{ page.title }}</h1>
           {{ content }}
         </div>
       </div>
       <div class="col-sm-12 col-xs-12 postNavigation">
         {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}"
-          >&laquo; {{ page.previous.title }}</a
-        >
+        <a class="prev" href="{{page.previous.url}}">
+          <div class="post-nav-svg-wrapper">
+            <svg width="36px" height="15px" viewBox="0 0 36 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="1.-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g id="04-PickNik---Blog--Detail" transform="translate(-180.000000, -3462.000000)" stroke="#121929" stroke-width="2">
+                      <g id="Group-3-Copy" transform="translate(181.000000, 3452.000000)">
+                          <g id="prev" transform="translate(17.500000, 17.500000) scale(-1, 1) translate(-17.500000, -17.500000) translate(0.000000, 11.000000)">
+                              <path d="M0,6.5 L34.1757812,6.5" id="Path-3"></path>
+                              <polyline id="Path-4" points="29.5 0 34.5 6.4482837 29.5 13"></polyline>
+                          </g>
+                      </g>
+                  </g>
+              </g>
+            </svg>
+          </div>
+          <div class="post-nav-title-wrapper">
+            <div class="post-nav-text">Previous Post</div>
+            <div class="post-nav-title">{{ page.previous.title }}</div>
+          </div>
+        </a>
         {% endif %} {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}"
-          >{{ page.next.title }} &raquo;</a
-        >
+        <a class="next" href="{{page.next.url}}">
+          <div class="post-nav-title-wrapper">
+            <div class="post-nav-text">Next Post</div>
+            <div class="post-nav-title">{{ page.next.title }}</div>
+          </div>
+          <div class="post-nav-svg-wrapper">
+            <svg width="36px" height="15px" viewBox="0 0 36 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="1.-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g id="04-PickNik---Blog--Detail" transform="translate(-1587.000000, -3462.000000)" stroke="#04E79F" stroke-width="2">
+                      <g id="Group-3" transform="translate(1451.000000, 3452.000000)">
+                          <g id="next" transform="translate(136.000000, 11.000000)">
+                              <path d="M0,6.5 L34.1757812,6.5" id="Path-3"></path>
+                              <polyline id="Path-4" points="29.5 0 34.5 6.4482837 29.5 13"></polyline>
+                          </g>
+                      </g>
+                  </g>
+              </g>
+            </svg>
+          </div>
+        </a>
         {% endif %}
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid bg-grey">
+    <div class="container other-post-container">
+      <h3 class="other-post-title">Latest Posts</h3>
+      <div class="row justify-content-between">
+        {% for post in site.posts limit:3 %}
+        <div class="post-card-small">
+          <div class="post-single">
+            <a href="{{ post.url }}">
+              {% if post.media_type == 'video' %}
+              <div class="post-image-wrapper">
+                <iframe style="width:100%;" height="315" src="{{ post.media_link }}" frameborder="0" allowfullscreen></iframe>
+              </div>
+              {% elsif post.media_type == 'image' %}
+              <div class="post-image-wrapper real-image" style="background-image: url('{{ post.media_link }}');"></div>
+              {% else %}
+              <div class="post-image-wrapper">
+                <img src="/assets/images/default-image.jpg" style="width:100%;">
+              </div>
+              {% endif %}
+              <div class="post-text-wrapper">
+                <span class="post-date">
+                    {{ post.date | date: '%B %d, %Y'}}
+                </span>
+                <h4>{{ post.title | truncate: 50}}</h4>
+              </div>
+            </a>
+          </div>
+        </div>
+        {% endfor %}
       </div>
     </div>
   </div>

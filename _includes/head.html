@@ -9,39 +9,9 @@
 
 <meta name="keywords" content="robot arm software robotic consulting picknik contractors consultants controls moveit ros">
 <meta name="description" content="We are robotic software experts available to develop, integrate, or provide general consulting and training for your robotic applications.">
-<link rel="stylesheet" href="{{ '/assets/css/bootstrap-grid.min.css' | relative_url }}" />
+<link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" />
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
 <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico">
-<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500, 700" rel="stylesheet">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-
+<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700&display=swap" rel="stylesheet">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<script>
-    (function ($, undefined) {
-        var open = [];
-        var opts = {
-            selector: '.dropdown',
-            toggle: 'menuR1',
-            open: 'dropdown-open',
-            nest: true
-        };
-        $(document).on('click.dropdown touchstart.dropdown', function (e) {
-            // Close the last open dropdown if click is from outside the target dropdown
-            if (open.length && (!opts.nest || !open[open.length - 1].find(e.target).length)) {
-                open.pop().removeClass(opts.open);
-            }
-            var $this = $(e.target);
-            // If target is a dropdown then toggle it...
-            if ($this.hasClass(opts.toggle)) {
-                e.preventDefault();
-                $this = $this.closest(opts.selector);
-                if (!$this.hasClass(opts.open)) {
-                    open.push($this.addClass(opts.open));
-                } else {
-                    open.pop().removeClass(opts.open);
-                }
-            }
-        });
-    })(jQuery);
-</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>

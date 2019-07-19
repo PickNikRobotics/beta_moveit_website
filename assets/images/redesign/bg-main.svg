@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="611px" viewBox="0 0 750 611" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Bg Elements</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="25.6698436%" y1="40.5782332%" x2="90.8565655%" y2="66.6855488%" id="linearGradient-1">
+            <stop stop-color="#35ABF7" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#35ABF7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="32.599345%" y1="21.766686%" x2="79.2201576%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#35ABF7" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#35ABF7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="25.6698436%" y1="21.766686%" x2="90.8565655%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#35ABF7" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#35ABF7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1.-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.051141183">
+        <g id="01-PickNik-Services-v1-Copy" transform="translate(-16.000000, 0.000000)" fill-rule="nonzero">
+            <g id="BG" transform="translate(-60.000000, -1.000000)">
+                <g id="Bg-Elements" transform="translate(-57.220295, -212.396556)">
+                    <path d="M663,737.154385 L451.281387,885.020454 C318.009126,979.125857 143.384661,989.974171 0,913.055714 L500.476282,581 L663,737.154385 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                    <path d="M808.443728,636.61602 L773.745244,661 L543.657386,438.43164 L324,221.325522 L467.553267,-3.6692871e-14 L835.525439,379.717604 C870.325563,415.573265 887.376181,465.033946 882.037117,514.639357 C876.698052,564.244768 849.524852,608.833305 807.912464,636.270587 L808.443728,636.61602 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                    <path d="M327.446245,548.784044 C300.218345,590.69736 244.156987,602.609598 202.229697,575.390772 C160.302408,548.171946 148.386198,492.129272 175.614099,450.215956 C202.841999,408.30264 258.903357,396.390402 300.830646,423.609228 C342.680466,450.88123 354.581737,506.853648 327.446245,548.784044 L327.446245,548.784044 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,12 +1,12 @@
 <div class="footer">
     <div class="footerRow1">
         <div class="footerColL">
-            <a href="{{site.baseurl}}/services" class="footerLinks">SERVICES</a>
-            <a href="{{site.baseurl}}/support" class="footerLinks">SUPPORT</a>
-            <a href="{{site.baseurl}}/blog" class="footerLinks">BLOG</a>
-            <a href="{{site.baseurl}}/team" class="footerLinks">TEAM</a>
-            <a href="{{site.baseurl}}/jobs" class="footerLinks">JOBS</a>
-            <a href="{{site.baseurl}}/connect" class="footerLinks">CONNECT</a>
+            <a href="{{site.baseurl}}/services" class="footerLinks">Services</a>
+            <a href="{{site.baseurl}}/products" class="footerLinks">Products</a>
+            <a href="{{site.baseurl}}/blog" class="footerLinks">Blog</a>
+            <a href="{{site.baseurl}}/team" class="footerLinks">Team</a>
+            <a href="{{site.baseurl}}/jobs" class="footerLinks">Jobs</a>
+            <a href="{{site.baseurl}}/connect" class="footerLinks">Connect</a>
         </div>
         <div class="footerColR">
             <div class="footerText">PickNik remains committed to open source and dedicates a significant portion of its
@@ -20,25 +20,25 @@
         </div>
 
         <div class="footerColR">
-            <div class="footerText">Copyright &copy; {{ site.time | date: '%Y' }} PickNik Consulting LLC, located in
-                <br> Boulder, Colorado, USA. All rights reserved.</div>
+            <div class="footerText footerText2">
+                <div class="footer-copyright">
+                    Copyright &copy; {{ site.time | date: '%Y' }} PickNik Consulting LLC, located in Boulder, Colorado, USA. All rights reserved.
+                </div>
+                <div class="footer-social">
+                    <a class="contact-info-text" target="_blank" href="https://www.linkedin.com/company/16217177/">
+                        <img src="/assets/images/redesign/linkedinGrey.svg">
+                    </a>
+                    <a class="contact-info-text" target="_blank" href="https://twitter.com/PickNikRobotics">
+                        <img src="/assets/images/redesign/twitterGrey.svg">
+                    </a>
+                    <a class="contact-info-text" target="_blank" href="https://github.com/pickNikRobotics/">
+                        <img src="/assets/images/redesign/githubGrey.svg">
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
-<script>
-    $(document).ready(function () {
-        $('a[href^="#"]').click(function () {
-            var target = $(this.hash);
-            if (target.length == 0) target = $('a[name="' + this.hash.substr(1) + '"]');
-            if (target.length == 0) target = $('html');
-            $('html, body').animate({
-                scrollTop: target.offset().top - 100
-            }, 1000);
-            return false;
-        });
-    });
-</script>
-
 <script>
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -55,3 +55,9 @@
     ga('create', 'UA-58609229-1', 'auto');
     ga('send', 'pageview');
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/assets/js/lightslider.min.js"></script>
+<script type="text/javascript" src="/assets/js/scroll.js"></script>
+<script type="text/javascript" src="/assets/js/main.js"></script>
+<script type="text/javascript" src="/assets/js/showMore.js"></script>
