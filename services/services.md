@@ -13,7 +13,7 @@ permalink: /services/
             <div class="col-12 col-lg-6">
                 <p>
                     At PickNik, we care about the quality of your robotic application.
-                    We listen to your needs and tailor our services to ensure smooth delivery of highly-quality solutions. We are flexible and customize
+                    We listen to your needs and tailor our services to ensure smooth delivery of high-quality solutions. We are flexible and customize
                     our engagement to suit your unique requirements. Our most popular three services are as follows:
                 </p>
             </div>
