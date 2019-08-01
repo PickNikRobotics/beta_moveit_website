@@ -11,7 +11,7 @@
             <feColorMatrix values="0 0 0 0 0.0754548834   0 0 0 0 0.096736573   0 0 0 0 0.145380435  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="1.-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="01-PickNik-Services-v1-Copy" transform="translate(-284.000000, -540.000000)">
             <g id="Group-5" transform="translate(284.000000, 593.000000)">
                 <rect id="Rectangle" stroke="#ECEFF6" stroke-width="3" x="1.5" y="17.5" width="117" height="117" rx="16"></rect>
