@@ -71,7 +71,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                         Motion Planning
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -169,7 +169,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                         Collision Avoidance
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -207,7 +207,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                         Advanced Inverse Kinematics
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -283,7 +283,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                         Realtime Control
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -331,7 +331,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                         ROS Framework Design
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -385,7 +385,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                         ROS 2 Integration
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -442,7 +442,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                         2D Navigation
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -480,7 +480,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
                         Virtual Reality
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -518,7 +518,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
                         Robot Modelling
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -604,7 +604,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
                         Workspace Analysis
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -639,7 +639,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
                         Multilingual
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -671,7 +671,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
                         Cloud Integration
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
@@ -706,7 +706,7 @@ permalink: /services/robotics-consulting/
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseFiveteen" aria-expanded="false" aria-controls="collapseFiveteen">
                         Web-based Robot Control
                             <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Icons/24/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon id="+" fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
