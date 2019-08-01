@@ -27,7 +27,7 @@
       span.collapses__link {
         width: 100%;
         display: block;
-        padding: 30px;
+        padding: 30px 60px 30px 20px;
         cursor: pointer;
         &[aria-expanded="true"] {
           color: #04e79f;
@@ -42,16 +42,10 @@
           }
         }
         .collapse-svg {
-          width: 35px;
-          height: 35px;
-          position: absolute;
-          right: 30px;
-          top: 30px;
-          border-radius: 30px;
           width: 34px;
           height: 34px;
           position: absolute;
-          right: 30px;
+          right: 20px;
           top: 30px;
           border-radius: 30px;
           display: flex;

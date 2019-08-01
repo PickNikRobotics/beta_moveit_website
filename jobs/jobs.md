@@ -22,15 +22,17 @@ permalink: /jobs/
     <div class="container">
         <div class="jobs-card-wrapper">
             <div class="jobs-card-single">
-                <div class="col-12 col-lg-5">
+                <div class="col-12 col-xl-7">
                     <div class="img-wrapper">
-                        <img src="../assets/images/team.jpg" alt="teamPic">
+                        <img src="../assets/images/team-new.jpg" alt="teamPic">
                     </div>
                 </div>
-                <div class="col-12 col-lg-6">
-                    <h3>We Value Our Team</h3>
-                    <p>We are building a team of world-class professionals. Work-life balance is a key value for us. We work hard and smart. We believe in flexibility, freedom, internal mentorship, and the ability to work from anywhere. We take the initiative to do it right and believe in continuous improvement.
-                    </p>
+                <div class="col-12 col-xl-5">
+                    <div class="jobs-card-single-content">
+                        <h3>We Value Our Team</h3>
+                        <p>We are building a team of world-class professionals. Work-life balance is a key value for us. We work hard and smart. We believe in flexibility, freedom, internal mentorship, and the ability to work from anywhere. We take the initiative to do it right and believe in continuous improvement.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>

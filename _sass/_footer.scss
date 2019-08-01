@@ -12,7 +12,7 @@
   display: table;
   height: auto;
   position: relative;
-  width: 85%;
+  width: 100%;
   margin: 0 auto;
   border-bottom: 1px solid #4f4f4f;
 }
@@ -21,7 +21,7 @@
   display: table;
   height: auto;
   position: relative;
-  width: 85%;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -63,7 +63,6 @@ a.footerLinks {
   font-weight: 400;
   margin-right: 30px;
   font-size: 16px;
-  letter-spacing: 2px;
   line-height: 40px;
   opacity: 0.8;
   @media only screen and (max-width: 992px) {
@@ -79,7 +78,6 @@ a.footerLinks1 {
   text-decoration: none;
   font-weight: 400;
   font-size: 16px;
-  letter-spacing: 2px;
   @media only screen and (max-width: 992px) {
     font-size: 13px;
   }
