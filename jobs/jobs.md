@@ -103,42 +103,42 @@ permalink: /jobs/
     <div class="collapses-wrapper">
         <h3 class="collapses__title">Open Positions</h3>
         <div id="accordion">
-            <div class="card">
-                <div class="card-header" id="headingOne">
+                    <div class="card">
+                <div class="card-header" id="headingThree">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                        Applied Robotics Scientist
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        Software Engineer - Robotics
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
                 </div>
-                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                     <div class="card-body jobs-card-body">
                         <div class="jobs-card-place">Boulder, Denver · Full Time</div>
                         <h5>Job Description:</h5>
-                        <p>As an Applied Robotics Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
+                        <p>As a Software Engineer (Robotics) at PickNik Consulting you’ll be developing software applications, creating user interfaces, optimizing algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Responsibilities will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to software design and implementation.
                         </p>
                         <h5>Job Requirements:</h5>
                         <ul>
                             <li>
-                                Masters or PhD in Robotics, Computer Science, or a related robotics-focused field
+                                Degree(s) in Computer Science, Robotics, or a related field and/or equivalent industry experience
                             </li>
                             <li>
-                                Proven track record of innovation in applying algorithms and advancing robotics
+                                Experience with C++ and willingness to learn more
                             </li>
                             <li>
-                                Strong C++ experience and familiarity with at least one scripting language, preferably Matlab or Python
+                                Experience with the Robotics Operating System (ROS) and robotic application development
                             </li>
                             <li>
-                                Theoretical understanding of motion planning, inverse kinematics, control systems, graph theory, and/or simulation
+                                Skilled with at least one scripting language such as Python or Matlab
                             </li>
                             <li>
-                                Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field
+                                Knowledge of software development in Linux
                             </li>
                             <li>
-                                Experience with ROS or similar robotics middleware
+                                Experience with full life-cycle application development, Git version control, software testing, and continuous integration
                             </li>
                         </ul>
                         <h5>Some preferred skills/experience:</h5>
@@ -147,7 +147,16 @@ permalink: /jobs/
                                 MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
                             </li>
                             <li>
-                                Common open source libraries and tools such as Eigen and Boost
+                                Common open source libraries and tools such as Eigen, Qt, CMake, Bazel, and Protobufs
+                            </li>
+                            <li>
+                                Background in Agile software development methodology e.g. JIRA
+                            </li>
+                            <li>
+                                Experience developing user interfaces through technologies such as Qt or web apps
+                            </li>
+                            <li>
+                                Demonstrated ability through previous work experience
                             </li>
                         </ul>
                         <h5>
@@ -162,7 +171,7 @@ permalink: /jobs/
                         <p>
                             Submit your resume here and highlight relevant experience
                         </p>
-                        <a href="https://workable.com/j/C90064C632" class="btn">
+                        <a href="https://workable.com/j/72A610F1B8" class="btn">
                             APPLY NOW
                         </a>
                     </div>
@@ -240,6 +249,71 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="card">
+                <div class="card-header" id="headingOne">
+                    <h5 class="mb-0">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                        Applied Robotics Scientist
+                            <div class="collapse-svg">
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                            </div>
+                        </span>
+                    </h5>
+                </div>
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div class="card-body jobs-card-body">
+                        <div class="jobs-card-place">Boulder, Denver · Full Time</div>
+                        <h5>Job Description:</h5>
+                        <p>As an Applied Robotics Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
+                        </p>
+                        <h5>Job Requirements:</h5>
+                        <ul>
+                            <li>
+                                Masters or PhD in Robotics, Computer Science, or a related robotics-focused field
+                            </li>
+                            <li>
+                                Proven track record of innovation in applying algorithms and advancing robotics
+                            </li>
+                            <li>
+                                Strong C++ experience and familiarity with at least one scripting language, preferably Matlab or Python
+                            </li>
+                            <li>
+                                Theoretical understanding of motion planning, inverse kinematics, control systems, graph theory, and/or simulation
+                            </li>
+                            <li>
+                                Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field
+                            </li>
+                            <li>
+                                Experience with ROS or similar robotics middleware
+                            </li>
+                        </ul>
+                        <h5>Some preferred skills/experience:</h5>
+                        <ul>
+                            <li>
+                                MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
+                            </li>
+                            <li>
+                                Common open source libraries and tools such as Eigen and Boost
+                            </li>
+                        </ul>
+                        <h5>
+                            Skill Keywords:
+                        </h5>
+                        <p>
+                            Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
+                        </p>
+                        <p>
+                            So you wanna join, what do you need to do?
+                        </p>
+                        <p>
+                            Submit your resume here and highlight relevant experience
+                        </p>
+                        <a href="https://workable.com/j/C90064C632" class="btn">
+                            APPLY NOW
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
                 <div class="card-header" id="headingTwo">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -302,80 +376,6 @@ permalink: /jobs/
                             Submit your resume here and highlight relevant experience
                         </p>
                         <a href="https://workable.com/j/CB0ED353E7" class="btn">
-                            APPLY NOW
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="headingThree">
-                    <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        Software Engineer - Robotics
-                            <div class="collapse-svg">
-                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
-                            </div>
-                        </span>
-                    </h5>
-                </div>
-                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                    <div class="card-body jobs-card-body">
-                        <div class="jobs-card-place">Boulder, Denver · Full Time</div>
-                        <h5>Job Description:</h5>
-                        <p>As a Software Engineer (Robotics) at PickNik Consulting you’ll be developing software applications, creating user interfaces, optimizing algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Responsibilities will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to software design and implementation.
-                        </p>
-                        <h5>Job Requirements:</h5>
-                        <ul>
-                            <li>
-                                Degree(s) in Computer Science, Robotics, or a related field and/or equivalent industry experience
-                            </li>
-                            <li>
-                                Experience with C++ and willingness to learn more
-                            </li>
-                            <li>
-                                Experience with the Robotics Operating System (ROS) and robotic application development
-                            </li>
-                            <li>
-                                Skilled with at least one scripting language such as Python or Matlab
-                            </li>
-                            <li>
-                                Knowledge of software development in Linux
-                            </li>
-                            <li>
-                                Experience with full life-cycle application development, Git version control, software testing, and continuous integration
-                            </li>
-                        </ul>
-                        <h5>Some preferred skills/experience:</h5>
-                        <ul>
-                            <li>
-                                MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
-                            </li>
-                            <li>
-                                Common open source libraries and tools such as Eigen, Qt, CMake, Bazel, and Protobufs
-                            </li>
-                            <li>
-                                Background in Agile software development methodology e.g. JIRA
-                            </li>
-                            <li>
-                                Experience developing user interfaces through technologies such as Qt or web apps
-                            </li>
-                            <li>
-                                Demonstrated ability through previous work experience
-                            </li>
-                        </ul>
-                        <h5>
-                            Skill Keywords:
-                        </h5>
-                        <p>
-                            Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
-                        </p>
-                        <p>
-                            So you wanna join, what do you need to do?
-                        </p>
-                        <p>
-                            Submit your resume here and highlight relevant experience
-                        </p>
-                        <a href="https://workable.com/j/72A610F1B8" class="btn">
                             APPLY NOW
                         </a>
                     </div>
