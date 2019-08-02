@@ -1,11 +1,16 @@
 /*FOOTER*/
 
 .footer {
+  position: absolute;
+  bottom: 0;
   width: 100%;
   background-color: #121929;
   background-image: url("../images/redesign/bg-footer.svg");
   background-repeat: no-repeat;
   background-size: contain;
+  @media screen and (max-width: 503px) {
+    position: static;
+  }
 }
 
 .footerRow1 {
