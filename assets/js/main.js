@@ -7,6 +7,7 @@ $(document).ready(function () {
 		slideMargin: 30,
 		controls: false,
 		speed: 1000,
+		pause: 5000,
 		responsive: [
 			{
 				breakpoint: 992,
@@ -40,6 +41,7 @@ $(document).ready(function () {
 		slideMargin: 30,
 		controls: false,
 		speed: 1000,
+		pause: 5000,
 		responsive: [
 			{
 				breakpoint: 992,

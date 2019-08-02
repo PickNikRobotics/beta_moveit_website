@@ -47,7 +47,7 @@
   .img-wrapper {
     border-radius: 14px;
     overflow: hidden;
-    @media screen and (max-width: 992px) {
+    @media screen and (max-width: 1199px) {
       margin-bottom: 50px;
     }
     img {
@@ -61,6 +61,13 @@
   }
   p {
     line-height: 30px;
+  }
+}
+
+.jobs-card-single-content {
+  margin-left: 30px;
+  @media screen and (max-width: 1199px) {
+    margin-left: 0;
   }
 }
 
