@@ -62,7 +62,7 @@ permalink: /connect/
                     </div>
                     <div class="contact-info-social">
                         <span>You can find us here:</span>
-                        <a class="contact-info-text" target="_blank" href="https://www.linkedin.com/company/16217177/">
+                        <a class="contact-info-text" target="_blank" href="https://www.linkedin.com/company/picknik">
                             <img src="../assets/images/redesign/linkedin.svg">
                         </a>
                         <a class="contact-info-text" target="_blank" href="https://twitter.com/PickNikRobotics">
