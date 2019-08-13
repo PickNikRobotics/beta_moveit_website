@@ -25,6 +25,10 @@
   background-color: #f5f5fa;
   padding-top: 40px;
   padding-bottom: 200px;
+  @media screen and (max-width: 1199px) {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
 }
 
 .contact-info {
@@ -66,15 +70,13 @@
 .contact-form {
   width: 600px;
   position: absolute;
-  top: 50%;
-  right: 10%;
-  transform: translateY(-50%);
+  top: 0;
+  right: 15px;
   @media screen and (max-width: 1199px) {
     position: relative;
-    top: -130px;
+    top: auto;
     right: auto;
-    transform: none;
-    margin: 0 auto;
+    margin: 50px auto 0;
     max-width: 100%;
   }
   form {

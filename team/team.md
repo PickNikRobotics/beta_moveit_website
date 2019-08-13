@@ -24,17 +24,17 @@ redirect_from:
         <div class="team-card-wrapper">
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/davetcoleman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p1.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p1.jpg')"></div>
                     <h3>Dave Coleman, PhD</h3>
                 </a>
                 <div class="team-position">Co-Founder, Senior Roboticist</div>
-                <p>B.S. MechEng Georgia Tech, Masters and PhD CompSci CU Boulder focusing on motion planning. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.
+                <p>Mechanical Engineering B.S. at Georgia Tech, Computer Science PhD at CU Boulder focusing on motion planning. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/andymcevoy/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p2.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p2.jpg')"></div>
                     <h3>Andy McEvoy, PhD</h3>
                 </a>
                 <div class="team-position">Co-Founder, Senior Roboticist</div>
@@ -44,7 +44,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/mikelautman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p3.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p3.jpg')"></div>
                     <h3>Mike Lautman, MSE</h3>
                 </a>
                 <div class="team-position">Co-Founder, Roboticist</div>
@@ -56,7 +56,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p4.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p4.jpg')"></div>
                     <h3>Rob Coleman</h3>
                 </a>
                 <div class="team-position">Co-Founder, Business Operations</div>
@@ -67,7 +67,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/nathan-b-brooks/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p10.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p10.jpg')"></div>
                     <h3>Nathan Brooks, PhD</h3>
                 </a>
                 <div class="team-position">Applied Robotics Scientist</div>
@@ -77,7 +77,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/stephenbrawner/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p11.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p11.jpg')"></div>
                     <h3>Stephen Brawner, PhD, PE</h3>
                 </a>
                 <div class="team-position">Applied Robotics Scientist</div>
@@ -87,7 +87,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/lars-henning-kayser-79ab18178/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p14.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p14.jpg')"></div>
                     <h3>Henning Kayser, MSE</h3>
                 </a>
                 <div class="team-position">Applied Robotics Scientist</div>
@@ -97,7 +97,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/andy-zelenak-a659b3127" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p16.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/andyz.png')"></div>
                     <h3>Andy Zelenak, PhD</h3>
                 </a>
                 <div class="team-position">Senior Controls Engineer</div>
@@ -107,7 +107,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/tyler-weaver-b504626" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p17.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/tyler.png')"></div>
                     <h3>Tyler Weaver</h3>
                 </a>
                 <div class="team-position">Software Engineer - Robotics</div>
@@ -117,7 +117,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/christofferheckman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p15.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p15.jpg')"></div>
                     <h3>Chris Heckman, PhD</h3>
                 </a>
                 <div class="team-position">Senior Perception Researcher</div>
@@ -127,7 +127,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p18.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/omid.png')"></div>
                     <h3>Omid Heidari, PhD Candidate</h3>
                 </a>
                 <div class="team-position">Robotics Intern</div>
@@ -137,7 +137,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/simon-goldstein" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p19.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/simon.png')"></div>
                     <h3>Simon Goldstein</h3>
                 </a>
                 <div class="team-position">Robotics Intern</div>
@@ -147,7 +147,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/ioansucan/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p8.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p8.jpg')"></div>
                     <h3>Ioan Sucan, PhD</h3>
                 </a>
                 <div class="team-position">Advisor</div>
@@ -157,7 +157,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://brian.gerkey.org/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p12.png')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p12.png')"></div>
                     <h3>Brian Gerkey, PhD</h3>
                 </a>
                 <div class="team-position">Advisor</div>
@@ -167,7 +167,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/michael-hurowitz-a016a76/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p5.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p5.jpg')"></div>
                     <h3>Mike Hurowitz</h3>
                 </a>
                 <div class="team-position">Advisor</div>
@@ -177,7 +177,7 @@ redirect_from:
             </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/rosejn/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/p6.jpg')"></div>
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p6.jpg')"></div>
                     <h3>Jeff Rose</h3>
                 </a>
                 <div class="team-position">Advisor</div>
