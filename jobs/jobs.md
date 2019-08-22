@@ -194,12 +194,15 @@ permalink: /jobs/
                     <div class="card-body jobs-card-body">
                         <div class="jobs-card-place">Boulder, Denver · Full Time</div>
                         <h5>Job Description:</h5>
-                        <p>As a Senior Robotics Software Engineer at PickNik Consulting you’ll be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to framework design and implementation.
+                        <p>As a Senior Software Engineer at PickNik Consulting you’ll be developing large software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source frameworks. Duties will include architecting and developing software in several languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to framework design and implementation, while mentoring team members to produce higher quality code.
                         </p>
                         <h5>Job Requirements:</h5>
                         <ul>
                             <li>
-                                Degree(s) in Computer Science, Robotics, Engineering, or a related field and/or equivalent industry experience. Advanced degrees are a plus
+                            Degree(s) in Computer Science, Robotics, Engineering, or a related field and/or equivalent industry experience. Advanced degrees are a plus.
+                            </li>
+                            <li> 
+                                Minimum 6 years of professional work experience
                             </li>
                             <li>
                                 Extensive knowledge of C++11 or newer
@@ -211,7 +214,7 @@ permalink: /jobs/
                                 Extensive knowledge of software development in Linux
                             </li>
                             <li>
-                                Experience with full life-cycle library and application development, Git version control, software testing, and continuous integration
+                            Experience with full life-cycle library and application development, Git version control, software testing, and continuous integration.
                             </li>
                             <li>
                                 Experience with communication middleware
@@ -226,17 +229,17 @@ permalink: /jobs/
                                 ROS, MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
                             </li>
                             <li>
-                                General understanding of motion planning, inverse kinematics, control systems, graph theory, and/or simulation
+                                General understanding of graph theory, algorithm design, simulation, motion planning, inverse kinematics, and/or control    systems.
                             </li>
                             <li>
-                                Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field
+                            Demonstrated industry ability to deliver complex projects
                             </li>
                         </ul>
                         <h5>
                             Skill Keywords:
                         </h5>
                         <p>
-                            Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
+                            Software Engineering, C++, Python, Motion Planning, Robot Operating System (ROS), Gazebo, Robot Motion Planning, MoveIt!, Inverse Kinematics, Control Systems, Simulation, Robotics
                         </p>
                         <p>
                             So you wanna join, what do you need to do?
