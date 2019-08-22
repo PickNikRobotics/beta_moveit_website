@@ -199,7 +199,7 @@ permalink: /jobs/
                         <h5>Job Requirements:</h5>
                         <ul>
                             <li>
-                            Degree(s) in Computer Science, Robotics, Engineering, or a related field and/or equivalent industry experience. Advanced degrees are a plus.
+                                Degree(s) in Computer Science, Robotics, Engineering, or a related field and/or equivalent industry experience. Advanced degrees are a plus.
                             </li>
                             <li> 
                                 Minimum 6 years of professional work experience
@@ -214,7 +214,7 @@ permalink: /jobs/
                                 Extensive knowledge of software development in Linux
                             </li>
                             <li>
-                            Experience with full life-cycle library and application development, Git version control, software testing, and continuous integration.
+                                Experience with full life-cycle library and application development, Git version control, software testing, and continuous integration.
                             </li>
                             <li>
                                 Experience with communication middleware
@@ -229,10 +229,10 @@ permalink: /jobs/
                                 ROS, MoveIt, Gazebo, OpenRave, or other robotic libraries are advantageous
                             </li>
                             <li>
-                                General understanding of graph theory, algorithm design, simulation, motion planning, inverse kinematics, and/or control    systems.
+                                General understanding of graph theory, algorithm design, simulation, motion planning, inverse kinematics, and/or control systems.
                             </li>
                             <li>
-                            Demonstrated industry ability to deliver complex projects
+                                Demonstrated industry ability to deliver complex projects
                             </li>
                         </ul>
                         <h5>
