@@ -6,7 +6,7 @@ layout: post
 title: PickNik and Rapyuta Team up to Release MoveIt Grasps 
 media_type: image
 media_link: /assets/images/blog_posts/moveit_grasps/moveit_grasps.png
-description: Bringing a major new feature to MoveIt: a grasping library for manipulation
+description: "Bringing a major new feature to MoveIt: a grasping library for manipulation"
 categories:
 - MoveIt
 - ROS
