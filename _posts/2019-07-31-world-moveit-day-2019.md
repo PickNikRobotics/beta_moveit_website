@@ -14,26 +14,22 @@ categories:
 
 **The fourth annual World MoveIt Day will be Wednesday, November 20th, 2019!**
 
+The event is a day long international hackathon to improve the MoveIt code base, increase documentation, and discuss  exciting developments in our community. Everyone is welcome to join, whether to host, participate, or just observe. 
+
+We hope to close as many pull requests and issues as possible and explore new areas of features and improvements building off of our seven years of ongoing work.
+
 <img src="/assets/images/blog_posts/2019_07_31_world_moveit_day.png" alt="World Moveit Day 2019">
 
-We will be having several international event locations and have received verbal commitments already. Locations are still to be announced, but last year's included:
+We will be having several international event locations and have received numerous commitments already, including:
 
-* Iron Ox, San Francisco, USA
-* PickNik Consulting, Boulder, USA
-* Fraunhofer IPA / RIC-EU, Stuttgart, Germany
-* ROS-Industrial Asian Pacific Consortium, Singapore
-* Tokyo Opensource Robotics Kyokai Association (TORK) and OMRON SINIC X Corporation, Tokyo (Kashiwa)
-* Southwest Research Institute, San Antonio, USA
-* Cluster Innovation Centre, New Delhi, India
-* Shadow Robot Company, London, UK
-
-For 2019, thus far we have received verbal commitments for the following locations
-* Boulder, USA
-* Boston, USA
-* Tokyo, Japan
-* San Antonio, USA
-* Hamburg, Germany
-* San Francisco, USA
+* [Universität Hamburg](https://www.uni-hamburg.de/en.html) / Group TAMS, Hamburg, Germany
+* [Embedded Group of UIET, Panjab University](http://uiet.puchd.ac.in/), Chandigarh, India
+* [Cluster Innovation Centre, Delhi University](https://ducic.ac.in/), New Delhi, India
+* [Southwest Research Institute](https://www.swri.org/) / [ROS-Industrial Consortium Americas](https://rosindustrial.org/ric-americas/), San Antonio, USA
+* [OMRON SINIC X](https://www.omron.com/sinicx/), Tokyo, Japan
+* [Vicarious](https://www.vicarious.com/), Berkeley, CA, USA
+* [PickNik Consulting](https://picknik.ai/), Boulder, USA
+* [ROS-Industrial Asian Pacific Consortium](https://rosindustrial.org/ric-apac/), Singapore
 
 You are also encouraged to have your own event in your lab/ organization/ company and video conference into all the other events.
 
