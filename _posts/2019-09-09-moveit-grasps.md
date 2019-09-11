@@ -20,7 +20,7 @@ categories:
 
 We are pleased to officially announce a major new feature to MoveIt: a default grasping library for manipulation called [MoveIt Grasps](https://github.com/ros-planning/moveit_grasps). This package is the successor to the deprecated moveit_simple_grasps project and was originally developed by Dave Coleman and Andy McEvoy at the University of Colorado Boulder.
 
-Over the past year, through a close partnership between Rapyuta Robotics and PickNik Robotics, the MoveIt Grasps package underwent a significant refactor and is now being released to the open-source community. 
+Over the past year, through a close partnership between [Rapyuta Robotics](https://www.rapyuta-robotics.com) and [PickNik Robotics](https://picknik.ai), the MoveIt Grasps package underwent a significant refactor and is now being released to the open-source community. 
 
 **Features:**
 
@@ -44,4 +44,4 @@ Because of Rapyuta's and PickNik's commitment to open source, this package has b
 
 **About Rapyuta Robotics**
 
-Rapyuta Robotics, an ETH Zurich spin-off, is a global technology startup with long term ambitions to develop a cloud robotics platform that will become the backbone of a new technology hub that unites hardware developers, software developers, businesses and end-users to build the next generation of robotics solutions. For more details visit https://www.rapyuta-robotics.com/
+Rapyuta Robotics, an ETH Zurich spin-off, is a global technology startup with long term ambitions to develop a cloud robotics platform that will become the backbone of a new technology hub that unites hardware developers, software developers, businesses and end-users to build the next generation of robotics solutions. For more details visit [https://www.rapyuta-robotics.com](https://www.rapyuta-robotics.com)
