@@ -3,7 +3,7 @@ author: Jafar Abdi
 comments: false
 date: 2019-09-09
 layout: post
-title: PickNik and Rapyuta Team up to Release MoveIt Grasps 
+title: PickNik and Rapyuta Team Up to Release MoveIt Grasps 
 media_type: image
 media_link: /assets/images/blog_posts/moveit_grasps/moveit_grasps.png
 description: "Bringing a major new feature to MoveIt: a grasping library for manipulation"
@@ -38,8 +38,10 @@ Because of Rapyuta's and PickNik's commitment to open source, this package has b
 * You can find out more about the package [here](https://github.com/ros-planning/moveit_grasps).
 
 
-----------------|------------------
-![rapyuta_logo] |  ![picknik_logo]
+|----------------|------------------|
+|![rapyuta_logo] |  ![picknik_logo] |
+|                |                  |
+|                |                  |
 
 
 **About Rapyuta Robotics**
