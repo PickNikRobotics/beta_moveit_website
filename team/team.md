@@ -90,7 +90,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/andyz.png')"></div>
                     <h3>Andy Zelenak, PhD</h3>
                 </a>
-                <div class="team-position">Senior Controls Engineer</div>
+                <div class="team-position">Controls Engineer</div>
                 <p>B.S. ME/EE from Colorado School of Mines, PhD from the University of Texas. Andy has focused on bringing a more responsive, delicate touch to industrial robots, with emphasis on control theory. Andy has collaborated with roboticists in the nuclear, oil/gas, and aerospace domains. Some of his favorite projects were joint current based collision detection, balancing an egg between Motoman SIA5 manipulators, and design of teleoperation software for a dual-arm Clearpath robot.
                 </p>
                 <span class="show-more-team">Read More</span>
