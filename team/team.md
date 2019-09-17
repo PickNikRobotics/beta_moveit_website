@@ -48,7 +48,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/MarkMoll.jpg')"></div>
                     <h3>Mark Moll, PhD</h3>
                 </a>
-                <div class="team-position">Senior Staff Roboticist</div>
+                <div class="team-position">Director of Research</div>
                 <p>M.S. Computer Science University of Twente (the Netherlands) and PhD Computer Science Carnegie Mellon University. Mark has worked in robotics for more than 20 years, with a focus on motion planning.  He has been leading the development of the Open Motion Planning Library, which is used by MoveIt as the default planning library. He has over 80 peer-reviewed publications. He has extensive experience deploying novel algorithms on a variety of robotic platforms, ranging from NASA's Robonaut2 to autonomous underwater vehicles and self-reconfigurable robots.
                 </p>
                 <span class="show-more-team">Read More</span>
