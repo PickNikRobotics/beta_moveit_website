@@ -138,7 +138,7 @@ redirect_from:
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/guilherme-sartori-natal-069b5042/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/GuilhermeSartoriNatal.jpg')"></div>
-                    <h3>Guilherme Sartori Natal</h3>
+                    <h3>Guilherme Sartori Natal, PhD</h3>
                 </a>
                 <div class="team-position">Controls Engineer</div>
                 <p>PhD Robotics at LIRMM/France and two Post-Docs: KU Leuven/Belgium and ITA/Brazil. Specialist in advanced control of robots/nonlinear systems. During his PhD, Guilherme implemented an adaptive controller on the World's fastest robot (able to reach more than 100G of acceleration), which granted him a nomination for the IEEE ICRA'12 Best Automation Paper Award. At KU Leuven, he implemented control improvements on the PR2 robot, from Willow Garage, using a state observer to improve its joint velocity estimations. At ITA, he worked on the control of a robotic flight simulator and on 3D simulations of new robotic structures.
