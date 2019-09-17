@@ -6,7 +6,7 @@ layout: post
 title: Announcing MoveIt 2 Alpha Release
 media_type: image
 media_link: /assets/images/blog_posts/2019_05_31_moveit2_alpha.jpg
-description: The ROS 2 port MoveIt2's Alpha is here with the help of Acutronic Robotics in collaberation with PickNik
+description: The ROS 2 port MoveIt2's Alpha is here with the help of Acutronic Robotics in collaboration with PickNik
 categories:
 - MoveIt
 - ROS
