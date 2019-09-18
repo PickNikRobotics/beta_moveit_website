@@ -12,8 +12,6 @@ categories:
 - ROS
 ---
 
-**Intro Paragraph, high-level**
-
 Check out Dave Coleman's ROSCon 2018 talk on "Easy Robot Software and the MoveIt Setup Assistant 2.0", where he discusses some of the usability design decisions of the MoveIt framework.
 
 **Abstract**
