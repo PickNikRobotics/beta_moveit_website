@@ -5,7 +5,7 @@ date: 2019-09-18
 layout: post
 title: PickNik Turns 2
 media_type: image
-media_link: /assets/images/blog_posts/picknik_turn_2/mike_dave_andy.jpg
+media_link: /assets/images/blog_posts/picknik_turn_2/team.jpg
 description: PickNik Recently Celebrated 2 Years in Business
 categories:
 - MoveIt
