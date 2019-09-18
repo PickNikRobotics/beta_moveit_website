@@ -1,7 +1,7 @@
 ---
 author: Rob Coleman
 comments: false
-date: 2019-09-19
+date: 2019-09-17
 layout: post
 title: Easy Robot Software
 media_type: image
