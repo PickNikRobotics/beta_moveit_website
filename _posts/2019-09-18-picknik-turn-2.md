@@ -31,7 +31,7 @@ Dave's passion for the open source software model has helped PickNik Robotics be
 
 <p align="center"><img src="/assets/images/blog_posts/picknik_turn_2/team.jpg" alt="PickNik Team"></p>
 
-As the robotics industry continues to grow, PickNik continues to focus on world class robotics consulting and providing powerful robotics software...
+As the robotics industry continues to grow, PickNik continues to focus on world class robotics consulting and providing powerful robotics software.
 
 ![line]
 
