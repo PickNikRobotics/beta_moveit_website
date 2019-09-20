@@ -5,13 +5,11 @@ permalink: /case-study-rtr/
 ---
 *PickNik and Realtime team up to create MoveIt planning plugin for Rapidplan.*
 
-<img src="/assets/images/franka-cs.png">
+![Image](/assets/images/case_studies/real_time_robotics/blog_image.jpg)
 
 **INTRODUCTION**
 
 Boston-area startup [Realtime Robotics](https://rtr.ai) believes the trade-off between speed, safety and structure is the single-biggest factor holding automation back today. Realtime provides a number of products and solutions to allow robots to move safely and seamlessly at speed, in unstructured and uncaged environments.
-
-![Image](/assets/images/case_studies/real_time_robotics/blog_image.jpg)
 
 **CHALLENGE**
 
