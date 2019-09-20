@@ -3,8 +3,9 @@ layout: post
 title: Realtime Robotics - Real Work, Real Fast in the Real World
 permalink: /case-study-rtr/
 ---
+*PickNik and Realtime team up to create MoveIt planning plugin for Rapidplan.*
 
-PickNik and Realtime team up to create MoveIt planning plugin for Rapidplan.
+<img src="/assets/images/franka-cs.png">
 
 **INTRODUCTION**
 
