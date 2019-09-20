@@ -202,7 +202,7 @@ permalink: /services/robotics-consulting/
                 </div>
             </div>
             <div class="card">
-                <div class="card-header" id="advaced-inverse-kinematics">
+                <div class="card-header" id="advanced-inverse-kinematics">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                         Advanced Inverse Kinematics
