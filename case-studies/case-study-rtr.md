@@ -4,13 +4,11 @@ title: Realtime Robotics - Real Work, Real Fast in the Real World
 permalink: /case-study-rtr/
 ---
 
+**INTRODUCTION**
+
+Boston-area startup [Realtime Robotics](https://rtr.ai) believes the trade-off between speed, safety and structure is the single-biggest factor holding automation back today. Realtime provides a number of products and solutions to allow robots to move safely and seamlessly at speed, in unstructured and uncaged environments.
+
 ![Image](/assets/images/case_studies/real_time_robotics/blog_image.jpg)
-
-**ABOUT**
-
-Realtime Robotics is enabling robotics and automation to reach its full potential through a combination of vastly improved basic sensorimotor capabilities, ease of programming and design, and safe human-robot collaboration. Realtime Robotics, Inc.’s responsive motion planning eliminates a huge challenge on the evolutionary path for robots and autonomous vehicles: the constraining trade-off between speed and safety. Its innovative products, RapidPlan and RapidSense, harness next-generation computer processors and software that make it possible for robots and autonomous vehicles to evaluate alternative scenarios and choose the optimal path to avoid collisions – all within milliseconds.  
- 
-The company was founded in 2016, by Duke University professors Dan Sorin, George Konidaris, and top researchers Sean Murray and Will Floyd-Jones, based on groundbreaking DARPA-funded research in motion planning. Based in Boston, the company’s early investors include Sparx Group Co., Ltd., Toyota AI, and Scrum Ventures. More information about Realtime Robotics, its technology and the business benefits it offers can be found on the company’s website: [https://rtr.ai](https://rtr.ai).
 
 **CHALLENGE**
 
@@ -29,6 +27,12 @@ The plugin supports converting the collision objects in the planning scene to an
 ![Image2](/assets/images/case_studies/real_time_robotics/image2.png)
 
 The collaboration with [Realtime Robotics](https://rtr.ai) has shown that MoveIt is adaptable to new planning methodologies. Reliable real-time planning and collision checking are long expected key features required by modern robot applications and also a driving factor for the development of [ROS 2.0](https://index.ros.org/doc/ros2/). The project reflects the importance of online-planning capabilities in current MoveIt versions and the implementation of [MoveIt 2](https://moveit.ros.org/moveit!/ros/2019/03/01/announcing-the-moveit-2-port.html).
+
+**ABOUT**
+
+Realtime Robotics is enabling robotics and automation to reach its full potential through a combination of vastly improved basic sensorimotor capabilities, ease of programming and design, and safe human-robot collaboration. Realtime Robotics, Inc.’s responsive motion planning eliminates a huge challenge on the evolutionary path for robots and autonomous vehicles: the constraining trade-off between speed and safety. Its innovative products, RapidPlan and RapidSense, harness next-generation computer processors and software that make it possible for robots and autonomous vehicles to evaluate alternative scenarios and choose the optimal path to avoid collisions – all within milliseconds.  
+ 
+The company was founded in 2016, by Duke University professors Dan Sorin, George Konidaris, and top researchers Sean Murray and Will Floyd-Jones, based on groundbreaking DARPA-funded research in motion planning. Based in Boston, the company’s early investors include Sparx Group Co., Ltd., Toyota AI, and Scrum Ventures. More information about Realtime Robotics, its technology and the business benefits it offers can be found on the company’s website: [https://rtr.ai](https://rtr.ai).
 
 **Relevant Links**
 
