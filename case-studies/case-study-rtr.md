@@ -37,5 +37,5 @@ The company was founded in 2016, by Duke University professors Dan Sorin, George
 
 **Relevant Links**
 
-* Realtime’s Video Library [https://vimeo.com/realtimerobotics](https://vimeo.com/realtimerobotics)
+* Realtime’s Video Library [http://vimeo.com/realtimerobotics](http://vimeo.com/realtimerobotics)
 * Website [https://rtr.ai/](https://rtr.ai/) 
