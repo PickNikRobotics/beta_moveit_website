@@ -29,7 +29,7 @@ permalink: /products/
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <h3>PickNik Trackpose</h3>
+                        <h3>Trackpose</h3>
                         <p>The real world is noisy and sensor inputs are no exception. TrackPose is a library for realtime smoothing of various real-world inputs including perception-based tracking systems, virtual reality hand controllers, and other human-control input devices. TrackPose's theoretical guarantees ensure your robot's behavior is safer and more predictable, while prolonging the life of your hardware via smoother operation.
                         </p>
                         <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
@@ -44,7 +44,7 @@ permalink: /products/
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <h3>PickNik TrackJoint</h3>
+                        <h3>TrackJoint</h3>
                         <p>Modern robots require highly reactive machines capable of instantaneous changes. TrackJoint is a highly reactive algorithm that can deterministically compute joint-based motion trajectories in real time. This results in smoother motions that ensure expensive robot hardware's lifetime is prolonged while minimizing overall cycle time.
                         </p>
                         <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
@@ -59,7 +59,7 @@ permalink: /products/
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <h3>PickNik Bolt</h3>
+                        <h3>Bolt</h3>
                         <p>Robotic manipulation tasks are becoming increasingly challenging to solve by ordinary motion planners. Bolt is a fast, dual-arm motion planner that selectively learns from experience. It is also capable of solving underconstrained Cartesian trajectories. Bolt reliably produces smooth and robust motion trajectories using cutting edge theoretical proofs.
                         </p>
                         <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
@@ -74,7 +74,7 @@ permalink: /products/
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <h3>PickNik Teleremote</h3>
+                        <h3>Teleremote</h3>
                         <p>Complete autonomy for arbitrary environments and tasks is still a goal for the future. Robots get stuck, and with PickNik Teleremote, humans can easily fix them. This suite of remote operation tools supports mixed levels of autonomy for teleoperation of robotic arms. We leverage the latest technologies including virtual reality to ensure intuitive user interfaces.
                         </p>
                         <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
