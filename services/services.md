@@ -23,21 +23,21 @@ permalink: /services/
         <div class="services-card-wrapper">
             <div class="services-card-single">
                 <div class="img-wrapper">
-                    <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="motion planning icon">
-                </div>
-                <h3>Robotics <br/> Consulting</h3>
-                <p>Leverage our team of expert roboticists to answer your toughest problems. Our consulting involves daily communication with weekly check-ins to monitor the project's progress and advise on common pitfalls. We can provide onsite support and training, as well as remote consulting through video calls, shared Slack channels, and email follow-ups.
-                </p>
-                <a href="/services/robotics-consulting" class="btn">discover more</a>
-            </div>
-            <div class="services-card-single">
-                <div class="img-wrapper">
                     <img class="icon" src="../assets/images/redesign/custom-development.svg" alt="motion planning icon">
                 </div>
                 <h3>Custom<br/> Development</h3>
                 <p>Let our team of expert roboticists and software engineers supercharge your research & development. Whether we work embedded within your development team or remotely developing an end to end solution to fit your needs, we always deliver the highest quality work and provide exceptional documentation. From our experience, getting hands on with the software provides the most insights and value to you.
                 </p>
                 <a href="/services/custom-development" class="btn">discover more</a>
+            </div>
+            <div class="services-card-single">
+                <div class="img-wrapper">
+                    <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="motion planning icon">
+                </div>
+                <h3>Robotics <br/> Consulting</h3>
+                <p>Leverage our team of expert roboticists to answer your toughest problems. Our consulting involves daily communication with weekly check-ins to monitor the project's progress and advise on common pitfalls. We can provide onsite support and training, as well as remote consulting through video calls, shared Slack channels, and email follow-ups.
+                </p>
+                <a href="/services/robotics-consulting" class="btn">discover more</a>
             </div>
             <div class="services-card-single">
                 <div class="img-wrapper">
