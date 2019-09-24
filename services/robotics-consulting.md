@@ -9,7 +9,7 @@ permalink: /services/robotics-consulting/
             <div class="col-12 col-lg-6">
                 <h1>Robotics<br/> Consulting</h1>
                 <p>
-                    We offer expert consulting tailored to your needs. For ongoing and open-ended projects, we can provide both monthly support plans and time-and-materials contracts, whatever best suits your needs.
+                    We offer expert robotics consulting tailored to your project's needs. With both flexibility and scalability, we are your go to team for your most challenging tasks. 
                 </p>
             </div>
             <div class="col-12 col-lg-6">
@@ -28,7 +28,7 @@ permalink: /services/robotics-consulting/
                 <div class="col-12 col-lg-6">
                     <h2>Expertise</h2>
                     <p>
-                        Our team is ready to support you on your toughest robotic problems. We are rooted with strong academic backgrounds of robotics theory combined with deep applied software experience.
+                        We are rooted with strong academic backgrounds of robotics theory combined with deep applied software experience. Our Roboticists are ready to support you on your toughest robotic problems.
                     </p>
                 </div>
             </div>
@@ -38,7 +38,7 @@ permalink: /services/robotics-consulting/
                 <div class="col-12 col-lg-6">
                     <h2>Scalability</h2>
                     <p>
-                       Hiring is difficult and tight deadlines don’t help. Avoid the PhD hiring struggle. Scale your team as needed with us. Engage with us for 1 week, 1 month, or 1 year -- we’re flexible.
+                       Hiring is difficult and tight deadlines don’t help. Avoid the PhD hiring struggle. Scale your team as needed with us. Engage with us for as long as you need us -- we’re flexible.
                     </p>
                 </div>
                 <div class="col-12 col-lg-6">
