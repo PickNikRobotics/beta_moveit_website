@@ -34,8 +34,3 @@ The collaboration with [Realtime Robotics](https://rtr.ai) has shown that MoveIt
 Realtime Robotics is enabling robotics and automation to reach its full potential through a combination of vastly improved basic sensorimotor capabilities, ease of programming and design, and safe human-robot collaboration. Realtime Robotics, Inc.’s responsive motion planning eliminates a huge challenge on the evolutionary path for robots and autonomous vehicles: the constraining trade-off between speed and safety. Its innovative products, RapidPlan and RapidSense, harness next-generation computer processors and software that make it possible for robots and autonomous vehicles to evaluate alternative scenarios and choose the optimal path to avoid collisions – all within milliseconds.  
  
 The company was founded in 2016, by Duke University professors Dan Sorin, George Konidaris, and top researchers Sean Murray and Will Floyd-Jones, based on groundbreaking DARPA-funded research in motion planning. Based in Boston, the company’s early investors include Sparx Group Co., Ltd., Toyota AI, and Scrum Ventures. More information about Realtime Robotics, its technology and the business benefits it offers can be found on the company’s website: [https://rtr.ai](https://rtr.ai).
-
-**Relevant Links**
-
-* Realtime’s Robotics Overview [https://rtr.ai/robotics/](https://rtr.ai/robotics/)
-* Website [https://rtr.ai/](https://rtr.ai/) 
