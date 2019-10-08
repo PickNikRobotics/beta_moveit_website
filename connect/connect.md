@@ -68,7 +68,7 @@ permalink: /connect/
                         <a class="contact-info-text" target="_blank" href="https://twitter.com/PickNikRobotics">
                             <img src="../assets/images/redesign/twitter.svg">
                         </a>
-                        <a class="contact-info-text" target="_blank" href="https://github.com/pickNikRobotics/">
+                        <a class="contact-info-text" target="_blank" href="https://github.com/PickNikRobotics/">
                             <img src="../assets/images/redesign/github.svg">
                         </a>
                     </div>
