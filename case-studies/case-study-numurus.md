@@ -4,6 +4,8 @@ title: Numurus - Reduce The Complexity Of Intelligent Systems
 permalink: /case-study-numurus/
 ---
 
+![Image](/assets/images/case_studies/numurus/image2.png)
+
 **INTRODUCTION**
 
 Numurus wants to simplify the development process for smart devices, while enhancing the overall end-user experience. Numurus offers a scalable Edge-to-Cloud product line.  Numurus’ Smart Sensing Ecosystem products include Smart Sensor Platforms, an Edge Software Toolkit, and Smart IoT Solutions, that reduce time-to-market for new products, while offering end-users improved usability with Smart IoT capabilities.
