@@ -225,7 +225,8 @@ redirect_from:
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
-            <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+            <div class="team-card-single-empty">
+            </div>
         </div>
     </div>
 </div>
