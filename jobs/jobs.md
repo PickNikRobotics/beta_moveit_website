@@ -201,7 +201,7 @@ permalink: /jobs/
                             <li>
                                 Degree(s) in Computer Science, Robotics, Engineering, or a related field and/or equivalent industry experience. Advanced degrees are a plus.
                             </li>
-                            <li> 
+                            <li>
                                 Minimum 6 years of professional work experience
                             </li>
                             <li>
@@ -254,21 +254,21 @@ permalink: /jobs/
                 </div>
             </div>
             <div class="card">
-                <div class="card-header" id="headingOne">
+                <div class="card-header" id="headingAppliedRobotics">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                        Applied Robotics Scientist
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseAppliedRobotics" aria-expanded="false" aria-controls="collapseAppliedRobotics">
+                        Applied Robotics
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
                 </div>
-                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                <div id="collapseAppliedRobotics" class="collapse" aria-labelledby="headingAppliedRobotics" data-parent="#accordion">
                     <div class="card-body jobs-card-body">
                         <div class="jobs-card-place">Boulder, Denver · Full Time</div>
                         <h5>Job Description:</h5>
-                        <p>As an Applied Robotics Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
+                        <p>As an Applied Roboticist at PickNik Robotics, you will determine where state of the art robotics research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing ROS software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
                         </p>
                         <h5>Job Requirements:</h5>
                         <ul>
@@ -276,19 +276,19 @@ permalink: /jobs/
                                 Masters or PhD in Robotics, Computer Science, or a related robotics-focused field
                             </li>
                             <li>
-                                Proven track record of innovation in applying algorithms and advancing robotics
+                                Strong C++ experience and familiarity with at least one scripting language, preferably Matlab or Python
                             </li>
                             <li>
-                                Strong C++ experience and familiarity with at least one scripting language, preferably Matlab or Python
+                                Extensive ROS knowledge and experience with ROS hardware integration
+                            </li>
+                            <li>
+                                Proven track record of innovation in applying algorithms and advancing robotics
                             </li>
                             <li>
                                 Theoretical understanding of motion planning, inverse kinematics, control systems, graph theory, and/or simulation
                             </li>
                             <li>
                                 Demonstrated ability, either through previous projects, advanced education/research, and/or knowledge of the robotics field
-                            </li>
-                            <li>
-                                Experience with ROS or similar robotics middleware
                             </li>
                         </ul>
                         <h5>Some preferred skills/experience:</h5>
@@ -304,7 +304,7 @@ permalink: /jobs/
                             Skill Keywords:
                         </h5>
                         <p>
-                            Software Engineering, Python, C++, Control Systems, Robotics, Simulations, Motion Planning, Mobile Robotics, Robot Operating System (ROS), Gazebo, Robot motion planning, MoveIt, Inverse Kinematics
+                            Robotics, Motion Planning, Robot Operating System (ROS), Gazebo, Robot Motion Planning, MoveIt, Inverse Kinematics, Control Systems, Simulation, Software Engineering, C++, Python
                         </p>
                         <p>
                             So you wanna join, what do you need to do?
