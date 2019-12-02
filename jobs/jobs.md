@@ -201,7 +201,7 @@ permalink: /jobs/
                             <li>
                                 Degree(s) in Computer Science, Robotics, Engineering, or a related field and/or equivalent industry experience. Advanced degrees are a plus.
                             </li>
-                            <li> 
+                            <li>
                                 Minimum 6 years of professional work experience
                             </li>
                             <li>
@@ -381,6 +381,124 @@ permalink: /jobs/
                             Submit your resume here and highlight relevant experience
                         </p>
                         <a href="https://workable.com/j/CB0ED353E7" class="btn">
+                            APPLY NOW
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingPM">
+                    <h5 class="mb-0">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapsePM" aria-expanded="false" aria-controls="collapsePM">
+                        Project Manager / Account Manager
+                            <div class="collapse-svg">
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                            </div>
+                        </span>
+                    </h5>
+                </div>
+                <div id="collapsePM" class="collapse" aria-labelledby="headingPM" data-parent="#accordion">
+                    <div class="card-body jobs-card-body">
+                        <div class="jobs-card-place">Boulder, Denver · Full Time</div>
+                        <h5>Job Description:</h5>
+                        <p>This leadership role at PickNik Robotics will require you to wear two hats at our fast growing 15 person startup. As Project Manager, you'll be leading teams that are developing next generation robotic software applications and integrating solutions for our clients. As an Account Manager, you will be responsible for customer happiness, requirements gathering, and project budgeting. You'll be strategically leading technically complex projects that will be used on thousands of robots around the world (and in outer space!).
+                        </p>
+                        <h5>Job Requirements:</h5>
+                        <ul>
+                            <li>
+                                Bachelors' degree or greater in Computer Science, Mechanical Engineering, Electrical Engineering, or a related technical field
+                            </li>
+                            <li>
+                                4+ years relevant experience leading software and/or engineering teams
+                            </li>
+                            <li>
+                                Experience using and running project planning software
+                            </li>
+                            <li>
+                                Experience as a scrum master in the Agile development methodology
+                            </li>
+                            <li>
+                                Ability to provide technical guidance and leadership to project team.
+                            </li>
+                            <li>
+                                Ability to effectively communicate with clients and build relationships
+                            </li>
+                            <li>
+                                Skill in organizing resources and establishing priorities.
+                            </li>
+                            <li>
+                                Ability to manage technical and project level risks, stay on top of scope changes and contractual modifications and identify & communicate corrective actions
+                            </li>
+                            <li>
+                                Knowledge of budgeting, cost estimating, and contractual procedures.
+                            </li>
+                            <li>
+                                Ability to gather data, compile information, and prepare reports.
+                            </li>
+                            <li>
+                                Willing to travel to occasional client onsites
+                            </li>
+                            <li>
+                                US Person (US Citizen or Permanent Resident)
+                            </li>
+                        </ul>
+                        <h5>Some preferred skills/experience:</h5>
+                        <ul>
+                            <li>
+                                Technical knowledge of robotics and automation
+                            </li>
+                            <li>
+                                Experience with JIRA, Clubhouse, Asana, and/or Trello
+                            </li>
+                            <li>
+                                PMP, Scrum, or Lean certification a plus
+                            </li>
+                            <li>
+                                Strong working knowledge of G Suite tools: Drive, Docs, Spreadsheet, Calendar, Gmail
+                            </li>
+                        </ul>
+                        <h5>
+                            What does a Project Manager / Account manager do?
+                        </h5>
+                        <ul>
+                            <li>
+                                Guide teams to build the right things and provide the best service for all our clients.
+                            </li>
+                            <li>
+                                Communicate and execute project plans starting with Project Kickoff.
+                            </li>
+                            <li>
+                                Run agile sprint planning every 2 weeks and ensure alignment with client expectations.
+                            </li>
+                            <li>
+                                Communicate with clients and internal teams to keep progress on track.
+                            </li>
+                            <li>
+                                Build healthy lasting relationships and delight customers.
+                            </li>
+                            <li>
+                                Continuously engage with our clients to find new areas of collaboration.
+                            </li>
+                            <li>
+                                Track key performance metrics to hit deadlines and follow budget limits.
+                            </li>
+                            <li>
+                                Support project estimations by engaging with technical leads and engineering team.
+                            </li>
+                            <li>
+                                Manage timelines by balancing incoming work with team capabilities and capacity.
+                            </li>
+                            <li>
+                                Support improving sales processes and strategies.
+                            </li>
+                        </ul>
+                        <p>
+                            So you wanna join, what do you need to do?
+                        </p>
+                        <p>
+                            Submit your resume here and highlight relevant experience
+                        </p>
+                        <a href="https://workable.com/j/7D4BB4B9BA" class="btn">
                             APPLY NOW
                         </a>
                     </div>
