@@ -141,7 +141,7 @@ redirect_from:
                     <h3>Guilherme Sartori Natal, PhD</h3>
                 </a>
                 <div class="team-position">Controls Engineer</div>
-                <p>PhD Robotics at LIRMM/France and two Post-Docs: KU Leuven/Belgium and ITA/Brazil. Specialist in advanced control of robots/nonlinear systems. During his PhD, Guilherme implemented an adaptive controller on the World's fastest robot (able to reach more than 100G of acceleration), which granted him a nomination for the IEEE ICRA'12 Best Automation Paper Award. At KU Leuven, he implemented control improvements on the PR2 robot, from Willow Garage, using a state observer to improve its joint velocity estimations. At ITA, he worked on the control of a robotic flight simulator and on 3D simulations of new robotic structures.
+                <p>PhD in Robotics at LIRMM/France and two Post-Docs: KU Leuven/Belgium and ITA/Brazil. Specialist in advanced control of robots/nonlinear systems. During his PhD, Guilherme implemented an adaptive controller on the World's fastest robot (able to reach more than 100G of acceleration), which granted him a nomination for the IEEE ICRA'12 Best Automation Paper Award. At KU Leuven, he implemented control improvements on the PR2 robot, from Willow Garage, using a state observer to improve its joint velocity estimations. At ITA, he worked on the control of a robotic flight simulator and on 3D simulations of new robotic structures.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -152,6 +152,16 @@ redirect_from:
                 </a>
                 <div class="team-position">Software Engineer - Robotics</div>
                 <p>B.S. Mechatronics Engineering from Karabuk University. Jafar started as an embedded system enthusiasm before getting interested in robotics and software development; his favorite programming languages are C++ and Python, while he is also a fan of "Modern C++", a math lover, and believer in life-long learning.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/jere-liukkonen/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/jere.png')"></div>
+                    <h3>Jere Liukkonen</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p> M.S. Automation and Control Systems Engineering from Aalto University with a focus on mechatronics. Jere is a C++ enthusiast with background in computer vision and image processing. Before becoming a full-time roboticist, he worked with challenging computer vision problems with the most recent being analyzing medical images using deep neural networks.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -214,6 +224,8 @@ redirect_from:
                 <p>Jeff is a Partner of Origin Rose, a strategic consulting company. Over the last 3 years, he also led ThinkTopic, a Boulder based AI company, as Co-founder and CEO. ThinkTopic has worked with a wide range of organizations, from the Asian Development Bank to Conde Nast and Digital Globe. Before starting ThinkTopic, Jeff was one of the first research engineers at (Google) DeepMind, where he collaborated with neuroscientists to develop novel machine learning algorithms.
                 </p>
                 <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single-empty">
             </div>
         </div>
     </div>
