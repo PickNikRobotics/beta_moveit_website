@@ -27,16 +27,18 @@ title: Blog
     </a>
   </div>
   <div class="col-12 col-lg-4 blog-align-center">
-    <div class="blog-text-wrapper">
-      <span class="blog-date">
-        {{ post.date | date: '%B %d, %Y'}}
-      </span>
-      <h3>
-        {{ post.title }}
-      </h3>
-      <p>{{ post.description }}</p>
-      <a class="btn" href="{{ post.url }}">Read more</a>
-    </div>
+    <a href="{{ post.url }}">
+      <div class="blog-text-wrapper">
+        <span class="blog-date">
+          {{ post.date | date: '%B %d, %Y'}}
+        </span>
+        <h3>
+          {{ post.title }}
+        </h3>
+        <p>{{ post.description }}</p>
+        <a class="btn" href="{{ post.url }}">Read more</a>
+      </div>
+    </a>
   </div>
   {% endfor %}
 </div>
