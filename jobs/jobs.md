@@ -257,7 +257,7 @@ permalink: /jobs/
                 <div class="card-header" id="headingAppliedRobotics">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseAppliedRobotics" aria-expanded="false" aria-controls="collapseAppliedRobotics">
-                        Applied Robotics
+                        Applied Roboticist
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
