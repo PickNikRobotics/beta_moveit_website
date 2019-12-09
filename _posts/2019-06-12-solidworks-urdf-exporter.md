@@ -6,7 +6,7 @@ layout: post
 title: Announcing SolidWorks to URDF Exporter 1.5
 media_type: image
 media_link: /assets/images/blog_posts/2019_06_12_solidworks.png
-description: It is my pleasure to announce that we’ve made a huge update to the SolidWorks URDF Exporter. A big thank you is due to Verb Surgical for inspiring and supporting the work and also to the team at PickNik Consulting.
+description: It is my pleasure to announce that we’ve made a huge update to the SolidWorks URDF Exporter. A big thank you is due to Verb Surgical for inspiring and supporting the work and also to the team at PickNik Robotics.
 categories:
 - MoveIt
 - ROS
@@ -15,7 +15,7 @@ categories:
 *Written and cross-posted on Discourse by Stephen Brawner*
 
 It is my pleasure to announce that we’ve made a huge update to the SolidWorks URDF Exporter.
-A big thank you is due to [Verb Surgical](https://www.verbsurgical.com/) for inspiring and supporting the work and also to the team at [PickNik Consulting](https://picknik.ai/).
+A big thank you is due to [Verb Surgical](https://www.verbsurgical.com/) for inspiring and supporting the work and also to the team at [PickNik Robotics](https://picknik.ai/).
 
 <img src="/assets/images/blog_posts/2019_06_12_solidworks.png" alt="Announcing SolidWorks to URDF Exporter 1.5">
 

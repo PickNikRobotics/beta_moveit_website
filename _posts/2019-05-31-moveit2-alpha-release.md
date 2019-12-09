@@ -14,7 +14,7 @@ categories:
 
 **Status of the port to ROS 2**
 
-We're happy to see there has been a lot progress made in creating MoveIt 2 since the project began in February. Acutronic Robotics dedicated a large engineering effort in collaboration with PickNik Consulting and the MoveIt maintainers to make this possible.
+We're happy to see there has been a lot progress made in creating MoveIt 2 since the project began in February. Acutronic Robotics dedicated a large engineering effort in collaboration with PickNik Robotics and the MoveIt maintainers to make this possible.
 
 The goal of this effort was to move fast in creating a <i>minimum viable product</i> port. This MVP is not to be mistaken for a complete port and much of the work has yet to get merged upstream to the ros-planning organization. At the time of writing, the MoveIt 2 Alpha release is capable of planning simple joint-space problems.
 

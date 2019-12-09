@@ -42,8 +42,8 @@
 #   - vendor/gems/
 #   - vendor/ruby/
 
-name: PickNik Robotics Software Consultants
-description: We are robotic software experts available to develop, integrate, or provide general consulting and training for your robotic applications.
+name: PickNik Robotics Software R&amp;D
+description: We are robotic software experts available to provide development, research, and training. Our open source solutions and premium products augment your robotic application's needs.
 url: https://picknik.ai
 feed_items: 10
 feed_update_period: daily

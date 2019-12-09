@@ -69,7 +69,7 @@ We've come a long way from the early days of MoveIt at Willow Garage.
 MoveIt is now a huge international effort with contributors from research labs and companies around the world.
 See our [2017 montage](https://moveit.ros.org/moveit!/ros/2017/06/20/videoMontage2017.html) for some of the impressive applications using MoveIt.
 
-Under [PickNik Consulting](https://picknik.ai/)'s guidance, we're encouraging more people to get involved --  including you!
+Under [PickNik Robotics](https://picknik.ai/)'s guidance, we're encouraging more people to get involved --  including you!
 Our third year of [World MoveIt Day](https://moveit.ros.org/moveit!/ros/2018/11/20/wordlmoveitdayreport3.html) had approximately 310 participants from 13 locations around the globe.
 Together with Open Robotics, PickNik sponsored three Google Summer of Code students to [work on MoveIt](https://moveit.ros.org/moveit!/ros/2018/05/08/google-summer-of-code.html) last summer.
 We've also put in a ton of effort making MoveIt easier to use, from the [MoveIt Setup Assistant 2.0](https://moveit.ros.org/moveit!/ros/2018/10/23/gsoc-2018-setup-assistant-v2.html) to [new tutorials using the Franka Emika Panda robot](https://github.com/ros-planning/moveit_tutorials/pull/166).

@@ -120,7 +120,7 @@ permalink: /jobs/
                     <div class="card-body jobs-card-body">
                         <div class="jobs-card-place">Boulder, Denver · Full Time</div>
                         <h5>Job Description:</h5>
-                        <p>As a Software Engineer (Robotics) at PickNik Consulting you’ll be developing software applications, creating user interfaces, optimizing algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Responsibilities will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to software design and implementation.
+                        <p>As a Software Engineer (Robotics) at PickNik Robotics you’ll be developing software applications, creating user interfaces, optimizing algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Responsibilities will include developing software in a variety of languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to software design and implementation.
                         </p>
                         <h5>Job Requirements:</h5>
                         <ul>
@@ -194,7 +194,7 @@ permalink: /jobs/
                     <div class="card-body jobs-card-body">
                         <div class="jobs-card-place">Boulder, Denver · Full Time</div>
                         <h5>Job Description:</h5>
-                        <p>As a Senior Software Engineer at PickNik Consulting you’ll be developing large software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source frameworks. Duties will include architecting and developing software in several languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to framework design and implementation, while mentoring team members to produce higher quality code.
+                        <p>As a Senior Software Engineer at PickNik Robotics you’ll be developing large software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source frameworks. Duties will include architecting and developing software in several languages and platforms that will be used on robots around the world (and in outer space!). You’ll need to readily make decisions relating to framework design and implementation, while mentoring team members to produce higher quality code.
                         </p>
                         <h5>Job Requirements:</h5>
                         <ul>
@@ -333,7 +333,7 @@ permalink: /jobs/
                     <div class="card-body jobs-card-body">
                         <div class="jobs-card-place">Boulder, Denver · Full Time</div>
                         <h5>Job Description:</h5>
-                        <p>As a Motion Planning & Controls Scientist at PickNik Consulting you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated motion planning and controls software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
+                        <p>As a Motion Planning & Controls Scientist at PickNik Robotics you will determine where academic research can be applied to solve our client’s problems and identify opportunities for innovation. You will be developing software applications, optimizing advanced algorithms, and integrating solutions for our clients, internal products, and flagship open source projects. Duties will include developing sophisticated motion planning and controls software in a variety of languages and platforms that will be used on robots around the world (and in outer space!).
                         </p>
                         <h5>Job Requirements:</h5>
                         <ul>
