@@ -45,7 +45,7 @@ A few other stats from the event and 30 days after, in the consolidated moveit r
 - 11 issues closed
 - 10 issues opened
 
-Stickers are on their way to participating locations! If your organization is interested in sponsoring code-sprints please see the [list of ideas](http://moveit.ros.org/documentation/contributing/future_projects/) and contact [PickNik Consulting](http://picknik.ai/connect) for more information.
+Stickers are on their way to participating locations! If your organization is interested in sponsoring code-sprints please see the [list of ideas](http://moveit.ros.org/documentation/contributing/future_projects/) and contact [PickNik Robotics](http://picknik.ai/connect) for more information.
 
 <img src="{{ site.url }}/assets/images/wmd17/munichphoto.jpg" width="500" style="margin-right:20px"/>
 
