@@ -6,6 +6,14 @@ The website https://picknik.ai/
 
 The website is hosted on **Github Pages** using Markdown format. The master branch is ``gh-pages`` as required by Github, and changes made to that branch become immediately available online.
 
+## Images
+
+Please compress images before loading to repo, we recommend [https://tinypng.com/](https://tinypng.com/). High resolution images from professional photographers will kill load times.
+
+## YouTube Videos
+
+Please use https://www.youtube-nocookie.com/ instead of  https://www.youtube.com/. Explanation [here](https://github.com/ros-planning/moveit.ros.org/issues/232).
+
 ## Build Locally on Ubuntu
 
 Will install Ruby, Jekyll, build the website, and server the website on localhost:
