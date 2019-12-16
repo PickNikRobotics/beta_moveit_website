@@ -17,3 +17,13 @@ Will install Ruby, Jekyll, build the website, and server the website on localhos
 Will check all links are valid, etc:
 
     ./build_locally.sh travis
+
+### Contribution Checklist
+
+Ensure your contributions / pull requests are high quality by following this best practice list:
+
+- Does the page correctly use h1, h2, h3 tags?
+- Are all images compressed properly? Checkout [TinyPNG](https://tinypng.com/)
+- Do all images have Alt tags? This greatly helps SEO.
+- Are new pages (except blog posts) being added to the sitemap?
+- All external links off picknik.ai should open in a new window ``target="_blank"``
