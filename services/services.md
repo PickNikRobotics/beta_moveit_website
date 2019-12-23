@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Robotics R&D Services
 permalink: /services/
 ---
 <div class="container">
@@ -33,7 +33,7 @@ permalink: /services/
                 <a href="/services/custom-development" class="btn">discover more</a>
             </div>
             <div class="services-card-single">
-                <a href="/services/custom-development">
+                <a href="/services/robotics-consulting">
                     <div class="img-wrapper">
                         <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="motion planning icon">
                     </div>
@@ -44,7 +44,7 @@ permalink: /services/
                 <a href="/services/robotics-consulting" class="btn">discover more</a>
             </div>
             <div class="services-card-single">
-                <a href="/services/custom-development">
+                <a href="/services/moveit">
                     <div class="img-wrapper">
                         <img class="icon" src="../assets/images/redesign/moveit-support.svg" alt="motion planning icon">
                     </div>

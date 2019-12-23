@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robotics Consulting
+title: Robotics Consulting and Training
 permalink: /services/robotics-consulting/
 ---
 <div class="container">
@@ -9,7 +9,7 @@ permalink: /services/robotics-consulting/
             <div class="col-12 col-lg-6">
                 <h1>Robotics<br/> Consulting</h1>
                 <p>
-                    We offer expert robotics consulting tailored to your project's needs. With both flexibility and scalability, we are your go to team for your most challenging tasks. 
+                    We offer expert robotics consulting tailored to your project's needs. With both flexibility and scalability, we are your go to team for your most challenging tasks.
                 </p>
             </div>
             <div class="col-12 col-lg-6">

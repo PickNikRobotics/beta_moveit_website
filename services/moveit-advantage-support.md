@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MoveIt Advantage Support
+title: MoveIt Advantage Ongoing Support
 redirect_from:
   - /support
 permalink: /services/moveit/
