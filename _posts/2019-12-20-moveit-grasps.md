@@ -1,12 +1,14 @@
 ---
 author: Jafar Abdi
 comments: false
-date: 2019-09-09
+date: 2019-12-20
 layout: post
-title: PickNik and Rapyuta Team Up to Release MoveIt Grasps 
+title: PickNik and Rapyuta Team Up to Release MoveIt Grasps
 media_type: image
 media_link: /assets/images/blog_posts/moveit_grasps/moveit_grasps.png
 description: "Bringing a major new feature to MoveIt: a grasping library for manipulation"
+redirect_from:
+  - "/moveit/ros/2019/09/09/moveit-grasps.html"
 categories:
 - MoveIt
 - ROS
@@ -20,7 +22,11 @@ categories:
 
 We are pleased to officially announce a major new feature to MoveIt: a default grasping library for manipulation called [MoveIt Grasps](https://github.com/ros-planning/moveit_grasps). This package is the successor to the deprecated moveit_simple_grasps project and was originally developed by Dave Coleman and Andy McEvoy at the University of Colorado Boulder.
 
-Over the past year, through a close partnership between [Rapyuta Robotics](https://www.rapyuta-robotics.com) and [PickNik Robotics](https://picknik.ai), the MoveIt Grasps package underwent a significant refactor and is now being released to the open-source community. 
+Over the past year, through a close partnership between [Rapyuta Robotics](https://www.rapyuta-robotics.com) and [PickNik Robotics](https://picknik.ai), the MoveIt Grasps package underwent a significant refactor and is now being released to the open-source community.
+
+See Mike Lautman's talk at ROSCon2019 about MoveIt grasps
+
+<p align="center"><iframe src="https://player.vimeo.com/video/378683113" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p>
 
 **Features:**
 
@@ -31,7 +37,7 @@ Over the past year, through a close partnership between [Rapyuta Robotics](https
 * Extensive debugging and visualization tools
 * Easy to run and modifiable demos
 
-Because of Rapyuta's and PickNik's commitment to open source, this package has been made available to the community. 
+Because of Rapyuta's and PickNik's commitment to open source, this package has been made available to the community.
 
 **More Info**
 
