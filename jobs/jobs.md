@@ -173,7 +173,7 @@ permalink: /jobs/
                         <p>
                             Submit your resume here and highlight relevant experience
                         </p>
-                        <a href="https://workable.com/j/BABC82A4CA" class="btn">
+                        <a href="https://workable.com/j/BABC82A4CA" target="_blank" class="btn">
                             APPLY NOW
                         </a>
                     </div>
@@ -238,7 +238,7 @@ permalink: /jobs/
                         <p>
                             Submit your resume here and highlight relevant experience
                         </p>
-                        <a href="https://workable.com/j/C90064C632" class="btn">
+                        <a href="https://workable.com/j/C90064C632" target="_blank" class="btn">
                             APPLY NOW
                         </a>
                     </div>
@@ -306,7 +306,7 @@ permalink: /jobs/
                         <p>
                             Submit your resume here and highlight relevant experience
                         </p>
-                        <a href="https://workable.com/j/CB0ED353E7" class="btn">
+                        <a href="https://workable.com/j/CB0ED353E7" target="_blank" class="btn">
                             APPLY NOW
                         </a>
                     </div>
@@ -424,7 +424,7 @@ permalink: /jobs/
                         <p>
                             Submit your resume here and highlight relevant experience
                         </p>
-                        <a href="https://workable.com/j/7D4BB4B9BA" class="btn">
+                        <a href="https://workable.com/j/7D4BB4B9BA" target="_blank" class="btn">
                             APPLY NOW
                         </a>
                     </div>
