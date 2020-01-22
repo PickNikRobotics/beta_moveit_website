@@ -121,7 +121,7 @@ redirect_from:
                     <h3>Jafar Abdi</h3>
                 </a>
                 <div class="team-position">Software Engineer - Robotics</div>
-                <p>B.S. Mechatronics Engineering from Karabuk University. Jafar started as an embedded system enthusiasm before getting interested in robotics and software development; his favorite programming languages are C++ and Python, while he is also a fan of "Modern C++", a math lover, and believer in life-long learning.
+                <p>B.S. Mechatronics Engineering from Karabuk University. Jafar started as an embedded system enthusiast before getting interested in robotics and software development; his favorite programming languages are C++ and Python, while he is also a fan of "Modern C++", a math lover, and believer in life-long learning.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
