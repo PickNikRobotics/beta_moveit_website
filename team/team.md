@@ -116,37 +116,7 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/christofferheckman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/p15.jpg')"></div>
-                    <h3>Chris Heckman, PhD</h3>
-                </a>
-                <div class="team-position">Senior Perception Researcher</div>
-                <p>B.S. MechEng UC Berkeley, PhD Theoretical & Applied Mechanics Cornell University and two Postdocs. Asst Professor in the Dept of Computer Science. Chris's research focuses on autonomy, perception, field robotics, machine learning, and AI. His work is used by industry in the development of autonomous vehicles, agricultural robotics and other mobile robots including for medicine and automation, as well as the federal government for civil environmental monitoring, intelligence and defense.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/omid.png')"></div>
-                    <h3>Omid Heidari, PhD Candidate</h3>
-                </a>
-                <div class="team-position">Applied Robotics Scientist</div>
-                <p>M.S. MechEng from Babol Univ. of Technology; currently PhD candidate in Robotics, Idaho State University. Omid has worked extensively on forward & inverse kinematics as well as the dimensional synthesis of serial and parallel manipulators. He has studied human upper extremity kinematics for rehabilitation purposes which led to suggesting a task-based methodology for designing exoskeletons and a virtual reality environment for kinematics synthesis. His most recent work focuses on human-robot interaction through augmented reality.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/guilherme-sartori-natal-069b5042/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/GuilhermeSartoriNatal.jpg')"></div>
-                    <h3>Guilherme Sartori Natal, PhD</h3>
-                </a>
-                <div class="team-position">Controls Engineer</div>
-                <p>PhD in Robotics at LIRMM/France and two Post-Docs: KU Leuven/Belgium and ITA/Brazil. Specialist in advanced control of robots/nonlinear systems. During his PhD, Guilherme implemented an adaptive controller on the World's fastest robot (able to reach more than 100G of acceleration), which granted him a nomination for the IEEE ICRA'12 Best Automation Paper Award. At KU Leuven, he implemented control improvements on the PR2 robot, from Willow Garage, using a state observer to improve its joint velocity estimations. At ITA, he worked on the control of a robotic flight simulator and on 3D simulations of new robotic structures.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/jafar-abdi/" target="_blank">
+                 <a href="https://www.linkedin.com/in/jafar-abdi/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/JafarAbdi.jpg')"></div>
                     <h3>Jafar Abdi</h3>
                 </a>
@@ -162,6 +132,36 @@ redirect_from:
                 </a>
                 <div class="team-position">Software Engineer - Robotics</div>
                 <p> M.S. Automation and Control Systems Engineering from Aalto University with a focus on mechatronics. Jere is a C++ enthusiast with background in computer vision and image processing. Before becoming a full-time roboticist, he worked with challenging computer vision problems with the most recent being analyzing medical images using deep neural networks.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/guilherme-sartori-natal-069b5042/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/GuilhermeSartoriNatal.jpg')"></div>
+                    <h3>Guilherme Sartori Natal, PhD</h3>
+                </a>
+                <div class="team-position">Controls Engineer</div>
+                <p>PhD in Robotics at LIRMM/France and two Post-Docs: KU Leuven/Belgium and ITA/Brazil. Specialist in advanced control of robots/nonlinear systems. During his PhD, Guilherme implemented an adaptive controller on the World's fastest robot (able to reach more than 100G of acceleration), which granted him a nomination for the IEEE ICRA'12 Best Automation Paper Award. At KU Leuven, he implemented control improvements on the PR2 robot, from Willow Garage, using a state observer to improve its joint velocity estimations. At ITA, he worked on the control of a robotic flight simulator and on 3D simulations of new robotic structures.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/christofferheckman/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p15.jpg')"></div>
+                    <h3>Chris Heckman, PhD</h3>
+                </a>
+                <div class="team-position">Senior Perception Researcher</div>
+                <p>B.S. MechEng UC Berkeley, PhD Theoretical & Applied Mechanics Cornell University and two Postdocs. Asst Professor in the Dept of Computer Science. Chris's research focuses on autonomy, perception, field robotics, machine learning, and AI. His work is used by industry in the development of autonomous vehicles, agricultural robotics and other mobile robots including for medicine and automation, as well as the federal government for civil environmental monitoring, intelligence and defense.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/omid.png')"></div>
+                    <h3>Omid Heidari, PhD</h3>
+                </a>
+                <div class="team-position">Applied Robotics Scientist</div>
+                <p>M.S. MechEng from Babol Univ. of Technology; currently PhD candidate in Robotics, Idaho State University. Omid has worked extensively on forward & inverse kinematics as well as the dimensional synthesis of serial and parallel manipulators. He has studied human upper extremity kinematics for rehabilitation purposes which led to suggesting a task-based methodology for designing exoskeletons and a virtual reality environment for kinematics synthesis. His most recent work focuses on human-robot interaction through augmented reality.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
