@@ -19,21 +19,21 @@ categories:
 
 The first annual MoveIt Workshop 2019 Macau will be on Saturday, November 2, 2019, the day after ROSCon. Sponsored by Amazon Web Services (AWS) and PickNik Robotics, it is an informal day of presentations, panel discussions, and hands-on training of latest MoveIt features from some of the top thinkers in the ROS community. Some topics to be covered include:
 
-* MoveIt 2 Progress and Direction
-* Intel's Work on MoveIt and ROS2 Grasping
-* Discussing a new Inverse Kinematics plugin API to support constraint-based solvers and velocity IK
-* Latest features and research in OMPL and how it relates to MoveIt
-* Discussions on what is hard for newcomers?
-* MoveIt 2 Capabilities Roadmapping
+* Welcome and Updates, Dave Coleman [[slides]](/docs/moveit_workshop_macau_2019/welcome.pdf)
+* MoveIt 2.0 Progress and Roadmap, Mike Lautman [[slides]](/docs/moveit_workshop_macau_2019/progress_and_roadmap.pdf)
+* Constrained and optimal planning using the Open Motion Planning Library (OMPL), Mark Moll [[slides]](/docs/moveit_workshop_macau_2019/ompl.pdf)
+* Amazon Robomaker, Thomas Moulard [[slides]](/docs/moveit_workshop_macau_2019/robotmaker.pdf)
+* Machine assembly with MoveIt @ OMRON SINIC X; UX in MoveIt - What is hard for newcomers and non-expert users?, Felix von Drigalski [[slides]](/docs/moveit_workshop_macau_2019/MoveIt_usability.pdf)
+* New IK Plugin API for Constraint-Based Solvers and Velocity IK, Robert Haschke [[slides]](/docs/moveit_workshop_macau_2019/ik.pdf)
+* The industrial trajectory generation and python API of pilz_industrial_motion, Christian Henkel [[slides]](/docs/moveit_workshop_macau_2019/pilz_industrial_motion.pdf)
+* ROS-Industrial Manipulation Efforts, Thilo Zimmermann, Levi Armstrong, Michael Ripperger [[slides]](/docs/moveit_workshop_macau_2019/ros_industrial.pdf)
+* Build Advanced Industrial Robot Usages with Intel OpenVINO and MoveIt, Yu Yan	[[slides]](/docs/moveit_workshop_macau_2019/OpenVINO_and_MoveIt.pdf)
 * Panel Discussion About MoveIt Ideal User
-* Hands on with the Task Constructor
-* Lightning Round Discussions
-* Industrial trajectory generation with pilz_industrial_motion
-* ROS-Industrial Manipulation Efforts
+* MoveIt 2 Capabilities Roadmapping, Dave Coleman [[slides]](/docs/moveit_workshop_macau_2019/MoveIt_capabilities_roadmapping.pdf)
+* Hands on with the Task Constructor, Robert Haschke [[slides]](/docs/moveit_workshop_macau_2019/MTC.pdf)
+* Lightning Rounds Michael Ferguson, Christian Henkel, Limor Schweitzer, Tan You Liang, Steve Macenski [[slides#1]](/docs/moveit_workshop_macau_2019/TOTG.pdf) [[slides#2]](/docs/moveit_workshop_macau_2019/movai_lightinground_talk.pdf)
 
 People attending ROSCon and/or IROS Macau will want to attend this one-day event which is being held at the Sheraton Grand Macao Hotel on Saturday, November 2, 2019, from 8:30am - 5:00pm. The MoveIt Workshop 2019 is geared towards experienced and advanced users of MoveIt, but novices are welcome to attend as well.
-
-[SIGN UP HERE](https://docs.google.com/forms/d/e/1FAIpQLSfcTizP3zP8n2Yetnfq0Arwp_waTX1rq-dFpfvxcX1uP4M80w/viewform)
 
 ### Sponsored by
 
@@ -54,9 +54,9 @@ For almost 13 years, Amazon Web Services has been the world’s most comprehensi
 ![line]
 
 **Accelerate Your Robotics Development |**
-About [PickNik](https://picknik.ai/):  Robots are complex systems that require a wide breadth of expert knowledge spanning multiple disciplines, making robotics development extremely difficult and costly. Since 2015, PickNik’s mission has been to address this technical challenge while dramatically reducing development time for advanced robotic applications. To achieve this, PickNik supports and collaborates with the worldwide open source robotics movement, providing companies with cutting edge research and barrier-free open source software.
+About [PickNik](https://picknik.ai/): PickNik maintains MoveIt, the most popular motion planning framework that has exposure to hundreds of companies and research groups of all sizes. Robots are complex systems that require a wide breadth of expert knowledge spanning multiple disciplines, making robotics development extremely difficult and costly. Since 2015, PickNik’s mission has been to address this technical challenge while dramatically reducing development time for advanced robotic applications. To achieve this, PickNik supports and collaborates with the worldwide open source robotics movement, providing companies with cutting edge research and barrier-free open source software.
 
 PickNik is rooted with a strong background in robotics theory combined with applied software experience to provide unique solutions. Robotics companies including Google, Amazon, Kindred, and many others are partnering with PickNik to develop robotic applications to address the toughest issues through software consulting, custom development, and other initiatives. By working together,  we can accomplish far more than by working alone.
 
-If you would like more information please contact Rob Coleman at [projects@picknik.ai](mailto:projects@picknik.ai)
+If you would like more information please contact at [projects@picknik.ai](mailto:hello@picknik.ai)
 
