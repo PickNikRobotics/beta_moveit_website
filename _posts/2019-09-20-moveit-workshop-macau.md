@@ -58,5 +58,5 @@ About [PickNik](https://picknik.ai/): PickNik maintains MoveIt, the most popular
 
 PickNik is rooted with a strong background in robotics theory combined with applied software experience to provide unique solutions. Robotics companies including Google, Amazon, Kindred, and many others are partnering with PickNik to develop robotic applications to address the toughest issues through software consulting, custom development, and other initiatives. By working together,  we can accomplish far more than by working alone.
 
-If you would like more information please contact at [projects@picknik.ai](mailto:hello@picknik.ai)
+If you would like more information please contact at [hello@picknik.ai](mailto:hello@picknik.ai)
 
