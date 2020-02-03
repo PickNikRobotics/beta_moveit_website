@@ -1,0 +1,83 @@
+.policy-container {
+  width:100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  h1 {
+    color: #121929;
+    font-size: 30px;
+    font-weight: normal;
+    margin-bottom: 20px;
+    @media screen and (max-width: 560px) {
+      font-size: 18px;
+    }
+  }
+  h2 {
+    color: #121929;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 20px;
+    @media screen and (max-width: 560px) {
+      font-size: 12px;
+    }
+  }
+  h3 {
+    color: #121929;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 20px;
+    @media screen and (max-width: 560px) {
+      font-size: 14px;
+    }
+  }
+  h4 {
+    color: #121929;
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 20px;
+    @media screen and (max-width: 560px) {
+      font-size: 10px;
+    }
+  }
+  ul {
+    padding-left: 35px;
+    li {
+      list-style: disc;
+      margin-bottom: 20px;
+    }
+  }
+  a {
+    opacity: 0.8;
+    color: #04e79f;
+    cursor: pointer;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+@media (min-width:576px) {
+  .policy-container {
+    max-width:540px
+  }
+}
+
+@media (min-width:768px) {
+  .policy-container {
+    max-width:720px
+  }
+}
+
+@media (min-width:992px) {
+  .policy-container {
+    max-width:960px
+  }
+}
+
+@media (min-width:1200px) {
+  .policy-container {
+    max-width:1140px
+  }
+}

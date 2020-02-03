@@ -120,13 +120,19 @@ a.ros {
 }
 
 .footerText2 {
-  opacity: 0.5;
+  color: rgba(255, 255, 255, 0.5);
   font-size: 14px;
   line-height: 24px;
   display: flex;
   justify-content: space-between;
   @media screen and (max-width: 992px) {
     flex-direction: column-reverse;
+  }
+    a {
+    color: rgba(255, 255, 255, 1.0);
+    &:hover {
+      color: #04e79f;
+    }
   }
 }
 
