@@ -36,3 +36,4 @@ Ensure your contributions / pull requests are high quality by following this bes
 - Are new pages (except blog posts) being added to the sitemap?
 - All external links off picknik.ai should open in a new window ``target="_blank"``
 - Adding a hypertext reference to Vimeo will make HTML-Proofer fails, a workaround is to use an inline frame (`iframe` tag) for embedding the video in the page [Example](https://github.com/PickNikRobotics/picknik.ai/blame/master/_posts/2019-12-20-moveit-grasps.md#L29)
+- Each markdown page should have a unique description [example](https://github.com/PickNikRobotics/picknik.ai/blame/master/_posts/2019-12-20-moveit-grasps.md#L9)
