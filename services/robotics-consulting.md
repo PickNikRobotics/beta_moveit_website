@@ -340,23 +340,23 @@ permalink: /services/robotics-consulting/
                     <div class="card-body">
                         <p>
                             <strong>
-                                Software architecting with ros
+                                ROS Software architecting
                             </strong>
                         </p>
                         <ul>
                             <li>
-                                Consulting on best practices for standard ROS paradigms
+                                ROS Consulting and best practices for standard ROS paradigms
                             </li>
                             <li>
-                                Training for internal development teams new to ROS
+                                ROS Training for internal development teams new to ROS
                             </li>
                             <li>
-                                Historical insights into design decisions and ongoing ROS shortcomings
+                                Historical insights into ROS design decisions and ongoing ROS shortcomings
                             </li>
                         </ul>
                         <p>
                             <strong>
-                                High-quality ROS packages / stacks
+                                High-quality ROS packages / ROS stacks
                             </strong>
                         </p>
                         <ul>
