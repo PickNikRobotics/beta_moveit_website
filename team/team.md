@@ -128,7 +128,7 @@ redirect_from:
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/jere-liukkonen/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/jere.png')"></div>
-                    <h3>Jere Liukkonen</h3>
+                    <h3>Jere Liukkonen, MSE</h3>
                 </a>
                 <div class="team-position">Software Engineer - Robotics</div>
                 <p> M.S. Automation and Control Systems Engineering from Aalto University with a focus on mechatronics. Jere is a C++ enthusiast with background in computer vision and image processing. Before becoming a full-time roboticist, he worked with challenging computer vision problems with the most recent being analyzing medical images using deep neural networks.
