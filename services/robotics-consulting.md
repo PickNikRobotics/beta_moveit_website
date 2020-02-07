@@ -326,7 +326,70 @@ permalink: /services/robotics-consulting/
                 </div>
             </div>
             <div class="card">
-                <div class="card-header" id="ROS-framework-design">
+                <div class="card-header" id="grasping-and-perception">
+                    <h5 class="mb-0">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        Grasping and Perception
+                            <div class="collapse-svg">
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                            </div>
+                        </span>
+                    </h5>
+                </div>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                    <div class="card-body">
+                        <p>
+                            <strong>
+                                Grasping
+                            </strong>
+                        </p>
+                        <ul>
+                            <li>
+                                Libraries for generating target grasp poses
+                            </li>
+                            <li>
+                                Neural networks for converting camera data to grasp poses
+                            </li>
+                            <li>
+                                Pre-Grasp, Grasp, and Post-Grasp evaluation with heuristic pruning
+                            </li>
+                            <li>
+                                Overall manipulation pipeline development
+                            </li>
+                        </ul>
+                        <p>
+                            <strong>
+                                Perception
+                            </strong>
+                        </p>
+                        <ul>
+                            <li>
+                                OpenCV and PCL computer vision library integration expertise
+                            </li>
+                            <li>
+                                Experience with all kinds of camera hardware (monocular, stereo, depth camera, LIDAR)
+                            </li>
+                            <li>
+                                Object detection and image segmentation using deep neural networks
+                            </li>
+                            <li>
+                                Simultaneous Localization and Mapping (SLAM)
+                            </li>
+                            <li>
+                                Point cloud segmentation, point cloud alignment
+                            </li>
+                            <li>
+                                Probabilistic models for visual perception
+                            </li>
+                            <li>
+                                Visual-inertial odometry
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="ROS-1-and-ROS-2-framework-design">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                         ROS Framework Design
@@ -380,7 +443,7 @@ permalink: /services/robotics-consulting/
                 </div>
             </div>
             <div class="card">
-                <div class="card-header" id="ROS-2-integration">
+                <div class="card-header" id="ROS-1-and-ROS-2-integration">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                         ROS 2 Integration
@@ -394,12 +457,12 @@ permalink: /services/robotics-consulting/
                     <div class="card-body">
                         <p>
                             <strong>
-                                We speak both ROS and ROS2
+                                We speak fluent ROS 2
                             </strong>
                         </p>
                         <ul>
                             <li>
-                                Expertise in ROS2 enabling technologies and release status
+                                Expertise in ROS 2 enabling technologies and release status
                             </li>
                             <li>
                                 Build your application on the next generation of ROS and future-proof your work
@@ -421,7 +484,7 @@ permalink: /services/robotics-consulting/
                         </p>
                         <ul>
                             <li>
-                                Convert your ROS applications and their dependencies to ROS2
+                                Convert your ROS 1 applications and their dependencies to ROS 2
                             </li>
                             <li>
                                 Migration to DDS, Colcon, & Managed Nodes
@@ -430,14 +493,14 @@ permalink: /services/robotics-consulting/
                                 Expanded industrial-grade features
                             </li>
                             <li>
-                                Future-proof your work
+                                Develop hybrid ROS 1 and ROS 2 projects with the ros1_bridge
                             </li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="card">
-                <div class="card-header" id="2D-navigation">
+                <div class="card-header" id="mobile-base-navigation">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                         2D Navigation
@@ -500,7 +563,7 @@ permalink: /services/robotics-consulting/
                                 Deploy high situational awareness teleop environments
                             </li>
                             <li>
-                                Use ROS, Gazebo, and Rviz with off-the-shelf 3D headsets like the HTC Vive and Occulus Rift
+                                Use ROS, Gazebo, and Rviz with off-the-shelf 3D headsets like the HTC Vive and Oculus Rift
                             </li>
                             <li>
                                 Evaluate and plan your collaborative robot integration strategy in virtual reality

@@ -23,7 +23,7 @@ This collaborative effort is a natural co-development due to Acutronic’s exten
 The MoveIt migration is important for a numbers of reasons, a key one being that it will accelerate ROS 2 adoption. Many companies and R&D teams report they are waiting to migrate to ROS 2 once MoveIt 2 is ready. This was similarly true when ROS Kinetic was released; months later when MoveIt was ready for Kinetic, adoption picked up dramatically.
 
 Some key objectives and approaches of this development include:
-* Basic migration to the colcon build system, DDS-based middleware, and other new ROS2 tools
+* Basic migration to the colcon build system, DDS-based middleware, and other new ROS 2 tools
 * Strategic planning of migration roadmap and release strategy of the MoveIt 2.0 port
 * Involving MoveIt community throughout the development process
 * Focusing on best approaches to keep the ROS 1 project synchronized with the ROS 2 fork during the transitional period
