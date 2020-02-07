@@ -68,7 +68,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="motion-planning">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-motion-planning" aria-expanded="false" aria-controls="collapse-motion-planning">
                         Motion Planning
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -76,7 +76,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                <div id="collapse-motion-planning" class="collapse" aria-labelledby="heading-motion-planning" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -166,7 +166,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="collision-avoidance">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-collision-avoidance" aria-expanded="false" aria-controls="collapse-collision-avoidance">
                         Collision Avoidance
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -174,7 +174,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                <div id="collapse-collision-avoidance" class="collapse" aria-labelledby="heading-collision-avoidance" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -204,7 +204,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="advanced-inverse-kinematics">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-ik" aria-expanded="false" aria-controls="collapse-ik">
                         Advanced Inverse Kinematics
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -212,7 +212,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                <div id="collapse-ik" class="collapse" aria-labelledby="heading-ik" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -280,7 +280,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="realtime-control">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-realtime-control" aria-expanded="false" aria-controls="collapse-realtime-control">
                         Realtime Control
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -288,7 +288,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                <div id="collapse-realtime-control" class="collapse" aria-labelledby="heading-realtime-control" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -328,7 +328,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="grasping-and-perception">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-grasping-and-perception" aria-expanded="false" aria-controls="collapse-grasping-and-perception">
                         Grasping and Perception
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -336,7 +336,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                <div id="collapse-grasping-and-perception" class="collapse" aria-labelledby="heading-grasping-and-perception" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -391,7 +391,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="ROS-1-and-ROS-2-framework-design">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-framework-design" aria-expanded="false" aria-controls="collapse-framework-design">
                         ROS Framework Design
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -399,7 +399,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                <div id="collapse-framework-design" class="collapse" aria-labelledby="heading-framework-design" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -445,7 +445,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="ROS-1-and-ROS-2-integration">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-ros-integration" aria-expanded="false" aria-controls="collapse-ros-integration">
                         ROS 2 Integration
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -453,7 +453,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+                <div id="collapse-ros-integration" class="collapse" aria-labelledby="heading-ros-integration" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -502,15 +502,15 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="mobile-base-navigation">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                        2D Navigation
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-mobile-base" aria-expanded="false" aria-controls="collapse-mobile-base">
+                        Mobile Base Navigation
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
                 </div>
-                <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
+                <div id="collapse-mobile-base" class="collapse" aria-labelledby="heading-mobile-base" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -540,7 +540,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="virtual-reality">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-vr" aria-expanded="false" aria-controls="collapse-vr">
                         Virtual Reality
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -548,7 +548,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion">
+                <div id="collapse-vr" class="collapse" aria-labelledby="heading-vr" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -578,7 +578,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="robot-modelling">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-robot-modelling" aria-expanded="false" aria-controls="collapse-robot-modelling">
                         Robot Modelling
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -586,7 +586,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordion">
+                <div id="collapse-robot-modelling" class="collapse" aria-labelledby="heading-robot-modelling" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -664,7 +664,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="workspace-analysis">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-workspace-analysis" aria-expanded="false" aria-controls="collapse-workspace-analysis">
                         Workspace Analysis
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -672,7 +672,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseEleven" class="collapse" aria-labelledby="headingEleven" data-parent="#accordion">
+                <div id="collapse-workspace-analysis" class="collapse" aria-labelledby="heading-workspace-analysis" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -697,9 +697,9 @@ permalink: /services/robotics-consulting/
                 </div>
             </div>
             <div class="card">
-                <div class="card-header" id="headingThirteen">
+                <div class="card-header" id="multilingual">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-multilingual" aria-expanded="false" aria-controls="collapse-multilingual">
                         Multilingual
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -707,7 +707,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseThirteen" class="collapse" aria-labelledby="headingThirteen" data-parent="#accordion">
+                <div id="collapse-multilingual" class="collapse" aria-labelledby="multilingual" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -731,7 +731,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="cloud-integration">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-cloud-integration" aria-expanded="false" aria-controls="collapse-cloud-integration">
                         Cloud Integration
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -739,7 +739,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseFourteen" class="collapse" aria-labelledby="headingFourteen" data-parent="#accordion">
+                <div id="collapse-cloud-integration" class="collapse" aria-labelledby="heading-cloud-integration" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -766,7 +766,7 @@ permalink: /services/robotics-consulting/
             <div class="card">
                 <div class="card-header" id="web-based-robot-control">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseFiveteen" aria-expanded="false" aria-controls="collapseFiveteen">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-web-control" aria-expanded="false" aria-controls="collapse-web-control">
                         Web-based Robot Control
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
@@ -774,7 +774,7 @@ permalink: /services/robotics-consulting/
                         </span>
                     </h5>
                 </div>
-                <div id="collapseFiveteen" class="collapse" aria-labelledby="headingFiveteen" data-parent="#accordion">
+                <div id="collapse-web-control" class="collapse" aria-labelledby="heading-web-control" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
