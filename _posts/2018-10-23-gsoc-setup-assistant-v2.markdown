@@ -27,7 +27,7 @@ A sneak peak at the end result:
 <br/>
 [<img src="{{ site.url }}/assets/images/simulation.gif" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/simulation.gif)
 
-Say you are using the Panda robot with MoveIt and you want to see your plan being executed in Gazebo. First open the `moveit_setup_assistant` and load the [panda_moveit_config](https://github.com/ros-planning/panda_moveit_config) package. Then navigate to the ROS Control screen and add the Follow Joint Controllers for each planning group using the “Auto Add FollowJointsTrajectory Controllers ...” [button]({{ site.url }}/assets/images/control_screen.png). Next navigate to the Simulation screen to generate a Gazebo compatible URDF; the Simulation screen adds the missing inertia and transmission elements required by Gazebo. The Simulation screen also adds the `gazebo_ros_control` plugin to the end of the URDF.
+Say you are using the Panda robot with MoveIt and you want to see your plan being executed in Gazebo. First open the `moveit_setup_assistant` and load the <a href="https://github.com/ros-planning/panda_moveit_config" target="_blank">panda_moveit_config</a> package. Then navigate to the ROS Control screen and add the Follow Joint Controllers for each planning group using the “Auto Add FollowJointsTrajectory Controllers ...” [button]({{ site.url }}/assets/images/control_screen.png). Next navigate to the Simulation screen to generate a Gazebo compatible URDF; the Simulation screen adds the missing inertia and transmission elements required by Gazebo. The Simulation screen also adds the `gazebo_ros_control` plugin to the end of the URDF.
 
 ### Outcomes
 
@@ -37,8 +37,8 @@ Instead of writing many configuration files manually, you can now simulate your 
 
 ### Useful resources / links
 
-For further reading look at the [GitHub issue of the project](https://github.com/ros-planning/moveit/issues/894) and [MoveIt Tutorial](http://docs.ros.org/kinetic/api/moveit_tutorials/html/doc/setup_assistant/setup_assistant_tutorial.html).
-The GitHub issue for the project is [here](https://github.com/ros-planning/moveit/issues/894) and an overview of the relationship between simulation, hardware, controllers, and transmissions is [here](http://gazebosim.org/tutorials/?tut=ros_control).
+For further reading look at the <a href="https://github.com/ros-planning/moveit/issues/894" target="_blank">GitHub issue of the project</a> and <a href="http://docs.ros.org/kinetic/api/moveit_tutorials/html/doc/setup_assistant/setup_assistant_tutorial.html" target="_blank">MoveIt Tutorial</a>.
+The GitHub issue for the project is <a href="https://github.com/ros-planning/moveit/issues/894" target="_blank">here</a> and an overview of the relationship between simulation, hardware, controllers, and transmissions is <a href="http://gazebosim.org/tutorials/?tut=ros_control" target="_blank">here</a>.
 
 [<img src="{{ site.url }}/assets/images/control_screen.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/control_screen.png)
 

@@ -35,8 +35,7 @@ The first annual MoveIt Workshop 2019 Macau will be on Saturday, November 2, 201
 
 People attending ROSCon and/or IROS Macau will want to attend this one-day event which is being held at the Sheraton Grand Macao Hotel on Saturday, November 2, 2019, from 8:30am - 5:00pm. The MoveIt Workshop 2019 is geared towards experienced and advanced users of MoveIt, but novices are welcome to attend as well.
 
-For videos of the presentations, see the [playlist](https://www.youtube.com/playlist?list=PL2V08eX0CdgCazaFSjXGhfn3vcFAUH8NS)
-
+For videos of the presentations, see the <a href="https://www.youtube.com/playlist?list=PL2V08eX0CdgCazaFSjXGhfn3vcFAUH8NS" target="_blank">playlist</a>
 
 ### Sponsored by
 
@@ -52,7 +51,7 @@ For videos of the presentations, see the [playlist](https://www.youtube.com/play
 
 ### About AWS
 
-For almost 13 years, Amazon Web Services has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 165 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 60 Availability Zones (AZs) within 20 geographic regions, spanning the U.S., Australia, Brazil, Canada, China, France, Germany, India, Ireland, Japan, Korea, Singapore, Sweden, and the UK. Millions of customers including the fastest-growing startups, largest enterprises, and leading government agencies—trust AWS to power their infrastructure, become more agile, and lower costs. To learn more about AWS, visit [aws.amazon.com](https://aws.amazon.com).
+For almost 13 years, Amazon Web Services has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 165 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 60 Availability Zones (AZs) within 20 geographic regions, spanning the U.S., Australia, Brazil, Canada, China, France, Germany, India, Ireland, Japan, Korea, Singapore, Sweden, and the UK. Millions of customers including the fastest-growing startups, largest enterprises, and leading government agencies—trust AWS to power their infrastructure, become more agile, and lower costs. To learn more about AWS, visit <a href="https://aws.amazon.com" target="_blank">aws.amazon.com</a>.
 
 ![line]
 

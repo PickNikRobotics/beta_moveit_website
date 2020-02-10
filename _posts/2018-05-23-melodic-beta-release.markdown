@@ -15,10 +15,10 @@ categories:
   - ROS
 ---
 
-MoveIt is now released into ROS [Melodic](http://wiki.ros.org/melodic) LTS (Long Term Support).
+MoveIt is now released into ROS <a href="http://wiki.ros.org/melodic" target="_blank">Melodic</a> LTS (Long Term Support).
 
-While MoveIt in Melodic is still beta, if you're running your robot packages with ROS Melodic, and/or if you want to try the newest MoveIt, start at [moveit.ros.org/install](http://moveit.ros.org/install/)
+While MoveIt in Melodic is still beta, if you're running your robot packages with ROS Melodic, and/or if you want to try the newest MoveIt, start at <a href="http://moveit.ros.org/install/" target="_blank">moveit.ros.org/install</a>
 
-See the [MIGRATION.md](https://github.com/ros-planning/moveit/blob/melodic-devel/MIGRATION.md) for a list of breaking changes in this release.
+See the <a href="https://github.com/ros-planning/moveit/blob/melodic-devel/MIGRATION.md" target="_blank">MIGRATION.md</a> for a list of breaking changes in this release.
 
 --Your friendly MoveIt maintenance team.

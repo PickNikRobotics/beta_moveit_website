@@ -18,16 +18,16 @@ We’re excited to announce that this year’s World MoveIt Day will be Thursday
 
 We will be having several international event locations including:
 
-- [Iron Ox](http://ironox.com/), San Francisco, USA
+- <a href="http://ironox.com/" target="_blank">Iron Ox</a>, San Francisco, USA
 - [PickNik Robotics](https://picknik.ai/), Boulder, USA
-- [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en.html) / [RIC-EU](https://rosindustrial.org/ric-eu/), Stuttgart, Germany
-- [ROS-Industrial Asian Pacific Consortium](http://rosindustrial.org/ric-apac/), Singapore
-- [Tokyo Opensource Robotics Kyokai Association (TORK)](http://opensource-robotics.tokyo.jp/) and [OMRON SINIC X Corporation](http://tinyurl.com/omronsinicx), Tokyo (Kashiwa), Japan (held on Friday, October 26!)
-- [Southwest Research Institute](https://www.swri.org/), San Antonio, USA
-- [Cluster Innovation Centre](https://www.meetup.com/rosindia/events/254064159/), New Delhi, India
-- [Shadow Robot Company](https://www.shadowrobot.com/world-moveit-day-2018-register-now/), London, UK
+- <a href="https://www.ipa.fraunhofer.de/en.html" target="_blank">Fraunhofer IPA</a> / <a href="https://rosindustrial.org/ric-eu/" target="_blank">RIC-EU</a>, Stuttgart, Germany
+- <a href="http://rosindustrial.org/ric-apac/" target="_blank">ROS-Industrial Asian Pacific Consortium</a>, Singapore
+- <a href="http://opensource-robotics.tokyo.jp/" target="_blank">Tokyo Opensource Robotics Kyokai Association (TORK)</a> and <a href="http://tinyurl.com/omronsinicx" target="_blank">OMRON SINIC X Corporation</a>, Tokyo (Kashiwa), Japan (held on Friday, October 26!)
+- <a href="https://www.swri.org/" target="_blank">Southwest Research Institute</a>, San Antonio, USA
+- <a href="https://www.meetup.com/rosindia/events/254064159/" target="_blank">Cluster Innovation Centre</a>, New Delhi, India
+- <a href="https://www.shadowrobot.com/world-moveit-day-2018-register-now/" target="_blank">Shadow Robot Company</a>, London, UK
 
 Beyond these event locations, you are encouraged to have your own event in your lab/organization/company and video conference into all the other events.
-Please let us know your intention to join [here](https://docs.google.com/forms/d/e/1FAIpQLSdk_xMOVdqusdvT6vr5s6AnXV-GdtchCjrX-BXpyw642ahcBg/viewform)!
+Please let us know your intention to join <a href="https://docs.google.com/forms/d/e/1FAIpQLSdk_xMOVdqusdvT6vr5s6AnXV-GdtchCjrX-BXpyw642ahcBg/viewform" target="_blank">here</a>!
 
-For more details, see the [event page](http://moveit.ros.org/events/world-moveit-day-2018/).
+For more details, see the <a href="http://moveit.ros.org/events/world-moveit-day-2018/" target="_blank">event page</a>.

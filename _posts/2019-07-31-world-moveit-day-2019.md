@@ -14,7 +14,7 @@ categories:
 
 **The fourth annual World MoveIt Day will be Wednesday, November 20th, 2019!**
 
-The event is a day long international hackathon to improve the MoveIt code base, increase documentation, and discuss  exciting developments in our community. Everyone is welcome to join, whether to host, participate, or just observe. 
+The event is a day long international hackathon to improve the MoveIt code base, increase documentation, and discuss  exciting developments in our community. Everyone is welcome to join, whether to host, participate, or just observe.
 
 We hope to close as many pull requests and issues as possible and explore new areas of features and improvements building off of our seven years of ongoing work.
 
@@ -22,15 +22,15 @@ We hope to close as many pull requests and issues as possible and explore new ar
 
 We will be having several international event locations and have received numerous commitments already, including:
 
-* [Universität Hamburg](https://www.uni-hamburg.de/en.html) / Group TAMS, Hamburg, Germany
-* [Embedded Group of UIET, Panjab University](http://uiet.puchd.ac.in/), Chandigarh, India
-* [Cluster Innovation Centre, Delhi University](https://ducic.ac.in/), New Delhi, India
-* [Southwest Research Institute](https://www.swri.org/) / [ROS-Industrial Consortium Americas](https://rosindustrial.org/ric-americas/), San Antonio, USA
-* [OMRON SINIC X](https://www.omron.com/sinicx/), Tokyo, Japan
-* [Vicarious](https://www.vicarious.com/), Berkeley, CA, USA
+* <a href="https://www.uni-hamburg.de/en.html" target="_blank">Universität Hamburg</a> / Group TAMS, Hamburg, Germany
+* <a href="http://uiet.puchd.ac.in" target="_blank">Embedded Group of UIET, Panjab University</a>, Chandigarh, India
+* <a href="https://ducic.ac.in" target="_blank">Cluster Innovation Centre, Delhi University</a>, New Delhi, India
+* <a href="https://www.swri.org" target="_blank">Southwest Research Institute</a> / <a href="https://rosindustrial.org/ric-americas/" target="_blank">ROS-Industrial Consortium Americas</a>, San Antonio, USA
+* <a href="https://www.omron.com/sinicx" target="_blank">OMRON SINIC X</a>, Tokyo, Japan
+* <a href="https://www.vicarious.com" target="_blank">Vicarious</a>, Berkeley, CA, USA
 * [PickNik Robotics](https://picknik.ai/), Boulder, USA
-* [ROS-Industrial Asian Pacific Consortium](https://rosindustrial.org/ric-apac/), Singapore
+* <a href="https://rosindustrial.org/ric-apac" target="_blank">ROS-Industrial Asian Pacific Consortium</a>, Singapore
 
 You are also encouraged to have your own event in your lab/ organization/ company and video conference into all the other events.
 
-Please let us know your intention to host an event or join as a participant [here](https://docs.google.com/forms/d/e/1FAIpQLSdVJo5Kic_VxnI67YiTdktO3VRWQc5wMnsFDO1tCwWa_t61cw/viewform)!
+Please let us know your intention to host an event or join as a participant <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVJo5Kic_VxnI67YiTdktO3VRWQc5wMnsFDO1tCwWa_t61cw/viewform" target="_blank">here</a>!

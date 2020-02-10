@@ -15,7 +15,7 @@ categories:
 *Written and cross-posted on Discourse by Stephen Brawner*
 
 It is my pleasure to announce that we’ve made a huge update to the SolidWorks URDF Exporter.
-A big thank you is due to [Verb Surgical](https://www.verbsurgical.com/) for inspiring and supporting the work and also to the team at [PickNik Robotics](https://picknik.ai/).
+A big thank you is due to <a href="https://www.verbsurgical.com/" target="_blank">Verb Surgical</a> for inspiring and supporting the work and also to the team at [PickNik Robotics](https://picknik.ai/).
 
 <img src="/assets/images/blog_posts/2019_06_12_solidworks.png" alt="Announcing SolidWorks to URDF Exporter 1.5">
 
@@ -38,6 +38,6 @@ These new features identified by Verb are included in over 61 new merged Pull Re
 * Tons of bug fixes!
 
 
-We’ve also taken this opportunity to migrate from BitBucket to [Github](https://github.com/ros/solidworks_urdf_exporter) hosted under the ROS organization.
+We’ve also taken this opportunity to migrate from BitBucket to <a href="https://github.com/ros/solidworks_urdf_exporter" target="_blank">Github</a> hosted under the ROS organization.
 
-Please see the [wiki](http://wiki.ros.org/sw_urdf_exporter) for a download link and more information.
+Please see the <a href="http://wiki.ros.org/sw_urdf_exporter" target="_blank">wiki</a> for a download link and more information.

@@ -26,8 +26,8 @@ PickNik integrated with the Numurus team to provide ROS consulting and developme
 
 **RELEVANT LINKS**
 
-* [More about one of our joint projects](http://www.numurus.com/pressreleases-picknik/)
-* [https://www.numurus.com](https://www.numurus.com)
+* <a href="http://www.numurus.com/pressreleases-picknik/" target="_blank">More about one of our joint projects</a>
+* <a href="https://www.numurus.com" target="_blank">https://www.numurus.com</a>
 
 **ABOUT NUMURUS**
 

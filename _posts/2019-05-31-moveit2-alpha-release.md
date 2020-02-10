@@ -26,9 +26,9 @@ Motivated by this progress and to align with the release of ROS 2 Dashing Diadem
 
 This release delivers the following
 * ROS 2 distro: Dashing Diademata
-* OS support: Ubuntu 18.04 and Mac OS X 10.14 ([minor OS X issues](https://github.com/AcutronicRobotics/moveit2/issues/80) remain)
-* [Preliminary instructions](https://github.com/acutronicrobotics/moveit2#install-and-test-moveit-2) on how to install and test Acutronic's work by source
-* [CI infrastructure](https://github.com/acutronicrobotics/moveit_ci) for MoveIt 2 and ROS 2
+* OS support: Ubuntu 18.04 and Mac OS X 10.14 (<a href="https://github.com/AcutronicRobotics/moveit2/issues/80" target="_blank">minor OS X issues</a> remain)
+* <a href="https://github.com/acutronicrobotics/moveit2#install-and-test-moveit-2" target="_blank">Preliminary instructions</a> on how to install and test Acutronic's work by source
+* <a href="https://github.com/acutronicrobotics/moveit_ci" target="_blank">CI infrastructure</a> for MoveIt 2 and ROS 2
 * Capability to plan to joint-space goals
 
 **ROS Packages Ported**
@@ -48,21 +48,21 @@ Acutronic Robotics has put significant resources into porting the following pack
 
 **External Dependencies**
 
-* [geometry2](https://github.com/AcutronicRobotics/geometry2/tree/master)
-* [geometric_shapes](https://github.com/AcutronicRobotics/geometric_shapes/tree/ros2)
-* [eigen_stl_containers](https://github.com/AcutronicRobotics/eigen_stl_containers/tree/ros2)
-* [object_recognition_msgs](https://github.com/AcutronicRobotics/object_recognition_msgs/tree/master)
-* [octomap_msgs](https://github.com/AcutronicRobotics/octomap_msgs/tree/ros2)
-* [random_numbers](https://github.com/AcutronicRobotics/random_numbers/tree/ros2)
-* [srdfdom](https://github.com/AcutronicRobotics/srdfdom/tree/ros2)
-* [urdf_parser_py](https://github.com/AcutronicRobotics/urdf_parser_py/tree/ros2)
-* [octomap](https://github.com/AcutronicRobotics/octomap/tree/ros2)
+* <a href="https://github.com/AcutronicRobotics/geometry2/tree/master" target="_blank">geometry2</a>
+* <a href="https://github.com/AcutronicRobotics/geometric_shapes/tree/ros2" target="_blank">geometric_shapes</a>
+* <a href="https://github.com/AcutronicRobotics/eigen_stl_containers/tree/ros2" target="_blank">eigen_stl_containers</a>
+* <a href="https://github.com/AcutronicRobotics/object_recognition_msgs/tree/master" target="_blank">object_recognition_msgs</a>
+* <a href="https://github.com/AcutronicRobotics/octomap_msgs/tree/ros2" target="_blank">octomap_msgs</a>
+* <a href="https://github.com/AcutronicRobotics/random_numbers/tree/ros2" target="_blank">random_numbers</a>
+* <a href="https://github.com/AcutronicRobotics/srdfdom/tree/ros2" target="_blank">srdfdom</a>
+* <a href="https://github.com/AcutronicRobotics/urdf_parser_py/tree/ros2" target="_blank">urdf_parser_py</a>
+* <a href="https://github.com/AcutronicRobotics/octomap/tree/ros2" target="_blank">octomap</a>
 
 **Known Issues**
 
 At the time of writing, the following known issues have been identified and apply to the ROS 2 target distro (Dashing Diademata) creating conflicts with this release:
 
-* ROS 2 actions not compiling in OpenSplice [[1](https://github.com/ros2/rosidl_typesupport_opensplice/issues/30)] [[2](https://github.com/ADLINK-IST/opensplice/issues/92)]
-* [Docker port mapping issue](https://github.com/docker/for-mac/issues/3350) affects the launch of the demonstrator from the Docker image.
-* [Issues with rviz2 in OS X](https://github.com/ros2/rviz/issues/385)
+* ROS 2 actions not compiling in OpenSplice [<a href="https://github.com/ros2/rosidl_typesupport_opensplice/issues/30" target="_blank">1</a>] [<a href="https://github.com/ADLINK-IST/opensplice/issues/92" target="_blank">2</a>]
+* <a href="https://github.com/docker/for-mac/issues/3350" target="_blank">Docker port mapping issue</a> affects the launch of the demonstrator from the Docker image.
+* <a href="https://github.com/ros2/rviz/issues/385" target="_blank">Issues with rviz2 in OS X</a>
 * Issues with Qt5 in OS X

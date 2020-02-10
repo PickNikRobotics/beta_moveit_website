@@ -23,15 +23,15 @@ Join us at ROSCon Madrid this year to meet your fellow developers, bring your id
 - MoveIt Setup Assistant 2.0
 - Dave Coleman
 
-Talks will be livestreamed and be available later online as videos. [More info](https://roscon.ros.org/2018/)
+Talks will be livestreamed and be available later online as videos. <a href="https://roscon.ros.org/2018/" target="_blank">More info</a>
 
 **MoveIt Users Meetup**
 
 - When: Day 1, Saturday Sept 29th during the 10:30-11:00 coffee break
-- Where: PickNik’s [Exhibition Booth](https://roscon.ros.org/2018/img/ROSCon2018_exhibitor_layout.pdf)
+- Where: PickNik’s <a href="https://roscon.ros.org/2018/img/ROSCon2018_exhibitor_layout.pdf" target="_blank">Exhibition Booth</a>
 - How to find us: Use the booth map, look for robot arms, or find @davetcoleman
 
-[More info](https://discourse.ros.org/t/roscon-2018-informal-meetings-of-special-interest-groups/6151/6)
+<a href="https://discourse.ros.org/t/roscon-2018-informal-meetings-of-special-interest-groups/6151/6" target="_blank">More info</a>
 
 **Exhibitor Booth**
 
