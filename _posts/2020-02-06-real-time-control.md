@@ -5,7 +5,7 @@ date: 2020-02-06
 layout: post
 title: Advances in Realtime Robot Control in ROS
 media_type: image
-media_link: /assets/images/blog_posts/TODO.png
+media_link: /assets/images/blog_posts/realtime_control/track_joint.png
 description: Advances in Realtime Robot Control in ROS
 categories:
 - MoveIt
@@ -15,6 +15,8 @@ categories:
 [//]: # (Image References)
 [boston_dynamics_img]: /assets/images/blog_posts/realtime_control/boston_dynamics.jpeg
 [robonaut_img]: /assets/images/blog_posts/realtime_control/robonaut.jpg
+
+<img src="/assets/images/blog_posts/realtime_control/track_joint.png" class="rounded mx-auto d-block" alt="Track Joint">
 
 By Andy Zelenak, PhD, Controls Engineer
 
