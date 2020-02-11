@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 {% assign base = '' %} {% assign depth = page.url | split: '/' | size | minus: 1 %} {% if depth
 <=1 %}{% assign base='.' %} {% elsif depth==2 %}{% assign base='..' %} {% elsif depth==3 %}{% assign base='../..' %} {%
     elsif depth==4 %}{% assign base='../../..' %}{% endif %} <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
