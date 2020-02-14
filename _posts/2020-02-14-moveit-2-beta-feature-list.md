@@ -5,7 +5,7 @@ date: 2020-02-14
 layout: post
 title: MoveIt 2 Beta Release Announcement
 media_type: image
-media_link: /assets/images/blog_posts/moveit-2-logo-dark.png
+media_link: /assets/images/blog_posts/moveit2_beta/moveit2_team.jpg
 description: Popular motion planning software now available on ROS 2
 categories:
 - MoveIt
@@ -14,7 +14,7 @@ categories:
 
 [line]: /assets/images/blog_posts/line.png
 
-<div style="text-align:center"><img src="/assets/images/blog_posts/moveit-2-logo-dark.png" alt="MTC"></div>
+<div style="text-align:center"><img src="/assets/images/blog_posts/moveit2_beta/moveit2_team.jpg" alt="MoveIt 2"></div>
 <br>
 
 <b>Big news! <a href="https://github.com/ros-planning/moveit2" target="_blank">MoveIt 2 Beta</a> has been launched today thanks to a big effort from the PickNik Robotics' team, Yu Yan (Intel), Robert Haschke and other MoveIt maintainers. This is a big step forward in providing next generation open source robotics. MoveIt 2 will enable many compelling advantages over its predecessor, namely faster, more reactive planning through realtime control of robot arms. The new platform version will enable more reliable robot behaviors, based on industry feedback.</b>
