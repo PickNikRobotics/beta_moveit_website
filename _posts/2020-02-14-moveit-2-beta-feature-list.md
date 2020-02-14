@@ -5,7 +5,7 @@ date: 2020-02-14
 layout: post
 title: MoveIt 2 Beta Release Announcement
 media_type: image
-media_link: /assets/images/blog_posts/moveit-2-logo-dark.png
+media_link: /assets/images/blog_posts/moveit2_beta/moveit2_team.jpg
 description: Popular motion planning software now available on ROS 2
 categories:
 - MoveIt
@@ -14,10 +14,10 @@ categories:
 
 [line]: /assets/images/blog_posts/line.png
 
-<div style="text-align:center"><img src="/assets/images/blog_posts/moveit-2-logo-dark.png" alt="MTC"></div>
+<div style="text-align:center"><img src="/assets/images/blog_posts/moveit2_beta/moveit2_team.jpg" alt="MoveIt 2"></div>
 <br>
 
-<b>Big news! <a href="https://github.com/ros-planning/moveit2" target="_blank">MoveIt 2 Beta</a> has been launched today thanks to a big effort from the PickNik Robotics' team, Yu Yan (Intel), Robert Haschke and other MoveIt maintainers. This is a big step forward in providing next generation open source robotics. MoveIt 2 will enable many compelling advantages over its predecessor, namely faster, more reactive planning through realtime control of robot arms. The new platform version will enable more reliable robot behaviors, based on industry feedback.</b>
+<b>Big news!</b> <a href="https://github.com/ros-planning/moveit2" target="_blank">MoveIt 2 Beta</a> has been launched today thanks to a big effort from the PickNik Robotics' team, Yu Yan (Intel), Robert Haschke and other MoveIt maintainers. This is a big step forward in providing next generation open source robotics. MoveIt 2 will enable many compelling advantages over its predecessor, namely faster, more reactive planning through realtime control of robot arms. The new platform version will enable more reliable robot behaviors, based on industry feedback.
 
 ### Feature List
 
@@ -48,7 +48,7 @@ Unfortunately, there are still some packages that have not been ported yet due t
 
 **Demo and Beta Testing**
 
-We will provide a <a href="https://github.com/ros-planning/moveit2/pull/166" target="_blank">MoveItCpp demo setup</a> with example code that runs a simulated Panda robot. We welcome you to play around with and try to break it as much as possible. As a Beta tester you are invited to reproduce the demo with other robot setups as well while documenting and filing any issues you find. Ideally, you would provide PR’s with according fixes as well ;-).
+We will provide a <a href="https://github.com/ros-planning/moveit2/tree/master/moveit_demo_nodes/run_moveit_cpp" target="_blank">MoveItCpp demo setup</a> with example code that runs a simulated Panda robot. We welcome you to play around with and try to break it as much as possible. As a Beta tester you are invited to reproduce the demo with other robot setups as well while documenting and filing any issues you find. Ideally, you would provide PR’s with according fixes as well ;-).
 
 ![line]
 
