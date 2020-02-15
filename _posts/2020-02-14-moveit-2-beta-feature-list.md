@@ -42,13 +42,13 @@ Over the last months we’ve been working very hard to migrate a major part of M
 * occupancy_map_monitor
 
 
-With the ported packages the feature list of MoveIt 2 Beta covers pretty much all core functionalities that MoveIt provides, such as motion planning, collision checking, trajectory execution, IK and visualization in RViz.
+With the ported packages, the feature list of MoveIt 2 Beta covers pretty much all core functionalities that MoveIt provides, such as motion planning, collision checking, trajectory execution, IK and visualization in RViz.
 
 Unfortunately, there are still some packages that have not been ported yet due to lack of funding. The high-level interfaces MoveGroup and MoveGroupInterface won’t be ready for the release, just as the dependent MotionPlanningDisplay and MoveItSetupAssistant. You can find a complete list of the migration progress in this <a href="https://docs.google.com/spreadsheets/d/1aPb3hNP213iPHQIYgcnCYh9cGFUlZmi_06E_9iTSsOI/edit?usp=sharing" target="_blank">spreadsheet</a>. Please contact PickNik if you are interested in funding or otherwise supporting the full migration of MoveIt to ROS 2.
 
 **Demo and Beta Testing**
 
-We will provide a <a href="https://github.com/ros-planning/moveit2/tree/master/moveit_demo_nodes/run_moveit_cpp" target="_blank">MoveItCpp demo setup</a> with example code that runs a simulated Panda robot. We welcome you to play around with and try to break it as much as possible. As a Beta tester you are invited to reproduce the demo with other robot setups as well while documenting and filing any issues you find. Ideally, you would provide PR’s with according fixes as well ;-).
+We will provide a <a href="https://github.com/ros-planning/moveit2/tree/master/moveit_demo_nodes/run_moveit_cpp" target="_blank">MoveItCpp demo setup</a> with example code that runs a simulated Panda robot. We welcome you to play around with it and try to break it as much as possible. As a Beta tester, you are invited to reproduce the demo with other robot setups as well, while documenting and filing any issues you find. Ideally, you would provide PRs with corresponding fixes as well ;-).
 
 ![line]
 
