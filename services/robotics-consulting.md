@@ -403,7 +403,7 @@ permalink: /services/robotics-consulting/
                     <div class="card-body">
                         <p>
                             <strong>
-                                ROS Software architecting
+                                Software Architecting With ROS
                             </strong>
                         </p>
                         <ul>
@@ -424,7 +424,7 @@ permalink: /services/robotics-consulting/
                         </p>
                         <ul>
                             <li>
-                                Fully ROS-compliant code repository with best practices
+                                Fully ROS-compliant code repository setup with best practices
                             </li>
                             <li>
                                 Documented, tested, and code-reviewed deliverables
@@ -490,10 +490,10 @@ permalink: /services/robotics-consulting/
                                 Migration to DDS, Colcon, & Managed Nodes
                             </li>
                             <li>
-                                Expanded industrial-grade features
+                                Develop hybrid ROS 1 and ROS 2 projects with the ros1_bridge
                             </li>
                             <li>
-                                Develop hybrid ROS 1 and ROS 2 projects with the ros1_bridge
+                                Close collaboration with the core ROS 2 development team
                             </li>
                         </ul>
                     </div>
@@ -676,7 +676,7 @@ permalink: /services/robotics-consulting/
                     <div class="card-body">
                         <p>
                             <strong>
-                                Reachability & usability studies
+                                Reachability and usability studies
                             </strong>
                         </p>
                         <ul>
@@ -719,10 +719,10 @@ permalink: /services/robotics-consulting/
                                 C/C++ for high performance cross-platform code
                             </li>
                             <li>
-                                Python - Wrap existing C/C++ functionality in the most common ROS scripting language
+                                Python: Wrap existing C/C++ functionality in the most common ROS scripting language
                             </li>
                             <li>
-                                Matlab - Prototype new algorithms or use codegen to run your code in C as a standalone app
+                                Matlab: Prototype new algorithms or use codegen to run your code in C as a standalone app
                             </li>
                         </ul>
                     </div>
