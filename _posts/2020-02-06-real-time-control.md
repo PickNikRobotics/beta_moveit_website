@@ -6,7 +6,7 @@ layout: post
 title: Advances in Realtime Robot Control in ROS
 media_type: image
 media_link: /assets/images/blog_posts/realtime_control/track_joint.png
-description: Advances in Realtime Robot Control in ROS
+description: Robots are branching out from warehouses
 categories:
 - MoveIt
 - ROS
