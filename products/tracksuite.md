@@ -31,7 +31,7 @@ permalink: /products/tracksuite/
             <div class="col-4 tracksuite-card-single">
                 <img class="mx-auto d-block" src="/assets/images/tracksuite/1.png" alt="Reduce robotic hardware wear & tear">
                 <h3>Reduce robotic hardware wear & tear</h3>
-                <p>Reduces wear on hardware, prolonging the life of expensive production hardware and reducing breakage on plastic prototype components.</p>
+                <p>Reduces wear and prolongs the life of expensive production hardware. Reduce breakage on plastic prototype components.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
                 <img class="mx-auto d-block" src="/assets/images/tracksuite/2.png" alt="Improve Cycle Time">
@@ -76,7 +76,7 @@ permalink: /products/tracksuite/
                         <div class="col-lg-6 col-6">
                             <a href="/docs/tracksuite/TrackJointTechnicalSpec.pdf" class="btn btn-blue">
                                 <img src="/assets/images/tracksuite/doc-logo-white.png"/>
-                                DOWNLOAD TRACKPOSE SPEC
+                                DOWNLOAD TRACKJOINT SPEC
                             </a>
                         </div>
                     </div>
