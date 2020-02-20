@@ -31,11 +31,11 @@ permalink: /products/tracksuite/
             <div class="col-4 tracksuite-card-single">
                 <img class="mx-auto d-block" src="/assets/images/tracksuite/1.png" alt="Reduce robotic hardware wear & tear">
                 <h3>Reduce robotic hardware wear & tear</h3>
-                <p>Reduces wear and prolongs the life of expensive production hardware. Reduce breakage on plastic prototype components.</p>
+                <p>Reduces wear and prolongs the life of expensive production hardware. Lessens breakages on plastic components.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
                 <img class="mx-auto d-block" src="/assets/images/tracksuite/2.png" alt="Improve Cycle Time">
-                <h3>Improve Cycle Time</h3>
+                <h3>Improve cycle time & efficiency</h3>
                 <p>Move faster with near-time optimal trajectories that reliably maximize speed.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
@@ -64,7 +64,7 @@ permalink: /products/tracksuite/
                 <div class="col-12 col-lg-7">
                     <h3>Download the full TrackSuite Specs</h3>
                     <p>
-                        Get up and running quickly with email support and priority tracking of your MoveIt related Github issues and pull requests.
+                        Full technical specs for your team to evaluate. Our team is ready to support your team's needs.
                     </p>
                     <div class="row">
                         <div class="col-lg-6 col-6">
@@ -93,12 +93,12 @@ permalink: /products/tracksuite/
         <div class="col-12">
             <div class="row justify-content-center">
                 <div class=" contact-font">
-                    Contact us to learn more
+                    Contact us for a free trial
                 </div>
             </div>
             <div class="row justify-content-center">
                 <a href="/connect" class="btn btn-white">
-                    CONTACT US NOW
+                    CONTACT US
                 </a>
             </div>
         </div>
