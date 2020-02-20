@@ -28,7 +28,7 @@ redirect_from:
                     <h3>Dave Coleman, PhD</h3>
                 </a>
                 <div class="team-position">Co-Founder, CEO / Roboticist</div>
-                <p>Mechanical Engineering B.S. at Georgia Tech, Computer Science PhD at CU Boulder focusing on motion planning. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.
+                <p>Computer Science PhD at CU Boulder focusing on motion planning and Mechanical Engineering B.S. at Georgia Tech. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -38,7 +38,7 @@ redirect_from:
                     <h3>Rob Coleman</h3>
                 </a>
                 <div class="team-position">Co-Founder, COO</div>
-                <p>B.A Political Science and B.A. Public Administration, Auburn University; and M.A. Asia-Pacific Studies, international trade and economic policy, National Chengchi University (Taiwan). Rob has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
+                <p>M.A. Asia-Pacific Studies, international trade and economic policy, National Chengchi University (Taiwan). B.A Political Science and B.A. Public Administration, Auburn University. Rob has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
                 Over the past ten years Rob has served in breadth of roles, including policy analyst, team leader of Marines, trade advocate, project manager, and business development manager. Rob enjoys new challenges and moving the status quo.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -49,7 +49,7 @@ redirect_from:
                     <h3>Mark Moll, PhD</h3>
                 </a>
                 <div class="team-position">Director of Research</div>
-                <p>M.S. Computer Science University of Twente (the Netherlands) and PhD Computer Science Carnegie Mellon University. Mark has worked in robotics for more than 20 years, with a focus on motion planning.  He has been leading the development of the Open Motion Planning Library, which is used by MoveIt as the default planning library. He has over 80 peer-reviewed publications. He has extensive experience deploying novel algorithms on a variety of robotic platforms, ranging from NASA's Robonaut2 to autonomous underwater vehicles and self-reconfigurable robots.
+                <p>PhD Computer Science Carnegie Mellon University and M.S. Computer Science University of Twente (the Netherlands). Mark has worked in robotics for more than 20 years, with a focus on motion planning.  He has been leading the development of the Open Motion Planning Library, which is used by MoveIt as the default planning library. He has over 80 peer-reviewed publications. He has extensive experience deploying novel algorithms on a variety of robotic platforms, ranging from NASA's Robonaut2 to autonomous underwater vehicles and self-reconfigurable robots.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -59,7 +59,7 @@ redirect_from:
                     <h3>Mike Lautman, MSE</h3>
                 </a>
                 <div class="team-position">Co-Founder, Roboticist</div>
-                <p>B.S. Computer Science and Electrical Eng, M.S. Robotics from Univ. of Pennsylvania. While a full-time student, Mike founded Nebu, a Machine Learning and Data Science consultancy that he grew to 10 engineers. One
+                <p>M.S. Robotics from Univ. of Pennsylvania, B.S. Computer Science and Electrical Eng. While a full-time student, Mike founded Nebu, a Machine Learning and Data Science consultancy that he grew to 10 engineers. One
                 of the projects that Mike is especially proud of was building an ETL pipeline that feeds millions of escort advertisements from the web into a singular database used by law-enforcement against child-traffickers. After
                 Nebu, Mike joined up with KindredAi, an AI and Robotics venture backed startup, where he took on leadership of its motion planning efforts on a number of internal and external products.
                 </p>
@@ -71,7 +71,7 @@ redirect_from:
                     <h3>Nathan Brooks, PhD</h3>
                 </a>
                 <div class="team-position">Applied Robotics Scientist</div>
-                <p>B.S. Computer Science and Electrical Engineering at University of Tulsa, M.S. and PhD Robotics at Carnegie Mellon University. Nathan's graduate research focused on developing team planning techniques and interaction strategies improving operator supervision of large robot teams. Through this research, he has extensive experience with simulation platforms and field deployment logistics for unmanned vehicles on land, sea, and air.
+                <p>PhD and M.S. Robotics at Carnegie Mellon University, B.S. Computer Science and Electrical Engineering at University of Tulsa. Nathan's graduate research focused on developing team planning techniques and interaction strategies improving operator supervision of large robot teams. Through this research, he has extensive experience with simulation platforms and field deployment logistics for unmanned vehicles on land, sea, and air.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -81,7 +81,7 @@ redirect_from:
                     <h3>Henning Kayser, MSE</h3>
                 </a>
                 <div class="team-position">Applied Robotics Scientist</div>
-                <p>B.S. Computer Science at University of Hamburg w/focus on distributed systems. M.S. Computer Science w/focus on motion planning and machine learning. Broad experience with autonomous robots and scenarios with unstable dynamics like liquid pouring or pushing of objects. Expertise in motion planning, trajectory optimization, constrained and Cartesian path planning as well as 3D-perception and image processing. Winning team participant in the IROS 2018 Mobile Manipulation Hackathon.
+                <p>M.S. Computer Science at University of Hamburg with focus on motion planning and machine learning, B.S. Computer Science with focus on distributed systems. Broad experience with autonomous robots and scenarios with unstable dynamics like liquid pouring or pushing of objects. Expertise in motion planning, trajectory optimization, constrained and Cartesian path planning as well as 3D-perception and image processing. Winning team participant in the IROS 2018 Mobile Manipulation Hackathon.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -91,17 +91,7 @@ redirect_from:
                     <h3>Andy Zelenak, PhD</h3>
                 </a>
                 <div class="team-position">Controls Engineer</div>
-                <p>B.S. ME/EE from Colorado School of Mines, PhD from the University of Texas. Andy has focused on bringing a more responsive, delicate touch to industrial robots, with emphasis on control theory. Andy has collaborated with roboticists in the nuclear, oil/gas, and aerospace domains. Some of his favorite projects were joint current based collision detection, balancing an egg between Motoman SIA5 manipulators, and design of teleoperation software for a dual-arm Clearpath robot.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/stephenbrawner/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/p11.jpg')"></div>
-                    <h3>Stephen Brawner, PhD, PE</h3>
-                </a>
-                <div class="team-position">Applied Robotics Scientist</div>
-                <p>PhD, Sc.M Computer Science from Brown Univ, B.S Eng from Harvey Mudd College. Stephen has an interdisciplinary background in electromechanical engineering, robotics, and AI. Prior to grad school, he designed and built robots culminating in an automated heliostat cleaning system for eSolar, Inc - a concentrating solar thermal technology developer. Currently he leverages his broad expertise to develop automated behaviors for robots, incorporating machine learning, sensing, and perception. Stephen is also the developer of the SolidWorks to URDF Exporter.
+                <p>PhD from the University of Texas, B.S. ME/EE from Colorado School of Mines. Andy has focused on bringing a more responsive, delicate touch to industrial robots, with emphasis on control theory. Andy has collaborated with roboticists in the nuclear, oil/gas, and aerospace domains. Some of his favorite projects were joint current based collision detection, balancing an egg between Motoman SIA5 manipulators, and design of teleoperation software for a dual-arm Clearpath robot.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -141,18 +131,7 @@ redirect_from:
                     <h3>John Stechschulte, PhD</h3>
                 </a>
                 <div class="team-position">Perception Scientist</div>
-                <p>
-                B.S. Materials Science and Engineering Cornell University, M.A. Secondary Education Johns Hopkins University, M.S. and PhD Computer Science CU Boulder. John's PhD research focused on information theory and probabilistic modeling for robot localization. His expertise includes visual-inertial odometry and point cloud registration, and he has experience with a variety of metric computer vision methods, GPGPU programming, and high performance computing.  
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/christofferheckman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/p15.jpg')"></div>
-                    <h3>Chris Heckman, PhD</h3>
-                </a>
-                <div class="team-position">Senior Perception Researcher</div>
-                <p>B.S. MechEng UC Berkeley, PhD Theoretical & Applied Mechanics Cornell University and two Postdocs. Asst Professor in the Dept of Computer Science. Chris's research focuses on autonomy, perception, field robotics, machine learning, and AI. His work is used by industry in the development of autonomous vehicles, agricultural robotics and other mobile robots including for medicine and automation, as well as the federal government for civil environmental monitoring, intelligence and defense.
+                <p>PhD and M.S. Computer Science CU Boulder, M.A. Secondary Education Johns Hopkins University, B.S. Materials Science and Engineering Cornell University. John's PhD research focused on information theory and probabilistic modeling for robot localization. His expertise includes visual-inertial odometry and point cloud registration, and he has experience with a variety of metric computer vision methods, GPGPU programming, and high performance computing.  
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -173,16 +152,6 @@ redirect_from:
                 </a>
                 <div class="team-position">Operations Assistant</div>
                 <p>Tahnee has over 20 years experience in business operations over a variety of industries including architecture and advertising.  She was the Administrative Manager to the Design Team for the 2010 Olympic Village in Vancouver, Canada, a project that included coordinating over a dozen offices working to design and build 24 buildings in four years. Her passion is to see an efficient and effective organization while ensuring client satisfaction.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/andymcevoy/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/p2.jpg')"></div>
-                    <h3>Andy McEvoy, PhD</h3>
-                </a>
-                <div class="team-position">Advisor</div>
-                <p>M.S. Aerospace Engineering from Texas A&M focusing on dynamics and controls and a PhD in Computer Science from CU Boulder focusing on robotic materials. Andy has worked in the aerospace sector on spaceflight and military grade hardware. Since then he has worked for MDA helping to develop the next generation of robotic arms for on-orbit assembly and servicing. Andy has a wide breadth of experience that extends from the initial mechanical design and analysis to the final software deployment of robotic systems.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
