@@ -22,7 +22,7 @@ permalink: /products/
     <div class="container">
         <div class="products-card-wrapper">
             <div class="products-card-single">
-                <div class="row align-items-center">
+                <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-6">
                         <div class="img-wrapper">
                             <img class="icon" src="/assets/images/redesign/zeflexxes.png" alt="PickNik Zeflexxes icon">
@@ -37,7 +37,7 @@ permalink: /products/
                 </div>
             </div>
             <div class="products-card-single">
-                <div class="row align-items-center">
+                <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-6">
                         <div class="img-wrapper">
                             <img class="icon" src="/assets/images/redesign/trackpose.png" alt="PickNik TrackJoint icon">
@@ -52,7 +52,7 @@ permalink: /products/
                 </div>
             </div>
             <div class="products-card-single">
-                <div class="row align-items-center">
+                <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-6">
                         <div class="img-wrapper">
                             <img class="icon" src="/assets/images/redesign/bolt.png" alt="PickNik Bolt icon">
@@ -67,22 +67,22 @@ permalink: /products/
                 </div>
             </div>
             <div class="products-card-single">
-                <div class="row align-items-center">
+                <div class="row flex-row align-items-center">
+                    <div class="col-12 col-lg-6">
+                        <div class="img-wrapper">
+                            <img class="icon" src="/assets/images/redesign/teleremote.png" alt="PickNik Teleremote icon">
+                        </div>
+                    </div>
                     <div class="col-12 col-lg-6">
                         <h2>Teleremote</h2>
                         <p>Complete autonomy for arbitrary environments and tasks is still a goal for the future. Robots get stuck, and with PickNik Teleremote, humans can easily fix them. This suite of remote operation tools supports mixed levels of autonomy for teleoperation of robotic arms. We leverage the latest technologies including virtual reality to ensure intuitive user interfaces.
                         </p>
                         <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
                     </div>
-                    <div class="col-12 col-lg-6">
-                        <div class="img-wrapper">
-                            <img class="icon" src="/assets/images/redesign/teleremote.png" alt="PickNik Teleremote icon">
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="products-card-single">
-                <div class="row align-items-center">
+                <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-6">
                         <div class="img-wrapper">
                             <img class="icon" src="/assets/images/redesign/Moveit.png" alt="MoveIt icon">
