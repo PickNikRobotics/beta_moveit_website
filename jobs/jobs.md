@@ -106,6 +106,80 @@ permalink: /jobs/
         <h3 class="collapses__title">Open Positions</h3>
         <div id="accordion">
             <div class="card">
+                <div class="card-header" id="headingDirectorOfOperations">
+                    <h5 class="mb-0">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapseDirectorOfOperations" aria-expanded="false" aria-controls="collapseDirectorOfOperations">
+                        Director of Operations
+                            <div class="collapse-svg">
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                            </div>
+                        </span>
+                    </h5>
+                </div>
+                <div id="collapseDirectorOfOperations" class="collapse" aria-labelledby="headingDirectorOfOperations" data-parent="#accordion">
+                    <div class="card-body jobs-card-body">
+                        <div class="jobs-card-place">Boulder, Denver · Full Time</div>
+                        <h5>Job Description:</h5>
+                        <p>This leadership role at PickNik Robotics will require you to wear several hats at our fast growing 15 person startup. As Director of Operations, you will coordinate and oversee the organization's daily operations including coordinating individuals working on projects, financials, legal, marketing, and recruiting. In this role, you will act as a sounding board and thought partner to the CEO, providing useful insights and analysis on company strategy and operations, and engage in projects and execution. Assist and provide guidance to the Head of Engineering in decision-making. You'll be strategically supporting complex technical projects that will be used on thousands of robots around the world (and in outer space!).
+                        </p>
+                        <h5>Job Requirements:</h5>
+                        <ul>
+                            <li>
+                                Bachelors' degree in Computer Science, Mechanical Engineering, Electrical Engineering, or other technical fields
+                            </li>
+                            <li>
+                                3+ years relevant experience supporting business operations for a technology company
+                            </li>
+                            <li>
+                                Have a strong attention to detail, organizational skills, and documentation
+                            </li>
+                            <li>
+                                Skill in establishing priorities and handling multiple tasks
+                            </li>
+                            <li>
+                                Ability to provide guidance and leadership to the project team
+                            </li>
+                            <li>
+                                Knowledge of budgeting, cost estimating, and basic contractual procedures
+                            </li>
+                            <li>
+                                Ability to manage accountants and track company financials
+                            </li>
+                            <li>
+                                Willing to travel to occasional conferences (~10% travel)
+                            </li>
+                            <li>
+                                US Person (US Citizen or Permanent Resident)
+                            </li>
+                        </ul>
+                        <h5>Some preferred skills/experience:</h5>
+                        <ul>
+                            <li>
+                                Technical knowledge of robotics and automation
+                            </li>
+                            <li>
+                                Strong working knowledge of GSuite tools: Drive, Docs, Spreadsheet, Calendar, Gmail
+                            </li>
+                            <li>
+                                Experience with Asana, Trello, JIRA, and/or Clubhouse
+                            </li>
+                            <li>
+                                Experience as a scrum master in the Agile development methodology
+                            </li>
+                        </ul>
+                        <p>
+                            So you wanna join, what do you need to do?
+                        </p>
+                        <p>
+                            Submit your resume here and highlight relevant experience
+                        </p>
+                        <a href="https://workable.com/j/82F6830059" target="_blank" class="btn">
+                            APPLY NOW
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
                 <div class="card-header" id="headingFour">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
