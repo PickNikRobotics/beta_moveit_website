@@ -31,6 +31,8 @@ Will check all links are valid, etc:
 Ensure your contributions / pull requests are high quality by following this best practice list:
 
 - Does the page correctly use h1, h2, h3 tags?
+- Is the title tag 30-60 characters?  This greatly helps SEO.
+- Is the meta description unique?  This greatly helps SEO.
 - Are all images compressed properly? Checkout [TinyPNG](https://tinypng.com/)
 - Do all images have Alt tags? This greatly helps SEO.
 - Are new pages (except blog posts) being added to the sitemap?
