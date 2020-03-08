@@ -59,7 +59,7 @@ permalink: /products/tracksuite/
                 </div>
             </div>
         </div>
-        <div class="tracksuite-big-card-single-blue">
+        <div class="tracksuite-big-card-single tracksuite-big-card-single-blue">
             <div class="row row-flex flex-wrap-reverse">
                 <div class="col-12 col-lg-7">
                     <h3>Download the full TrackSuite Specs</h3>

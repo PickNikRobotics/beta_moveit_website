@@ -1,11 +1,7 @@
-.btn {
-  img {
-    object-fit: contain;
-    vertical-align: bottom;
-    padding-bottom: 7px;
-    padding-right: 8px;
+.btn img {
+    padding-bottom: 5px !important;
+    padding-right: 5px !important;
   }
-}
 
 .tracksuite-section-main {
   margin: 60px auto 100px;
@@ -104,17 +100,21 @@
   background-color: #ffffff;
   padding: 60px;
   @media screen and (max-width: 992px) {
-    padding: 40px;
+    padding: 45px;
   }
   @media screen and (max-width: 720px) {
-    padding: 20px;
+    padding: 35px;
   }
   @media screen and (max-width: 480px) {
-    padding: 10px;
+    padding-top: 32px;
+    padding-right: 24px;
+    padding-bottom: 32px;
+    padding-right: 24px;
   }
 
   img {
     max-width: 100%;
+    padding-bottom: 16px;
   }
   h3 {
     font-family: Rubik;
@@ -143,40 +143,12 @@
 }
 
 .tracksuite-big-card-single-blue {
-  border-radius: 10px;
   background-image: linear-gradient(221deg, #203152 84%, #1e2a43 23%);
-  padding: 80px;
-  @media screen and (max-width: 992px) {
-    padding: 45px;
-  }
-  @media screen and (max-width: 720px) {
-    padding: 35px;
-  }
-  @media screen and (max-width: 480px) {
-    padding: 25px;
-  }
 
-  img {
-    max-width: 100%;
-  }
   h3 {
-    font-family: Rubik;
-    font-size: 40px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.4;
-    letter-spacing: normal;
     color: #ffffff;
   }
   p {
-    font-family: Rubik;
-    font-size: 16px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.5;
-    letter-spacing: normal;
     color: #ffffff;
   }
 }
