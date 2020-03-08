@@ -7,9 +7,9 @@ permalink: /services/custom-development/
     <div class="services-robotic-section-main">
         <div class="row align-items-center">
             <div class="col-12 col-lg-6">
-                <h1>Custom<br/> Development</h1>
+                <h1>Strategic<br/> Development</h1>
                 <p>
-                    Leverage our expert robotics software developers to build your projects faster.
+                    Leverage our expert robotics software developers to build your custom projects faster.
                 </p>
             </div>
             <div class="col-12 col-lg-6">

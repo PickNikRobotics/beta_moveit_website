@@ -26,7 +26,7 @@ permalink: /services/
                     <div class="img-wrapper">
                         <img class="icon" src="../assets/images/redesign/custom-development.svg" alt="motion planning icon">
                     </div>
-                    <h3>Custom<br/> Development</h3>
+                    <h3>Strategic<br/> Development</h3>
                 </a>
                 <p>Let our team of expert roboticists and software engineers supercharge your research & development. Whether we work embedded within your development team or remotely developing an end to end solution to fit your needs, we always deliver the highest quality work and provide exceptional documentation. From our experience, getting hands on with the software provides the most insights and value to you.
                 </p>
