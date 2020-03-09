@@ -10,6 +10,19 @@ have_travis() {
   return 1
 }
 
+have_noinstall() {
+  for arg in "$@"; do
+    if [[ "${arg}" == "noinstall" ]]; then
+      return 0
+    fi
+  done
+  return 1
+}
+
+################################################################################
+# Begin Main Script
+################################################################################
+
 if [[ "$0" != "${BASH_SOURCE}" ]]; then
   {
     echo "This file is meant to be executed, not 'source'd:"
@@ -19,12 +32,16 @@ if [[ "$0" != "${BASH_SOURCE}" ]]; then
   return 1
 fi
 
-# Install dependencies
-sudo apt-get install ruby ruby-dev build-essential zlib1g-dev
+# Environment
 export GEM_HOME=$HOME/gems
 export PATH=$HOME/gems/bin:$PATH
-gem install jekyll bundler
-bundle install
+
+# Install dependencies, unless argument says to skip
+if ! have_noinstall "$@"; then
+  sudo apt-get install ruby ruby-dev build-essential zlib1g-dev
+  gem install jekyll bundler
+  bundle install
+fi
 
 # Test website using same script as Travis
 if have_travis "$@"; then
@@ -37,7 +54,7 @@ echo "-------------------------------------"
 echo "-------------------------------------"
 echo "Preparing to open http://localhost:4000"
 echo "Be sure to refresh auto-opened webpage"
-read -p "Press any key to start serving website..."
+#read -p "Press any key to start serving website..."
 echo "-------------------------------------"
 echo "-------------------------------------"
 echo

@@ -20,6 +20,10 @@ Will install Ruby, Jekyll, build the website, and server the website on localhos
 
     ./build_locally.sh
 
+If the dependencies are already installed (you've already run the previous command before locally):
+
+    ./build_locally.sh noinstall
+
 ### Run Travis Tests Locally
 
 Will check all links are valid, etc:
