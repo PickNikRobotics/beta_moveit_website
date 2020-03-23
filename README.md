@@ -24,6 +24,10 @@ If the dependencies are already installed (you've already run the previous comma
 
     ./build_locally.sh noinstall
 
+If Jekyll is for some reason still running in the background, kill to prevent port conflicts:
+
+   pkill -9 -f jekyll
+
 ### Run Travis Tests Locally
 
 Will check all links are valid, etc:

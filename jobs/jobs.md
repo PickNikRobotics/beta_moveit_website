@@ -179,7 +179,7 @@ permalink: /jobs/
                     </div>
                 </div>
             </div>
-            <div class="card">
+            <!-- div class="card">
                 <div class="card-header" id="headingFour">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
@@ -252,7 +252,7 @@ permalink: /jobs/
                         </a>
                     </div>
                 </div>
-            </div>
+            </div -->
             <div class="card">
                 <div class="card-header" id="headingAppliedRobotics">
                     <h5 class="mb-0">
@@ -386,7 +386,7 @@ permalink: /jobs/
                     </div>
                 </div>
             </div>
-            <div class="card">
+            <!-- div class="card">
                 <div class="card-header" id="headingPM">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapsePM" aria-expanded="false" aria-controls="collapsePM">
@@ -503,7 +503,7 @@ permalink: /jobs/
                         </a>
                     </div>
                 </div>
-            </div>
+            </div-->
         </div>
         <div class="collapses__btn">
             <a href="https://picknik.workable.com/" target="_blank" class="btn">
