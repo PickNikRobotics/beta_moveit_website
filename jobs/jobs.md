@@ -162,10 +162,5 @@ permalink: /jobs/
         </script>
         <div id="whr_embed_hook"></div>
         </div>
-        <div class="collapses__btn">
-            <a href="https://picknik.workable.com/" target="_blank" class="btn">
-                SEE ALL
-            </a>
-        </div>
     </div>
 </div>
