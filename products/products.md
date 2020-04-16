@@ -47,7 +47,7 @@ permalink: /products/
                         <h2>TrackPose</h2>
                         <p>The real world is noisy and sensor inputs are no exception. TrackPose is a library for realtime smoothing of various real-world inputs including perception-based tracking systems, virtual reality hand controllers, and other human-control input devices. TrackPose's theoretical guarantees ensure your robot's behavior is safer and more predictable, while prolonging the life of your hardware via smoother operation.
                         </p>
-                        <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
+                        <a href="/products/tracksuite/" class="btn">LEARN MORE</a>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@ permalink: /products/
                         <h2>TrackJoint</h2>
                         <p>Modern robots require highly reactive machines capable of instantaneous changes. TrackJoint is a highly reactive algorithm that can deterministically compute joint-based motion trajectories in real time. This results in smoother motions that ensure expensive robot hardware's lifetime is prolonged while minimizing overall cycle time.
                         </p>
-                        <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
+                        <a href="/products/tracksuite/" class="btn">LEARN MORE</a>
                     </div>
                 </div>
             </div>
