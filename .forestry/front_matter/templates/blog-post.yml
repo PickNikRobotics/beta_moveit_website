@@ -19,7 +19,7 @@ fields:
   label: title
 - type: text
   name: media_type
-  label: media_type
+  label: Blog main image
 - type: file
   name: media_link
   label: media_link
