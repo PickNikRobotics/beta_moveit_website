@@ -7,11 +7,11 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: assets/images/blog_posts
+public_path: "/assets/images/blog_posts"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: ":year: :month: :day: :filename:"
 build:
   preview_env:
   - JEKYLL_ENV=staging
