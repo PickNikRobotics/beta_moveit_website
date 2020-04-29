@@ -1,5 +1,5 @@
 ---
-author: nbbrooks
+author: Mohamad Ayman, Cairo University
 comments: false
 date: 2018-10-23 15:50:00+00:00
 layout: post
@@ -14,8 +14,6 @@ categories:
   - MoveIt
   - ROS
 ---
-
-Submitted by: Mohamad Ayman, Cairo University
 
 For this year's Google Summer of Code Project (GSoC) 2018, in collaboration with PickNik Robotics, Open Source Robotics Foundation (OSRF), Dave Coleman, and Andy McEvoy, the Setup Assistant 2.0 has been developed.
 

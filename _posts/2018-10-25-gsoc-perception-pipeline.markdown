@@ -1,5 +1,5 @@
 ---
-author: rcc0002
+author: Ridhwan Luthra, Cluster Innovation Centre
 comments: false
 date: 2018-12-11
 layout: post
@@ -14,8 +14,6 @@ categories:
 - MoveIt
 - ROS
 ---
-
-Submitted by: Ridhwan Luthra, Cluster Innovation Centre
 
 Over the summer, Open Source Robotics Foundation (OSRF) and PickNik Robotics teamed up to mentor a Google Summer of Code (GSoC) student, Ridhwan Luthra, while he made meaningful contributions to MoveIt. Ridhwan worked with Michael ‘v4hn’ Görner and Michael Lautman to produce two new tutorials demonstrating the perception and manipulation capabilities available in MoveIt.
 

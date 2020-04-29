@@ -1,5 +1,5 @@
 ---
-author: mlautman
+author: Mike Lautman
 comments: false
 date: 2018-05-08 08:15:12+00:00
 layout: post

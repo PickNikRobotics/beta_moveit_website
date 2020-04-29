@@ -1,5 +1,5 @@
 ---
-author: Andy Zelenak
+author: Andy Zelenak, PhD, Controls Engineer
 comments: false
 date: 2020-02-06
 layout: post
@@ -17,9 +17,6 @@ categories:
 [robonaut_img]: /assets/images/blog_posts/realtime_control/robonaut.jpg
 
 <img src="/assets/images/blog_posts/realtime_control/track_joint.png" class="rounded mx-auto d-block" alt="Track Joint">
-
-By Andy Zelenak, PhD, Controls Engineer
-
 
 You may have noticed the “diffusion” trend in robotics. If not, you will soon:
 

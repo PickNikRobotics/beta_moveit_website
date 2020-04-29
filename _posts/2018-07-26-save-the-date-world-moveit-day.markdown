@@ -1,5 +1,5 @@
 ---
-author: davetcoleman
+author: Dave Coleman
 comments: false
 date: 2018-08-03 12:15:12+00:00
 layout: post
