@@ -3,7 +3,7 @@ author: Rob Coleman
 comments: false
 date: 2020-03-10
 layout: post
-title: Improving the Average Pick Time
+title: Guide to Improving Average Pick Time
 media_type: image
 media_link: /assets/images/blog_posts/improve_pick_time/image.jpg
 description: Observations on Planning, Grasping & Optimization
@@ -82,24 +82,24 @@ If you would like more information please contact us at [https://picknik.ai/conn
 
 ### References
 
-[1]	M. Elbanhawi and M. Simic, “Sampling-based robot motion planning: A review,” IEEE Access, vol. 2, pp. 56–77, 2014, doi: 10.1109/ACCESS.2014.2302442. https://scholar.colorado.edu/downloads/j96020909
+[1]	M. Elbanhawi and M. Simic, “Sampling-based robot motion planning: A review,” IEEE Access, vol. 2, pp. 56–77, 2014, doi: 10.1109/ACCESS.2014.2302442. <https://scholar.colorado.edu/downloads/j96020909>
 
-[2]	I. A. Şucan, M. Moll, and L. E. Kavraki, “The Open Motion Planning Library,” IEEE Robot. Autom. Mag., vol. 19, no. 4, pp. 72–82, Dec. 2012, doi: 10.1109/MRA.2012.2205651.
+[2]	I. A. Şucan, M. Moll, and L. E. Kavraki, “The Open Motion Planning Library,” IEEE Robot. Autom. Mag., vol. 19, no. 4, pp. 72–82, Dec. 2012, doi: [10.1109/MRA.2012.2205651](https://dx.doi.org/10.1109/MRA.2012.2205651).
 
-[3]	M. Zucker et al., “CHOMP: Covariant Hamiltonian optimization for motion planning,” Int. J. Robot. Res., vol. 32, no. 9–10, pp. 1164–1193, 2013, doi: 10.1177/0278364913488805.
+[3]	M. Zucker et al., “CHOMP: Covariant Hamiltonian optimization for motion planning,” Int. J. Robot. Res., vol. 32, no. 9–10, pp. 1164–1193, 2013, doi: [10.1177/0278364913488805](https://dx.doi.org/10.1177/0278364913488805).
 
-[4]	M. Kalakrishnan, S. Chitta, E. Theodorou, P. Pastor, and S. Schaal, “STOMP: Stochastic trajectory optimization for motion planning,” in IEEE intl. conf. on robotics and automation, 2011, pp. 4569–4574, doi: 10.1109/ICRA.2011.5980280.
+[4]	M. Kalakrishnan, S. Chitta, E. Theodorou, P. Pastor, and S. Schaal, “STOMP: Stochastic trajectory optimization for motion planning,” in IEEE intl. conf. on robotics and automation, 2011, pp. 4569–4574, doi: [10.1109/ICRA.2011.5980280](https://dx.doi.org/10.1109/ICRA.2011.5980280).
 
-[5]	J. Schulman et al., “Motion planning with sequential convex optimization and convex collision checking,” Int. J. Robot. Res., vol. 33, no. 9, pp. 1251–1270, 2014, doi: 10.1177/0278364914528132.
+[5]	J. Schulman et al., “Motion planning with sequential convex optimization and convex collision checking,” Int. J. Robot. Res., vol. 33, no. 9, pp. 1251–1270, 2014, doi: [10.1177/0278364914528132](https://dx.doi.org/10.1177/0278364914528132).
 
-[6]	R. Luna, I. A. Şucan, M. Moll, and L. E. Kavraki, “Anytime solution optimization for sampling-based motion planning,” in IEEE intl. conf. on robotics and automation, 2013, pp. 5053–5059, doi: 10.1109/ICRA.2013.6631301.
+[6]	R. Luna, I. A. Şucan, M. Moll, and L. E. Kavraki, “Anytime solution optimization for sampling-based motion planning,” in IEEE intl. conf. on robotics and automation, 2013, pp. 5053–5059, doi: [10.1109/ICRA.2013.6631301](https://dx.doi.org/10.1109/ICRA.2013.6631301).
 
-[7]	B. Raveh, A. Enosh, and D. Halperin, “A little more, a lot better: improving path quality by a path-merging algorithm,” IEEE Trans Robot., vol. 27, no. 2, pp. 365–371, Apr. 2011, doi: 10.1109/TRO.2010.2098622.
+[7]	B. Raveh, A. Enosh, and D. Halperin, “A little more, a lot better: improving path quality by a path-merging algorithm,” IEEE Trans Robot., vol. 27, no. 2, pp. 365–371, Apr. 2011, doi: [10.1109/TRO.2010.2098622](https://dx.doi.org/10.1109/TRO.2010.2098622).
 
-[8]	B. Willey, “Combining sampling and optimizing in robotic path planning,” Department of Computer Science, Rice University, Houston, Texas, 2018. https://brycewilley.xyz/assets/willey-ms-thesis.pdf
+[8]	B. Willey, “Combining sampling and optimizing in robotic path planning,” Department of Computer Science, Rice University, Houston, Texas, 2018. <https://brycewilley.xyz/assets/willey-ms-thesis.pdf>
 
-[9]	M. Görner, R. Haschke, H. Ritter, and J. Zhang, “MoveIt! Task constructor for task-level motion planning,” in IEEE Intl. Conf. on Robotics and Automation, 2019, pp. 190–196, doi: 10.1109/ICRA.2019.8793898.
+[9]	M. Görner, R. Haschke, H. Ritter, and J. Zhang, “MoveIt! Task constructor for task-level motion planning,” in IEEE Intl. Conf. on Robotics and Automation, 2019, pp. 190–196, doi: [10.1109/ICRA.2019.8793898](https://dx.doi.org/10.1109/ICRA.2019.8793898).
 
-[10]	M. Moll, I. A. Şucan, and L. E. Kavraki, “Benchmarking motion planning algorithms: an extensible infrastructure for analysis and visualization,” IEEE Robot. Autom. Mag. Spec. Issue Replicable Meas. Robot. Res., vol. 22, no. 3, pp. 96–102, Sep. 2015, doi: 10.1109/MRA.2015.2448276.
+[10]	M. Moll, I. A. Şucan, and L. E. Kavraki, “Benchmarking motion planning algorithms: an extensible infrastructure for analysis and visualization,” IEEE Robot. Autom. Mag. Spec. Issue Replicable Meas. Robot. Res., vol. 22, no. 3, pp. 96–102, Sep. 2015, doi: [10.1109/MRA.2015.2448276](https://dx.doi.org/10.1109/MRA.2015.2448276).
 
-[11]	D. Coleman, “Methods for improving motion planning using experience,” University of Colorado Boulder, 2016. https://scholar.colorado.edu/downloads/j96020909
+[11]	D. Coleman, “Methods for improving motion planning using experience,” University of Colorado Boulder, 2016. <https://scholar.colorado.edu/downloads/j96020909>
