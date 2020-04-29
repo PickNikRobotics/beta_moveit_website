@@ -29,11 +29,22 @@
     }
   }
 
+  .author-name {
+    opacity: 0.5;
+    color: #3c4a69;
+    font-size: 14px;
+    line-height: 30px;
+    position: relative;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  }
+
   h1 {
     color: #121929;
     font-size: 40px;
     font-weight: bold;
     line-height: 56px;
+    margin-bottom: 0px;
   }
 
   p {
