@@ -83,8 +83,8 @@ permalink: /jobs/
                             <div class="img-wrapper">
                                 <img src="../assets/images/sun-icon-2.png" class="perksIcon">
                             </div>
-                            <h5>Great Weather</h5>
-                            <span class="subTitle">Boulder's 245 days of sun a year makes our 4 seasons wonderfully mild.</span>
+                            <h5>Health & 401k</h5>
+                            <span class="subTitle">Boulder is the <a href="https://www.businessinsider.com/the-25-healthiest-cities-in-america-2016-7">Healthiest City In America</a> but we still offer all the standard benefits.</span>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
