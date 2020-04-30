@@ -105,8 +105,8 @@ permalink: /services/moveit/
                     <a href="/connect" class="btn">CONTACT US Now</a>
                 </div>
             </div>
-            <p class="service-moveit-offer-last-text">
-                For full details, see <a href="https://picknik.ai/docs/MoveIt_Support_User_Guide_v3.1.pdf">User Guide</a>
+            <p id="service-moveit-offer-last-text">
+                For full details, see <a href="/docs/MoveIt_Support_User_Guide_v3.2.pdf">User Guide</a>
             </p>
         </div>
     </div>
