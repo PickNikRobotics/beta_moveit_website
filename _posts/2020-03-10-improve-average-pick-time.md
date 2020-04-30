@@ -14,10 +14,6 @@ categories:
 
 [line]: /assets/images/blog_posts/line.png
 
-<a href="https://www.bastiansolutions.com/solutions/service/industrial-robotics/industrial-robotic-solutions/vision-guided-robotics/goods-to-robot/" target="_blank">
-	<img src="/assets/images/blog_posts/improve_pick_time/image.jpg" class="rounded mx-auto d-block" alt="Pick robot">
-</a>
-
 ### Introduction
 
 There has been considerable debate and research for improving average pick time, both academically and commercially. Different approaches are often specialized for particular use cases, while others are more adaptive for broad use cases. Certainly, there are many factors that influence the average pick time, including motion planning time, grasp planning time, and execution time. It is hard to completely disentangle these factors.
@@ -103,3 +99,5 @@ If you would like more information please contact us at [https://picknik.ai/conn
 [10]	M. Moll, I. A. Şucan, and L. E. Kavraki, “Benchmarking motion planning algorithms: an extensible infrastructure for analysis and visualization,” IEEE Robot. Autom. Mag. Spec. Issue Replicable Meas. Robot. Res., vol. 22, no. 3, pp. 96–102, Sep. 2015, doi: [10.1109/MRA.2015.2448276](https://dx.doi.org/10.1109/MRA.2015.2448276).
 
 [11]	D. Coleman, “Methods for improving motion planning using experience,” University of Colorado Boulder, 2016. <https://scholar.colorado.edu/downloads/j96020909>
+
+[12] <a href="https://www.bastiansolutions.com/solutions/service/industrial-robotics/industrial-robotic-solutions/vision-guided-robotics/goods-to-robot/" target="_blank">Image source</a>

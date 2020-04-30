@@ -18,8 +18,6 @@ categories:
 [picknik_logo]: /assets/images/blog_posts/moveit_grasps/picknik_logo.png
 [rapyuta_logo]: /assets/images/blog_posts/moveit_grasps/rapyuta_logo.png
 
-<img src="/assets/images/blog_posts/moveit_grasps/moveit_grasps.png" alt="Moveit Grasps">
-
 We are pleased to officially announce a major new feature to MoveIt: a default grasping library for manipulation called <a href="https://github.com/ros-planning/moveit_grasps" target="_blank">MoveIt Grasps</a>. This package is the successor to the deprecated moveit_simple_grasps project and was originally developed by Dave Coleman and Andy McEvoy at the University of Colorado Boulder.
 
 Over the past year, through a close partnership between <a href="https://www.rapyuta-robotics.com" target="_blank">Rapyuta Robotics</a> and [PickNik Robotics](https://picknik.ai), the MoveIt Grasps package underwent a significant refactor and is now being released to the open-source community.

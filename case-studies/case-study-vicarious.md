@@ -2,11 +2,11 @@
 layout: post
 title: Vicarious​ ​-​ ​AI​ ​for​ ​the​ ​robot​ ​age
 permalink: /case-study-vicarious/
+media_type: image
+media_link: /assets/images/cs-image.png
 ---
 
 *Improving​ ​Baxter​ ​robot​ ​to​ ​work​ ​on​ ​the​ ​latest​ ​Gazebo​ ​simulator​ ​and​ ​ROS​ ​release.*
-
-<img src="../assets/images/cs-image.png">
 
 **ABOUT**
 

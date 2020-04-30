@@ -18,8 +18,6 @@ The event is a day long international hackathon to improve the MoveIt code base,
 
 We hope to close as many pull requests and issues as possible and explore new areas of features and improvements building off of our seven years of ongoing work.
 
-<img src="/assets/images/blog_posts/2019_07_31_world_moveit_day.png" alt="World Moveit Day 2019">
-
 We will be having several international event locations and have received numerous commitments already, including:
 
 * <a href="https://www.uni-hamburg.de/en.html" target="_blank">Universität Hamburg</a> / Group TAMS, Hamburg, Germany

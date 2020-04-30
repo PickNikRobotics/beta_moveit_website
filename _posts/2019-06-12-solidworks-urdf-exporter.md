@@ -17,8 +17,6 @@ categories:
 It is my pleasure to announce that we’ve made a huge update to the SolidWorks URDF Exporter.
 A big thank you is due to <a href="https://www.verbsurgical.com/" target="_blank">Verb Surgical</a> for inspiring and supporting the work and also to the team at [PickNik Robotics](https://picknik.ai/).
 
-<img src="/assets/images/blog_posts/2019_06_12_solidworks.png" alt="Announcing SolidWorks to URDF Exporter 1.5">
-
 **From Verb Surgical:**
 
 *“The original ROS SolidWorks URDF Exporter has been a vital tool for many robotics teams to close the loop on mechanical design and software control,

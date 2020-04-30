@@ -2,9 +2,9 @@
 layout: post
 title: Numurus - Reduce The Complexity Of Intelligent Systems
 permalink: /case-study-numurus/
+media_type: image
+media_link: /assets/images/case_studies/numurus/image2.png
 ---
-
-![Image](/assets/images/case_studies/numurus/image2.png)
 
 **INTRODUCTION**
 

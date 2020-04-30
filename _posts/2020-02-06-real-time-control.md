@@ -16,8 +16,6 @@ categories:
 [boston_dynamics_img]: /assets/images/blog_posts/realtime_control/boston_dynamics.jpeg
 [robonaut_img]: /assets/images/blog_posts/realtime_control/robonaut.jpg
 
-<img src="/assets/images/blog_posts/realtime_control/track_joint.png" class="rounded mx-auto d-block" alt="Track Joint">
-
 You may have noticed the “diffusion” trend in robotics. If not, you will soon:
 
 Robots are branching out from warehouses and assembly lines and becoming more common in our homes and neighborhoods. There are many examples, from surgery robots to hobbyist drones. Walmart is using autonomous floor-cleaning robots and Amazon is planning to release an Alexa-powered home robot<sup><a href="https://techcrunch.com/2019/07/12/amazon-reportedly-ramps-development-on-alexa-powered-home-robot-on-wheels/" target="_blank">1</a></sup>. Boston Dynamics is now selling four-legged Spot “dogs” to its first commercial customers<sup><a href="https://www.bostondynamics.com/spot" target="_blank">2</a></sup>. Many companies are betting that healthcare robotics will become very popular due to aging populations around the globe.

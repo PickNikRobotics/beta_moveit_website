@@ -2,10 +2,10 @@
 layout: post
 title: Franka Emika ​-​ ​Robots for everyone
 permalink: /case-study-franka/
+media_type: image
+media_link: /assets/images/franka-cs.png
 ---
 *Codesprint to make Panda the flagship robot of the MoveIt tutorials.*
-
-<img src="/assets/images/franka-cs.png">
 
 **ABOUT**
 

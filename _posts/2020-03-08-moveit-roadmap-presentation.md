@@ -11,8 +11,6 @@ categories:
 - MoveIt
 ---
 
-<img src="/assets/images/blog_posts/moveit2-realtime-presentation.png" class="rounded mx-auto d-block" alt="MoveIt 2 Realtime">
-
 Dr. Dave Coleman was recently invited to present at the annual 2020 ROS-Industrial Consortium meeting in San Antonio, Texas.
 There he presented the latest features in MoveIt 2 and the future development roadmap going forward.
 Checkout the presentation <a href="/docs/Realtime_Motion_Planning_And_MoveIt_2.pdf">Realtime Motion Planning and MoveIt 2</a> to learn more about:

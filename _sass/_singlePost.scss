@@ -4,6 +4,27 @@
   max-width: 100%;
   margin: 0 auto;
 
+  .image-wrapper {
+    height: 480px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 25px;
+    &.real-image {
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+
+    img,
+    iframe {
+      max-width: 100%;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+  }
+
   img {
     max-width: 100%;
     border-radius: 14px;

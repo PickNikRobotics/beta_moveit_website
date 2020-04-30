@@ -2,10 +2,10 @@
 layout: post
 title: Carbon robotics -​ ​Advanced robotics to the masses
 permalink: /case-study-carbon/
+media_type: image
+media_link: /assets/images/carbon-cs.png
 ---
 *Leveraging MoveIt for the application layer of a robot hardware manufacturer.*
-
-<img src="/assets/images/carbon-cs.png">
 
 **ABOUT**
 
