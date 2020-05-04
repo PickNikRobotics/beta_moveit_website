@@ -29,3 +29,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- _posts/solutions-for-trajectory-smoothing-tracksuite-and-reflexxes.md
