@@ -30,5 +30,4 @@ fields:
   name: categories
   label: categories
 pages:
-- _posts/Test file.md
 - _posts/solutions-for-trajectory-smoothing-tracksuite-and-reflexxes.md
