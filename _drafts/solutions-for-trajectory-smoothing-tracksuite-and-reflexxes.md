@@ -2,12 +2,15 @@
 author: Andy Zelenak, PhD, Controls Engineer
 comments: false
 date: 2020-05-05 01:00:00 -0600
-layout: ''
+layout: post
 title: 'Solutions for Trajectory Smoothing: TrackSuite and Reflexxes'
-media_type: ''
+media_type: image
 media_link: "/assets/images/blog_posts/2020 05 04 Application_field_automotive.jpg"
-description: ''
-categories: []
+description: Smoothed trajectories reduce vibration and increase lifespan of manipulators
+categories:
+- smoothing
+- jerk-free
+- trajectory
 
 ---
 
