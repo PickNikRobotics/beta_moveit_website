@@ -4,30 +4,36 @@ hide_body: false
 fields:
 - type: text
   name: author
-  label: author
+  label: Author
 - type: boolean
   name: comments
-  label: comments
+  label: Comments
 - type: datetime
   name: date
-  label: date
+  label: Date
+  config:
+    date_format: MM-DD-YYYY
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  default: blog
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: media_type
-  label: Blog main image
+  label: Blog main media type
+  description: This is either 'image' or 'video' depending on the media type
 - type: file
   name: media_link
-  label: media_link
+  label: Blog main media path/link
+  description: If 'media_type' is set to image this should be the link to the image,
+    if 'media_type' is set to video this should be the link to the video
 - type: text
   name: description
-  label: description
+  label: Description
 - type: list
   name: categories
-  label: categories
+  label: Tags
 pages:
 - _posts/solutions-for-trajectory-smoothing-tracksuite-and-reflexxes.md
