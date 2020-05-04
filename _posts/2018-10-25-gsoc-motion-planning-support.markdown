@@ -38,9 +38,6 @@ In the initial phase of the project, MoveIt tutorials were followed to get an un
 - <a href="https://github.com/ros-planning/moveit/pull/987" target="_blank">MoveIt PR#987</a>: Addition of Failure Recovery options for CHOMP
 - <a href="https://github.com/ros-planning/panda_moveit_config/pull/10" target="_blank">Panda_moveit_config PR#10</a>: Added documentation in tutorial subsection on 3 new parameters in the chomp_planning.yaml file.
 
-[<img src="{{ site.url }}/assets/images/chomp_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/chomp_1.png)
-<br/>Figure 1: Motion Plan obtained from CHOMP In the presence of obstacles.
-
 Open Github issues looked into / addressed:
 
 - <a href="https://github.com/ros-planning/moveit/issues/305" target="_blank">MoveIt Issue #305</a>: Chomp not avoiding obstacles
@@ -58,7 +55,7 @@ In this phase, STOMP support was added to make it work as a core motion planning
 - <a href="https://github.com/ros-planning/panda_moveit_config/pull/5" target="_blank">Panda_moveit_config PR#5</a>: Addition of STOMP related planning files
 
 [<img src="{{ site.url }}/assets/images/stomp_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/stomp_1.png)
-<br/>Figure 2: Motion Plan obtained from STOMP In the presence of obstacles
+<br/>Figure 1: Motion Plan obtained from STOMP In the presence of obstacles
 
 Github issues addressed / looked into:
 <a href="https://github.com/ros-industrial/industrial_moveit/issues/70" target="_blank">industrial_moveit Issue#70</a>: Compiling STOMP successfully
@@ -66,25 +63,25 @@ Github issues addressed / looked into:
 ### 3. Benchmarking and Planning Adapters
 
 [<img src="{{ site.url }}/assets/images/ompl_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/ompl_1.png)
-<br/>Figure 3: Motion Plan obtained from OMPL In the presence of obstacles
+<br/>Figure 2: Motion Plan obtained from OMPL In the presence of obstacles
 
 In this phase, the benchmarking code was made to work with different Motion Planning Algorithms like CHOMP, STOMP, and OMPL. Planning Request adapters were written for CHOMP and STOMP so they can be used as post-processor planners for the output obtained from other planners.
 
 [<img src="{{ site.url }}/assets/images/planners_benchmark.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/planners_benchmark.png)
-<br/>Figure 4: This image shows the benchmarking results for 5 different planning algorithms available in MoveIt The parameter time is shown for the planners, other benchmarking parameters can also be selected for viewing for each of the planners.
+<br/>Figure 3: This image shows the benchmarking results for 5 different planning algorithms available in MoveIt The parameter time is shown for the planners, other benchmarking parameters can also be selected for viewing for each of the planners.
 
 **Benchmarking results below:**
 
 Sample environments (with obstacles) are available in MoveIt for testing motion planners with single and multiple obstacles present in the scene. These environments can be loaded from moveit_tutorials package by running:
 
-- rosrun moveit_tutorials collision_scene_example.py sparse (Figure 5) OR
-- rosrun moveit_tutorials collision_scene_example.py cluttered (Figure 6)
+- rosrun moveit_tutorials collision_scene_example.py sparse (Figure 4) OR
+- rosrun moveit_tutorials collision_scene_example.py cluttered (Figure 5)
 
 [<img src="{{ site.url }}/assets/images/single_obstacle.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/single_obstacle.png)
-<br/>Figure 5. Simple Environment (Collision Scene example) with a single obstacle.
+<br/>Figure 4. Simple Environment (Collision Scene example) with a single obstacle.
 
 [<img src="{{ site.url }}/assets/images/multiple_obstacle.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/multiple_obstacle.png)
-<br/>Figure 6. Complex Environment (Collision Scene example) with multiple obstacles.
+<br/>Figure 5. Complex Environment (Collision Scene example) with multiple obstacles.
 
 The Pull Requests for the same can be seen below:
 
