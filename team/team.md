@@ -27,7 +27,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/p1.jpg')"></div>
                     <h3>Dave Coleman, PhD</h3>
                 </a>
-                <div class="team-position">Co-Founder, CEO / Roboticist</div>
+                <div class="team-position">Co-Founder, CEO</div>
                 <p>Computer Science PhD at CU Boulder focusing on motion planning and Mechanical Engineering B.S. at Georgia Tech. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -131,7 +131,7 @@ redirect_from:
                     <h3>John Stechschulte, PhD</h3>
                 </a>
                 <div class="team-position">Perception Scientist</div>
-                <p>PhD and M.S. Computer Science CU Boulder, M.A. Secondary Education Johns Hopkins University, B.S. Materials Science and Engineering Cornell University. John's PhD research focused on information theory and probabilistic modeling for robot localization. His expertise includes visual-inertial odometry and point cloud registration, and he has experience with a variety of metric computer vision methods, GPGPU programming, and high performance computing.  
+                <p>PhD and M.S. Computer Science CU Boulder, M.A. Secondary Education Johns Hopkins University, B.S. Materials Science and Engineering Cornell University. John's PhD research focused on information theory and probabilistic modeling for robot localization. His expertise includes visual-inertial odometry and point cloud registration, and he has experience with a variety of metric computer vision methods, GPGPU programming, and high performance computing.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
