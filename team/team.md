@@ -33,6 +33,26 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/mmoll/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/MarkMoll.jpg')"></div>
+                    <h3>Mark Moll, PhD</h3>
+                </a>
+                <div class="team-position">Director of Research</div>
+                <p>PhD Computer Science Carnegie Mellon University and M.S. Computer Science University of Twente (the Netherlands). Mark has worked in robotics for more than 20 years, with a focus on motion planning.  He has been leading the development of the Open Motion Planning Library, which is used by MoveIt as the default planning library. He has over 80 peer-reviewed publications. He has extensive experience deploying novel algorithms on a variety of robotic platforms, ranging from NASA's Robonaut2 to autonomous underwater vehicles and self-reconfigurable robots.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/nathan-b-brooks/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p10.jpg')"></div>
+                    <h3>Nathan Brooks, PhD</h3>
+                </a>
+                <div class="team-position">Applied Robotics Scientist</div>
+                <p>PhD and M.S. Robotics at Carnegie Mellon University, B.S. Computer Science and Electrical Engineering at University of Tulsa. Nathan's graduate research focused on developing team planning techniques and interaction strategies improving operator supervision of large robot teams. Through this research, he has extensive experience with simulation platforms and field deployment logistics for unmanned vehicles on land, sea, and air.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p4.jpg')"></div>
                     <h3>Rob Coleman</h3>
@@ -40,16 +60,6 @@ redirect_from:
                 <div class="team-position">Co-Founder</div>
                 <p>M.A. Asia-Pacific Studies, international trade and economic policy, National Chengchi University (Taiwan). B.A Political Science and B.A. Public Administration, Auburn University. Rob has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
                 Over the past ten years Rob has served in breadth of roles, including policy analyst, team leader of Marines, trade advocate, project manager, and business development manager. Rob enjoys new challenges and moving the status quo.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/mmoll/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/MarkMoll.jpg')"></div>
-                    <h3>Mark Moll, PhD</h3>
-                </a>
-                <div class="team-position">Director of Research</div>
-                <p>PhD Computer Science Carnegie Mellon University and M.S. Computer Science University of Twente (the Netherlands). Mark has worked in robotics for more than 20 years, with a focus on motion planning.  He has been leading the development of the Open Motion Planning Library, which is used by MoveIt as the default planning library. He has over 80 peer-reviewed publications. He has extensive experience deploying novel algorithms on a variety of robotic platforms, ranging from NASA's Robonaut2 to autonomous underwater vehicles and self-reconfigurable robots.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -62,16 +72,6 @@ redirect_from:
                 <p>M.S. Robotics from Univ. of Pennsylvania, B.S. Computer Science and Electrical Eng. While a full-time student, Mike founded Nebu, a Machine Learning and Data Science consultancy that he grew to 10 engineers. One
                 of the projects that Mike is especially proud of was building an ETL pipeline that feeds millions of escort advertisements from the web into a singular database used by law-enforcement against child-traffickers. After
                 Nebu, Mike joined up with KindredAi, an AI and Robotics venture backed startup, where he took on leadership of its motion planning efforts on a number of internal and external products.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/nathan-b-brooks/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/p10.jpg')"></div>
-                    <h3>Nathan Brooks, PhD</h3>
-                </a>
-                <div class="team-position">Applied Robotics Scientist</div>
-                <p>PhD and M.S. Robotics at Carnegie Mellon University, B.S. Computer Science and Electrical Engineering at University of Tulsa. Nathan's graduate research focused on developing team planning techniques and interaction strategies improving operator supervision of large robot teams. Through this research, he has extensive experience with simulation platforms and field deployment logistics for unmanned vehicles on land, sea, and air.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -136,22 +136,22 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/omid.png')"></div>
-                    <h3>Omid Heidari, PhD</h3>
-                </a>
-                <div class="team-position">Applied Robotics Scientist</div>
-                <p>M.S. MechEng from Babol Univ. of Technology; currently PhD candidate in Robotics, Idaho State University. Omid has worked extensively on forward & inverse kinematics as well as the dimensional synthesis of serial and parallel manipulators. He has studied human upper extremity kinematics for rehabilitation purposes which led to suggesting a task-based methodology for designing exoskeletons and a virtual reality environment for kinematics synthesis. His most recent work focuses on human-robot interaction through augmented reality.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/tahnee-foley-0bba1350/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/TahneeFoley.jpg')"></div>
                     <h3>Tahnee Foley</h3>
                 </a>
                 <div class="team-position">Operations Assistant</div>
                 <p>Tahnee has over 20 years experience in business operations over a variety of industries including architecture and advertising.  She was the Administrative Manager to the Design Team for the 2010 Olympic Village in Vancouver, Canada, a project that included coordinating over a dozen offices working to design and build 24 buildings in four years. Her passion is to see an efficient and effective organization while ensuring client satisfaction.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/omid.png')"></div>
+                    <h3>Omid Heidari, PhD</h3>
+                </a>
+                <div class="team-position">Applied Robotics Scientist</div>
+                <p>M.S. MechEng from Babol Univ. of Technology; currently PhD candidate in Robotics, Idaho State University. Omid has worked extensively on forward & inverse kinematics as well as the dimensional synthesis of serial and parallel manipulators. He has studied human upper extremity kinematics for rehabilitation purposes which led to suggesting a task-based methodology for designing exoskeletons and a virtual reality environment for kinematics synthesis. His most recent work focuses on human-robot interaction through augmented reality.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
