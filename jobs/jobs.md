@@ -84,7 +84,7 @@ permalink: /jobs/
                                 <img src="../assets/images/sun-icon-2.png" class="perksIcon">
                             </div>
                             <h5>Health & 401k</h5>
-                            <span class="subTitle">Boulder is the <a href="https://www.businessinsider.com/the-25-healthiest-cities-in-america-2016-7">Healthiest City In America</a> but we still offer all the standard benefits.</span>
+                            <span class="subTitle">Boulder is the <a href="https://www.businessinsider.com/the-25-healthiest-cities-in-america-2016-7">Healthiest City In America</a> but we still offer all the standard benefits, like health + dental insurance and a 401k plan.</span>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
