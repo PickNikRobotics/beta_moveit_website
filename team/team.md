@@ -86,6 +86,16 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/jillberman/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/Jill.png')"></div>
+                    <h3>Jill Berman</h3>
+                </a>
+                <div class="team-position">Director Of Operations</div>
+                <p>Jill is a data-driven business operations leader helping companies scale. Her 25 year career includes tenures Sun Microsystems (exit: Oracle), Informix (exit: IBM), and Ooyala (exit: Telstra) running technical marketing programs, building professional services organizations, managing customer success teams, and leading company operations. With a focus on OKR / KPI-centric business development, process design / optimization, and sales workflows / automation, she helps businesses prepare for growth.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/andy-zelenak-a659b3127" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/andyz.png')"></div>
                     <h3>Andy Zelenak, PhD</h3>
@@ -195,8 +205,8 @@ redirect_from:
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
-            <div class="team-card-single-empty">
-            </div>
+            <!-- <div class="team-card-single-empty"> -->
+            <!-- </div> -->
         </div>
     </div>
 </div>
