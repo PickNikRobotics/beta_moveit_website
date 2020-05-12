@@ -13,6 +13,9 @@ categories:
 - trajectory
 
 ---
+
+[line]: /assets/images/blog_posts/line.png
+
 Popular motion planning frameworks like MoveIt usually produce waypoints that are irregularly spaced and likely don’t obey the velocity, acceleration, or jerk limits of the robot. Before a trajectory from MoveIt can be sent to the robot controller, it usually passes through a time parameterization algorithm. These algorithms smooth the trajectory while ensuring that enough waypoints are available to match the robot control frequency.
 
 MoveIt provides several open-source algorithms to perform this time parameterization. The newest, preferred method is known as _Time Optimal Trajectory Generation (TOTG)_. One drawback that all of the open-source algorithms have in common is that they do not obey the jerk limits of the robot. To create a smooth, jerk-limited trajectory, it is necessary to use a proprietary algorithm.
@@ -31,15 +34,15 @@ Now, there is an alternative. [TrackSuite](https://picknik.ai/products/tracksuit
 
 The following graphs are a comparison of a trajectory smoothed with Reflexxes Type II to a trajectory smoothed with TrackSuite. Note how Reflexxes accelerates at maximum, arriving at the target destination early. Then it waits. The TrackSuite-smoothed trajectory arrives right on time (t=1.25s) and in a smooth fashion.
 
-![](https://lh3.googleusercontent.com/rNDqJlY9uodyDu2v92IHz1Z0UReEkh8OeMgPEWKzg9r2awZOzETDf_LZ-PKReIqTWFFj45sX-itgQ8wPDju5vvqEQXnnygS9pGMJpMSd3suMr1yJ11GFVw6pHpfw-gcmmJB7ULpr "Fig. 1 - Reflexxes ramps velocity up as quickly as possible." =473x355)
+![](https://lh3.googleusercontent.com/rNDqJlY9uodyDu2v92IHz1Z0UReEkh8OeMgPEWKzg9r2awZOzETDf_LZ-PKReIqTWFFj45sX-itgQ8wPDju5vvqEQXnnygS9pGMJpMSd3suMr1yJ11GFVw6pHpfw-gcmmJB7ULpr)
 
 Fig. 1 - Reflexxes ramps velocity up as quickly as possible.
 
-![](https://lh6.googleusercontent.com/pAWQy9WnyhxK2LQR9h-tLaFQNov3W_pjbhrwhooCqxsfn84kxfK0Ah0PK6yH_1CnbRQhgoZ818nmfXcM8GJJJWLlk_4CkbNEgjI1AOv0p5w7jUn2RElfS9DBj8JzXG5WJSh9sNt5 "Fig. 2 - The Reflexxes trajectory arrives early." =494x371)
+![](https://lh6.googleusercontent.com/pAWQy9WnyhxK2LQR9h-tLaFQNov3W_pjbhrwhooCqxsfn84kxfK0Ah0PK6yH_1CnbRQhgoZ818nmfXcM8GJJJWLlk_4CkbNEgjI1AOv0p5w7jUn2RElfS9DBj8JzXG5WJSh9sNt5)
 
 Fig. 2 - The Reflexxes trajectory arrives early.
 
-!\[line\]
+![line]
 
 **_About_** [**_TrackSuite_**](https://picknik.ai/products/tracksuite/)
 
