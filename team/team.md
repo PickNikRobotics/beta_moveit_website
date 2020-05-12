@@ -28,7 +28,7 @@ redirect_from:
                     <h3>Dave Coleman, PhD</h3>
                 </a>
                 <div class="team-position">Co-Founder, CEO</div>
-                <p>Computer Science PhD at CU Boulder focusing on motion planning and Mechanical Engineering B.S. at Georgia Tech. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.
+                <p>PhD Computer Science at CU Boulder focusing on motion planning and Mechanical Engineering B.S. at Georgia Tech. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -158,9 +158,9 @@ redirect_from:
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/omid.png')"></div>
-                    <h3>Omid Heidari, Advisor</h3>
+                    <h3>Omid Heidari</h3>
                 </a>
-                <div class="team-position">Applied Robotics Scientist</div>
+                <div class="team-position">Advisor</div>
                 <p>M.S. MechEng from Babol Univ. of Technology; currently PhD candidate in Robotics, Idaho State University. Omid has worked extensively on forward & inverse kinematics as well as the dimensional synthesis of serial and parallel manipulators. He has studied human upper extremity kinematics for rehabilitation purposes which led to suggesting a task-based methodology for designing exoskeletons and a virtual reality environment for kinematics synthesis. His most recent work focuses on human-robot interaction through augmented reality.
                 </p>
                 <span class="show-more-team">Read More</span>
