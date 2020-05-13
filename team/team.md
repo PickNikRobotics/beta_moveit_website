@@ -91,7 +91,7 @@ redirect_from:
                     <h3>Jill Berman</h3>
                 </a>
                 <div class="team-position">Director Of Operations</div>
-                <p>Jill is a data-driven business operations leader helping companies scale. Her 25 year career includes tenures Sun Microsystems (exit: Oracle), Informix (exit: IBM), and Ooyala (exit: Telstra) running technical marketing programs, building professional services organizations, managing customer success teams, and leading company operations. With a focus on OKR / KPI-centric business development, process design / optimization, and sales workflows / automation, she helps businesses prepare for growth.
+                <p>Jill is a data-driven business operations leader helping companies scale. Her 25 year career includes tenures at Sun Microsystems (exit: Oracle), Informix (exit: IBM), and Ooyala (exit: Telstra) running technical marketing programs, building professional services organizations, managing customer success teams, and leading company operations. With a focus on OKR / KPI-centric business development, process design / optimization, and sales workflows / automation, she helps businesses prepare for growth.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
