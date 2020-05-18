@@ -5,7 +5,7 @@ comments: false
 date: 2020-05-18 00:00:00 -0600
 title: 'JogArm: Realtime Cartesian Motion with MoveIt'
 media_type: video
-media_link: 'https://www.youtube.com/watch?v=UC2thGWLHA8'
+media_link: 'https://www.youtube.com/embed/UC2thGWLHA8'
 description: A MoveIt controller that plans Cartesian motions in realtime, ideal for
   visual servoing and teleoperation.
 categories:
