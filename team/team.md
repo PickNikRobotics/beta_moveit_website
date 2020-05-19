@@ -158,7 +158,7 @@ redirect_from:
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/omid.png')"></div>
-                    <h3>Omid Heidari</h3>
+                    <h3>Omid Heidari, PhD</h3>
                 </a>
                 <div class="team-position">Advisor</div>
                 <p>M.S. MechEng from Babol Univ. of Technology; currently PhD candidate in Robotics, Idaho State University. Omid has worked extensively on forward & inverse kinematics as well as the dimensional synthesis of serial and parallel manipulators. He has studied human upper extremity kinematics for rehabilitation purposes which led to suggesting a task-based methodology for designing exoskeletons and a virtual reality environment for kinematics synthesis. His most recent work focuses on human-robot interaction through augmented reality.
