@@ -32,7 +32,14 @@ permalink: /products/
                         <h2>MoveIt</h2>
                         <p>MoveIt is PickNik's flagship open source product, featuring state of the art algorithms and that can be quickly adapted for your custom application. MoveIt allows you to develop advanced robotics solutions, evaluate new robot designs, and build integrated robotics products for industrial, commercial, R&D and other domains. Our engineers ensure long-term development and stability.
                         </p>
-                        <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
+                        <div class="row">
+                            <div class="col-lg-6 col-6">
+                                <a href="/services/moveit/" target="_blank" class="btn">MOVEIT SUPPORT</a>
+                            </div>
+                            <div class="col-lg-6 col-6">
+                                <a href="http://moveit.ros.org/" target="_blank" class="btn btn-blue">MOVEIT WEBSITE</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
