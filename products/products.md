@@ -69,7 +69,7 @@ permalink: /products/
                         <h2>Bolt</h2>
                         <p>Robotic manipulation tasks are becoming increasingly challenging to solve by ordinary motion planners. Bolt is a fast, dual-arm motion planner that selectively learns from experience. It is also capable of solving underconstrained Cartesian trajectories. Bolt reliably produces smooth and robust motion trajectories using cutting edge theoretical proofs.
                         </p>
-                        <a href="/docs/PickNik_Bolt_Experience_Motion_Planning.pdf" class="btn">TECHNICAL DETAILS</a>
+                        <a href="/docs/PickNik_Bolt_Experience_Motion_Planning.pdf" class="btn">DISCOVER MORE</a>
                     </div>
                 </div>
             </div>
