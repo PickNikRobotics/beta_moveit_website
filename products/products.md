@@ -34,10 +34,10 @@ permalink: /products/
                         </p>
                         <div class="row">
                             <div class="col-lg-6 col-6">
-                                <a href="/services/moveit/" target="_blank" class="btn">MOVEIT SUPPORT</a>
+                                <a href="/services/moveit/" class="btn no-margin-right">MOVEIT SUPPORT</a>
                             </div>
                             <div class="col-lg-6 col-6">
-                                <a href="http://moveit.ros.org/" target="_blank" class="btn btn-blue">MOVEIT WEBSITE</a>
+                                <a href="http://moveit.ros.org/" target="_blank" class="btn btn-blue no-margin-left">MOVEIT WEBSITE</a>
                             </div>
                         </div>
                     </div>
