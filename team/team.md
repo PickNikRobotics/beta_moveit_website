@@ -207,6 +207,15 @@ redirect_from:
             </div>
             <!-- <div class="team-card-single-empty"> -->
             <!-- </div> -->
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="collapses__btn">
+                        <a href="/jobs/" class="btn">
+                            See available positions on the team!
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
