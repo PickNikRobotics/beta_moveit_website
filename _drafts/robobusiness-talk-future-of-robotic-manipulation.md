@@ -20,11 +20,9 @@ Learn about industry trends in advanced robotic manipulation by watching Dave Co
 
 Robotic manipulation has been commercially deployed in factories for over half a century, but why do we not see robot arms in our everyday lives? The dream of more advanced, non-industrial manipulation is perhaps around the corner, but there are various market forces making innovation in this space difficult. In this session, Dave Coleman, CEO of PickNik Robotics, will present how the Robot Operating System (ROS) and MoveIt is addressing those difficulties. ROS has become a de facto standard for robotics development around the world. One of the most popular components within ROS is MoveIt, software platform for advanced robotics manipulation, including mobile manipulation. Yet despite its popularity, many challenges must be overcome for MoveIt to achieve fast planning for complex global motion. This is one of the main development goals of MoveIt 2, which is enabled by ROS 2, a second generation, commercially hardened and technically extended version of ROS.
 
-Image: robobusiness2
+![](/assets/images/blog_posts/2020-05-22-robobusiness2.png)
 
-[https://drive.google.com/drive/u/1/folders/1sb3bDmiVea27xrUFAp0AgjYN-L7Dvmea](https://drive.google.com/drive/u/1/folders/1sb3bDmiVea27xrUFAp0AgjYN-L7Dvmea "https://drive.google.com/drive/u/1/folders/1sb3bDmiVea27xrUFAp0AgjYN-L7Dvmea")
-
-![](https://lh6.googleusercontent.com/c3zHHryEUt2u83DWlNus2lYI_F7N9uXA5eeyhGzYa8bcn1RF95pASVXkumLrjbn0LPIVaOdNAUY5ODEpaPrAPeCZjcFcADnyQKAODNyAapqVxhGi5qrhk-YoNlimqQ2Uqtp9QldN =166x12) !\[line\]
+![](https://lh6.googleusercontent.com/c3zHHryEUt2u83DWlNus2lYI_F7N9uXA5eeyhGzYa8bcn1RF95pASVXkumLrjbn0LPIVaOdNAUY5ODEpaPrAPeCZjcFcADnyQKAODNyAapqVxhGi5qrhk-YoNlimqQ2Uqtp9QldN =166x12)
 
 **Accelerate Your Robotics Development |** About [PickNik](https://picknik.ai/): Robots are complex systems that require a wide breadth of expert knowledge spanning multiple disciplines, making robotics development extremely difficult and costly. Since 2015, PickNik’s mission has been to address this technical challenge while dramatically reducing development time for advanced robotic applications. To achieve this, PickNik supports and collaborates with the worldwide open source robotics movement, providing companies with cutting edge research and barrier-free open source software.
 
