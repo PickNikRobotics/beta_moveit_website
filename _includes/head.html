@@ -16,3 +16,22 @@
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <meta name="google-site-verification" content="ghsOqXLQA2iTIK28nhoHlZwFo3SYVr5_ObKclChE6g0" />
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+<script type="text/javascript">
+window.dojoRequire(["mojo/signup-forms/Loader"], function(L) {
+	L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"ec7904f1f579094c8e83e79e8","lid":"196b3fc03e","uniqueMethods":true}) })
+$(document).ready(deleteHeadStyles);
+// Remove all styles because they're missing the website code
+function deleteHeadStyles() {
+	var styles = document.getElementsByTagName('head')[0].getElementsByTagName('style')
+	if(styles.length > 0) {
+		for(var style_index = styles.length - 1; style_index >= 0; style_index--)
+		{
+		    styles[style_index].remove()
+		}
+	}
+	else {
+		setTimeout(deleteHeadStyles, 50); //wait 50 ms, then try again
+	}
+}
+</script>

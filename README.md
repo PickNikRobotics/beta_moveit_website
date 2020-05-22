@@ -34,7 +34,33 @@ Will check all links are valid, etc:
 
     ./build_locally.sh travis
 
-### Contribution Checklist
+## Using The Test Server
+
+We currently have one test server at beta01.picknik.ai. We could add more if needed.
+
+### Setup
+
+Add git remote:
+
+    git remote add beta01 git@github.com:PickNikRobotics/beta01.picknik.ai.git
+
+### Usage
+
+For a particular feature branch:
+
+    git push beta01 FEATURE_BRANCH:master -f
+
+Then go to repo settings:
+
+    https://github.com/PickNikRobotics/beta01.picknik.ai/settings
+
+And change the 'Custom Domain' back to the non-live website:
+
+    beta01.picknik.ai
+
+And click Save. Now wait a minute and refresh.
+
+## Contribution Checklist
 
 Ensure your contributions / pull requests are high quality by following this best practice list:
 
