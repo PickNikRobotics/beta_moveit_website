@@ -66,14 +66,14 @@ permalink: /products/tracksuite/
                     <p>
                         Full technical specs for your team to evaluate. Our team is ready to support your team's needs.
                     </p>
-                    <div class="row">
-                        <div class="col-lg-6 col-6">
+                    <div class="row text-center">
+                        <div class="col">
                             <a href="/docs/tracksuite/TrackPoseTechnicalSpec.pdf" class="btn">
                                 <img src="/assets/images/tracksuite/doc-logo.png"/>
                                 DOWNLOAD TRACKPOSE SPEC
                             </a>
                         </div>
-                        <div class="col-lg-6 col-6">
+                        <div class="col">
                             <a href="/docs/tracksuite/TrackJointTechnicalSpec.pdf" class="btn btn-blue">
                                 <img src="/assets/images/tracksuite/doc-logo-white.png"/>
                                 DOWNLOAD TRACKJOINT SPEC
