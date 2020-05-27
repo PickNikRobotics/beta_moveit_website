@@ -27,7 +27,7 @@ permalink: /connect/
                     </div>
                     <div class="form-group">
                         <label for="textArea">Message</label>
-                        <textarea class="form-control" name="textarea" data-autoresize id="textArea" rows="1" placeholder="Your Message"></textarea>
+                        <textarea class="form-control" name="textarea" data-autoresize id="textArea" rows="3" placeholder="Your Message"></textarea>
                     </div>
                     <input type="hidden" name="_gotcha"/><!-- use this to prevent spam -->
                     <div class="form-group">
