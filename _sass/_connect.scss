@@ -88,3 +88,10 @@ a.connectText:hover {
 .connectMarg {
   margin-top: 55px;
 }
+
+.subscribe-to-newsletter-btn {
+  margin-top: 25px;
+  @media screen and (max-width: 1199px) {
+    text-align: center;
+  }
+}

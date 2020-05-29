@@ -75,5 +75,16 @@ permalink: /connect/
                 </div>
             </div>
         </div>
+        <div class="container subscribe-to-newsletter-btn">
+            <div class="row">
+                <div class="col-12 col-xl-6">
+                    <div class="collapses__btn">
+                        <a href="https://picknik.us20.list-manage.com/subscribe?u=ec7904f1f579094c8e83e79e8&id=196b3fc03e" target="_blank" class="btn">
+                            Subscribe to MoveIt & PickNik Email Updates
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
