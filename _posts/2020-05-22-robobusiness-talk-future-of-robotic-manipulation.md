@@ -14,7 +14,7 @@ categories:
 - conferences
 
 ---
-Learn about industry trends in advanced robotic manipulation by watching Dave Coleman's Robobusiness Direct 2020 talk [online now](https://webinars.on24.com/wtwh/RoboticROSmoveIt). This year's [Robobusiness conference](https://www.robobusiness.com/robobusiness-direct-agenda/) was online-only due to the Coronavirus, but attendance was still in the hundreds.
+Learn about industry trends in advanced robotic manipulation by watching Dave Coleman's Robobusiness Direct 2020 talk [online now](https://www.youtube.com/watch?v=_M6yqhDTL3k&feature=youtu.be). This year's [Robobusiness conference](https://www.robobusiness.com/robobusiness-direct-agenda/) was online-only due to the Coronavirus, but attendance was still in the hundreds.
 
 ## **Abstract**
 
