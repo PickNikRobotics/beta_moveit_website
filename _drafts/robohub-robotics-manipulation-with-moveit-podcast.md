@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 author: Dave Coleman
 comments: false
 date: 2020-06-18 00:00:00 -0600
@@ -23,7 +23,7 @@ Listen to this podcast on [Robohub](https://robohub.org/robotics-manipulation-wi
 
 ![](/assets/images/blog_posts/2020-06-18-robohub-podcast.png)
 
-![](https://lh3.googleusercontent.com/GB_MxZX3MfnY2NTeGXPJ44J-cpQ4sXzpc4gbZXgO-OGjfRx63eHMjjtWjEHYcS7UiEzBvPEoPSWNedznSaisRphbbLSmn5LJd33EvULIsBScJiThZEzgF3yA4_HM4DvJg5NerMgH =166x12)
+![](/assets/images/blog_posts/line.png)
 
 **Accelerate Your Robotics Development |** About [PickNik](https://picknik.ai/): Robots are complex systems that require a wide breadth of expert knowledge spanning multiple disciplines, making robotics development extremely difficult and costly. Since 2015, PickNik’s mission has been to address this technical challenge while dramatically reducing development time for advanced robotic applications. To achieve this, PickNik supports and collaborates with the worldwide open source robotics movement, providing companies with cutting edge research and barrier-free open source software.
 
