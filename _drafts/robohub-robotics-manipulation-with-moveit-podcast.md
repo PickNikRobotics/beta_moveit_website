@@ -19,10 +19,8 @@ For those new to open source or those interested in learning more about MoveIt, 
 
 Coleman talks about MoveIt’s story, from inception and the early days to development and maintenance, as well as how MoveIt relates to the Robot Operating System (ROS) and their move to support ROS-2. He also speaks about MoveIt’s implementation, including global versus local planners and what that means. Coleman concludes by talking about World MoveIt Day and how those interested can begin learning MoveIt and contributing.
 
-  
 Listen to this podcast on [Robohub](https://robohub.org/robotics-manipulation-with-moveit/) or [SoundCloud](https://soundcloud.com/robohubpodcast/robotics-manipulation-with-moveit).
 
-  
 ![](/assets/images/blog_posts/2020-06-18-robohub-podcast.png)
 
 ![](https://lh3.googleusercontent.com/GB_MxZX3MfnY2NTeGXPJ44J-cpQ4sXzpc4gbZXgO-OGjfRx63eHMjjtWjEHYcS7UiEzBvPEoPSWNedznSaisRphbbLSmn5LJd33EvULIsBScJiThZEzgF3yA4_HM4DvJg5NerMgH =166x12)
