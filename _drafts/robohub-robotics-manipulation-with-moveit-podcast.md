@@ -5,7 +5,7 @@ comments: false
 date: 2020-06-18 00:00:00 -0600
 title: 'Robohub: Robotics Manipulation with MoveIt Podcast'
 media_type: image
-media_link: "/assets/images/blog_posts/2020-06-18-robohub.jpeg"
+media_link: "/assets/images/blog_posts/2020-06-18-robohub-cover.jpg"
 description: 'For those new to open source or those interested in learning more about
   MoveIt, Robohub’s Audrow Nash speaks with PickNik Robotics’ Dave Coleman about MoveIt’s
   history, open source, the move to ROS 2, and how to get involved in the MoveIt community. '
