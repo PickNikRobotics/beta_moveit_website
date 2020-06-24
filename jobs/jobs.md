@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jobs
+title: Careers
 permalink: /jobs/
 ---
 <div class="container">
