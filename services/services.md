@@ -22,6 +22,18 @@ permalink: /services/
     <div class="container">
         <div class="services-card-wrapper">
             <div class="services-card-single">
+                <a href="/services/moveit">
+                    <div class="img-wrapper">
+                        <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="motion planning icon">
+                    </div>
+                    <h3>Feasibility<br/> Study</h3>
+                </a>
+                <p>
+                Before launching a large project with a new client, we have found it beneficial to conduct a small fixed-price consulting engagement that generates an in-depth Feasibility Study report. This includes a technical analysis, risk assessment, development of milestones, and architecture diagrams. The feasibility study allows both parties to test the waters and fully understand each other.
+                </p>
+                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf" class="btn">discover more</a>
+            </div>
+            <div class="services-card-single">
                 <a href="/services/custom-development">
                     <div class="img-wrapper">
                         <img class="icon" src="../assets/images/redesign/custom-development.svg" alt="motion planning icon">
@@ -35,24 +47,13 @@ permalink: /services/
             <div class="services-card-single">
                 <a href="/services/robotics-consulting">
                     <div class="img-wrapper">
-                        <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="motion planning icon">
+                        <img class="icon" src="../assets/images/redesign/moveit-support.svg" alt="motion planning icon">
                     </div>
-                    <h3>Robotics <br/> Consulting</h3>
+                    <h3>Ongoing Robotics Support</h3>
                 </a>
                 <p>Leverage our team of expert roboticists to answer your toughest problems. Our consulting involves daily communication with weekly check-ins to monitor the project's progress and advise on common pitfalls. We can provide onsite support and training, as well as remote consulting through video calls, shared Slack channels, and email follow-ups.
                 </p>
                 <a href="/services/robotics-consulting" class="btn">discover more</a>
-            </div>
-            <div class="services-card-single">
-                <a href="/services/moveit">
-                    <div class="img-wrapper">
-                        <img class="icon" src="../assets/images/redesign/moveit-support.svg" alt="motion planning icon">
-                    </div>
-                    <h3>MoveIt<br/> Support</h3>
-                </a>
-                <p>PickNik is the organization behind the MoveIt Motion Planning Framework. Our ongoing support of the framework means that we are uniquely qualified to assist your integration of MoveIt and ROS. From high level architecture decisions to resolving common issues, this low-hassle engagement will de-risk your robotics projects while providing enormous value to your organization.
-                </p>
-                <a href="/services/moveit" class="btn">discover more</a>
             </div>
         </div>
     </div>
