@@ -146,6 +146,16 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                 <a href="https://www.linkedin.com/in/boston-cleek" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/BostonCleek.jpg')"></div>
+                    <h3>Boston Cleek</h3>
+                </a>
+                <div class="team-position">Robotics Intern</div>
+                <p>M.S. Robotics from Northwestern University and B.S. Mechanical Engineering from CU Boulder. His graduate research focuses on searching for and retrieving objects using a mobile manipulator. Boston has broad experience with autonomy including motion planning, simultaneous localization and mapping, and control. At CU he worked on the planning/controls team for the DARPA Subterranean Challenge leading up to the Tunnel Circuit. One of his favorite projects was implementing an occupancy grid based SLAM algorithm from scratch.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/tahnee-foley-0bba1350/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/TahneeFoley.jpg')"></div>
                     <h3>Tahnee Foley</h3>
