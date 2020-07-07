@@ -53,17 +53,6 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/p4.jpg')"></div>
-                    <h3>Rob Coleman</h3>
-                </a>
-                <div class="team-position">Co-Founder</div>
-                <p>M.A. Asia-Pacific Studies, international trade and economic policy, National Chengchi University (Taiwan). B.A Political Science and B.A. Public Administration, Auburn University. Rob has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
-                Over the past ten years Rob has served in breadth of roles, including policy analyst, team leader of Marines, trade advocate, project manager, and business development manager. Rob enjoys new challenges and moving the status quo.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/mikelautman/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p3.jpg')"></div>
                     <h3>Mike Lautman, MSE</h3>
@@ -162,6 +151,17 @@ redirect_from:
                 </a>
                 <div class="team-position">Operations Assistant</div>
                 <p>Tahnee has over 20 years experience in business operations over a variety of industries including architecture and advertising.  She was the Administrative Manager to the Design Team for the 2010 Olympic Village in Vancouver, Canada, a project that included coordinating over a dozen offices working to design and build 24 buildings in four years. Her passion is to see an efficient and effective organization while ensuring client satisfaction.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+           <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/p4.jpg')"></div>
+                    <h3>Rob Coleman</h3>
+                </a>
+                <div class="team-position">Co-Founder, Advisor</div>
+                <p>M.A. Asia-Pacific Studies, international trade and economic policy, National Chengchi University (Taiwan). B.A Political Science and B.A. Public Administration, Auburn University. Rob has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
+                Over the past ten years Rob has served in breadth of roles, including policy analyst, team leader of Marines, trade advocate, project manager, and business development manager. Rob enjoys new challenges and moving the status quo.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
