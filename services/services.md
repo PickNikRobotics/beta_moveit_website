@@ -22,7 +22,7 @@ permalink: /services/
     <div class="container">
         <div class="services-card-wrapper">
             <div class="services-card-single">
-                <a href="/services/moveit">
+                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf">
                     <div class="img-wrapper">
                         <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="motion planning icon">
                     </div>
