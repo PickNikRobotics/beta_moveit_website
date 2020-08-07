@@ -9,7 +9,7 @@ permalink: /services/custom-development/
             <div class="col-12 col-lg-6">
                 <h1>Strategic<br/> Development</h1>
                 <p>
-                    Leverage our expert robotics software developers to build your custom projects faster.
+                    PickNik's mission is to reduce development time and costs for your robotic applications.
                 </p>
             </div>
             <div class="col-12 col-lg-6">
@@ -28,7 +28,7 @@ permalink: /services/custom-development/
                 <div class="col-12 col-lg-6">
                     <h2>Trusted<br/> Development<br/> Partners</h2>
                     <p>
-                        PickNik can work either as embedded members of your engineering team or as independent developers of end to end solutions and components. We can quickly augment your internal team's capabilities, improving development velocity with our top talent.
+                        PickNik can work either in a collaborative engagement with your engineering team (most common) or as turn key roboticists of end to end solutions and components. We can quickly augment your internal team's capabilities, improving development estimation and velocity with our robotics expertice.
                     </p>
                 </div>
             </div>
@@ -48,7 +48,7 @@ permalink: /services/custom-development/
                         Smooth handoffs are ensured through exceptional documentation and reproducible software environments.
                     </p>
                     <p>
-                        We are trained in Agile sprint planning methodologies, typically following 2 or 4 week sprints. We default to JIRA as our sprint planning tool, but have worked in many other approaches depending on your preferences.
+                        We are trained in Agile sprint planning methodologies, typically following 3 week sprint cycles. We follow other software best practices including rigorous code review, continuous integration, unit testing, and system architecture design.
                     </p>
                 </div>
             </div>
@@ -61,7 +61,7 @@ permalink: /services/custom-development/
                 <div class="col-12 col-lg-6">
                     <h2>Remote-First<br/>Company</h2>
                     <p>
-                        Both internally and externally, ensuring your experience feels like our team is always in the office with you. Our proven model consists of weekly email summaries, weekly or bi-weekly video calls, and daily Github/Slack/etc online communication
+                        We are highly efficient in working remotely, ensuring your experience feels like our team is always in the office with you. Our proven model consists of weekly email summaries, weekly or bi-weekly video calls, and daily Github/Slack/etc online communication. Depending on the project we can travel for occasional onsites, have representative hardware shipped to us, or develop full featured simulations.
                     </p>
                 </div>
             </div>
@@ -79,7 +79,7 @@ permalink: /services/custom-development/
                 </div>
                 <div class="col-12 col-lg-6">
                     <p>
-                        We push code for review multiple times per week, allowing an iterative development cycle that can quickly catch when requirements need to be refined for our clients.
+                        Multiple channels of communication and regular updates allow for collaboration that quickly catches when requirements or priorities need to be updated. We push code for review multiple times per week, allowing an iterative development cycle that can quickly catch when requirements need to be refined for our clients.
                     </p>
                 </div>
             </div>
