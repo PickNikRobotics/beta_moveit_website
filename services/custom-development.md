@@ -79,7 +79,7 @@ permalink: /services/custom-development/
                 </div>
                 <div class="col-12 col-lg-6">
                     <p>
-                        Multiple channels of communication and regular updates allow for collaboration that quickly catches when requirements or priorities need to be updated. We push code for review multiple times per week, allowing an iterative development cycle that can quickly catch when requirements need to be refined for our clients.
+                        Multiple channels of communication and regular updates allow for collaboration that quickly catches when requirements or priorities need to be updated.
                     </p>
                 </div>
             </div>
