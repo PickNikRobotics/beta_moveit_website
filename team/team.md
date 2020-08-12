@@ -47,8 +47,18 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/p10.jpg')"></div>
                     <h3>Nathan Brooks, PhD</h3>
                 </a>
-                <div class="team-position">Applied Robotics Scientist</div>
+                <div class="team-position">Director of Engineering</div>
                 <p>PhD and M.S. Robotics at Carnegie Mellon University, B.S. Computer Science and Electrical Engineering at University of Tulsa. Nathan's graduate research focused on developing team planning techniques and interaction strategies improving operator supervision of large robot teams. Through this research, he has extensive experience with simulation platforms and field deployment logistics for unmanned vehicles on land, sea, and air.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/jillberman/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/Jill.png')"></div>
+                    <h3>Jill Berman</h3>
+                </a>
+                <div class="team-position">Director Of Operations</div>
+                <p>Jill is a data-driven business operations leader helping companies scale. Her 25 year career includes tenures at Sun Microsystems (exit: Oracle), Informix (exit: IBM), and Ooyala (exit: Telstra) running technical marketing programs, building professional services organizations, managing customer success teams, and leading company operations. With a focus on OKR / KPI-centric business development, process design / optimization, and sales workflows / automation, she helps businesses prepare for growth.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -71,16 +81,6 @@ redirect_from:
                 </a>
                 <div class="team-position">Applied Robotics Scientist</div>
                 <p>M.S. Computer Science at University of Hamburg with focus on motion planning and machine learning, B.S. Computer Science with focus on distributed systems. Broad experience with autonomous robots and scenarios with unstable dynamics like liquid pouring or pushing of objects. Expertise in motion planning, trajectory optimization, constrained and Cartesian path planning as well as 3D-perception and image processing. Winning team participant in the IROS 2018 Mobile Manipulation Hackathon.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/jillberman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/Jill.png')"></div>
-                    <h3>Jill Berman</h3>
-                </a>
-                <div class="team-position">Director Of Operations</div>
-                <p>Jill is a data-driven business operations leader helping companies scale. Her 25 year career includes tenures at Sun Microsystems (exit: Oracle), Informix (exit: IBM), and Ooyala (exit: Telstra) running technical marketing programs, building professional services organizations, managing customer success teams, and leading company operations. With a focus on OKR / KPI-centric business development, process design / optimization, and sales workflows / automation, she helps businesses prepare for growth.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -166,16 +166,6 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/omid-heidari-02094a36" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/omid.png')"></div>
-                    <h3>Omid Heidari, PhD</h3>
-                </a>
-                <div class="team-position">Advisor</div>
-                <p>M.S. MechEng from Babol Univ. of Technology; currently PhD candidate in Robotics, Idaho State University. Omid has worked extensively on forward & inverse kinematics as well as the dimensional synthesis of serial and parallel manipulators. He has studied human upper extremity kinematics for rehabilitation purposes which led to suggesting a task-based methodology for designing exoskeletons and a virtual reality environment for kinematics synthesis. His most recent work focuses on human-robot interaction through augmented reality.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/ioansucan/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p8.jpg')"></div>
                     <h3>Ioan Sucan, PhD</h3>
@@ -201,7 +191,7 @@ redirect_from:
                     <h3>Mike Hurowitz</h3>
                 </a>
                 <div class="team-position">Advisor</div>
-                <p>Michael is a serial entrepreneur and startup advisor. Michael's expertise is in research commercialization, bringing new technologies from the lab to market. He has delivered over $24B of space missions, $7B of commercial aircraft, and 127 new products developed working with 35 Fortune 500 companies and almost 60 startups, 14 federal agencies, and 16 university research groups.
+                <p>Michael is CEO of Orbital Micro Systems and he is a serial entrepreneur and startup advisor. Michael's expertise is in research commercialization, bringing new technologies from the lab to market. He has delivered over $24B of space missions, $7B of commercial aircraft, and 127 new products developed working with 35 Fortune 500 companies and almost 60 startups, 14 federal agencies, and 16 university research groups.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
