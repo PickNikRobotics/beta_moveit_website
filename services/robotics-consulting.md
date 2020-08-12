@@ -7,9 +7,9 @@ permalink: /services/robotics-consulting/
     <div class="services-robotic-section-main">
         <div class="row align-items-center">
             <div class="col-12 col-lg-6">
-                <h1>Robotics<br/> Consulting</h1>
+                <h1>Ongoing Robotics Support</h1>
                 <p>
-                    We offer expert robotics consulting tailored to your project's needs. With both flexibility and scalability, we are your go to team for your most challenging tasks.
+                    PickNik's on-demand consulting, support, and code debugging offering provides a flexible and lightweight alternative to larger scoped projects. These types of engagements are typical after a larger code development effort has ended, or after a Phase 0 Feasibility Study is completed but the larger effort is not ready to begin yet.
                 </p>
             </div>
             <div class="col-12 col-lg-6">
@@ -38,7 +38,7 @@ permalink: /services/robotics-consulting/
                 <div class="col-12 col-lg-6">
                     <h2>Scalability</h2>
                     <p>
-                       Hiring is difficult and tight deadlines don’t help. Avoid the PhD hiring struggle. Scale your team as needed with us. Engage with us for as long as you need us -- we’re flexible.
+                       We offer expert robotics consulting tailored to your project's needs. With both flexibility and scalability, we are your go to team for your most challenging tasks.
                     </p>
                 </div>
                 <div class="col-12 col-lg-6">
