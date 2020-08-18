@@ -30,7 +30,7 @@ For more information on the mathematical methods used in MoveIt Calibration to s
 
 If you have a camera and a robot arm, MoveIt Calibration can help you use them together. For more information, check out [http://github.com/ros-planning/moveit_calibration,](http://github.com/ros-planning/moveit_calibration, "http://github.com/ros-planning/moveit_calibration,") and the [MoveIt Calibration tutorial](https://github.com/JStech/moveit_tutorials/blob/new-calibration-tutorial/doc/hand_eye_calibration/hand_eye_calibration_tutorial.rst). See it, move it, do it.
 
-![](https://lh5.googleusercontent.com/f5tx6PxSAgVWufSnr0wajug2wzEShWiEZsuJpgd7NwwMbgegqLn_9HTfgN9h3MBPq013d-eDeemumKfn0N2aookXqIYQNDoywAg1-BGqlEOxPN2_ns7BqdPwdlaeM3A2X0Vp44ar =166x12) !\[line\]
+![](https://lh5.googleusercontent.com/f5tx6PxSAgVWufSnr0wajug2wzEShWiEZsuJpgd7NwwMbgegqLn_9HTfgN9h3MBPq013d-eDeemumKfn0N2aookXqIYQNDoywAg1-BGqlEOxPN2_ns7BqdPwdlaeM3A2X0Vp44ar =166x12) ![line]
 
 **Accelerate Your Robotics Development |** About [PickNik](https://picknik.ai/): Robots are complex systems that require a wide breadth of expert knowledge spanning multiple disciplines, making robotics development extremely difficult and costly. Since 2015, PickNik’s mission has been to address this technical challenge while dramatically reducing development time for advanced robotic applications. To achieve this, PickNik supports and collaborates with the worldwide open source robotics movement, providing companies with cutting edge research and barrier-free open source software.
 
