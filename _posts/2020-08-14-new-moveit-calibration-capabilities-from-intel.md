@@ -26,7 +26,7 @@ Calibrating a camera that is stationary in the scene, called "eye-to-hand" calib
 
 For more information on the mathematical methods used in MoveIt Calibration to solve for a calibration, see [Daniilidis, 1999](https://scholar.google.com/scholar?cluster=11338617350721919587&hl=en&as_sdt=0,6), [Park and Martin, 1994](https://scholar.google.com/scholar?cluster=2140351150276060817&hl=en&as_sdt=0,6), and [Tsai and Lenz, 1989](https://scholar.google.com/scholar?cluster=18168502493509261348&hl=en&as_sdt=0,6).
 
-**![](https://lh5.googleusercontent.com/LgRU0ke-g2qIbcxwObJc9dSNnaKIGOJLTy0cYJx_aLQK-rQK9uITdH69Nad_BEAnMWi9T41WJdNdStKSHPxATFmlKY0rSwo3E904WXndOXA7Al2Sr8WF9w8SIEsVFxSUDszfDRX_ =672x896)**
+**![](/assets/images/blog_posts/2020-08-18-img_20200817_151715.jpg)**
 
 If you have a camera and a robot arm, MoveIt Calibration can help you use them together. For more information, check out [http://github.com/ros-planning/moveit_calibration,](http://github.com/ros-planning/moveit_calibration, "http://github.com/ros-planning/moveit_calibration,") and the [MoveIt Calibration tutorial](https://github.com/JStech/moveit_tutorials/blob/new-calibration-tutorial/doc/hand_eye_calibration/hand_eye_calibration_tutorial.rst). See it, move it, do it.
 
