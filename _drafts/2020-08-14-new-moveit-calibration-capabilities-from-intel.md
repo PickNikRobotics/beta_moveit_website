@@ -16,7 +16,7 @@ categories:
 ---
 MoveIt can now help your robot see it, too, thanks to the new MoveIt Calibration package. Many robotic applications depend on vision to perceive the world and plan robot motions. But without knowing where the camera is in relation to the robot, any spatial information extracted from the camera is useless. Extrinsic calibration is the process to determine the camera's pose, and MoveIt Calibration provides a straightforward, GUI-driven process for extrinsic camera calibration, whether the camera is stationary in the scene or attached to the robot end-effector.
 
-**![](/assets/images/blog_posts/eye-in-hand-closeup.jpg)**
+**![](/assets/images/blog_posts/2018-08-18-eye-in-hand-closeup.jpg)**
 
 Besides a robotic arm and a camera, the only other equipment required to use MoveIt Calibration is a calibration target. MoveIt Calibration can generate a target image that can be printed and mounted on a flat surface. Measurement of the target's size is necessary, although the target's location and orientation do not need to be measured--instead, several observations of the target allow the calibration to be computed independent of the target's precise location.
 
@@ -26,7 +26,7 @@ Calibrating a camera that is stationary in the scene, called "eye-to-hand" calib
 
 For more information on the mathematical methods used in MoveIt Calibration to solve for a calibration, see [Daniilidis, 1999](https://scholar.google.com/scholar?cluster=11338617350721919587&hl=en&as_sdt=0,6), [Park and Martin, 1994](https://scholar.google.com/scholar?cluster=2140351150276060817&hl=en&as_sdt=0,6), and [Tsai and Lenz, 1989](https://scholar.google.com/scholar?cluster=18168502493509261348&hl=en&as_sdt=0,6).
 
-**![](/assets/images/blog_posts/eye-to-hand.jpg)**
+**![](/assets/images/blog_posts/2018-08-18-eye-to-hand.jpg)**
 
 If you have a camera and a robot arm, MoveIt Calibration can help you use them together. For more information, check out [http://github.com/ros-planning/moveit_calibration,](http://github.com/ros-planning/moveit_calibration, "http://github.com/ros-planning/moveit_calibration,") and the [MoveIt Calibration tutorial](https://github.com/JStech/moveit_tutorials/blob/new-calibration-tutorial/doc/hand_eye_calibration/hand_eye_calibration_tutorial.rst). See it, move it, do it.
 
