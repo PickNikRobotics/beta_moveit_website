@@ -30,7 +30,7 @@ For more information on the mathematical methods used in MoveIt Calibration to s
 
 If you have a camera and a robot arm, MoveIt Calibration can help you use them together. For more information, check out [http://github.com/ros-planning/moveit_calibration,](http://github.com/ros-planning/moveit_calibration, "http://github.com/ros-planning/moveit_calibration,") and the [MoveIt Calibration tutorial](https://github.com/JStech/moveit_tutorials/blob/new-calibration-tutorial/doc/hand_eye_calibration/hand_eye_calibration_tutorial.rst). See it, move it, do it.
 
-![](https://lh5.googleusercontent.com/f5tx6PxSAgVWufSnr0wajug2wzEShWiEZsuJpgd7NwwMbgegqLn_9HTfgN9h3MBPq013d-eDeemumKfn0N2aookXqIYQNDoywAg1-BGqlEOxPN2_ns7BqdPwdlaeM3A2X0Vp44ar =166x12) ![line]
+![](/assets/images/blog_posts/line.png)
 
 **Acclerate Your Robotics Development**
 
