@@ -16,7 +16,7 @@ categories:
 ---
 MoveIt can now help your robot see it, too, thanks to the new MoveIt Calibration package. Many robotic applications depend on vision to perceive the world and plan robot motions. But without knowing where the camera is in relation to the robot, any spatial information extracted from the camera is useless. Extrinsic calibration is the process to determine the camera's pose, and MoveIt Calibration provides a straightforward, GUI-driven process for extrinsic camera calibration, whether the camera is stationary in the scene or attached to the robot end-effector.
 
-**![Close-up of eye-in-hand calibration](/assets/images/blog_posts/2018-08-18-eye-in-hand-closeup.jpg)**
+**![](/assets/images/blog_posts/2020-08-18-eye-in-hand-closeup.jpg)**
 
 Besides a robotic arm and a camera, the only other equipment required to use MoveIt Calibration is a calibration target. MoveIt Calibration can generate a target image that can be printed and mounted on a flat surface. Measurement of the target's size is necessary, although the target's location and orientation do not need to be measured--instead, several observations of the target allow the calibration to be computed independent of the target's precise location.
 
