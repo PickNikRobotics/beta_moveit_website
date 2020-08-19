@@ -51,7 +51,7 @@ permalink: /services/
                     </div>
                     <h3>Ongoing Robotics Support</h3>
                 </a>
-                <p>Leverage our team of expert roboticists to answer your toughest problems. Our consulting involves daily communication with weekly check-ins to monitor the project's progress and advise on common pitfalls. We can provide onsite support and training, as well as remote consulting through video calls, shared Slack channels, and email follow-ups.
+                <p>Leverage our team of expert roboticists to answer your toughest problems. Our robotics consulting involves daily asyncronous communication with weekly check-in calls to support your project's goals and advise on common pitfalls. We provide remote ROS consulting through video calls, shared Slack channels, and email follow-ups as well as onsite training.
                 </p>
                 <a href="/services/robotics-consulting" class="btn">discover more</a>
             </div>
@@ -82,19 +82,19 @@ permalink: /services/
                         </p>
                         <ul>
                             <li>
-                                Consulting services to use the ideal algorithm for a given application and problem type
+                                Motion planning consulting for leveraging the ideal algorithm for a given application and problem type
                             </li>
                             <li>
-                                Benchmarking competing approaches for analytical analysis
+                                Benchmarking competing planning approaches for analytical analysis
                             </li>
                             <li>
-                                Implementation of novel algorithms and approaches
+                                Implementation of novel path planning algorithms and approaches
                             </li>
                             <li>
-                                Reviewing current literature and academic surveys for cutting edge solutions
+                                Reviewing current robotics literature and academic surveys for cutting edge solutions
                             </li>
                             <li>
-                                Technology readiness level analysis and reporting
+                                Technology readiness level analysis and reporting for motion planning
                             </li>
                         </ul>
                         <p>
@@ -103,6 +103,9 @@ permalink: /services/
                             </strong>
                         </p>
                         <ul>
+                            <li>
+                                MoveIt consulting and development for the popular ROS framework
+                            </li>
                             <li>
                                 Consulting and development of the Open Motion Planning Library (OMPL)
                             </li>
@@ -154,7 +157,7 @@ permalink: /services/
                                 More deterministic results
                             </li>
                             <li>
-                                Experts in Thunder and Lightning algorithms
+                                Experts in Thunder and Lightning algorithms as well as the Bolt framework
                             </li>
                         </ul>
                     </div>
@@ -323,17 +326,17 @@ permalink: /services/
                 </div>
             </div>
             <div class="card">
-                <div class="card-header" id="grasping-and-perception">
+                <div class="card-header" id="grasping">
                     <h5 class="mb-0">
-                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-grasping-and-perception" aria-expanded="false" aria-controls="collapse-grasping-and-perception">
-                        Grasping and Perception
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-grasping" aria-expanded="false" aria-controls="collapse-grasping">
+                        Grasping
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
                         </span>
                     </h5>
                 </div>
-                <div id="collapse-grasping-and-perception" class="collapse" aria-labelledby="heading-grasping-and-perception" data-parent="#accordion">
+                <div id="collapse-grasping" class="collapse" aria-labelledby="heading-grasping" data-parent="#accordion">
                     <div class="card-body">
                         <p>
                             <strong>
@@ -342,7 +345,7 @@ permalink: /services/
                         </p>
                         <ul>
                             <li>
-                                Libraries for generating target grasp poses
+                                Libraries for generating target grasp poses including MoveIt Grasps and GDP Grasping
                             </li>
                             <li>
                                 Neural networks for converting camera data to grasp poses
@@ -354,14 +357,30 @@ permalink: /services/
                                 Overall manipulation pipeline development
                             </li>
                         </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="perception">
+                    <h5 class="mb-0">
+                        <span class="collapses__link" data-toggle="collapse" data-target="#collapse-perception" aria-expanded="false" aria-controls="collapse-perception">
+                        Perception
+                            <div class="collapse-svg">
+                                <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
+                            </div>
+                        </span>
+                    </h5>
+                </div>
+                <div id="collapse-perception" class="collapse" aria-labelledby="heading-perception" data-parent="#accordion">
+                    <div class="card-body">
                         <p>
                             <strong>
-                                Perception
+                                3D Perception
                             </strong>
                         </p>
                         <ul>
                             <li>
-                                OpenCV and PCL computer vision library integration expertise
+                                PCL Consulting and integration for the Point Cloud Library
                             </li>
                             <li>
                                 Experience with all kinds of camera hardware (monocular, stereo, depth camera, LIDAR)
@@ -380,6 +399,25 @@ permalink: /services/
                             </li>
                             <li>
                                 Visual-inertial odometry
+                            </li>
+                            <li>
+                                Experience with Intel Realsense, Microsoft Kinect 2, and Orbbec AstraPro
+                            </li>
+                          <li>
+                            Intrinsic and extrinsic camera calibration
+                          </li>
+                        </ul>
+                        <p>
+                            <strong>
+                                2D Computer Vision
+                            </strong>
+                        </p>
+                        <ul>
+                            <li>
+                                OpenCV Consulting and integration for the Open Computer Vision Library
+                            </li>
+                            <li>
+                                Visual servoing tracking of objects for manipulation
                             </li>
                         </ul>
                     </div>
@@ -462,6 +500,9 @@ permalink: /services/
                                 Expertise in ROS 2 enabling technologies and release status
                             </li>
                             <li>
+                                MoveIt 2 experts and original authors of MoveIt for ROS 2
+                            </li>
+                            <li>
                                 Build your application on the next generation of ROS and future-proof your work
                             </li>
                             <li>
@@ -484,7 +525,7 @@ permalink: /services/
                                 Convert your ROS 1 applications and their dependencies to ROS 2
                             </li>
                             <li>
-                                Migration to DDS, Colcon, & Managed Nodes
+                                Migration to DDS, Colcon, Ament, and Managed Nodes
                             </li>
                             <li>
                                 Develop hybrid ROS 1 and ROS 2 projects with the ros1_bridge
@@ -516,7 +557,13 @@ permalink: /services/
                         </p>
                         <ul>
                             <li>
-                                ROS navigation stack integration, customization, and deployment
+                                ROS Navigation stack integration, customization, and deployment
+                            </li>
+                            <li>
+                                ROS Navigation consulting for tuning parameters and building custom navigation plugins
+                            </li>
+                            <li>
+                                ROS Navigation2 consulting for mobile manipulation and robotics navigation
                             </li>
                             <li>
                                 Mobile base path and trajectory planning
@@ -740,7 +787,7 @@ permalink: /services/
                     <div class="card-body">
                         <p>
                             <strong>
-                                Amazon Robomaker and Google cloud integration
+                                Amazon Robomaker and Microsoft Azure cloud integration
                             </strong>
                         </p>
                         <ul>
