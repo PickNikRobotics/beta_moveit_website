@@ -5,7 +5,7 @@ comments: false
 date: 2020-08-14T00:00:00.000-06:00
 title: New MoveIt Calibration Capabilities from Intel
 media_type: image
-media_link: "/assets/images/blog_posts/2020-08-18-eye-in-hand.jpg"
+media_link: "/assets/images/blog_posts/2020-08-19-hand-eye-overview.jpg"
 description: Hand-eye calibration capability is now available in the new MoveIt Calibration
   package
 categories:
