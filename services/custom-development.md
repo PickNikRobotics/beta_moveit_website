@@ -9,7 +9,7 @@ permalink: /services/custom-development/
             <div class="col-12 col-lg-6">
                 <h1>Strategic<br/> Development</h1>
                 <p>
-                    PickNik's mission is to reduce development time and costs for your robotic applications.
+                    PickNik's mission is to reduce development time and costs for your robotic applications. We write robotics software with you or for you.
                 </p>
             </div>
             <div class="col-12 col-lg-6">
@@ -79,7 +79,7 @@ permalink: /services/custom-development/
                 </div>
                 <div class="col-12 col-lg-6">
                     <p>
-                        Multiple channels of communication and regular updates allow for collaboration that quickly catches when requirements or priorities need to be updated.
+                        We strategically develop advanced robotics software together with you, augmenting your team with expertise in robotics perception, grasping, motion planning, navigation, and general ROS development.
                     </p>
                 </div>
             </div>
