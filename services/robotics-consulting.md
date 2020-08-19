@@ -28,7 +28,7 @@ permalink: /services/robotics-consulting/
                 <div class="col-12 col-lg-6">
                     <h2>Expertise</h2>
                     <p>
-                        We are rooted with strong academic backgrounds of robotics theory combined with deep applied software experience. Our Roboticists are ready to support you on your toughest robotic problems.
+                        We are rooted with strong academic backgrounds of robotics theory combined with deep applied software experience. Our Roboticists are ready to support you on your toughest robotic problems, including motion planning, grasping, perception, and navigation.
                     </p>
                 </div>
             </div>
@@ -38,7 +38,7 @@ permalink: /services/robotics-consulting/
                 <div class="col-12 col-lg-6">
                     <h2>Scalability</h2>
                     <p>
-                       We offer expert robotics consulting tailored to your project's needs. With both flexibility and scalability, we are your go to team for your most challenging tasks.
+                       We offer expert robotics and ROS consulting tailored to your project's needs. With both flexibility and scalability, we are your go to team for your most challenging tasks.
                     </p>
                 </div>
                 <div class="col-12 col-lg-6">
@@ -54,7 +54,7 @@ permalink: /services/robotics-consulting/
                 <div class="col-12 col-lg-6">
                     <h2>Collaboration</h2>
                     <p>
-                        PickNik will optimize our collaboration to meet your unique needs. We can collaborate remotely via periodic video calls, email, and online messaging. Alternatively, we can collaborate onsite where we work one-on-one with your team providing hands-on training, mentoring, architecting, or strategy. Whatever best suits you!
+                        PickNik enjoys working with your robotics engineers in co-development, mentoring, and training as you build your next ROS application. We can collaborate remotely via periodic video calls, email, and online messaging. Optionally, we can collaborate onsite where we work one-on-one with your team providing hands-on ROS mentoring, architecting, and strategy.
                     </p>
                 </div>
             </div>
