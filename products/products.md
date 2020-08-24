@@ -2,6 +2,7 @@
 layout: page
 title: Solutions
 permalink: /products/
+description: Both open source and proprietary robotic software solutions for your applications
 ---
 <div class="container">
     <div class="products-section-main">

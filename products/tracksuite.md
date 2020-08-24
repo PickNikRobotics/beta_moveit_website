@@ -2,6 +2,7 @@
 layout: page
 title: TrackSuite
 permalink: /products/tracksuite/
+description: A suite of two tools that together ensures your robot's behavior is safer and more predictable.
 ---
 <div class="tracksuite-section-main">
     <div class="row">

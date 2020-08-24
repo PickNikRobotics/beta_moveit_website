@@ -2,6 +2,7 @@
 layout: page
 title: Careers
 permalink: /jobs/
+description: Discover exciting job opportunities at PickNik
 ---
 <div class="container">
     <div class="jobs-section-main">

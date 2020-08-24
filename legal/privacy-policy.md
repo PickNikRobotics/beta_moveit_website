@@ -2,6 +2,7 @@
 layout: page
 title: PickNik Privacy Policy
 permalink: /privacy-policy/
+description: All the boring legal stuff
 ---
 <div class="policy-container">
     <h1>Privacy Policy</h1>

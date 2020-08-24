@@ -2,6 +2,7 @@
 layout: page
 title: Connect
 permalink: /connect/
+description: Discuss with PickNik experts your manipulation, navigation, and perception challenges.
 ---
 
 <div class="container-flow">
