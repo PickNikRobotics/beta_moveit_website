@@ -63,18 +63,6 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/mikelautman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/p3.jpg')"></div>
-                    <h3>Mike Lautman, MSE</h3>
-                </a>
-                <div class="team-position">Co-Founder, Roboticist</div>
-                <p>M.S. Robotics from Univ. of Pennsylvania, B.S. Computer Science and Electrical Eng. While a full-time student, Mike founded Nebu, a Machine Learning and Data Science consultancy that he grew to 10 engineers. One
-                of the projects that Mike is especially proud of was building an ETL pipeline that feeds millions of escort advertisements from the web into a singular database used by law-enforcement against child-traffickers. After
-                Nebu, Mike joined up with KindredAi, an AI and Robotics venture backed startup, where he took on leadership of its motion planning efforts on a number of internal and external products.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/lars-henning-kayser-79ab18178/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p14.jpg')"></div>
                     <h3>Henning Kayser, MSE</h3>
@@ -205,8 +193,8 @@ redirect_from:
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
-            <!-- <div class="team-card-single-empty"> -->
-            <!-- </div> -->
+            <div class="team-card-single-empty">
+            </div>
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="collapses__btn">
