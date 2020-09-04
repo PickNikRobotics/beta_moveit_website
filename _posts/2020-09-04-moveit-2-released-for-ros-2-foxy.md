@@ -17,7 +17,7 @@ We are proud to announce the first non-beta release of MoveIt 2, for ROS 2 Foxy 
 
 The focus of MoveIt 2 is on realtime performance, particularly provided by ROS 2's native realtime support via DDS. The latest feature on this front is _MoveIt Servo_ a closed-loop, Jacobian-based planner that can avoid collision objects in realtime. The latest version of Servo (previously _Jog Arm)_ uses ROS 2 composable nodes and greatly improved test coverage: see [the MoveIt Servo tutorials](https://github.com/ros-planning/moveit2/blob/main/moveit_ros/moveit_servo/doc/running_the_demos.md).
 
-![](https://lh6.googleusercontent.com/Xnl_MvFLUNlJ7HdkcSfISb1epeV0LQO2HZU6VuwKCKGYMIFlTrzHJp4ISb54hfl3fbTHKMvSdNj3xpowba1yAjdG3jiB7DEjtwpqFLYrPMm4fkdqB1pVypXZKM0HO8zbFssoNndV =480x270)
+![Alt Text](https://github.com/AdamPettinger/moveit2/raw/gsoc-final_work/moveit_ros/moveit_servo/doc/Images/Servo_Teleop_Demo.gif)
 
 ## **Release Notes**
 
@@ -77,10 +77,10 @@ Sponsoring organization PickNik Robotics has led this effort, in collaboration w
 
 We at PickNik Robotics hope many benefit from MoveIt 2 and encourage everyone to contribute to its adoption and continued improvement. We would like to thank all of the MoveIt community members and contributors who have made this release a success, and welcome all to [get involved](https://moveit.ros.org/about/get_involved/) with the project.
 
-![rosin_logo](https://camo.githubusercontent.com/97cbd2d3b4d1f7ad4ccda92f617428a2aa3ad56a/687474703a2f2f726f73696e2d70726f6a6563742e65752f77702d636f6e74656e742f75706c6f6164732f726f73696e5f61636b5f6c6f676f5f776964652e706e67)
+![rosin_logo](https://lh5.googleusercontent.com/Lz-pURN8pATpI6uYAkiUbHc7IBTwbZy_9JT5Ywtpq3t3Q6pDrjH4vgbblf-EN49MntqR67aBd0owVvUz0En6YtSBnhLmQnBsw1gGRlZVquKjySn77CE68bJe1juDbwUX7q1z7ZaQ =159x56)
 
 The port to ROS 2 is supported by ROSIN - ROS-Industrial Quality-Assured Robot Software Components. More information: [rosin-project.eu](http://rosin-project.eu/)
 
-![eu_flag](https://camo.githubusercontent.com/654ec76e8eafb7b284ff05258cefd1fe25d13967/687474703a2f2f726f73696e2d70726f6a6563742e65752f77702d636f6e74656e742f75706c6f6164732f726f73696e5f65755f666c61672e6a7067)
+![eu_flag](https://lh4.googleusercontent.com/g1jpC2ItSEZ-SYKX68wr_4avxmoJmTg2HmPSq4bCdZndNgM9BvyWZYbTUp5EUU7ch0WqdFNib0zRMCpe7-K8wdrz0vAZuFz9rlpxKQ6emPfFpHwMCDRSdDTKFvS17c41SexnSDa5 =159x107)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 732287.
