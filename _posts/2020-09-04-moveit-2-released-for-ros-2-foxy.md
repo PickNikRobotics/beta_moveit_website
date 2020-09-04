@@ -77,10 +77,10 @@ Sponsoring organization PickNik Robotics has led this effort, in collaboration w
 
 We at PickNik Robotics hope many benefit from MoveIt 2 and encourage everyone to contribute to its adoption and continued improvement. We would like to thank all of the MoveIt community members and contributors who have made this release a success, and welcome all to [get involved](https://moveit.ros.org/about/get_involved/) with the project.
 
-![rosin_logo](https://camo.githubusercontent.com/97cbd2d3b4d1f7ad4ccda92f617428a2aa3ad56a/687474703a2f2f726f73696e2d70726f6a6563742e65752f77702d636f6e74656e742f75706c6f6164732f726f73696e5f61636b5f6c6f676f5f776964652e706e67)
+![Home – ROSIN](https://www.rosin-project.eu/wp-content/uploads/2017/03/Logo_ROSIN_CMYK-Website.png)
 
 The port to ROS 2 is supported by ROSIN - ROS-Industrial Quality-Assured Robot Software Components. More information: [rosin-project.eu](http://rosin-project.eu/)
 
-![eu_flag](https://camo.githubusercontent.com/654ec76e8eafb7b284ff05258cefd1fe25d13967/687474703a2f2f726f73696e2d70726f6a6563742e65752f77702d636f6e74656e742f75706c6f6164732f726f73696e5f65755f666c61672e6a7067)
+![Flag of Europe - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/255px-Flag_of_Europe.svg.png)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 732287.
