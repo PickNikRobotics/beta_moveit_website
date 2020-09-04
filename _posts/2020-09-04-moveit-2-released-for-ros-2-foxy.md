@@ -69,7 +69,7 @@ We are also happy to report that MoveIt 2 now builds on [Microsoft Windows](http
 
 ## **Getting Started**
 
-To jump in, we have prepared several example applications and launch configurations for testing [MoveItCpp](https://github.com/ros-planning/moveit2/tree/main/moveit_demo_nodes/run_moveit_cpp), [MoveGroup](https://github.com/ros-planning/moveit2/tree/main/moveit_demo_nodes/run_move_group) and [MoveIt Servo](https://github.com/ros-planning/moveit2/blob/main/moveit_ros/moveit_servo/doc/running_the_demos.md). Full tutorials have yet to be ported from MoveIt 1, but due to their similarity are still largely applicable.
+To jump in, we have prepared several example applications and launch configurations for testing [MoveItCpp](https://github.com/ros-planning/moveit2/tree/main/moveit_demo_nodes/run_moveit_cpp), [MoveGroup](https://github.com/ros-planning/moveit2/tree/main/moveit_demo_nodes/run_move_group) and [MoveIt Servo](https://github.com/ros-planning/moveit2/blob/main/moveit_ros/moveit_servo/doc/running_the_demos.md). Full tutorials are yet to be ported from MoveIt 1, but due to their similarity are still largely applicable. We know it takes forever to get things running if you are new to ROS2, so we’ve prepared an LXD container that provides you with a precompiled MoveIt 2 workspace that allows you to run all demos right away Check out [these instructions](https://docs.google.com/document/d/15TJ8U9vk6NBaOUkObfPLFdjzut-JsJsb__H-0mbethE/edit?usp=sharing).
 
 ## **Thanks**
 
