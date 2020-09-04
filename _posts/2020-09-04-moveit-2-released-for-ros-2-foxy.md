@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 author: Henning Kayser, MoveIt 2 Development Lead
 comments: false
 date: 2020-09-04 00:00:00 -0600
