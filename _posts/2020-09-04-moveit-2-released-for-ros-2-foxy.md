@@ -63,7 +63,7 @@ One other note: in response to the ROS community's [migration away from using a 
 
 ## **Multi-Platform Support**
 
-![](https://lh5.googleusercontent.com/1RUFovE25z-Uxmf06HK-k_uivCtViZb8v5FiP_VLX-Gv3MjdDnR0GkyQlW7JKS58nfqgHuHr7U6DlSpJ_4SM_mOoO133JjqmH2GvIN39Fd559qO3HZ-SAzIdY1WHSHLsrD2Jj8Ib =397x317.81632653061223)
+![Ubuntu 10.10 Vs Windows 7 Vs Mac OS X 10.6 (Snow Leopard)](https://cdn1.expertreviews.co.uk/sites/expertreviews/files/styles/er_main_wide/public/images/dir_286/er_photo_143431.png?itok=9eFGmRN1)
 
 We are also happy to report that MoveIt 2 now builds on [Microsoft Windows](https://github.com/ros-planning/moveit2/pull/238) (thanks to contributions from the Microsoft Edge Robotics Team) and [macOS](https://github.com/ros-planning/moveit2/pull/271) (thanks to Mark Moll), in addition to many Linux variants.
 
@@ -77,10 +77,10 @@ Sponsoring organization PickNik Robotics has led this effort, in collaboration w
 
 We at PickNik Robotics hope many benefit from MoveIt 2 and encourage everyone to contribute to its adoption and continued improvement. We would like to thank all of the MoveIt community members and contributors who have made this release a success, and welcome all to [get involved](https://moveit.ros.org/about/get_involved/) with the project.
 
-![rosin_logo](https://lh5.googleusercontent.com/Lz-pURN8pATpI6uYAkiUbHc7IBTwbZy_9JT5Ywtpq3t3Q6pDrjH4vgbblf-EN49MntqR67aBd0owVvUz0En6YtSBnhLmQnBsw1gGRlZVquKjySn77CE68bJe1juDbwUX7q1z7ZaQ =159x56)
+![rosin](https://lh5.googleusercontent.com/Lz-pURN8pATpI6uYAkiUbHc7IBTwbZy_9JT5Ywtpq3t3Q6pDrjH4vgbblf-EN49MntqR67aBd0owVvUz0En6YtSBnhLmQnBsw1gGRlZVquKjySn77CE68bJe1juDbwUX7q1z7ZaQ =159x56)
 
 The port to ROS 2 is supported by ROSIN - ROS-Industrial Quality-Assured Robot Software Components. More information: [rosin-project.eu](http://rosin-project.eu/)
 
-![eu_flag](https://lh4.googleusercontent.com/g1jpC2ItSEZ-SYKX68wr_4avxmoJmTg2HmPSq4bCdZndNgM9BvyWZYbTUp5EUU7ch0WqdFNib0zRMCpe7-K8wdrz0vAZuFz9rlpxKQ6emPfFpHwMCDRSdDTKFvS17c41SexnSDa5 =159x107)
+![eu](https://lh4.googleusercontent.com/g1jpC2ItSEZ-SYKX68wr_4avxmoJmTg2HmPSq4bCdZndNgM9BvyWZYbTUp5EUU7ch0WqdFNib0zRMCpe7-K8wdrz0vAZuFz9rlpxKQ6emPfFpHwMCDRSdDTKFvS17c41SexnSDa5 =159x107)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 732287.
