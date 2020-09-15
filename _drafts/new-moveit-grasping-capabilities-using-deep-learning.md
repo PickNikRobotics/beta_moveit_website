@@ -4,7 +4,7 @@ author: Boston Cleek
 comments: false
 date: 2020-09-15 00:00:00 -0600
 title: New MoveIt Grasping Capabilities using Deep Learning
-media_type: video
+media_type: image
 media_link: "/assets/images/blog_posts/2020-09-15-grasp.png"
 description: Grasping using Deep Learning now available in the MoveIt Task Constructor
 categories:
