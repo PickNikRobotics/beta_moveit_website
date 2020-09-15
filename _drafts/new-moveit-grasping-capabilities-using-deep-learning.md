@@ -28,7 +28,7 @@ The animation below shows the capabilities of deep learning for grasp pose gener
 
 ![](/assets/images/blog_posts/2020-09-15-gqcnn_cylinder_gazebo.gif)
 
-![](/assets/images/blog_posts/2020-09-15-gqcnn_barclamp_gazebo.gif)To learn more about how to use GPD and Dex-Net within MoveIt see the [Deep Grasp Tutorial](https://github.com/bostoncleek/moveit_tutorials/blob/new-deep-grasp_tutorial/doc/moveit_deep_grasps/moveit_deep_grasps_tutorial.rst) and the [Deep Grasp Demo](https://github.com/PickNikRobotics/deep_grasp_demo). The demo contains detailed instructions for acquiring data by simulating depth sensors and executing motion plans in Gazebo.
+![](/assets/images/blog_posts/2020-09-15-gqcnn_barclamp_gazebo.gif) learn more about how to use GPD and Dex-Net within MoveIt see the [Deep Grasp Tutorial](https://github.com/bostoncleek/moveit_tutorials/blob/new-deep-grasp_tutorial/doc/moveit_deep_grasps/moveit_deep_grasps_tutorial.rst) and the [Deep Grasp Demo](https://github.com/PickNikRobotics/deep_grasp_demo). The demo contains detailed instructions for acquiring data by simulating depth sensors and executing motion plans in Gazebo.
 
 ![](/assets/images/blog_posts/line.png)
 
