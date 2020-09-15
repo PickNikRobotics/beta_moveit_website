@@ -32,7 +32,9 @@ The animation below shows the capabilities of deep learning for grasp pose gener
 
 ![](/assets/images/blog_posts/line.png)
 
-**Accelerate Your Robotics Development |** About [PickNik](https://picknik.ai/): Robots are complex systems that require a wide breadth of expert knowledge spanning multiple disciplines, making robotics development extremely difficult and costly. Since 2015, PickNik’s mission has been to address this technical challenge while dramatically reducing development time for advanced robotic applications. To achieve this, PickNik supports and collaborates with the worldwide open source robotics movement, providing companies with cutting edge research and barrier-free open source software.
+**Acclerate Your Robotics Development**
+
+About [PickNik](https://picknik.ai/): Robots are complex systems that require a wide breadth of expert knowledge spanning multiple disciplines, making robotics development extremely difficult and costly. Since 2015, PickNik’s mission has been to address this technical challenge while dramatically reducing development time for advanced robotic applications. To achieve this, PickNik supports and collaborates with the worldwide open source robotics movement, providing companies with cutting edge research and barrier-free open source software.
 
 PickNik is rooted with a strong background in robotics theory combined with applied software experience to provide unique solutions. Robotics companies including Google, Amazon, Kindred, and many others are partnering with PickNik to develop robotic applications to address the toughest issues through software consulting, custom development, and other initiatives. By working together, we can accomplish far more than by working alone.
 
