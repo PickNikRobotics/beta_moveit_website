@@ -4,7 +4,7 @@ author: Dr. Dave Coleman, CEO
 comments: false
 date: 2020-09-16 00:00:00 -0600
 title: 'RIA Robotics Week 2020: Advances in Robotic Picking and Grasping'
-media_type: ''
+media_type: image
 media_link: "/assets/images/blog_posts/2020-09-16-ria-2048x1023.jpg"
 description: 'What’s easy for humans can be so hard for a robot. But innovations in
   gripping, software, and collaborative robots are leading to rapidly improving capabilities
