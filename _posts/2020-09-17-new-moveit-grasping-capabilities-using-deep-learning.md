@@ -2,7 +2,7 @@
 layout: post
 author: Boston Cleek
 comments: false
-date: 2020-09-16 00:00:00 -0600
+date: 2020-09-17 00:00:00 -0600
 title: New MoveIt Grasping Capabilities using Deep Learning
 media_type: image
 media_link: "/assets/images/blog_posts/2020-09-15-grasp.png"
