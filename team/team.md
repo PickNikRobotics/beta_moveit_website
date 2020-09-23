@@ -43,6 +43,17 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/raminder-sandhu-426b36/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/RaminderSandhu.jpg')"></div>
+                    <h3>Raminder Sandhu</h3>
+                </a>
+                <div class="team-position">Director of Business Development</div>
+                <p>M.S. Mechanical Engineering, Stanford University - concentration in Robotics and Controls Systems; B.Sc. (Honors) Electrical Engineering, Texas A&M University.
+                Raminder brings 25 years of engineering, manufacturing automation and business development experience to PickNik. His areas of expertise include robotics, computer vision, medical devices and surgical tools, portable power systems, and product design and development. Prior to joining PickNik, he was the ARM (Advanced Robotics for Manufacturing) southwest region representative.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/nathan-b-brooks/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p10.jpg')"></div>
                     <h3>Nathan Brooks, PhD</h3>
@@ -119,16 +130,6 @@ redirect_from:
                 </a>
                 <div class="team-position">Perception Scientist</div>
                 <p>PhD and M.S. Computer Science CU Boulder, M.A. Secondary Education Johns Hopkins University, B.S. Materials Science and Engineering Cornell University. John's PhD research focused on information theory and probabilistic modeling for robot localization. His expertise includes visual-inertial odometry and point cloud registration, and he has experience with a variety of metric computer vision methods, GPGPU programming, and high performance computing.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                 <a href="https://www.linkedin.com/in/boston-cleek" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/BostonCleek.jpg')"></div>
-                    <h3>Boston Cleek</h3>
-                </a>
-                <div class="team-position">Robotics Intern</div>
-                <p>M.S. Robotics from Northwestern University and B.S. Mechanical Engineering from CU Boulder. His graduate research focuses on searching for and retrieving objects using a mobile manipulator. Boston has broad experience with autonomy including motion planning, simultaneous localization and mapping, and control. At CU he worked on the planning/controls team for the DARPA Subterranean Challenge leading up to the Tunnel Circuit. One of his favorite projects was implementing an occupancy grid based SLAM algorithm from scratch.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
