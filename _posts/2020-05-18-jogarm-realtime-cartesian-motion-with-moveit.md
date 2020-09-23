@@ -35,4 +35,4 @@ The ROS1 version of the package uses multithreading to make fast realtime contro
 
 The work originates as part of Andy Zelenak's Post-Doc research at UTA's Nuclear Robotics Group.
 
-To get started in ROS1 now, a tutorial is [available in the MoveIt Tutorials](https://ros-planning.github.io/moveit_tutorials/doc/arm_jogging/arm_jogging_tutorial.html).
+To get started in ROS1 now, a tutorial is [available in the MoveIt Tutorials](https://ros-planning.github.io/moveit_tutorials/doc/realtime_servo/realtime_servo_tutorial.html).
