@@ -64,6 +64,16 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://github.com/DLu" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/DavidLu.jpeg')"></div>
+                    <h3>David Lu, PhD</h3>
+                </a>
+                <div class="team-position">Senior Navigation Roboticist</div>
+                <p>PhD Computer Science at Washington University in St. Louis focusing on contextualized robot navigation, and Computer Science B.S. at University of Rochester. He has been a leading member of the ROS community for over a decade, including maintaining the core ROS navigation stack and co-chairing ROSCon 2019. David was a key developer of the navigation capabilities of Locus Robotics' fleets of warehouse robots and Bossa Nova's shelf scanning robots, and has also collaborated with Willow Garage, Walt Disney Imagineering R&D, SWRI and NASA.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/jillberman/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/Jill.png')"></div>
                     <h3>Jill Berman</h3>
