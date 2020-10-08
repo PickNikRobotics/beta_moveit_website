@@ -2,13 +2,13 @@
 layout: post
 author: Dr. Dave Coleman, CEO
 comments: false
-date: 2020-10-06 00:00:00 -0600
+date: 2020-10-06T00:00:00.000-06:00
 title: Catch PickNik at the Democratize AI with Open Research Conference
 media_type: image
 media_link: "/assets/images/blog_posts/2020-10-06-wordcloud-2-1.jpg"
 description: 'PickNik''s CEO Dave Coleman will be joining a panel on October 9th at
-  10am MST to discuss "Open vs. Closed research for AI-based Robotics: Challenges,
-  Opportunities, Caveats".'
+  10am MST to discuss &quot;Open vs. Closed research for AI-based Robotics: Challenges,
+  Opportunities, Caveats&quot;.'
 categories:
 - AI
 - research
