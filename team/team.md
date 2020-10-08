@@ -144,6 +144,16 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/SebastianJahr.jpeg')"></div>
+                    <h3>Sebastian Jahr</h3>
+                </a>
+                <div class="team-position">Robotics Intern</div>
+                <p>Pursuing a master's degree in Mechatronics and Information Technology with focus on robotics and B.S. Mechatronics and Information Technology at Karlsruhe Institute of Technology. Besides his studies, Sebastian gathered experience with C++ and ROS as a student research assistant and software intern at Franka Emika. He is passionate about robotics and manipulation and eager to learn more about motion planning and control. During his internship, he will work on a hybrid planner architecture for MoveIt2.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/tahnee-foley-0bba1350/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/TahneeFoley.jpg')"></div>
                     <h3>Tahnee Foley</h3>
