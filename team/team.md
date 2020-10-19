@@ -27,8 +27,8 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/p1.jpg')"></div>
                     <h3>Dave Coleman, PhD</h3>
                 </a>
-                <div class="team-position">Co-Founder, CEO</div>
-                <p>PhD Computer Science at CU Boulder focusing on motion planning and Mechanical Engineering B.S. at Georgia Tech. Dave has 12 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.
+                <div class="team-position">CEO / Roboticist</div>
+                <p>PhD Computer Science at CU Boulder focusing on motion planning and Mechanical Engineering B.S. at Georgia Tech. Dave has 13 years experience working in the field of robotics automation and is a leader in the open source MoveIt and ROS communities. His insights into robot-agnostic platforms for different morphologies, theoretical approaches, and different end-user requirements give him a well-rounded understanding for powerful robotic software. He has worked and consulted for all types of robotics companies including Google Robotics, Open Robotics, and Willow Garage.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
