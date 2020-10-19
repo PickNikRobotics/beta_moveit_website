@@ -168,7 +168,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/p4.jpg')"></div>
                     <h3>Rob Coleman</h3>
                 </a>
-                <div class="team-position">Co-Founder, Advisor</div>
+                <div class="team-position">Advisor</div>
                 <p>M.A. Asia-Pacific Studies, international trade and economic policy, National Chengchi University (Taiwan). B.A Political Science and B.A. Public Administration, Auburn University. Rob has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
                 Over the past ten years Rob has served in breadth of roles, including policy analyst, team leader of Marines, trade advocate, project manager, and business development manager. Rob enjoys new challenges and moving the status quo.
                 </p>
