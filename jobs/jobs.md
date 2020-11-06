@@ -8,7 +8,7 @@ description: Discover exciting job opportunities at PickNik
     <div class="jobs-section-main">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-4">
-                <h1 class="jobs-section-main-title">Work at Picknik</h1>
+                <h1 class="jobs-section-main-title">Work at PickNik</h1>
                 <span class="jobs-section-main-title--small">Cutting edge. Dynamic. Robotics.</span>
             </div>
             <div class="col-12 col-lg-6">
