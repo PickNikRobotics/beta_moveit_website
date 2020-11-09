@@ -77,5 +77,23 @@ $(document).ready(function () {
 		$(el).css('height', 'auto').css('height', el.scrollHeight + offset);
 	};
 	$(this).on('keyup input', function() { resizeTextarea(this); }).removeAttr('data-autoresize');
-	});
+  });
+  
+  //Orb stats
+  $('.count').each(function () {
+    $(this).prop('Counter',0).animate({
+        Counter: $(this).text()
+    }, {
+        duration: 1500,
+        easing: 'linear',
+        step: function (now) {
+            $(this).text(Math.ceil(now));
+        }
+    });
+  });
+
+  $('.btn-case-studies').click(function() {
+    $(this).hide();
+    $('.others-case-studies__cards').removeClass('hide');
+  });
 });

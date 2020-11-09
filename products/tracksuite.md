@@ -15,7 +15,7 @@ description: A suite of two tools that together ensures your robot's behavior is
             </div>
             <h2>Enhance Your Robot's Capabilities</h2>
             <div class="row justify-content-center">
-                <a href="/docs/tracksuite/TrackSuiteSolution.pdf" class="btn">
+                <a href="/docs/tracksuite/TrackSuiteSolution.pdf" target="_blank" class="btn">
                     <img src="/assets/images/tracksuite/doc-logo.png"/>
                     GET SOLUTION BRIEF
                 </a>
@@ -37,7 +37,7 @@ description: A suite of two tools that together ensures your robot's behavior is
             <div class="col-4 tracksuite-card-single">
                 <img class="mx-auto d-block" src="/assets/images/tracksuite/2.png" alt="Improve Cycle Time">
                 <h3>Improve cycle time & efficiency</h3>
-                <p>Move faster with near-time optimal trajectories that reliably maximize speed.</p>
+                <p>Move faster with near time-optimal trajectories that reliably maximize speed.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
                 <img class="mx-auto d-block" src="/assets/images/tracksuite/3.png" alt="Safer, predictable behavior">
@@ -69,13 +69,13 @@ description: A suite of two tools that together ensures your robot's behavior is
                     </p>
                     <div class="row text-center">
                         <div class="col">
-                            <a href="/docs/tracksuite/TrackPoseTechnicalSpec.pdf" class="btn">
+                            <a href="/docs/tracksuite/TrackPoseTechnicalSpec.pdf" target="_blank" class="btn">
                                 <img src="/assets/images/tracksuite/doc-logo.png"/>
                                 DOWNLOAD TRACKPOSE SPEC
                             </a>
                         </div>
                         <div class="col">
-                            <a href="/docs/tracksuite/TrackJointTechnicalSpec.pdf" class="btn btn-blue">
+                            <a href="/docs/tracksuite/TrackJointTechnicalSpec.pdf" target="_blank" class="btn btn-blue">
                                 <img src="/assets/images/tracksuite/doc-logo-white.png"/>
                                 DOWNLOAD TRACKJOINT SPEC
                             </a>

@@ -72,6 +72,9 @@ description: Discuss with PickNik experts your manipulation, navigation, and per
                         <a class="contact-info-text" target="_blank" href="https://github.com/PickNikRobotics/">
                             <img src="../assets/images/redesign/github.svg">
                         </a>
+                        <a class="contact-info-text" target="_blank" href="https://www.instagram.com/picknik_robotics/">
+                            <img src="../assets/images/redesign/ig.svg">
+                        </a>
                     </div>
                 </div>
             </div>

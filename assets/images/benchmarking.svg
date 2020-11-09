@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="48px" viewBox="0 0 49 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>85F93CC9-4DB1-477B-AC5A-D0F6ED022971@2x</title>
+    <g id="1.-Desktop---Archive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05-PickNik--Moveit" transform="translate(-1344.000000, -2978.000000)" stroke="#0C5FF8">
+            <g id="3-Goals" transform="translate(-5.000000, 2776.000000)">
+                <g id="3" transform="translate(1193.000000, 203.000000)">
+                    <g transform="translate(158.000000, 0.000000)" id="Group-7">
+                        <line x1="16.4218688" y1="29.6079527" x2="-9.59218589e-14" y2="44" id="Path-9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <polygon id="Rectangle" stroke-width="2.4" stroke-linejoin="round" transform="translate(19.500000, 27.500000) rotate(-3.000000) translate(-19.500000, -27.500000) " points="11 22.6578739 28 19 22.4759362 36"></polygon>
+                        <g id="Group-2" transform="translate(36.500000, 9.000000) rotate(-315.000000) translate(-36.500000, -9.000000) translate(30.000000, 3.000000)" stroke-linecap="round" stroke-width="2">
+                            <line x1="6.5" y1="12" x2="6.5" y2="0" id="Path-10"></line>
+                            <line x1="6.5" y1="12" x2="6.5" y2="0" id="Path-10-Copy" transform="translate(6.500000, 6.000000) rotate(90.000000) translate(-6.500000, -6.000000) "></line>
+                        </g>
+                        <circle id="Oval" stroke-width="2" stroke-linecap="round" cx="36.5" cy="42.5" r="3.5"></circle>
+                        <circle id="Oval-Copy-3" stroke-width="2" stroke-linecap="round" cx="3.5" cy="10.5" r="3.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,134 @@
+.ros-section-main-title {
+  margin-bottom: 10px;
+}
+
+.ros-section-sub-title {
+  font-size: 24px;
+  font-weight: 300;
+  margin-top: 10px;
+  margin-bottom: 50px;
+
+  @media screen and (max-width: 992px) {
+    margin-bottom: 30px;
+  }
+}
+
+.ros-section--review {
+  padding-bottom: 60px;
+
+  @media screen and (max-width: 767px) {
+    padding-bottom: 60px;
+  }
+
+  @media screen and (max-width: 480px) {
+    padding-bottom: 60px;
+  }
+}
+
+.ros-companies--review {
+  padding-top: 80px;
+
+  @media screen and (max-width: 767px) {
+    padding-top: 60px;
+  }
+
+  .ros-section--review-2 {
+    @media screen and (max-width: 991px) {
+      margin-top: 0;
+      margin-bottom: 50px;
+    }
+  }
+}
+
+.ros-button-group {
+  text-align: right;
+
+  @media screen and (max-width: 1199px) {
+    text-align: center;
+  }
+
+  a {
+    &:first-child {
+      margin-right: 20px;
+
+      @media screen and (max-width: 1199px) {
+        margin-right: auto;
+      }
+
+      @media screen and (max-width: 991px) {
+        margin-right: 20px;
+      }
+
+      @media screen and (max-width: 560px) {
+        margin-right: auto;
+      }
+    }
+
+    @media screen and (max-width: 1199px) {
+      display: inline-block;
+      margin: 0 auto 20px;
+    }
+
+    @media screen and (max-width: 991px) {
+      display: inline-block;
+      margin: 20px auto;
+    }
+  }
+}
+
+.ros-consulting-bg {
+  background-image: url('../images/ros-consulting-support.png');
+  background-repeat: no-repeat;
+  background-size: 50% 100%;
+
+  @media screen and (max-width: 991px) {
+    background-size: cover;
+  }
+
+  .moveit-section--first {
+    margin-right: 80px;
+    color: #ffffff;
+
+    @media screen and (max-width: 991px) {
+      margin: 0px auto 50px;
+    }
+
+    .moveit-section__title {
+      color: #ffffff;
+    }
+
+    .moveit-section__content {
+      p {
+        width: 80%;
+        @media screen and (max-width: 991px) {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
+
+.ros-info-section {
+  margin: 50px 0;
+
+  p, a {
+    font-size: 14px;
+    margin: 0;
+    color: #fff;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+}
+
+
+.ros-image-max-300 {
+  max-width: 300px;
+  margin: 0 auto;
+  display: table;
+
+  @media screen and (max-width: 991px) {
+    margin-bottom: 50px;
+  }
+}

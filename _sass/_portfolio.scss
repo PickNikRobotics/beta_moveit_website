@@ -1,0 +1,70 @@
+.portfolio-section-main {
+  text-align: left;
+}
+
+.portfolio-card--success-story {
+  background-image: url('../images/succes-story-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 30%;
+  flex: 0 0 30%;
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 14px;
+
+  @media screen and (max-width: 1199px) {
+    max-width: 46%;
+    flex: 0 0 46%;
+  }
+
+  @media screen and (max-width: 992px) {
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+
+  h2 {
+    color: #ffffff;
+  }
+
+  p {
+    line-height: 1.4;
+  }
+}
+
+.portfolio-card-single {
+  padding: 50px;
+}
+
+.btn-portfolio {
+  margin: 80px auto 0;
+  display: table;
+  background-color: transparent;
+  text-transform: uppercase;
+  text-align: center;
+  border: 1px solid #121929;
+  cursor: pointer;
+
+  &:hover {
+    color: #121929;
+  }
+}
+
+.others-case-studies__cards {
+  transition: all 0.3s;
+  height: 100%;
+  opacity: 1;
+
+  &.hide {
+    height: 0;
+    opacity: 0;
+    transition: all 0.3s;
+  }
+}

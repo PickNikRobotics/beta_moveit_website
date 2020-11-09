@@ -79,7 +79,7 @@ permalink: /services/custom-development/
                 </div>
                 <div class="col-12 col-lg-6">
                     <p>
-                        We strategically develop advanced robotics software together with you, augmenting your team with expertise in robotics perception, grasping, motion planning, navigation, and general ROS development.
+                        We strategically develop advanced robotics software together with you, augmenting your team with expertise in robotics perception, grasping, <a href="/moveit/">motion planning</a>, navigation, and general <a href="/ros/">ROS development</a>.
                     </p>
                 </div>
             </div>

@@ -1,0 +1,176 @@
+.moveit-section-main {
+  margin: 60px auto 0;
+  text-align: center;
+
+  @media screen and (max-width: 992px) {
+    margin: 30px auto 0;
+  }
+}
+
+.moveit-section-main-logo {
+  width: 260px;
+  max-width: 100%;
+}
+
+.moveit-section-main-title {
+  font-size: 24px;
+  font-weight: 300;
+  margin-top: 30px;
+  margin-bottom: 50px;
+
+  @media screen and (max-width: 992px) {
+    margin-bottom: 30px;
+  }
+}
+
+.moveit-section-main-image {
+  width: 600px;
+  max-width: 100%;
+}
+
+h4{
+  &.moveit-section__title {
+    font-size: 28px;
+    margin-top: 10px;
+    font-size: 900;
+    margin-bottom: 20px;
+  }
+}
+
+
+.moveit-section__content {
+  p {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+}
+
+.moveit-section__icon {
+  width: 45px;
+  margin-bottom: 20px;
+}
+
+.moveit-section__icon--medium {
+  width: 60px;
+}
+
+.moveit-section__number {
+  font-size: 24px;
+  font-weight: 900;
+  border: 3px solid #eceff6;
+  border-radius: 100%;
+  margin: 30px auto;
+  color: #04e79f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90px;
+  height: 90px;
+
+  &--white {
+    background-color: #ffffff;
+  }
+}
+
+.moveit-section--review {
+  background-color: #223252;
+  padding: 40px 80px 50px;
+  border-radius: 6px;
+  text-align: center;
+
+  @media screen and (max-width: 992px) {
+    margin-top: 50px;
+  }
+
+  @media screen and (max-width: 767px) {
+    padding: 40px 50px 50px;
+  }
+
+  @media screen and (max-width: 480px) {
+    padding: 30px 30px 40px;
+  }
+}
+
+.moveit-section--review__icon {
+  width: 45px;
+  margin-bottom: 20px;
+}
+
+.moveit-section--review__title {
+  font-size: 22px;
+}
+
+.moveit-section--review__author {
+  font-size: 16px;
+  color: #c8c7c7;
+  margin-bottom: 0;
+  margin-top: 20px;
+  line-height: 1.3;
+
+  @media screen and (max-width: 767px) {
+    font-size: 15px;
+  }
+
+  @media screen and (max-width: 480px) {
+    margin-top: 30px;
+  }
+}
+
+.moveit-key-components {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 40px;
+
+  @media screen and (max-width: 480px) {
+    justify-content: center;
+  }
+}
+
+.moveit-key-components__item {
+  display: flex;
+  flex-direction: column;
+
+  @media screen and (max-width: 992px) {
+    margin-bottom: 20px;
+  }
+
+  .img-wrapper {
+    background-color: #ffffff;
+    border: 4px solid #eceff6;
+    border-radius: 12px;
+    max-width: 100px;
+    flex: 0 0 100px;
+    margin: 0 auto;
+
+    @media screen and (max-width: 992px) {
+      max-width: 180px;
+      flex: 0 0 180px;
+    }
+
+    img {
+      max-width: 100%;
+      padding: 22px;
+    }
+  }
+
+  p {
+    font-size: 22px;
+    line-height: 1.4;
+    margin: 20px auto;
+    font-weight: 500;
+    max-width: 150px;
+  }
+}
+
+.moveit-section__why-paragraph {
+  max-width: 300px;
+  margin: 20px auto;
+  color: #646e88;
+}
+
+.moveit-support-bg {
+  background-image: url('../images/moveit_support_bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -22,7 +22,7 @@ permalink: /services/
     <div class="container">
         <div class="services-card-wrapper">
             <div class="services-card-single">
-                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf">
+                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf" target="_blank">
                     <div class="img-wrapper">
                         <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="motion planning icon">
                     </div>
@@ -31,7 +31,7 @@ permalink: /services/
                 <p>
                 Before launching a large project with a new client, we have found it beneficial to conduct a small fixed-price consulting engagement that generates an in-depth Feasibility Study report. This includes a technical analysis, risk assessment, development of milestones, and architecture diagrams. The feasibility study allows both parties to test the waters and fully understand each other.
                 </p>
-                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf" class="btn">discover more</a>
+                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf" target="_blank" class="btn">discover more</a>
             </div>
             <div class="services-card-single">
                 <a href="/services/custom-development">
@@ -66,7 +66,7 @@ permalink: /services/
                 <div class="card-header" id="motion-planning">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapse-motion-planning" aria-expanded="false" aria-controls="collapse-motion-planning">
-                        Motion Planning
+                        Robot Arm Planning
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
@@ -205,7 +205,7 @@ permalink: /services/
                 <div class="card-header" id="advanced-inverse-kinematics">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapse-ik" aria-expanded="false" aria-controls="collapse-ik">
-                        Advanced Inverse Kinematics
+                        Inverse Kinematics
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
@@ -281,7 +281,7 @@ permalink: /services/
                 <div class="card-header" id="realtime-control">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapse-realtime-control" aria-expanded="false" aria-controls="collapse-realtime-control">
-                        Realtime Control
+                        Realtime Motion Control
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
@@ -329,7 +329,7 @@ permalink: /services/
                 <div class="card-header" id="grasping">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapse-grasping" aria-expanded="false" aria-controls="collapse-grasping">
-                        Grasping
+                        Grasping and Manipulation
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
@@ -364,7 +364,7 @@ permalink: /services/
                 <div class="card-header" id="perception">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapse-perception" aria-expanded="false" aria-controls="collapse-perception">
-                        Perception
+                        Perception and Vision
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
@@ -427,7 +427,7 @@ permalink: /services/
                 <div class="card-header" id="ROS-1-and-ROS-2-framework-design">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapse-framework-design" aria-expanded="false" aria-controls="collapse-framework-design">
-                        ROS 1 And ROS 2 Framework Design
+                        ROS 1 and ROS 2 System Design
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>
@@ -585,7 +585,7 @@ permalink: /services/
                 <div class="card-header" id="virtual-reality">
                     <h5 class="mb-0">
                         <span class="collapses__link" data-toggle="collapse" data-target="#collapse-vr" aria-expanded="false" aria-controls="collapse-vr">
-                        Virtual Reality
+                        Simulation and Virtual Reality
                             <div class="collapse-svg">
                                 <svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><polygon fill="#3C4A69" points="22 14 14 14 14 22 11 22 11 14 3 14 3 11 11 11 11 3 14 3 14 11 22 11"></polygon></g></svg>
                             </div>

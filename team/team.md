@@ -144,6 +144,16 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/agoldman66/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/alexgoldman.jpg')"></div>
+                    <h3>Alex Goldman, MS</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p>M.S. Robotics and Autonomous Systems from Arizona State University with a focus on Artificial Intelligence. As a part of Alex’s graduate studies he spearheaded the creation of an autonomous underwater vehicle for coral reef mapping and monitoring, combining his loves for scuba diving and robotics. He has a background in entrepreneurship and product development and brings his customer-centric design approaches to robotic software development. 
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/SebastianJahr.jpeg')"></div>
                     <h3>Sebastian Jahr</h3>

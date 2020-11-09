@@ -1,6 +1,11 @@
 ---
 layout: page
 title: Robotics Consulting and Training
+redirect_from:
+  - /support/
+  - /support
+  - /services/moveit/
+  - /services/moveit
 permalink: /services/robotics-consulting/
 ---
 <div class="container">
@@ -9,7 +14,7 @@ permalink: /services/robotics-consulting/
             <div class="col-12 col-lg-6">
                 <h1>Ongoing Robotics Support</h1>
                 <p>
-                    PickNik's on-demand consulting, support, and code debugging offering provides a flexible and lightweight alternative to larger scoped projects. These types of engagements are typical after a larger code development effort has ended, or after a Phase 0 Feasibility Study is completed but the larger effort is not ready to begin yet.
+                    PickNik's on-demand consulting, support, and code debugging offering provides a flexible and lightweight alternative to larger scoped projects. These types of engagements are typical after a larger code development effort has ended, or after a <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf" target="_blank">Phase 0 Feasibility Study</a> is completed but the larger effort is not ready to begin yet.
                 </p>
             </div>
             <div class="col-12 col-lg-6">
@@ -38,7 +43,7 @@ permalink: /services/robotics-consulting/
                 <div class="col-12 col-lg-6">
                     <h2>Scalability</h2>
                     <p>
-                       We offer expert robotics and ROS consulting tailored to your project's needs. With both flexibility and scalability, we are your go to team for your most challenging tasks.
+                       We offer expert robotics, <a href="/ros/">ROS consulting</a>, and <a href="/moveit/">MoveIt Consulting</a> tailored to your project's needs. With both flexibility and scalability, we are your go to team for your most challenging tasks.
                     </p>
                 </div>
                 <div class="col-12 col-lg-6">

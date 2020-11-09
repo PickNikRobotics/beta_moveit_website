@@ -33,14 +33,7 @@ description: Both open source and proprietary robotic software solutions for you
                         <h2>MoveIt</h2>
                         <p>MoveIt is PickNik's flagship open source product, featuring state of the art algorithms and that can be quickly adapted for your custom application. MoveIt allows you to develop advanced robotics solutions, evaluate new robot designs, and build integrated robotics products for industrial, commercial, R&D and other domains. Our engineers ensure long-term development and stability.
                         </p>
-                        <div class="row">
-                            <div class="col-lg-6 col-6">
-                                <a href="/services/moveit/" class="btn no-margin-right">MOVEIT SUPPORT</a>
-                            </div>
-                            <div class="col-lg-6 col-6">
-                                <a href="http://moveit.ros.org/" target="_blank" class="btn btn-blue no-margin-left">MOVEIT WEBSITE</a>
-                            </div>
-                        </div>
+                        <a href="/moveit" class="btn">DISCOVER MORE</a>
                     </div>
                 </div>
             </div>
@@ -70,7 +63,7 @@ description: Both open source and proprietary robotic software solutions for you
                         <h2>Bolt</h2>
                         <p>Robotic manipulation tasks are becoming increasingly challenging to solve by ordinary motion planners. Bolt is a fast, dual-arm motion planner that selectively learns from experience. It is also capable of solving underconstrained Cartesian trajectories. Bolt reliably produces smooth and robust motion trajectories using cutting edge theoretical proofs.
                         </p>
-                        <a href="/docs/PickNik_Bolt_Experience_Motion_Planning.pdf" class="btn">DISCOVER MORE</a>
+                        <a href="/docs/PickNik_Bolt_Experience_Motion_Planning.pdf" target="_blank" class="btn">DISCOVER MORE</a>
                     </div>
                 </div>
             </div>

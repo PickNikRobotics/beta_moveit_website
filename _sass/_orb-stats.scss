@@ -1,0 +1,72 @@
+.orb-stats {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.orb-stats__item {
+  display:flex;
+  flex-wrap: wrap;
+  align-items:flex-start;
+  justify-content:center;
+  max-width: 200px;
+  flex: 0 0 200px;
+}
+
+.orb_graphic {
+  position:relative;
+
+  svg {
+    width:200px;
+    height:200px;
+    
+    circle {
+      transform: rotate(-90deg);
+      transform-origin: 50% 50%;
+      stroke-dasharray: 502.16, 502.16;
+      stroke-width: 10;
+      fill: transparent;
+      r: 80;
+      cx: 100;
+      cy: 100;
+
+      &.fill {
+        stroke: #f5f5fa;
+      }
+
+      &.progress {
+        stroke: #04e79f;
+        transition: stroke-dashoffset 0.5s;
+        stroke-dashoffset: 402.16;
+        -webkit-animation: load 1.8s forwards;
+        -webkit-animation-timing-function: linear;
+
+        @-webkit-keyframes load {
+          0% { stroke-dashoffset: 502.16; }
+          100%   { stroke-dashoffset: 0; }
+        }
+      }
+    }
+  }	
+}
+
+.orb_value {
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size: 30px;
+  font-weight:bold;
+}
+
+.orb-stats__text {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  line-height: 1;
+  font-size: 20px;
+}

@@ -71,6 +71,15 @@
   }
 }
 
+.jobs-card-instagram {
+  span {
+    font-size: 14px;
+    color: #3c4a69;
+    text-decoration: underline;
+    margin-left: 4px;
+  }
+}
+
 .jobs-perks-wrapper {
   margin-top: 30px;
   margin-bottom: 80px;
@@ -78,7 +87,8 @@
 
 .jobs-perks {
   display: flex;
-  width: 100%;
+  width: 30%;
+  max-width: 30%;
   min-height: 350px;
   align-content: center;
   flex-direction: column;
@@ -86,18 +96,36 @@
   margin-bottom: 24px;
   border: 1px solid #ffffff;
   border-radius: 6px;
-  padding: 45px;
+  padding: 40px;
+
+  @media screen and (max-width: 1199px) {
+    width: 48%;
+    max-width: 48%;
+  }
+
   @media screen and (max-width: 992px) {
     min-height: auto;
   }
+
+  @media screen and (max-width: 767px) {
+    width: 100%;
+    max-width: 100%;
+  }
+
   .img-wrapper {
     img {
       border-color: #eceff6;
       border: 2px solid #eceff6;
       border-radius: 20px;
       width: 100px;
-      padding: 20px;
+      padding: 10px;
       margin-bottom: 24px;
+    }
+
+     &.jobs-perks-smaller {
+      img {
+        padding: 20px;
+      }
     }
   }
   .subTitle {
@@ -114,10 +142,36 @@
 }
 .whr-item {
     @media screen and (max-width: 480px) {
-      padding: 30px 20px 35px 20px;
+      padding: 30px 0 35px 0;
     }
    .whr-title {
      margin: 0px 0px 10px 0px;
+     padding: 0 20px 0 20px;
+     position: relative;
+
+     &::before {
+        content: "+";
+        width: 34px;
+        height: 34px;
+        position: absolute;
+        right: 20px;
+        top: 5px;
+        border-radius: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 22px;
+        box-shadow: 0px 4px 10px 0px rgba(158, 154, 154, 0.5);
+        font-weight: 400;
+      }
+
+      &.active {
+        &::before {
+          transform: rotate(45deg);
+          transition: all 0.3s;
+          color: #04e79f;
+        }
+      } 
     }
     .whr-info { display: none; }
 /*    .whr-title:focus, .whr-title:active, .whr-title.active {
@@ -137,7 +191,7 @@
   }
   width: 100%;
   display: block;
-  padding: 30px 60px 30px 20px;
+  padding: 30px 0;
   border-bottom: 1px solid #ceced9;
 }
 
@@ -146,7 +200,7 @@
 }
 
 .whr-description {
-  padding: 15px 15px 5px;
+  padding: 15px 30px 5px;
   @media screen and (max-width: 480px) {
     padding: 10px 10px 5px;
   }
@@ -199,3 +253,102 @@
     }
   }
 }
+
+.jobs-best-places {
+  background-color: #22304e;
+  padding: 60px 0;
+  border-radius: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 100px;
+
+  @media screen and (max-width: 992px) {
+    flex-direction: column;
+    margin-bottom: 80px;
+  }
+
+  p {
+    flex: 0 0 50%;
+    max-width: 50%;
+    text-align: left;
+    font-size: 20px;
+    color: #ffffff;
+    margin-left: 50px;
+    position: relative;
+    z-index: 3;
+    margin-bottom: 0;
+
+    @media screen and (max-width: 1199px) {
+      flex: 0 0 60%;
+      max-width: 60%;
+      margin-left: 40px;
+    }
+
+    @media screen and (max-width: 992px) {
+      flex: 0 0 100%;
+      max-width: 100%;
+      padding: 40px;
+      margin: 0;
+      text-align: center;
+    }
+  }
+
+  a {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+
+  @media screen and (max-width: 992px) {
+    margin-top: 50px;
+  }
+
+  @media screen and (max-width: 767px) {
+    padding: 40px 0;
+  }
+
+  @media screen and (max-width: 480px) {
+    padding: 30px 0;
+  }
+}
+
+.jobs-best-places__green-circle {
+  position: absolute;
+  z-index: 1;
+  width: 500px;
+  height: 500px;
+  background-color:  #04e79f;
+  border-radius: 100%;
+  left: -150px;
+
+  @media screen and (max-width: 1199px) {
+    left: -130px;
+    width: 400px;
+    height: 400px;
+  }
+
+  @media screen and (max-width: 992px) {
+    width: 120%;
+    left: -10%;
+    top: -50%;
+  }
+}
+
+.jobs-best-places__image-wrapper {
+  flex: 0 0 30%;
+  max-width: 30%;
+  position: relative;
+  z-index: 2;
+
+  @media screen and (max-width: 992px) {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  img {
+    max-width: 120px;
+  }
+}
+
