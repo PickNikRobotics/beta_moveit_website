@@ -154,6 +154,16 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/abishalinisivaraman/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/abi.png')"></div>
+                    <h3>Abishalini Sivaraman, MS</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p>M.S. Computer Engineering and B.S. Electrical Engineering at Texas A&M University (concentration in AI, ML and VR application development). Abi got into robotics primarily through extra curricular activities. A tinkerer by nature, she learned mechanical and electrical CAD softwares, machining, 3D printing, soldering, ROS and computer vision techniques while working on building an AUV and automating a Ford Focus.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/SebastianJahr.jpeg')"></div>
                     <h3>Sebastian Jahr</h3>

@@ -33,7 +33,7 @@ description: Discover exciting job opportunities at PickNik
                         <h3>We Value Our Team</h3>
                         <p>We are building a team of world-class professionals. Work-life balance is a key value for us. We work hard and smart. We believe in flexibility, freedom, internal mentorship, and the ability to work from anywhere. We take the initiative to do it right and believe in continuous improvement.
                         </p>
-                        <a class="jobs-card-instagram" target="_blank" href="https://www.linkedin.com/company/picknik">
+                        <a class="jobs-card-instagram" target="_blank" href="https://www.instagram.com/picknik_robotics/">
                           <img src="/assets/images/ig.svg">
                           <span>Check out our instagram</span>
                         </a>
