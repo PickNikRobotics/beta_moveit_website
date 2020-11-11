@@ -87,7 +87,7 @@ description: Discover exciting job opportunities at PickNik
                             <img src="../assets/images/location-icon-2.png" class="perksIcon">
                         </div>
                         <h4>Location</h4>
-                        <span class="subTitle">Boulder's location in the foothills of the Rockies gives you easy access to all your favorite outdoor activities.</span>
+                        <span class="subTitle">Boulder is located in the foothills of the Rockies and was rated the <a href="https://realestate.usnews.com/places/rankings/best-places-to-live">best place to live in the US</a>.</span>
                     </div>
                     <div class="jobs-perks">
                         <div class="img-wrapper">
