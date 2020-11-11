@@ -39,6 +39,7 @@ permalink: /ros/
             <p>
               The Robot Operating System is an <a href="/open-source/">open source software</a> development kit for building advanced robotics applications. The world has seen a dramatic shift to ROS over the past few years, and ROS is now powering a majority of robots globally. PickNik is a major advocate, developer, and thought leader in the ROS community, and provides ROS Consulting and Support to our clients.
             </p>
+            <a class="btn btn-primary text-uppercase text-center modalclick" href="https://www.youtube.com/embed/mDwZ21Zia8s?rel=0&showinfo=0&autoplay=1">ROS montage video</a>
           </div>
         </div>
       </div>

@@ -39,6 +39,7 @@ permalink: /moveit/
             <p>
               MoveIt is an easy-to-use <a href="/open-source">open source robotics</a> manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
             </p>
+            <a class="btn btn-primary text-uppercase text-center modalclick" href="https://www.youtube.com/embed/_wazsgxZiiM?rel=0&showinfo=0&autoplay=1">Watch overview</a>
           </div>
         </div>
       </div>
@@ -48,7 +49,7 @@ permalink: /moveit/
             <h4 class="moveit-section--review__title text-center text-white">MoveIt saved us approximately 6 months of development time and allowed us to get our products in front of customers well ahead of schedule.</h4>
             <p class="moveit-section--review__author">Tom Hummel, VP Engineering, Kindred</p>
         </div>
-      </div>  
+      </div>
     </div>
   </div>
 </div>

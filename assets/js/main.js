@@ -96,4 +96,17 @@ $(document).ready(function () {
     $(this).hide();
     $('.others-case-studies__cards').removeClass('hide');
   });
+
+  $('.modalclick').on('click', function(e) {
+    e.preventDefault();
+    var src = $(this).attr('href');
+    $('#modalVideo').modal('show');
+    $('#modalVideo iframe').attr('src', src);
+  });
+
+  //auto close or pause on model hide
+  $("#modalVideo").on('hidden.bs.modal', function(e) {
+    $("#modalVideo iframe").attr("src", '');
+  });
+  
 });

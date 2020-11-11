@@ -382,3 +382,7 @@ label .field.is-focused + span {
     width: 48px;
   }
 }
+
+.modal-dialog {
+  max-width: 720px;
+}
