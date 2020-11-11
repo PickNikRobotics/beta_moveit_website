@@ -16,13 +16,28 @@ permalink: /ros/
 </div>
 <div class="container-fluid bg-grey">
   <div class="container block-padding-120">
+    <div class="modal fade" id="modalVideo" tabindex="-1" role="dialog" aria-labelledby="modalVideoLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">ROS montage video</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <iframe frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="row align-items-center">
       <div class="col-12 col-lg-6">
         <div class="moveit-section">
           <h2 class="moveit-section__title">ROS</h2>
           <div class="moveit-section__content">
             <p>
-              The Robot Operating System is an open source software development kit for building advanced robotics applications. The world has seen a dramatic shift to ROS over the past few years, and ROS is now powering a majority of robots globally. PickNik is a major advocate, developer, and thought leader in the ROS community, and provides ROS Consulting and Support to our clients.
+              The Robot Operating System is an <a href="/open-source/">open source software</a> development kit for building advanced robotics applications. The world has seen a dramatic shift to ROS over the past few years, and ROS is now powering a majority of robots globally. PickNik is a major advocate, developer, and thought leader in the ROS community, and provides ROS Consulting and Support to our clients.
             </p>
           </div>
         </div>

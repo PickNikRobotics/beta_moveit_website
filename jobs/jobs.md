@@ -119,7 +119,7 @@ description: Discover exciting job opportunities at PickNik
                   </div>
                   <span class="jobs-best-places__green-circle"></span>
                   <p>We’re thrilled to announce that <b>PickNik Robotics</b> has been named to Built In Colorado's
-                  <a href="https://www.builtincolorado.com/companies/best-places-to-work-colorado-2019" target="_blank">2019 Best Places to Work Awards!</a> PickNik Robotics won in the Best Small Companies category.</p>
+                  <a href="https://www.builtincolorado.com/companies/best-small-places-to-work-colorado-2019#picknik-robotics" target="_blank">2019 Best Places to Work Awards!</a> PickNik Robotics won in the Best Small Companies category.</p>
                 </div>
             </div>
         </div>
