@@ -28,7 +28,7 @@ permalink: /services/custom-development/
                 <div class="col-12 col-lg-6">
                     <h2>Trusted<br/> Development<br/> Partners</h2>
                     <p>
-                        PickNik can work either in a collaborative engagement with your engineering team (most common) or as turn key roboticists of end to end solutions and components. We can quickly augment your internal team's capabilities, improving development estimation and velocity with our robotics expertice.
+                        PickNik can work either in a collaborative engagement with your engineering team (most common) or as turn key roboticists of end to end solutions and components. We bring a cross-functional team of robotics expertise in a brainstorming environment to effectively share ideas and solve problems from different angles. 
                     </p>
                 </div>
             </div>
