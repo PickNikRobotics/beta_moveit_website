@@ -27,6 +27,10 @@ description: Discuss with PickNik experts your manipulation, navigation, and per
                         <input type="email" name="email" class="form-control" id="emailInput" placeholder="Your Email">
                     </div>
                     <div class="form-group">
+                        <label for="phoneInput">Phone</label>
+                        <input type="tel" name="phone" class="form-control" id="phoneInput" placeholder="Your Phone">
+                    </div>
+                    <div class="form-group">
                         <label for="textArea">Message</label>
                         <textarea class="form-control" name="textarea" data-autoresize id="textArea" rows="3" placeholder="Your Message"></textarea>
                     </div>
