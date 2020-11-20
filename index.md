@@ -131,7 +131,7 @@ title: index
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">127</div>
+            <div class="orb_value count">147</div>
           </div>
           <div class="orb-stats__text">Years of combined experience</div>
         </div>
@@ -141,7 +141,7 @@ title: index
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">4</div>
+            <div class="orb_value count">5</div>
           </div>
           <div class="orb-stats__text">Masters in Robotics</div>
         </div>
@@ -161,7 +161,7 @@ title: index
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">45</div>
+            <div class="orb_value count">46</div>
           </div>
           <div class="orb-stats__text">Client partners<br>to date</div>
         </div>

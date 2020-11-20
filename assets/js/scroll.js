@@ -2,8 +2,8 @@ $(document).ready(function () {
 	var target = document.location.hash;
 	if (target.length) {
 		$('html, body').animate({
-			scrollTop: $(target).offset().top - 500
-		}, 1000);
+			scrollTop: $(target).offset().top - 100
+		}, 500);
 		$(target).find('.collapses__link').click();
 	}
 });

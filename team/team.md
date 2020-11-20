@@ -86,7 +86,7 @@ redirect_from:
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/lars-henning-kayser-79ab18178/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p14.jpg')"></div>
-                    <h3>Henning Kayser, MSE</h3>
+                    <h3>Henning Kayser, MS</h3>
                 </a>
                 <div class="team-position">Applied Robotics Scientist</div>
                 <p>M.S. Computer Science at University of Hamburg with focus on motion planning and machine learning, B.S. Computer Science with focus on distributed systems. Broad experience with autonomous robots and scenarios with unstable dynamics like liquid pouring or pushing of objects. Expertise in motion planning, trajectory optimization, constrained and Cartesian path planning as well as 3D-perception and image processing. Winning team participant in the IROS 2018 Mobile Manipulation Hackathon.
@@ -126,7 +126,7 @@ redirect_from:
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/jere-liukkonen/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/jere.png')"></div>
-                    <h3>Jere Liukkonen, MSE</h3>
+                    <h3>Jere Liukkonen, MS</h3>
                 </a>
                 <div class="team-position">Software Engineer - Robotics</div>
                 <p> M.S. Automation and Control Systems Engineering from Aalto University with a focus on mechatronics. Jere is a C++ enthusiast with background in computer vision and image processing. Before becoming a full-time roboticist, he worked with challenging computer vision problems with the most recent being analyzing medical images using deep neural networks.
