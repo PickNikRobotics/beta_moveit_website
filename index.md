@@ -200,18 +200,26 @@ title: index
             </div>
             <p class="block-sections-strategy__text">Technical Steering Committee Member</p>
           </div>
-          <div class="block-sections-strategy__item">
+          <div class="block-sections-strategy-row2__item">
             <div>
               <!-- <a href="https://rosindustrial.org/" target="_blank"> -->
-                <img class="block-sections-strategy__img" src="/assets/images/ros-industrial-consortium.png" alt="ROS industial consortium">
+                <img class="block-sections-strategy-row2__img" src="/assets/images/ros-industrial-consortium.png" alt="ROS industial consortium">
               <!-- </a> -->
             </div>
             <p class="block-sections-strategy__text">Member</p>
           </div>
-          <div class="block-sections-strategy__item">
+          <div class="block-sections-strategy-row2__item">
             <div>
               <!-- <a href="https://arminstitute.org/" target="_blank"> -->
-                <img class="block-sections-strategy__img" src="/assets/images/arm.png" alt="ARM">
+                <img class="block-sections-strategy-row2__img" src="/assets/images/arm.png" alt="ARM">
+              <!-- </a>   -->
+            </div>
+            <p class="block-sections-strategy__text">Member</p>
+          </div>
+          <div class="block-sections-strategy-row2__item">
+            <div>
+              <!-- <a href="https://arminstitute.org/" target="_blank"> -->
+                <img class="block-sections-strategy-row2__img" src="/assets/images/ria-logo.png" alt="RIA">
               <!-- </a>   -->
             </div>
             <p class="block-sections-strategy__text">Member</p>
