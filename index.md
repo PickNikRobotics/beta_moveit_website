@@ -360,14 +360,14 @@ title: index
                 <li>
                     <div class="recommendations-single">
                         <div class="recommendations-content">
-                            <p>“PickNik’s partnership with us is hugely instrumental in making these systems successful.”<br> -Chief Innovation Officer, Industrial Automation Company</p>
+                            <p>“PickNik’s partnership with us is hugely instrumental in making these systems successful.”<br><br> -Chief Innovation Officer, <br>Industrial Automation Company</p>
                         </div>
                     </div>
                 </li>
                 <li>
                     <div class="recommendations-single">
                         <div class="recommendations-content">
-                            <p>“The software came in before the hardware, which is very rare”<br> -Senior Technical Program Manager, Major Surgical Company</p>
+                            <p>“The software came in before the hardware, which is very rare”<br><br> -Senior Technical Program Manager, <br>Major Surgical Company</p>
                         </div>
                     </div>
                 </li>
