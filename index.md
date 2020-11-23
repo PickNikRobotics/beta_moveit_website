@@ -161,7 +161,7 @@ title: index
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">46</div>
+            <div class="orb_value count">50</div>
           </div>
           <div class="orb-stats__text">Client partners<br>to date</div>
         </div>
