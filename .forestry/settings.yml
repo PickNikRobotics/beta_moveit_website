@@ -9,7 +9,7 @@ sections:
   label: Case Studies
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: jekyll-posts
   label: Posts
   create: all
