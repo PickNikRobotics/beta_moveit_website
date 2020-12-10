@@ -57,13 +57,6 @@ This is a common request PickNik hears from our clients: the elusive quality of 
 
 The MoveIt global community, in collaboration with PickNik Robotics, has been moving towards much better Cartesian planning functionality than MoveIt's original focus of OMPL-style global planning. As of this writing there are at least 7 approaches to Cartesian planning available with MoveIt. These options can be overwhelming, as no one approach is best for every use case. Instead, the right tool must be selected for the right application. This section outlines some of the pros and cons of each planner, with a summary in the following table:
 
-|              | MoveIt Servo | OMPL Constraint Planning | Pilz Industrial Motion | BioIK (Gradient Descent solver) | Bolt       | Descartes  | MoveIt Cartesian Interpolator |
-| ------------ | ------------ | ------------------------ | ---------------------- | ------------------------------- | ---------- | ---------- | ----------------------------- |
-| Complete?    | No           | Probabilistically        | No                     | Probabilistically               | Resolution | Resolution | No                            |
-
-
-![Comparison of Cartesian Libraries](https://lh4.googleusercontent.com/_6EKUNqbCwSTNNjfLoSiKinjnLk0JP9Yr5j98rdvSn1nTHAQX2mTDdEzz972ulLugF42Lg4bwa0m3lyL7V5l0zF7UNwOgcZLlGfmeH7QcZzfkCx0-OBNKkAvRhx-rFACv7sCEO6p "Comparison of Cartesian Libraries" =720x292)
-
 #### MoveIt Servo
 
 [Servo](https://moveit.ros.org/moveit/ros2/servo/jog/2020/09/09/moveit2-servo.html) is the recommended realtime Cartesian planner in MoveIt, ideal for teleoperation and visual servoing. Originally developed at [UT Austin](http://robotics.me.utexas.edu/), Servo's approach has been extensively upgraded and integrated into MoveIt over the past few years. It uses Jacobian-based solvers and avoids collision with its environment. [Full tutorials.](https://ros-planning.github.io/moveit_tutorials/doc/realtime_servo/realtime_servo_tutorial.html)
