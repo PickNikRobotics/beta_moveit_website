@@ -28,11 +28,11 @@ Let’s study the scenario of pick/place of, say, a delicious piece of candy fro
 
 Once the end effector is much closer to the target pose we switch to MoveIt Servo. Servo is appropriate for small motions when the robot starts from a known “good” configuration -- far from joint limits and obstacles. As the vision system streams an updated target pose, MoveIt Servo uses four PID controllers to track the target. There is a nice, simple example [here](https://github.com/ros-planning/moveit/blob/master/moveit_ros/moveit_servo/src/cpp_interface_example/pose_tracking_example.cpp).
 
-### **Why four PID controllers?**
+#### Why four PID controllers?
 
 The pick pose has six components (x,y,z, roll, pitch, yaw), so why four PID controllers? It’s because an angle-axis representation is used. The first three PID controllers regulate x/y/z translation and the fourth controls the rate of rotation (with orientation being internally converted to axis/angle format).
 
-### **Tuning the PID controllers**
+#### Tuning the PID controllers
 
 Here’s a safe procedure for PID tuning. It avoids the overshoot from other tuning methods -- we don’t want to break the robot. Translation is usually tuned separately from orientation and all three translational dimensions have identical parameters (usually).
 
@@ -49,26 +49,20 @@ Here are a few additional rules of thumb:
 * Kp is usually much larger than Ki and Kd.
 * Kp, Ki, and Kd should have the same sign, all positive or all negative.
 
-### **Examples of well-tuned gains and poorly-tuned gains**
+#### Examples of well-tuned gains and poorly-tuned gains
 
 At first glance, these parameter sets seem reasonable:
 
-* Kp = 1, Ki= 0.1, Kd= 0
-* Kp = 12, Ki= 1, Kd= 1
+* `Kp = 1, Ki= 0.1, Kd= 0`
+* `Kp = 12, Ki= 1, Kd= 1`
 
 These parameter sets are unusual/suspicious. They might be useful in some edge cases but generally indicate bad tuning:
 
-* Kp = 12, Ki= -1, Kd= -1
+* `Kp = 12, Ki= -1, Kd= -1`	Suspicious because all gains should have the same sign.
+* `Kp = 0.3, Ki= 1, Kd= 1`	Suspicious because proportional gain should be greater than integral and derivative gains.
+* `Kp = 12, Ki= 0, Kd= 0`	Suspicious because a bit of integral gain is desirable to improve convergence and eliminate steady-state error.
 
-  Suspicious because all gains should have the same sign.
-* Kp = 0.3, Ki= 1, Kd= 1
-
-  Suspicious because proportional gain should be greater than integral and derivative gains.
-* Kp = 12, Ki= 0, Kd= 0
-
-  Suspicious because a bit of integral gain is desirable to improve convergence and eliminate steady-state error.
-
-### **What if my robot is over-actuated or under-actuated?**
+#### What if my robot is over-actuated or under-actuated?
 
 Of course, MoveIt Servo handles over-actuated manipulators. The more degrees of freedom relative to the task at hand, the better! Typically, no extra tuning is needed to use MoveIt Servo with over-actuated robots. In the future, we are interested in adding more features to exploit the nullspace of over-actuated manipulators.
 
