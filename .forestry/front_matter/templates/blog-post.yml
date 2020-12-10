@@ -13,6 +13,7 @@ fields:
   label: Date
   config:
     date_format: MM-DD-YYYY
+  default: now
 - type: text
   name: layout
   label: Layout
