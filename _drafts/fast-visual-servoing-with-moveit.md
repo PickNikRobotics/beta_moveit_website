@@ -55,14 +55,14 @@ Here are a few additional rules of thumb:
 
 At first glance, these parameter sets seem reasonable:
 
-* `Kp = 1, Ki= 0.1, Kd= 0`
-* `Kp = 12, Ki= 1, Kd= 1`
+* Kp = 1, Ki= 0.1, Kd= 0
+* Kp = 12, Ki= 1, Kd= 1
 
 These parameter sets are unusual/suspicious. They might be useful in some edge cases but generally indicate bad tuning:
 
-* `Kp = 12, Ki= -1, Kd= -1`	Suspicious because all gains should have the same sign.
-* `Kp = 0.3, Ki= 1, Kd= 1`	Suspicious because proportional gain should be greater than integral and derivative gains.
-* `Kp = 12, Ki= 0, Kd= 0`	Suspicious because a bit of integral gain is desirable to improve convergence and eliminate steady-state error.
+* Kp = 12, Ki= -1, Kd= -1	Suspicious because all gains should have the same sign.
+* Kp = 0.3, Ki= 1, Kd= 1	Suspicious because proportional gain should be greater than integral and derivative gains.
+* Kp = 12, Ki= 0, Kd= 0		Suspicious because a bit of integral gain is desirable to improve convergence and eliminate steady-state error.
 
 #### What if my robot is over-actuated or under-actuated?
 
