@@ -74,7 +74,7 @@ By the way, Servo includes singularity handling to decelerate safely in the neig
 
 If the robot has a vacuum end effector or a force sensor, we are likely to run Servo forward until a vacuum or force threshold is triggered. Or we might need to abort motion because an error occurs or the user requests it. For this type of scenario, MoveIt Servo provides a convenient interruption method:
 
-    		tracker.stopMotion();
+    	tracker.stopMotion();
 
 ## **Return Home**
 
