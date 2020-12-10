@@ -47,7 +47,7 @@ The term realtime is often misused or is ambiguous, but for our purposes it mean
 
 Most robotic arm applications today focus on the problem of controlling a single arm; dual arm applications are still on the fringe of commercially viable robotic solutions. However there is a growing need for dual arm Cartesian control which requires extra computation to ensure the robot arms do not collide with each other. Whole body Cartesian planning is the step beyond that, incorporating control of a torso, legs, or wheels such as found on most humanoid robots.
 
-![Elbows Up](https://lh6.googleusercontent.com/X1EFqlqftB-YndnaQIT2DJ5OqzJb9L_9gIG8JiDs0tkQiA3V1EnjERENr-Y6_YOG0lsiZpmo5P6G2H14wDada8V4Agi63_s4HUyeJV5lOb5qVwn9MVwDaljz4C8TL7splo9OMD0H "Human-Like Motions" =211x123)
+![Elbows Up](/assets/images/blog_posts/2020-12-10-elbow_up.jpg "Human Like Motion")
 
 #### Human-Like Motions
 
@@ -56,6 +56,8 @@ This is a common request PickNik hears from our clients: the elusive quality of 
 ## **Available Planners**
 
 The MoveIt global community, in collaboration with PickNik Robotics, has been moving towards much better Cartesian planning functionality than MoveIt's original focus of OMPL-style global planning. As of this writing there are at least 7 approaches to Cartesian planning available with MoveIt. These options can be overwhelming, as no one approach is best for every use case. Instead, the right tool must be selected for the right application. This section outlines some of the pros and cons of each planner, with a summary in the following table:
+
+![Comparison of Cartesian Libraries](/assets/images/blog_posts/2020-12-10-cartesian_libraries.png "Comparison of Cartesian Libraries")
 
 #### MoveIt Servo
 
