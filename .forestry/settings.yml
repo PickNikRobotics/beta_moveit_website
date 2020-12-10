@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: _case-studies
+  label: Case Studies
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
 - type: jekyll-posts
   label: Posts
   create: all
