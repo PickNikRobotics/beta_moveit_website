@@ -16,7 +16,7 @@ fields:
 - type: text
   name: layout
   label: Layout
-  default: blog
+  default: post
 - type: text
   name: title
   label: Title
