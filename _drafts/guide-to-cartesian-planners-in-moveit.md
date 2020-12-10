@@ -27,7 +27,7 @@ Cartesian planning often supports various types of constraints that a global joi
 
 ## **Desirable Properties of Cartesian Planners**
 
-#### Completeness
+### Completeness
 
 Completeness is a property that indicates the motion planner will find a solution to the planning problem if one exists. Many global motion planners are either probabilistically complete (e.g. PRM or RRTConnect) or resolution complete (e.g. A* or D* Lite). [Jacobian-based](https://homes.cs.washington.edu/\~todorov/courses/cseP590/06_JacobianMethods.pdf) Cartesian planners, in contrast, are typically not complete. Such planners may sometimes indicate that a desired pose cannot be reached even if a solution does exist. This is because they do not have good recovery mechanisms and can easily get stuck in [local minima](https://en.wikipedia.org/wiki/Maxima_and_minima). Examples of local minima include joint limits and singularities.
 
@@ -35,11 +35,11 @@ Completeness is a property that indicates the motion planner will find a solutio
 
 Some Cartesian planners do not require that the pose be fully specified; these are called underconstrained motion planners. Planners with this property are useful for applications like holding a marker where, for example, you may not care about the orientation of the symmetrical object in your hand or the exact angle of the tip of the marker against a surface. Any tool that has a tip that is flexible in its usage orientation is a good candidate for an underconstrained planner. One of the big advantages of not fully defining the pose of the task is that the workspace is greatly increased, allowing for smaller robots with possibly fewer degrees of freedom to still accomplish difficult tasks.
 
-#### Planning Ahead
+##### Planning Ahead
 
 The ability for a Cartesian planner to plan ahead has a lot of benefits such as the ability to decelerate before hitting an obstacle. Other use cases are material removal or additive applications such as painting or blending, where you want to ensure the entire surface of an object is adequately covered. However, the ability to plan ahead often conflicts with realtime requirements for the planner. The more future calculations are required, the less reactive and realtime the Cartesian planner becomes (discussed next).
 
-#### Realtime
+###### Realtime
 
 The term realtime is often misused or is ambiguous, but for our purposes it means what kind of timing guarantees the planner provides such that it can reliably hit a certain control frequency, such as 100 hz. Global motion planners are notoriously bad at providing realtime guarantees. This is due to the fundamental complexity of motion planning; better algorithms will not change this. There is a distinct tradeoff between completeness and realtime capabilities. However, there are many important robotics applications where realtime guarantees are necessary, such as robotic surgery, teleoperation, or dynamic operations like picking from a moving conveyor belt.
 
