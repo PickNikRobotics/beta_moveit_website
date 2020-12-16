@@ -22,7 +22,7 @@ In their inaugural ‘Good Robot’ Industry Awards, Silicon Valley Robotics has
 
 PickNik was chosen both for the services they provide to a diverse set of international clients and its leadership in development of the open source [MoveIt Framework](https://picknik.ai/moveit/ "https://picknik.ai/moveit/"). MoveIt’s suite of motion planning, manipulations, and perception tools are a core component of the open source robotics ecosystem, built on the[ robotics operating system](https://picknik.ai/ros/ "https://picknik.ai/ros/") (ROS). These tools form the bedrock of many research and production level robotics implementations. Through conference talks and thought leadership, PickNik advocates for the adoption of ROS and MoveIt.
 
-\[Add that dash graphic here?\]
+![](/assets/images/blog_posts/mark_moll_join_picknik/line.png)
 
 PickNik combines world-class robotics expertise and state of the art open source robotics frameworks to save its clients time and money. They offer flexible research, development, and support to ensure the success of their projects. They are also a sponsor and maintainer of MoveIt, supporting the open-source projects vibrant international community of collaborators and maintainers.
 
