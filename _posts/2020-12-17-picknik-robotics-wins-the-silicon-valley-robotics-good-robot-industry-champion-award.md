@@ -18,7 +18,7 @@ categories:
 ---
 In their inaugural ‘Good Robot’ Industry Awards, Silicon Valley Robotics has bestowed PickNik Robotics with the Champion Award. This award is given in recognition of service to the greater robotics community.
 
-“We are so honored to receive this award. From the beginning PickNik was founded to be both a profitable company and a stewart of the MoveIt open source framework,” said Dr. Dave Coleman, CEO of PickNik Robotics “Our whole team learns and grows through their interactions with the open source community and it truly feels like we get more back than we put in”
+“We are so honored to receive this award. From the beginning PickNik was founded to be both a profitable company and a steward of the MoveIt open source framework,” said Dr. Dave Coleman, CEO of PickNik Robotics “Our whole team learns and grows through their interactions with the open source community and it truly feels like we get more back than we put in”
 
 PickNik was chosen both for the services they provide to a diverse set of international clients and its leadership in development of the open source [MoveIt Framework](https://picknik.ai/moveit/ "https://picknik.ai/moveit/"). MoveIt’s suite of motion planning, manipulations, and perception tools are a core component of the open source robotics ecosystem, built on the[ robotics operating system](https://picknik.ai/ros/ "https://picknik.ai/ros/") (ROS). These tools form the bedrock of many research and production level robotics implementations. Through conference talks and thought leadership, PickNik advocates for the adoption of ROS and MoveIt.
 
