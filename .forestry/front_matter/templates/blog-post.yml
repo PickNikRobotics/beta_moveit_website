@@ -52,3 +52,4 @@ pages:
 - _posts/2020-12-17-picknik-robotics-wins-the-silicon-valley-robotics-good-robot-industry-champion-award.md
 - _posts/fast-visual-servoing-with-moveit.md
 - _posts/guide-to-cartesian-planners-in-moveit.md
+- _posts/moveit-for-ros-2-migration-update.md
