@@ -89,7 +89,7 @@ permalink: /portfolio/
 <div class="container block-padding-100">
     <div class="row align-items-center justify-content-between text-center">
         <div class="col-sm-12">
-            <h3 class="block-section__title">Our Clients</h3>
+            <h3 class="block-section__title" id="clients">Our Clients</h3>
         </div>
         <div class="col-sm-12">
           <img class="our-works-logos" src="/assets/images/google-logo.png" alt="Google logo">

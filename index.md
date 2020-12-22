@@ -51,7 +51,7 @@ title: index
 <div class="container block-padding-100">
     <div class="row align-items-center justify-content-center text-center">
         <div class="col-sm-12">
-            <h3 class="block-section__title">Past Clients</h3>
+            <h3 class="block-section__title" id="clients">Past Clients</h3>
         </div>
         <div class="col-sm-12">
           <img class="our-works-logos" src="/assets/images/google-logo.png" alt="Google logo">
@@ -101,7 +101,7 @@ title: index
 <div class="container block-padding-100">
   <div class="row align-items-center justify-content-center text-center">
     <div class="col-sm-12">
-      <h3 class="block-section__title">Some Stats</h3>
+      <h3 class="block-section__title" id="stats">Some Stats</h3>
     </div>
     <div class="col-sm-12">
       <div class="orb-stats">
@@ -174,7 +174,7 @@ title: index
     <div class="row align-items-center">
       <div class="col-12 col-lg-7">
           <div class="block-section">
-              <h2 class="block-section__title">We are your partners in strategically developing custom robotics software, while de-risking open source usage.</h2>
+              <h2 class="block-section__title" id="partners">We are your partners in strategically developing custom robotics software, while de-risking open source usage.</h2>
               <div class="block-section__content">
                 <p>
                   We believe in the benefits of <a href="/open-source">open source;</a> PickNik's flagship software <a href="/moveit">MoveIt</a> is the #1 motion planning and manipulation platform in the <a href="/ros">ROS</a> ecosystem. By leveraging open source software, we save you huge amounts of R&D costs while avoiding vendor lock in.
@@ -234,7 +234,7 @@ title: index
     <div class="container">
         <div class="row align-items-center justify-content-center text-center">
             <div class="col-sm-12">
-                <h3 class="block-section__title">Areas of Expertise</h3>
+                <h3 class="block-section__title" id="expertise">Areas of Expertise</h3>
             </div>
             <div class="col-sm-12 block-expertice-body">
                 <div class="row">
@@ -328,7 +328,7 @@ title: index
     <div class="container block-padding-100 pb-3" style="position: relative;">
         <div class="row align-items-center justify-content-center text-center">
             <div class="col-12">
-                <h3 class="block-section__title">Endorsements</h3>
+                <h3 class="block-section__title" id="endorsements">Endorsements</h3>
             </div>
         </div>
         <div class="row">
