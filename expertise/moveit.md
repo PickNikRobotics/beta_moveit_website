@@ -8,7 +8,7 @@ permalink: /moveit/
         <div class="row justify-content-center">
             <div class="col-12">
                 <img class="moveit-section-main-logo" src="/assets/images/moveit-logo-2.png" alt="MoveIt">
-                <h1 class="moveit-section-main-title">The most popular motion planning platform for ROS</h1>
+                <h1 class="moveit-section-main-title">The most popular motion planning platform for <a href="https://picknik.ai/ros/">ROS</a></h1>
                 <img class="moveit-section-main-image" src="/assets/images/robotic-arm.png" alt="Robotic arm image">
             </div>
         </div>
@@ -298,7 +298,7 @@ permalink: /moveit/
                       Sets quarterly goals for every PickNik employee to review open source pull requests.
                     </li>
                     <li class="square-icon">
-                      Contributes portions of code from commercial projects back to improving MoveIt and ROS.
+                      Contributes portions of code from commercial projects back to improving MoveIt and <a href="https://picknik.ai/ros/">ROS</a>.
                     </li>
                     <li class="square-icon">
                       Makes binary/debian releases at intervals throughout the year.
