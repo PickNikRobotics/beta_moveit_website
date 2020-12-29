@@ -70,7 +70,7 @@ description: Discuss with PickNik experts your manipulation, navigation, and per
                         <a class="contact-info-text" target="_blank" href="https://www.linkedin.com/company/picknik">
                             <img src="../assets/images/redesign/linkedin.svg">
                         </a>
-                        <a class="contact-info-text" target="_blank" href="https://twitter.com/PickNikRobotics">
+                        <a class="contact-info-text" target="_blank" href="https://twitter.com/PickNikRobotics" data-proofer-ignore>
                             <img src="../assets/images/redesign/twitter.svg">
                         </a>
                         <a class="contact-info-text" target="_blank" href="https://github.com/PickNikRobotics/">
