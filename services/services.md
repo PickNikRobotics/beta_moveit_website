@@ -51,7 +51,7 @@ permalink: /services/
                     </div>
                     <h3>Ongoing Robotics Support</h3>
                 </a>
-                <p>Leverage our team of expert roboticists to answer your toughest problems. Our robotics consulting involves daily asyncronous communication with weekly check-in calls to support your project's goals and advise on common pitfalls. We provide remote ROS consulting through video calls, shared Slack channels, and email follow-ups as well as onsite training.
+                <p>Leverage our team of expert roboticists to answer your toughest problems. Our robotics consulting involves daily asyncronous communication with weekly check-in calls to support your project's goals and advise on common pitfalls. We provide remote <a href="https://picknik.ai/ros/">ROS consulting</a> through video calls, shared Slack channels, and email follow-ups as well as onsite training.
                 </p>
                 <a href="/services/robotics-consulting" class="btn">discover more</a>
             </div>
@@ -104,7 +104,7 @@ permalink: /services/
                         </p>
                         <ul>
                             <li>
-                                MoveIt consulting and development for the popular ROS framework
+                                MoveIt consulting and development for the popular <a href="https://picknik.ai/ros/">ROS framework</a>
                             </li>
                             <li>
                                 Consulting and development of the Open Motion Planning Library (OMPL)
@@ -438,7 +438,7 @@ permalink: /services/
                     <div class="card-body">
                         <p>
                             <strong>
-                                Software Architecting With ROS
+                                Software Architecting With <a href="https://picknik.ai/ros/">ROS</a>
                             </strong>
                         </p>
                         <ul>
@@ -459,7 +459,7 @@ permalink: /services/
                         </p>
                         <ul>
                             <li>
-                                Fully ROS-compliant code repository setup with best practices
+                                Fully <a href="https://picknik.ai/ros/">ROS</a>-compliant code repository setup with best practices
                             </li>
                             <li>
                                 Documented, tested, and code-reviewed deliverables
@@ -492,7 +492,7 @@ permalink: /services/
                     <div class="card-body">
                         <p>
                             <strong>
-                                We speak fluent ROS 2
+                                We speak fluent <a href="https://picknik.ai/ros/">ROS 2</a>
                             </strong>
                         </p>
                         <ul>
@@ -607,7 +607,7 @@ permalink: /services/
                                 Deploy high situational awareness teleop environments
                             </li>
                             <li>
-                                Use ROS, Gazebo, and Rviz with off-the-shelf 3D headsets like the HTC Vive and Oculus Rift
+                                Use <a href="https://picknik.ai/ros/">ROS</a>, Gazebo, and Rviz with off-the-shelf 3D headsets like the HTC Vive and Oculus Rift
                             </li>
                             <li>
                                 Evaluate and plan your collaborative robot integration strategy in virtual reality
