@@ -74,21 +74,11 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/jillberman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/Jill.png')"></div>
-                    <h3>Jill Berman</h3>
-                </a>
-                <div class="team-position">Director Of Operations</div>
-                <p>Jill is a data-driven business operations leader helping companies scale. Her 25 year career includes tenures at Sun Microsystems (exit: Oracle), Informix (exit: IBM), and Ooyala (exit: Telstra) running technical marketing programs, building professional services organizations, managing customer success teams, and leading company operations. With a focus on OKR / KPI-centric business development, process design / optimization, and sales workflows / automation, she helps businesses prepare for growth.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/lars-henning-kayser-79ab18178/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p14.jpg')"></div>
                     <h3>Henning Kayser, MS</h3>
                 </a>
-                <div class="team-position">Applied Robotics Scientist</div>
+                <div class="team-position">MoveIt Chief Architect</div>
                 <p>M.S. Computer Science at University of Hamburg with focus on motion planning and machine learning, B.S. Computer Science with focus on distributed systems. Broad experience with autonomous robots and scenarios with unstable dynamics like liquid pouring or pushing of objects. Expertise in motion planning, trajectory optimization, constrained and Cartesian path planning as well as 3D-perception and image processing. Winning team participant in the IROS 2018 Mobile Manipulation Hackathon.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -98,7 +88,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/andyz.png')"></div>
                     <h3>Andy Zelenak, PhD</h3>
                 </a>
-                <div class="team-position">Controls Engineer</div>
+                <div class="team-position">Senior Controls Engineer</div>
                 <p>PhD from the University of Texas, B.S. ME/EE from Colorado School of Mines. Andy has focused on bringing a more responsive, delicate touch to industrial robots, with emphasis on control theory. Andy has collaborated with roboticists in the nuclear, oil/gas, and aerospace domains. Some of his favorite projects were joint current based collision detection, balancing an egg between Motoman SIA5 manipulators, and design of teleoperation software for a dual-arm Clearpath robot.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -108,7 +98,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/tyler.png')"></div>
                     <h3>Tyler Weaver</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Senior Software Engineer - Robotics</div>
                 <p>B.S. Comp Engineering from DeVry Univ. Tyler has a talent for C++ and Python programming, having created many different software applications over the past decade.  In 2013 he supported Special Operations in Afghanistan, and at DeVry Tyler built a stereo vision sensor for a robot competing in the CO Robotics Challenge. He has since developed software defined radio libraries for wireless communication and sensing applications. In that position, Tyler worked on a large legacy codebase adding new signal types and improving the accelerated math library.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -144,6 +134,16 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/abishalinisivaraman/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/abi.png')"></div>
+                    <h3>Abishalini Sivaraman, MS</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p>M.S. Computer Engineering and B.S. Electrical Engineering at Texas A&M University (concentration in AI, ML and VR application development). Abi got into robotics primarily through extra curricular activities. A tinkerer by nature, she learned mechanical and electrical CAD softwares, machining, 3D printing, soldering, ROS and computer vision techniques while working on building an AUV and automating a Ford Focus.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/agoldman66/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/alexgoldman.jpg')"></div>
                     <h3>Alex Goldman, MS</h3>
@@ -154,12 +154,32 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/abishalinisivaraman/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/abi.png')"></div>
-                    <h3>Abishalini Sivaraman, MS</h3>
+                 <a href="https://www.linkedin.com/in/boston-cleek" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/BostonCleek.jpg')"></div>
+                    <h3>Boston Cleek, MS</h3>
                 </a>
                 <div class="team-position">Software Engineer - Robotics</div>
-                <p>M.S. Computer Engineering and B.S. Electrical Engineering at Texas A&M University (concentration in AI, ML and VR application development). Abi got into robotics primarily through extra curricular activities. A tinkerer by nature, she learned mechanical and electrical CAD softwares, machining, 3D printing, soldering, ROS and computer vision techniques while working on building an AUV and automating a Ford Focus.
+                <p>M.S. Robotics from Northwestern University and B.S. Mechanical Engineering from CU Boulder. His graduate research focuses on exploration and mobile manipulation. Boston has broad experience with autonomy including motion planning, simultaneous localization and mapping, and control. At CU he worked on the planning/controls team for the DARPA Subterranean Challenge leading up to the Tunnel Circuit.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/tahnee-foley-0bba1350/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/TahneeFoley.jpg')"></div>
+                    <h3>Tahnee Foley</h3>
+                </a>
+                <div class="team-position">Operations Assistant</div>
+                <p>Tahnee has over 20 years experience in business operations over a variety of industries including architecture and advertising.  She was the Administrative Manager to the Design Team for the 2010 Olympic Village in Vancouver, Canada, a project that included coordinating over a dozen offices working to design and build 24 buildings in four years. Her passion is to see an efficient and effective organization while ensuring client satisfaction.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/lynn-regnier-cpa-73a8b7a3/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/lynn.jpg')"></div>
+                    <h3>Lynn Regnier, CPA</h3>
+                </a>
+                <div class="team-position">Accountant and Contracts Specialist</div>
+                <p>CPA licensed in Colorado with an M.S. in accounting from the University of Colorado, Boulder.  Over her career Lynn has worked for small and very large organizations in both business and scientific roles.  Lynn brings six years of accounting experience from a mix of public accounting and early stage startups.  Lynn's passion is in helping businesses grow by providing reliable financial information to help make informed decisions.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -174,16 +194,6 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/tahnee-foley-0bba1350/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/TahneeFoley.jpg')"></div>
-                    <h3>Tahnee Foley</h3>
-                </a>
-                <div class="team-position">Operations Assistant</div>
-                <p>Tahnee has over 20 years experience in business operations over a variety of industries including architecture and advertising.  She was the Administrative Manager to the Design Team for the 2010 Olympic Village in Vancouver, Canada, a project that included coordinating over a dozen offices working to design and build 24 buildings in four years. Her passion is to see an efficient and effective organization while ensuring client satisfaction.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-           <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p4.jpg')"></div>
                     <h3>Rob Coleman</h3>
@@ -191,6 +201,16 @@ redirect_from:
                 <div class="team-position">Advisor</div>
                 <p>M.A. Asia-Pacific Studies, international trade and economic policy, National Chengchi University (Taiwan). B.A Political Science and B.A. Public Administration, Auburn University. Rob has lived on four continents and developed a talent for seeing the big picture while working for both startups and large organizations.
                 Over the past ten years Rob has served in breadth of roles, including policy analyst, team leader of Marines, trade advocate, project manager, and business development manager. Rob enjoys new challenges and moving the status quo.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/jillberman/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/Jill.png')"></div>
+                    <h3>Jill Berman</h3>
+                </a>
+                <div class="team-position">Advisor</div>
+                <p>Jill is a data-driven business operations leader helping companies scale. Her 25 year career includes tenures at Sun Microsystems (exit: Oracle), Informix (exit: IBM), and Ooyala (exit: Telstra) running technical marketing programs, building professional services organizations, managing customer success teams, and leading company operations. With a focus on OKR / KPI-centric business development, process design / optimization, and sales workflows / automation, she helps businesses prepare for growth.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
