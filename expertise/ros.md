@@ -157,7 +157,7 @@ permalink: /ros/
             <h3 class="block-section__title">Some other companies using ROS today</h3>
         </div>
         <div class="col-sm-12">
-            <img class="our-works-logos" src="/assets/images/amazon-logo.png" alt="Amazon logo">
+            <img class="our-works-logos" src="/assets/images/our-clients/amazon-logo.png" alt="Amazon logo">
             <img class="our-works-logos" src="/assets/images/our-clients/bosch-logo.svg" alt="Bosh logo">
             <img class="our-works-logos" src="/assets/images/our-clients/ubuntu-logo.gif" alt="Ubuntu logo">
             <img class="our-works-logos our-works-logos--small" src="/assets/images/our-clients/intel-logo.svg" alt="Intel logo">

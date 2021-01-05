@@ -92,7 +92,7 @@ permalink: /portfolio/
             <h3 class="block-section__title" id="clients">Our Clients</h3>
         </div>
         <div class="col-sm-12">
-          <img class="our-works-logos" src="/assets/images/google-logo.png" alt="Google logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/google-logo.png" alt="Google logo">
           <img class="our-works-logos" src="/assets/images/our-clients/kindred.png" alt="Kindred logo">
           <img class="our-works-logos" src="/assets/images/our-clients/vicarious.png" alt="Vicarious logo">
           <img class="our-works-logos" src="/assets/images/our-clients/carbon.png" alt="Carbon Robotics logo">
@@ -100,7 +100,7 @@ permalink: /portfolio/
           <img class="our-works-logos" src="/assets/images/our-clients/sesto.png" alt="Sesto Robotics logo">
           <img class="our-works-logos" src="/assets/images/our-clients/houston.png" alt="Houston Mechatronics logo">
           <img class="our-works-logos" src="/assets/images/our-clients/Tethers-Unlimited.png" alt="Tethers Unlimited logo">
-          <img class="our-works-logos" src="/assets/images/nasa-logo.png" alt="NASA logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/nasa-logo.png" alt="NASA logo">
           <img class="our-works-logos" src="/assets/images/our-clients/iunu.png" alt="IUNU logo">
           <img class="our-works-logos" src="/assets/images/our-clients/rtr.png" alt="Realtime Robotics logo">
           <img class="our-works-logos" src="/assets/images/our-clients/rr-logo.png" alt="Rapyuta Robotics logo">
@@ -111,7 +111,7 @@ permalink: /portfolio/
           <img class="our-works-logos" src="/assets/images/our-clients/skyline.png" alt="Skyline Robotics logo">
           <img class="our-works-logos" src="/assets/images/our-clients/acutronic.png" alt="Acutronic Robotics logo">
           <img class="our-works-logos" src="/assets/images/our-clients/dusty-robotics.png" alt="Dusty Robotics logo">
-          <img class="our-works-logos" src="/assets/images/plusone-logo.jpg" alt="Plus One logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/plusone-logo.jpg" alt="Plus One logo">
           <img class="our-works-logos" src="/assets/images/our-clients/aeolus.png" alt="Aeolus logo">
           <img class="our-works-logos" src="/assets/images/our-clients/creator.png" alt="Creator logo">
           <img class="our-works-logos" src="/assets/images/our-clients/hello-robot-logo.png" alt="Hello Robot logo">
@@ -122,6 +122,7 @@ permalink: /portfolio/
           <img class="our-works-logos" src="/assets/images/our-clients/maxar.png" alt="Maxar logo">
           <img class="our-works-logos" src="/assets/images/our-clients/SSInnovations.png" alt="SS Innovations logo">
           <img class="our-works-logos" src="/assets/images/our-clients/samsung.png" alt="Samsung logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/jnj-logo.svg" alt="J&J logo">
           <img class="our-works-logos" src="/assets/images/our-clients/re.png" alt="RE2 Robotics logo">
           <img class="our-works-logos" src="/assets/images/our-clients/omni-logo.png" alt="Omni Robotics logo">
           <img class="our-works-logos" src="/assets/images/our-clients/simple-homes-logo.svg" alt="Simple Homes logo">
@@ -166,7 +167,7 @@ permalink: /portfolio/
           </div>
           <div class="open-source-organizations">
             <a href="https://hello-robot.com/" target="_blank">
-              <img src="/assets/images/hello-robot-partner.png" alt="Hello Robotics logo"/>
+              <img src="/assets/images/our-clients/hello-robot-partner.png" alt="Hello Robotics logo"/>
             </a>
             <h4>Hello Robot</h4>
             <p>PickNik is an integration partner of Hello's Stretch R1 mobile manipulator</p>

@@ -54,17 +54,18 @@ title: index
             <h3 class="block-section__title" id="clients">Past Clients</h3>
         </div>
         <div class="col-sm-12">
-          <img class="our-works-logos" src="/assets/images/google-logo.png" alt="Google logo">
-          <img class="our-works-logos" src="/assets/images/amazon-logo.png" alt="Amazon logo">
-          <img class="our-works-logos" src="/assets/images/nasa-logo.png" alt="NASA logo">
-          <img class="our-works-logos" src="/assets/images/bastian-logo.png" alt="Bastian logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/google-logo.png" alt="Google logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/amazon-logo.png" alt="Amazon logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/nasa-logo.png" alt="NASA logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/bastian.png" alt="Bastian logo">
           <img class="our-works-logos" src="/assets/images/our-clients/maxar.png" alt="Maxar logo">
-          <img class="our-works-logos" src="/assets/images/kindred-logo.png" alt="Kindred logo">
-          <img class="our-works-logos" src="/assets/images/franka-logo-2.png" alt="Franka Emika logo">
-          <img class="our-works-logos" src="/assets/images/plusone-logo.jpg" alt="Plus One logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/kindred.png" alt="Kindred logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/franka-logo-2.png" alt="Franka Emika logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/plusone-logo.jpg" alt="Plus One logo">
           <img class="our-works-logos" src="/assets/images/our-clients/thorlabs.png" alt="Thorlabs logo">
-          <img class="our-works-logos" src="/assets/images/houston-logo.png" alt="Houson Mechatronics logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/houston-logo.png" alt="Houson Mechatronics logo">
           <img class="our-works-logos" src="/assets/images/our-clients/tormach.png" alt="Tormach logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/jnj-logo.svg" alt="J&J logo">
         </div>
         <a class="btn mt-5 text-uppercase" href="/connect/">Schedule A Free Strategy Call</a>
     </div>
@@ -345,7 +346,7 @@ title: index
                     <div class="recommendations-single">
                         <div class="recommendations-content">
                           <p>“I highly recommend Dave. Dave is a self motivated problem solver and tackles problems holistically. He demonstrated a strong ability to navigate ambiguity and help define the requirements”<br> -Daniel Aden, Engineering</p>
-                            <img class="recommendations-logo" src="/assets/images/google-logo.png" alt="Google logo">
+                            <img class="recommendations-logo" src="/assets/images/our-clients/google-logo.png" alt="Google logo">
                         </div>
                     </div>
                 </li>
@@ -410,9 +411,12 @@ title: index
   <div class="container block-padding-100" style="position: relative;">
     <div class="row align-items-center justify-content-center text-center">
         <div class="col-12">
-            <h3 class="block-section__title">Registrations</h3>
+            <h3 class="block-section__title">Awards and Certifications</h3>
         </div>
         <div class="col-12 block-section--certifications">
+          <a href="https://api.badgr.io/public/assertions/8hlx4iSUTwKRnV0QBazEpg?identity__url=https%3A%2F%2Fpicknik.ai%2F">
+            <img class="block-section__img" src="assets/images/svr-champion-award.png" alt="SVR Champion Award">
+          </a>
           <img class="block-section__img" src="/assets/images/ITAR.png" alt="ITAR logo">
           <!-- <img class="block-section__img " src="/assets/images/iso.png" alt="ISO certification"> -->
         </div>

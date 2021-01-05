@@ -29,4 +29,4 @@ There are several key objectives we want to achieve:
 
 We would like to thank Franka Emika for agreeing to sponsor this code sprint and their newest sensitive robotic arm - Panda - becoming the new flagship robot in the MoveIt tutorials. You can find more information about open-source libraries and existing ROS integration of Panda at <a href="https://frankaemika.github.io" target="_blank">https://frankaemika.github.io</a>.
 
-<img src="{{ site.url }}/assets/images/franka_logo.png" width="300" style="margin-top:20px"/>
+<img src="{{ site.url }}/assets/images/our-clients/franka-logo.png" width="300" style="margin-top:20px"/>
