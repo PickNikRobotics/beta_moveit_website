@@ -2,7 +2,7 @@
 layout: post
 author: Dave Coleman, Mark Moll, and Andy Zelenak
 comments: false
-date: 2021-01-05 00:00:00 -0700
+date: 2021-01-07 00:00:00 -0700
 title: Guide to Cartesian Planners in MoveIt
 media_type: image
 media_link: "/assets/images/blog_posts/2021-01-04-shutterstock_279918557.jpg"
@@ -25,7 +25,7 @@ In the context of robotic arms, Cartesian planning is the generation of motion t
 
 Cartesian planning often supports various types of constraints that a global joint-based planner does not. One example of Cartesian constraints is keeping the robot's end effector upright so as to not spill a glass of water it is holding. Other examples include: tracing a welding path (with tight constraints on position, and slightly more relaxed constraints on orientation) or keeping an object within the field of view of an end-of-arm-mounted camera.
 
-**Desirable Properties of Cartesian Planners**
+## **Desirable Properties of Cartesian Planners**
 
 #### Completeness
 
