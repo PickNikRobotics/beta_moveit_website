@@ -29,7 +29,7 @@ Cartesian planning often supports various types of constraints that a global joi
 
 #### Completeness
 
-Completeness is a property that indicates the motion planner will find a solution to the planning problem if one exists. Many global motion planners are either probabilistically complete (e.g. PRM or RRTConnect) or resolution complete (e.g. A* or D* Lite). [Jacobian-based](https://homes.cs.washington.edu/\~todorov/courses/cseP590/06_JacobianMethods.pdf) Cartesian planners, in contrast, are typically not complete. Such planners may sometimes indicate that a desired pose cannot be reached even if a solution does exist. This is because they do not have good recovery mechanisms and can easily get stuck in [local minima](https://en.wikipedia.org/wiki/Maxima_and_minima). Examples of local minima include joint limits and singularities.
+Completeness is a property that indicates the motion planner will find a solution to the planning problem if one exists. Many global motion planners are either probabilistically complete (e.g. PRM or RRTConnect) or resolution complete (e.g. A* or D* Lite). [Jacobian-based](https://homes.cs.washington.edu/~todorov/courses/cseP590/06_JacobianMethods.pdf) Cartesian planners, in contrast, are typically not complete. Such planners may sometimes indicate that a desired pose cannot be reached even if a solution does exist. This is because they do not have good recovery mechanisms and can easily get stuck in [local minima](https://en.wikipedia.org/wiki/Maxima_and_minima). Examples of local minima include joint limits and singularities.
 
 #### Underconstrained
 

@@ -1,7 +1,7 @@
 ---
 author: Dave Coleman
 comments: false
-date: 2017-06-20 00:00:00+00:00
+date: 2017-06-20 00:00:00 -0700
 layout: post
 slug: videoMontage2017
 title: MoveIt Montage 2017 is now available

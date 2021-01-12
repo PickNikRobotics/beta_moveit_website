@@ -1,7 +1,7 @@
 ---
 author: Isaac Saito
 comments: false
-date: 2018-05-23 00:00:00+00:00
+date: 2018-05-23 00:00:00 -0700
 layout: post
 slug: firstmelodicrelease
 title: MoveIt officially released into ROS Melodic
