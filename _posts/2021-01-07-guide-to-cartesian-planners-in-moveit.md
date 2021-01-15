@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Dave Coleman, Mark Moll, and Andy Zelenak
+author: Dr. Dave Coleman, Dr. Mark Moll, and Dr. Andy Zelenak
 comments: false
 date: 2021-01-07 00:00:00 -0700
 title: Guide to Cartesian Planners in MoveIt
