@@ -12,7 +12,7 @@ categories:
 - MoveIt Servo
 
 ---
-Title Image Source: [Ultra-fast by LASA @ EPFL](https://www.youtube.com/watch?v=M413lLWvrbI)
+Image Source: [Ultra-fast by LASA @ EPFL](https://www.youtube.com/watch?v=M413lLWvrbI)
 
 This blog post is oriented toward the power users who need fast, reactive motion from a ROS manipulator. Prior to 2019, reactive motion was really difficult in ROS, and those who needed it most wrote their own solutions. However, PickNik has been working to make it easier. In the words of PickNik CEO Dave Coleman, reactive motion is now “a first class citizen” in the MoveIt ecosystem.
 
