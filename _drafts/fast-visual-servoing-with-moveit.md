@@ -1,5 +1,5 @@
 ---
-date: 2020-12-10 14:36:35 -0700
+date: 2021-01-21 14:36:35 -0700
 layout: post
 author: Dr. Andy Zelenak
 comments: false
@@ -9,16 +9,16 @@ media_link: "/assets/images/blog_posts/2020-12-10-catch_arm.gif"
 description: Hints for fast and safe reactive control with MoveIt.
 categories:
 - Visual Servoing
-- MoveIt
+- MoveIt Servo
 
 ---
-Source: [Ultra-fast by LASA @ EPFL](https://www.youtube.com/watch?v=M413lLWvrbI)
+Title Image Source: [Ultra-fast by LASA @ EPFL](https://www.youtube.com/watch?v=M413lLWvrbI)
 
-This white paper is oriented toward the power users who need fast, reactive motion from a ROS manipulator. Prior to 2019, reactive motion was really difficult in ROS, and those who needed it most wrote their own solutions. However, PickNik has been working to make it easier. In the words of PickNik CEO Dave Coleman, reactive motion is now “a first class citizen” in the MoveIt ecosystem.
+This blog post is oriented toward the power users who need fast, reactive motion from a ROS manipulator. Prior to 2019, reactive motion was really difficult in ROS, and those who needed it most wrote their own solutions. However, PickNik has been working to make it easier. In the words of PickNik CEO Dave Coleman, reactive motion is now “a first class citizen” in the MoveIt ecosystem.
 
 There are tons of reasons why MoveIt users require reactive motion control. For example, PickNik works with companies in the agricultural sector who pick produce from a moving tractor. The pick pose is guided by a vision system, and the MoveIt Servo package “closes the loop” to make the pick. At the end of the day, the client’s profit is heavily dependent on a fast cycle time and an accurate pick, so PickNik focuses heavily on achieving their target metrics.
 
-This paper offers a few tips so you can achieve fast and accurate motion, too. Common pitfalls are discussed, including underactuation and PID controller tuning.
+This post offers a few tips so you can achieve fast and accurate motion, too. Common pitfalls are discussed, including underactuation and PID controller tuning.
 
 ![Tractor Robot](/assets/images/blog_posts/2020-12-10-tractor_robot.png "Tractor Robot")
 
@@ -60,9 +60,9 @@ At first glance, these parameter sets seem reasonable:
 
 These parameter sets are unusual/suspicious. They might be useful in some edge cases but generally indicate bad tuning:
 
-* Kp = 12, Ki= -1, Kd= -1	~	Suspicious because all gains should have the same sign.
-* Kp = 0.3, Ki= 1, Kd= 1	~	Suspicious because proportional gain should be greater than integral and derivative gains.
-* Kp = 12, Ki= 0, Kd= 0		~	Suspicious because a bit of integral gain is desirable to improve convergence and eliminate steady-state error.
+* Kp = 12, Ki= -1, Kd= -1	\~	Suspicious because all gains should have the same sign.
+* Kp = 0.3, Ki= 1, Kd= 1	\~	Suspicious because proportional gain should be greater than integral and derivative gains.
+* Kp = 12, Ki= 0, Kd= 0	\~	Suspicious because a bit of integral gain is desirable to improve convergence and eliminate steady-state error.
 
 #### What if my robot is over-actuated or under-actuated?
 
