@@ -125,66 +125,7 @@ description: Discover exciting job opportunities at PickNik
         </div>
     </div>
 </div>
-<div class="container">
-    <div class="collapses-wrapper">
-        <h3 class="collapses__title">Open Positions</h3>
-        <div id="accordion" class="no-border-bottom">
-        <script src='https://www.workable.com/assets/embed.js' type='text/javascript'></script>
-        <script type='text/javascript' charset='utf-8'>
-                whr(document).ready(function(){
-                        whr_embed(340394, {detail: 'descriptions', base: 'jobs', zoom: 'state', grouping: 'none'});
-                });
-                // Open job in a new tab
-                $(document).on('click', 'li.whr-item a', function(e) {
-                e.preventDefault();
-                window.open(this.href, '_blank');
-                });
-                $(document).ready(checkContainer);
-                function checkContainer () {
-                  if($('div.whr-description').is(':visible')){ //if the container is visible on the page
-                    // Enable accordian
-                    var divs = $('div.whr-description').hide()
-                    var h2s=$('h3.whr-title').click(function () {
-                                h2s.not(this).removeClass('active')
-                                $(this).toggleClass('active')
-                                divs.not($(this).next().next()).slideUp()
-                                $(this).next().next().slideToggle()
-                                return false; //Prevent the browser jump to the link anchor
-                            });
-                    // Add apply now button
-                    var whr_items = document.getElementsByClassName('whr-item')
-                    for(var whr_item of whr_items)
-                    {
-                        var whr_desc = whr_item.getElementsByClassName('whr-description')[0]
-                        var node = document.createElement("a");
-                        node.target = "_blank"
-                        node.className = "btn"
-                        node.href = whr_item.getElementsByTagName('a')[0].href
-                        node.text = "APPLY NOW"
-                        whr_desc.appendChild(node)
-                        var job_place_node = document.createElement("div");
-                        job_place_node.className = "jobs-card-place"
-                        job_place_node.textContent = whr_item.getElementsByClassName('whr-location')[0].innerText
-                        whr_desc.prepend(job_place_node)
-                        whr_item.getElementsByClassName('whr-location')[0].remove()
-                    }
-                    // Remove unnecessary br tags
-                    var whr_items = document.getElementsByClassName('whr-item')
-                    for(var whr_item of whr_items)
-                    {
-                        var whr_desc = whr_item.getElementsByClassName('whr-description')[0]
-                        var br_tags = whr_desc.getElementsByTagName('br')
-                        for(var br_tag_index = br_tags.length - 1; br_tag_index >= 0; br_tag_index--)
-                        {
-                            br_tags[br_tag_index].remove()
-                        }
-                    }
-                  } else {
-                    setTimeout(checkContainer, 50); //wait 50 ms, then try again
-                  }
-                }
-        </script>
-        <div id="whr_embed_hook"></div>
-        </div>
-    </div>
+<div class="container-fluid bg-grey">
+    <h3 class="collapses__title" id="open_positions">Open Positions</h3>
+    <div id="grnhse_app"></div>
 </div>
