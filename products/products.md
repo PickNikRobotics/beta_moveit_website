@@ -41,6 +41,21 @@ description: Both open source and proprietary robotic software solutions for you
                 <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-6">
                         <div class="img-wrapper">
+                            <img class="icon" src="/assets/images/redesign/teleremote.png" alt="MoveIt Studio icon">
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6">
+                        <h2>MoveIt Studio</h2>
+                        <p>Complete autonomy for arbitrary environments and tasks is still a goal for the future. Robots get stuck, and with PickNik's MoveIt Studio product, humans can easily fix them. This mostly autonomous, human in the loop platform supports hybrid autonomy for teleoperation of robotic arms. Originally developed for NASA, we've created an intelligent solution that understands its environment and can auto-generate its plan for achieving multi-step tasks.
+                        </p>
+                        <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
+                    </div>
+                </div>
+            </div>
+            <div class="products-card-single">
+                <div class="row flex-row align-items-center">
+                    <div class="col-12 col-lg-6">
+                        <div class="img-wrapper">
                             <img class="icon" src="/assets/images/redesign/zeflexxes.png" alt="PickNik Zeflexxes icon">
                         </div>
                     </div>
@@ -64,21 +79,6 @@ description: Both open source and proprietary robotic software solutions for you
                         <p>Robotic manipulation tasks are becoming increasingly challenging to solve by ordinary motion planners. Bolt is a fast, dual-arm motion planner that selectively learns from experience. It is also capable of solving underconstrained Cartesian trajectories. Bolt reliably produces smooth and robust motion trajectories using cutting edge theoretical proofs.
                         </p>
                         <a href="/docs/PickNik_Bolt_Experience_Motion_Planning.pdf" target="_blank" class="btn">DISCOVER MORE</a>
-                    </div>
-                </div>
-            </div>
-            <div class="products-card-single">
-                <div class="row flex-row align-items-center">
-                    <div class="col-12 col-lg-6">
-                        <div class="img-wrapper">
-                            <img class="icon" src="/assets/images/redesign/teleremote.png" alt="PickNik Teleremote icon">
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-6">
-                        <h2>Teleremote</h2>
-                        <p>Complete autonomy for arbitrary environments and tasks is still a goal for the future. Robots get stuck, and with PickNik Teleremote, humans can easily fix them. This suite of remote operation tools supports mixed levels of autonomy for teleoperation of robotic arms. We leverage the latest technologies including virtual reality to ensure intuitive user interfaces.
-                        </p>
-                        <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
                     </div>
                 </div>
             </div>
