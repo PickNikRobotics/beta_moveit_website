@@ -122,7 +122,7 @@ title: index
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">20</div>
+            <div class="orb_value count">24</div>
           </div>
           <div class="orb-stats__text">Employees</div>
         </div>
@@ -132,7 +132,7 @@ title: index
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">147</div>
+            <div class="orb_value count">176</div>
           </div>
           <div class="orb-stats__text">Years of combined experience</div>
         </div>
@@ -142,7 +142,7 @@ title: index
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">5</div>
+            <div class="orb_value count">9</div>
           </div>
           <div class="orb-stats__text">Masters in Robotics</div>
         </div>
@@ -152,7 +152,7 @@ title: index
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">6</div>
+            <div class="orb_value count">7</div>
           </div>
           <div class="orb-stats__text">PhDs in Robotics</div>
         </div>
@@ -162,7 +162,7 @@ title: index
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">50</div>
+            <div class="orb_value count">51</div>
           </div>
           <div class="orb-stats__text">Client partners<br>to date</div>
         </div>
