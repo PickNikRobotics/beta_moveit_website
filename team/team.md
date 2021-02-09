@@ -103,6 +103,16 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/tahnee-foley-0bba1350/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/TahneeFoley.jpg')"></div>
+                    <h3>Tahnee Foley</h3>
+                </a>
+                <div class="team-position">Operations Assistant</div>
+                <p>Tahnee has over 20 years experience in business operations over a variety of industries including architecture and advertising.  She was the Administrative Manager to the Design Team for the 2010 Olympic Village in Vancouver, Canada, a project that included coordinating over a dozen offices working to design and build 24 buildings in four years. Her passion is to see an efficient and effective organization while ensuring client satisfaction.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/jere-liukkonen/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/jere.jpg')"></div>
                     <h3>Jere Liukkonen, MS</h3>
@@ -143,26 +153,6 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                 <a href="https://www.linkedin.com/in/boston-cleek" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/BostonCleek.jpg')"></div>
-                    <h3>Boston Cleek, MS</h3>
-                </a>
-                <div class="team-position">Software Engineer - Robotics</div>
-                <p>M.S. Robotics from Northwestern University and B.S. Mechanical Engineering from CU Boulder. His graduate research focuses on exploration and mobile manipulation. Boston has broad experience with autonomy including motion planning, simultaneous localization and mapping, and control. At CU he worked on the planning/controls team for the DARPA Subterranean Challenge leading up to the Tunnel Circuit.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/tahnee-foley-0bba1350/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/TahneeFoley.jpg')"></div>
-                    <h3>Tahnee Foley</h3>
-                </a>
-                <div class="team-position">Operations Assistant</div>
-                <p>Tahnee has over 20 years experience in business operations over a variety of industries including architecture and advertising.  She was the Administrative Manager to the Design Team for the 2010 Olympic Village in Vancouver, Canada, a project that included coordinating over a dozen offices working to design and build 24 buildings in four years. Her passion is to see an efficient and effective organization while ensuring client satisfaction.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/lynn-regnier-cpa-73a8b7a3/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/lynn.jpg')"></div>
                     <h3>Lynn Regnier, CPA</h3>
@@ -173,6 +163,27 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                 <a href="https://www.linkedin.com/in/boston-cleek" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/BostonCleek.jpg')"></div>
+                    <h3>Boston Cleek, MS</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p>M.S. Robotics from Northwestern University and B.S. Mechanical Engineering from CU Boulder. His graduate research focuses on exploration and mobile manipulation. Boston has broad experience with autonomy including motion planning, simultaneous localization and mapping, and control. At CU he worked on the planning/controls team for the DARPA Subterranean Challenge leading up to the Tunnel Circuit.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/joseph-schornak-2b23bb95/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/joe_s.jpg')"></div>
+                    <h3>Joe Schornak</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p>M.S. Robotics Engineering at Worcester Polytechnic Institute and B.S. Mechanical Engineering at Rose-Hulman Institute of Technology with minors in Computer Science and Robotics. Joe's work has focused on perception-driven robotics applications in ROS2, especially with systems that move on and around previously-unseen surfaces. His graduate research explored guiding surgical robots using MRI data and other real-time volumetric imaging techniques.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <!-- Will rejoin as intern in near future -->
+            <!-- <div class="team-card-single">
                 <a href="https://www.linkedin.com/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/SebastianJahr.jpeg')"></div>
                     <h3>Sebastian Jahr</h3>
@@ -181,7 +192,7 @@ redirect_from:
                 <p>Pursuing a master's degree in Mechatronics and Information Technology with focus on robotics and B.S. Mechatronics and Information Technology at Karlsruhe Institute of Technology. Besides his studies, Sebastian gathered experience with C++ and ROS as a student research assistant and software intern at Franka Emika. He is passionate about robotics and manipulation and eager to learn more about motion planning and control. During his internship, he will work on a hybrid planner architecture for MoveIt2.
                 </p>
                 <span class="show-more-team">Read More</span>
-            </div>
+            </div> -->
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p4.jpg')"></div>
