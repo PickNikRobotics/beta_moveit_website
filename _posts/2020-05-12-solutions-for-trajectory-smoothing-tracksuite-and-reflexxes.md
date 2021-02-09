@@ -34,11 +34,11 @@ Now, there is an alternative. [TrackSuite](https://picknik.ai/products/tracksuit
 
 The following graphs are a comparison of a trajectory smoothed with Reflexxes Type II to a trajectory smoothed with TrackSuite. Note how Reflexxes accelerates at maximum, arriving at the target destination early. Then it waits. The TrackSuite-smoothed trajectory arrives right on time (t=1.25s) and in a smooth fashion.
 
-![](https://lh3.googleusercontent.com/rNDqJlY9uodyDu2v92IHz1Z0UReEkh8OeMgPEWKzg9r2awZOzETDf_LZ-PKReIqTWFFj45sX-itgQ8wPDju5vvqEQXnnygS9pGMJpMSd3suMr1yJ11GFVw6pHpfw-gcmmJB7ULpr)
+![Reflexxes ramps velocity up as quickly as possible](/assets/images/blog_posts/2020-05-12-trackpose_vs_reflexxes.png "Reflexxes ramps velocity up as quickly as possible")
 
 Fig. 1 - Reflexxes ramps velocity up as quickly as possible.
 
-![](https://lh6.googleusercontent.com/pAWQy9WnyhxK2LQR9h-tLaFQNov3W_pjbhrwhooCqxsfn84kxfK0Ah0PK6yH_1CnbRQhgoZ818nmfXcM8GJJJWLlk_4CkbNEgjI1AOv0p5w7jUn2RElfS9DBj8JzXG5WJSh9sNt5)
+![The Reflexxes trajectory arrives early](/assets/images/blog_posts/2020-05-12-trackpose_vs_reflexxes2.png "The Reflexxes trajectory arrives early")
 
 Fig. 2 - The Reflexxes trajectory arrives early.
 
