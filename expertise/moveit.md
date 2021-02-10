@@ -2,6 +2,8 @@
 layout: page
 title: MoveIt
 permalink: /moveit/
+description: The MoveIt page on PickNik's website
+
 ---
 <div class="container">
     <div class="moveit-section-main">
@@ -356,11 +358,11 @@ permalink: /moveit/
           <h2 class="moveit-section__title text-white">MoveIt Support</h2>
           <div class="moveit-section__content text-white">
             <p>
-              One of the many benefits that PickNik provides to companies using MoveIt is the knowledge that there is a company backing MoveIt 
+              One of the many benefits that PickNik provides to companies using MoveIt is the knowledge that there is a company backing MoveIt
               and ready to provide support if needed.
             </p>
             <p>
-              PickNik provides engineering services for robotics software, from strategic contract development to ongoing support and consulting. 
+              PickNik provides engineering services for robotics software, from strategic contract development to ongoing support and consulting.
               We are ready to support your manipulation-based initiatives with MoveIt and other open source technologies.
             </p>
             <a href="/services/" class="btn btn-white mt-5 text-uppercase text-center">Learn more</a>

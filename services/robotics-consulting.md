@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Robotics Consulting and Training
+description: Picknik does robotics consulting 
 redirect_from:
   - /support/
   - /support

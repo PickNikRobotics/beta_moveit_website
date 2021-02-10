@@ -2,6 +2,7 @@
 layout: caseStudy
 company: Numurus
 title: Reduce The Complexity Of Intelligent Systems
+description: Using numurus to reduce the complexity of systems
 permalink: /case-study-numurus/
 media_type: image
 media_link: /assets/images/case_studies/numurus-main.png

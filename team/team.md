@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team
+description: The members of Picknik's team
 permalink: /team/
 redirect_from:
   - /people/
@@ -148,7 +149,7 @@ redirect_from:
                     <h3>Alex Goldman, MS</h3>
                 </a>
                 <div class="team-position">Software Engineer - Robotics</div>
-                <p>M.S. Robotics and Autonomous Systems from Arizona State University with a focus on Artificial Intelligence. As a part of Alex’s graduate studies he spearheaded the creation of an autonomous underwater vehicle for coral reef mapping and monitoring, combining his loves for scuba diving and robotics. He has a background in entrepreneurship and product development and brings his customer-centric design approaches to robotic software development. 
+                <p>M.S. Robotics and Autonomous Systems from Arizona State University with a focus on Artificial Intelligence. As a part of Alex’s graduate studies he spearheaded the creation of an autonomous underwater vehicle for coral reef mapping and monitoring, combining his loves for scuba diving and robotics. He has a background in entrepreneurship and product development and brings his customer-centric design approaches to robotic software development.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>

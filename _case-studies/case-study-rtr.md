@@ -2,6 +2,7 @@
 layout: caseStudy
 company: Realtime Robotics
 title: Real Work, Real Fast in the Real World
+description: PickNik and Realtime team up to create MoveIt planning plugin for RapidPlan
 permalink: /case-study-rtr/
 media_type: image
 media_link: /assets/images/case_studies/real_time_robotics/blog_image.jpg

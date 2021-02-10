@@ -2,6 +2,7 @@
 layout: caseStudy
 company: Tethers Unlimited
 title: Robotic Manipulation for In-Space Robotic Arms
+description: Tethers Unlimited collaborates with PickNik to build advanced robotic control software.
 permalink: /case-study-tethers/
 media_type: image
 media_link: /assets/images/case_studies/tethers-main.png
@@ -21,7 +22,7 @@ An internally developed legacy simulation was being adapted for the new project,
 
 **Solution**
 
-TUI reached out to the team at PickNik Robotics for support in refactoring their robotics software to hit upcoming deadlines. PickNik engineers were able to remotely collaborate with the TUI team to revive the application functionality, and implement best practices and documentation. PickNik drew on their vast experience with ROS, MoveIt, and Gazebo to take TUI's ROS packages to the next technical readiness level. 
+TUI reached out to the team at PickNik Robotics for support in refactoring their robotics software to hit upcoming deadlines. PickNik engineers were able to remotely collaborate with the TUI team to revive the application functionality, and implement best practices and documentation. PickNik drew on their vast experience with ROS, MoveIt, and Gazebo to take TUI's ROS packages to the next technical readiness level.
 
 In addition, an effort was undertaken to improve the KRAKEN CAD model for use with ROS' URDF modeling standard. PikNik advised TUI on how to improve the model assembly and structure for clean export to URDF, and improvements were made to better support physics simulation in Gazebo.
 

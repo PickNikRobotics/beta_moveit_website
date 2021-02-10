@@ -2,6 +2,8 @@
 layout: page
 title: Robot Operating System (ROS)
 permalink: /ros/
+description: the ros page on PicksNiks's website
+
 ---
 <div class="container">
     <div class="moveit-section-main">
@@ -196,17 +198,17 @@ permalink: /ros/
       <a href="/moveit">
         <img class="block-section__img ros-image-max-300" src="/assets/images/moveit-logo-2.png" alt="MoveIt">
       </a>
-    </div> 
+    </div>
     <div class="col-12 col-lg-6">
       <div class="moveit-section">
         <h2 class="moveit-section__title">ROS is used in MoveIt</h2>
         <div class="moveit-section__content">
           <p>
-            The <a href="/moveit/">MoveIt motion planning framework</a> uses the ROS ecosystem integraly to reduce code duplication and maintain interoperability to many types of robotic arms, actuators, and sensors. Both MoveIt and ROS were originally developed for Willow Garage's PR2 robot platform (pictured above). MoveIt is the third most popular ROS package and a vital part of the ROS ecosystem. 
+            The <a href="/moveit/">MoveIt motion planning framework</a> uses the ROS ecosystem integraly to reduce code duplication and maintain interoperability to many types of robotic arms, actuators, and sensors. Both MoveIt and ROS were originally developed for Willow Garage's PR2 robot platform (pictured above). MoveIt is the third most popular ROS package and a vital part of the ROS ecosystem.
           </p>
         </div>
       </div>
-    </div> 
+    </div>
   </div>
 </div>
 <div class="container-fluid bg-grey">
@@ -272,7 +274,7 @@ permalink: /ros/
               LEARN MORE ABOUT MOVEIT 2
             </a>
           </div>
-        </div> 
+        </div>
       </div>
     </div>
   </div>
@@ -285,7 +287,7 @@ permalink: /ros/
           <h2 class="moveit-section__title">ROS Consulting and Support</h2>
           <div class="moveit-section__content">
             <p>
-              PickNik Robotics has provided ROS consulting and ROS support for over 40 companies to date. 
+              PickNik Robotics has provided ROS consulting and ROS support for over 40 companies to date.
             </p>
             <a class="btn btn-white mt-4 text-uppercase" href="/connect/">
                 Contact us for ros consulting
@@ -300,7 +302,7 @@ permalink: /ros/
               PickNik provides engineering services and support for commercial ROS applications such as robotic agriculture, surgery, warehouse logistics, aerospace, manufacturing, food preparation, construction, and home assistants. PickNik's core capabilities include ROS-based manipulation, control, perception, and navigation.
             </p>
             <p>
-              Open Robotics is the main company behind the ROS middleware and infrastructure, and they have been working hard to bring ROS 2 to the world. <a href="/portfolio/#partners">PickNik is a partner with Open Robotics</a>, working closely in the open source ecosystem to improve the ROS community and software. 
+              Open Robotics is the main company behind the ROS middleware and infrastructure, and they have been working hard to bring ROS 2 to the world. <a href="/portfolio/#partners">PickNik is a partner with Open Robotics</a>, working closely in the open source ecosystem to improve the ROS community and software.
             </p>
           </div>
         </div>

@@ -2,6 +2,7 @@
 layout: caseStudy
 company: AppliedLogix
 title: Rapid Autonomous Produce Harvesting
+description: Vision, navigation, and motion planning come together to deliver core capability of an agricultural robot platform.
 permalink: /case-study-appliedlogix/
 media_type: image
 media_link: /assets/images/case_studies/appliedlogix-main.png
@@ -26,13 +27,13 @@ AppliedLogix was well-equipped to execute the system engineering of the robotic 
 
 **Solution**
 
-AppliedLogix selected the PickNik Robotics team and together the combined team moved forward with co-developing the platform. PickNik tailored existing open source solutions, in particular MoveIt, to quickly deliver the core motion planning capabilities of the produce harvesting system. The system uses inputs from the wrist-mounted camera and the vehicle odometry to drive closed-loop motion planning using a new library in MoveIt called MoveIt Servo. 
+AppliedLogix selected the PickNik Robotics team and together the combined team moved forward with co-developing the platform. PickNik tailored existing open source solutions, in particular MoveIt, to quickly deliver the core motion planning capabilities of the produce harvesting system. The system uses inputs from the wrist-mounted camera and the vehicle odometry to drive closed-loop motion planning using a new library in MoveIt called MoveIt Servo.
 
 PickNik's expertise with camera calibration was essential to making the cameras useful. Furthermore, PickNik’s ability to specify and apply the appropriate geometric transformations (something that is part and parcel of robotics work), was a critical element in reducing the pick cycle times.
 
 The software was developed and tested on commercially available robotic arms, so that significant progress could be made before the first custom hardware was available. Test platforms were built at both PickNik and AppliedLogix to simulate the full system. As a result, PickNik was able to rapidly develop the core software and test it locally, while also delivering robustness to hardware changes.
 
-On the robotic arm hardware side, PickNik leveraged their network to recommend a robotic arm hardware partner to develop a custom arm for AppliedLogix. 
+On the robotic arm hardware side, PickNik leveraged their network to recommend a robotic arm hardware partner to develop a custom arm for AppliedLogix.
 
 
 **Outcome**

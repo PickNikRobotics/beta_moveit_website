@@ -2,6 +2,7 @@
 layout: caseStudy
 company: Vicarious​
 title: AI​ ​for​ ​the​ ​robot​ ​age
+description: Improving​ ​Baxter​ ​robot​ ​to​ ​work​ ​on​ ​the​ ​latest​ ​Gazebo​ ​simulator​ ​and​ ​ROS​ ​release.
 permalink: /case-study-vicarious/
 media_type: image
 media_link: /assets/images/cs-image.png

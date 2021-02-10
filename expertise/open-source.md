@@ -2,6 +2,8 @@
 layout: page
 title: Open Source Robotics
 permalink: /open-source/
+description: the open source robotics page on PicksNiks's website
+
 ---
 <div class="container">
     <div class="moveit-section-main">
@@ -103,7 +105,7 @@ permalink: /open-source/
             “Tesla has created a software platform with more lines of code than Windows, but with a fraction of Microsoft’s software-development capabilities. How did Tesla achieve this without an army of engineers and three decades of experience? Through the extensive use of available and mature open-source software.”<sup class="text-green"> 2</sup>
           </h4>
         </div>
-      </div> 
+      </div>
     </div>  
   </div>
 </div>
@@ -132,7 +134,7 @@ permalink: /open-source/
           </h4>
           <p class="moveit-section--review__author">Brian Gerkey, CEO, Open Robotics</p>
         </div>
-      </div> 
+      </div>
     </div>  
   </div>
 </div>
@@ -221,7 +223,7 @@ permalink: /open-source/
               We devote a significant portion of our company profits to <b>further maintaining and improving open source robotics</b>. We consider this as a significant part of our marketing budget, as we hope these open source projects continue to become more popular and drive further software development with PickNik.
             </p>
             <p>
-              We recognize that we must balance the needs of generating income with the needs of open source projects. We are careful to <b>listen to and respect the open source communities</b> of volunteers who are passionate about building great software. 
+              We recognize that we must balance the needs of generating income with the needs of open source projects. We are careful to <b>listen to and respect the open source communities</b> of volunteers who are passionate about building great software.
             </p>
           </div>
         </div>

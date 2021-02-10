@@ -1,6 +1,8 @@
 ---
 layout: home
 title: index
+description: The PickNik website
+
 ---
 
 <div class="container">

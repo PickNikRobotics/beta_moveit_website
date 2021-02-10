@@ -2,6 +2,7 @@
 layout: caseStudy
 company: Rapyuta Robotics
 title: Building advanced warehouse logistics capabilities
+description: PickNik helps solve real-world warehouse motion planning challenges
 permalink: /case-study-rapyuta/
 media_type: image
 media_link: /assets/images/case_studies/rapyuta-main.png

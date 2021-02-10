@@ -2,6 +2,8 @@
 layout: page
 title: Custom Robotics Software Development
 permalink: /services/custom-development/
+description: the customer development page on PicksNiks's website
+
 ---
 <div class="container">
     <div class="services-robotic-section-main">
@@ -28,7 +30,7 @@ permalink: /services/custom-development/
                 <div class="col-12 col-lg-6">
                     <h2>Trusted<br/> Development<br/> Partners</h2>
                     <p>
-                        PickNik can work either in a collaborative engagement with your engineering team (most common) or as turn key roboticists of end to end solutions and components. We bring a cross-functional team of robotics expertise in a brainstorming environment to effectively share ideas and solve problems from different angles. 
+                        PickNik can work either in a collaborative engagement with your engineering team (most common) or as turn key roboticists of end to end solutions and components. We bring a cross-functional team of robotics expertise in a brainstorming environment to effectively share ideas and solve problems from different angles.
                     </p>
                 </div>
             </div>

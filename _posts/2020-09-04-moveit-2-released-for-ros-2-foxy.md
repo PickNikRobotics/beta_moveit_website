@@ -6,7 +6,7 @@ date: 2020-09-04 00:00:00 -0600
 title: MoveIt 2 is out of Beta!
 media_type: image
 media_link: "/assets/images/blog_posts/2020-09-04-move-it-foxy-1-a.png"
-description: ''
+description: Announcing the MoveIt2 release for ROS 2 
 categories:
 - ros2
 - foxy release

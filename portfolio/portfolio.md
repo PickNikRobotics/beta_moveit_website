@@ -2,6 +2,8 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
+description: the portfolio page on PicksNiks's website
+
 ---
 <div class="container">
     <div class="moveit-section-main portfolio-section-main">

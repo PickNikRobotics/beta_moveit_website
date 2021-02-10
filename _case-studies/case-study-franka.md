@@ -2,6 +2,7 @@
 layout: caseStudy
 company: Franka Emika
 title: Robots for everyone
+description: Codesprint to make Panda the flagship robot of the MoveIt tutorials.
 permalink: /case-study-franka/
 media_type: image
 media_link: /assets/images/case_studies/franka-main.png

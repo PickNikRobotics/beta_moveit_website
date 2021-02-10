@@ -2,6 +2,8 @@
 layout: page
 title: Robotics R&amp;D Services
 permalink: /services/
+description: Services PickNik Robotics offers
+
 ---
 <div class="container">
     <div class="services-section-main">
