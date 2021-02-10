@@ -48,7 +48,7 @@ description: Both open source and proprietary robotic software solutions for you
                         <h2>MoveIt Studio</h2>
                         <p>Complete autonomy for arbitrary environments and tasks is still a goal for the future. Robots get stuck, and with PickNik's MoveIt Studio product, humans can easily fix them. This mostly autonomous, human in the loop platform supports hybrid autonomy for teleoperation of robotic arms. Originally developed for NASA, we've created an intelligent solution that understands its environment and can auto-generate its plan for achieving multi-step tasks.
                         </p>
-                        <a href="/connect" class="btn">CONTACT US TO LEARN MORE</a>
+                        <a href="/docs/PickNik_MoveIt_Studio_Spec_Sheet.pdf" target="_blank" class="btn">DISCOVER MORE</a>
                     </div>
                 </div>
             </div>
