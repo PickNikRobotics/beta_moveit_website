@@ -176,10 +176,20 @@ redirect_from:
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/joseph-schornak-2b23bb95/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/joe_s.jpg')"></div>
-                    <h3>Joe Schornak</h3>
+                    <h3>Joe Schornak, MS</h3>
                 </a>
                 <div class="team-position">Software Engineer - Robotics</div>
                 <p>M.S. Robotics Engineering at Worcester Polytechnic Institute and B.S. Mechanical Engineering at Rose-Hulman Institute of Technology with minors in Computer Science and Robotics. Joe's work has focused on perception-driven robotics applications in ROS2, especially with systems that move on and around previously-unseen surfaces. His graduate research explored guiding surgical robots using MRI data and other real-time volumetric imaging techniques.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/griswaldbrooks/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/griz.png')"></div>
+                    <h3>Griswald Brooks, MS</h3>
+                </a>
+                <div class="team-position">Senior Software Engineer - Robotics</div>
+                <p>M.S. Electrical Engineering with a concentration in Controls and Robotics from NYU Polytechnic School of Engineering. Inspired from a young age by the advances in robotics at MIT Leg Lab, Griswald pursued the field following service in the US Navy. Development of ROS and the PR2 at Willow Garage drew him to the Bay Area, where he was a key contributor to autonomous docking, navigation, and perception at companies such as Fetch, Neato, and Bossa Nova Robotics. Having designed and developed automated on-robot testing systems, he is experienced in delivering robust, production quality robot software.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
