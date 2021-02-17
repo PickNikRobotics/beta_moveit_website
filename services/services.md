@@ -24,7 +24,7 @@ description: Services PickNik Robotics offers
     <div class="container">
         <div class="services-card-wrapper">
             <div class="services-card-single">
-                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf" target="_blank">
+                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Marketing_Overview.pdf" target="_blank">
                     <div class="img-wrapper">
                         <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="motion planning icon">
                     </div>
@@ -33,7 +33,7 @@ description: Services PickNik Robotics offers
                 <p>
                 Before launching a large project with a new client, we have found it beneficial to conduct a small fixed-price consulting engagement that generates an in-depth Feasibility Study report. This includes a technical analysis, risk assessment, development of milestones, and architecture diagrams. The feasibility study allows both parties to test the waters and fully understand each other.
                 </p>
-                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf" target="_blank" class="btn">discover more</a>
+                <a href="/docs/PickNik_Phase_0_Feasibility_Study_Marketing_Overview.pdf" target="_blank" class="btn">discover more</a>
             </div>
             <div class="services-card-single">
                 <a href="/services/custom-development">

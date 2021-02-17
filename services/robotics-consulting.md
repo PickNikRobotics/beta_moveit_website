@@ -15,7 +15,7 @@ permalink: /services/robotics-consulting/
             <div class="col-12 col-lg-6">
                 <h1>Ongoing Robotics Support</h1>
                 <p>
-                    PickNik's on-demand consulting, support, and code debugging offering provides a flexible and lightweight alternative to larger scoped projects. These types of engagements are typical after a larger code development effort has ended, or after a <a href="/docs/PickNik_Phase_0_Feasibility_Study_Overview.pdf" target="_blank">Phase 0 Feasibility Study</a> is completed but the larger effort is not ready to begin yet.
+                    PickNik's on-demand consulting, support, and code debugging offering provides a flexible and lightweight alternative to larger scoped projects. These types of engagements are typical after a larger code development effort has ended, or after a <a href="/docs/PickNik_Phase_0_Feasibility_Study_Marketing_Overview.pdf" target="_blank">Phase 0 Feasibility Study</a> is completed but the larger effort is not ready to begin yet.
                 </p>
             </div>
             <div class="col-12 col-lg-6">
