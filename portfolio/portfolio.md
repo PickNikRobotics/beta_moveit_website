@@ -172,7 +172,14 @@ description: the portfolio page on PicksNiks's website
               <img src="/assets/images/our-clients/hello-robot-partner.png" alt="Hello Robotics logo"/>
             </a>
             <h4>Hello Robot</h4>
-            <p>PickNik is an integration partner of Hello's Stretch R1 mobile manipulator</p>
+            <p>PickNik is an integration partner for the Stretch R1 mobile manipulator</p>
+          </div>
+          <div class="open-source-organizations">
+            <a href="https://www.servoneering.com/" target="_blank">
+              <img src="/assets/images/our-clients/SERVOneeringLogo.png" alt="SERVOneering logo"/>
+            </a>
+            <h4>SERVOneering</h4>
+            <p>A Tier-1 supplier to robot OEMs for custom joint modules</p>
           </div>
           <!-- <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="open-source-organizations">
