@@ -267,7 +267,7 @@ description: the ros page on PicksNiks's website
         </div>
         <div class="col-12 col-lg-6">
           <div class="ros-button-group">
-            <a class="btn" href="https://index.ros.org/doc/ros2/_downloads/ca487a5e252ef6910bcb40402640bde6/ros2-brochure-a4-web.pdf" target="_blank">
+            <a class="btn" href="https://docs.ros.org/en/foxy/_downloads/b837b51f4eec5fd5da351747777193fa/ros2-brochure-ltr-print.pdf" target="_blank">
               LEARN MORE ABOUT ROS 2
             </a>
             <a class="btn btn-blue" href="https://moveit.ros.org/moveit2/ros2/foxy/release/2020/09/04/moveit2-foxy-release.html" target="_blank">
