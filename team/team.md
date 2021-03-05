@@ -193,6 +193,17 @@ redirect_from:
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/skolk" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/sean.png')"></div>
+                    <h3>Sean Kolk</h3>
+                </a>
+                <div class="team-position">Director of Business Development</div>
+                <p>B.S. International Affairs in Counter Terrorism Theory from Georgia Tech. Trained as a design engineer who's built electro-mechanical tools, integrated digital systems, and lead product market strategy in human-centered services. He's worked in biotech labs, on the shop floor, and coordinated disaster relief efforts in the developing world. When not putting in creative energy he leads sailing, paragliding, and mountaineering expeditions.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+
             <!-- Will rejoin as intern in near future -->
             <!-- <div class="team-card-single">
                 <a href="https://www.linkedin.com/" target="_blank">
