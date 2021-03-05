@@ -13,11 +13,11 @@ description: PickNiks MoveIt Studio
             <div class="row justify-content-center">
                 <h1>MoveIt Studio</h1>
             </div>
-            <h2>Mixed Autonomy Remote Manipulation</h2>
+            <h2>Supervised Autonomy for Unstructured Environments</h2>
             <div class="row justify-content-center">
                 <a href="/docs/PickNik_MoveIt_Studio_Spec_Sheet.pdf" target="_blank" class="btn">
                     <img src="/assets/images/tracksuite/doc-logo.png"/>
-                    GET SOLUTION BRIEF
+                    GET SPEC SHEET
                 </a>
             </div>
         </div>
@@ -32,12 +32,12 @@ description: PickNiks MoveIt Studio
             <div class="col-4 tracksuite-card-single">
                 <img class="mx-auto d-block" src="/assets/images/tracksuite/1.png" alt="Reduce robotic hardware wear & tear">
                 <h3>Humans Augmenting Robots</h3>
-                <p>Runs on any ROS-compatible robot, and can be integrated with non-ROS compatible robots.</p>
+                <p>Autonomy-first solution that reduces cognitive load on operators.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
                 <img class="mx-auto d-block" src="/assets/images/tracksuite/2.png" alt="Improve Cycle Time">
-                <h3>Achieve Complex Tasks</h3>
-                <p>Enables high-level specification of non-trivial objectives.</p>
+                <h3>Get to Market Faster</h3>
+                <p>Launch complex, multi-step manipulation applications today.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
                 <img class="mx-auto d-block" src="/assets/images/tracksuite/3.png" alt="Safer, predictable behavior">
@@ -55,8 +55,9 @@ description: PickNiks MoveIt Studio
                 <div class="col-12 col-lg-6">
                     <h3>What is MoveIt Studio?</h3>
                     <p>
-                    The Studio is a collection of task planning libraries and user interfaces that extend MoveIt for remote operation using hybrid autonomy. MoveIt Studio makes complex, multi-step manipulation tasks easier to specify, adapt, and supervise. This is useful for all sorts of difficult manipulation applications where the AI occasionally needs assistance from a human operator.
-
+                        MoveIt Studio is a mostly autonomous software platform allowing robot arms to achieve complex manipulation tasks remotely, 
+                        for use in a broad range of unstructured environments such as urban areas, inside buildings, and remote infrastructure domains. 
+                        In addition, Studio can be used in microgravity and underwater.
                     </p>
                 </div>
             </div>
