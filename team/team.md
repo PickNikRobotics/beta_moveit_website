@@ -203,7 +203,26 @@ redirect_from:
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
-
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/marques-rasmussen-84b74235/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/marq.jpg')"></div>
+                    <h3>Marq Rasmussen, MS</h3>
+                </a>
+                <div class="team-position">Senior Software Engineer - Robotics</div>
+                <p>M.S. Mechanical Engineering from University of Utah with focus on robotics and motion planning, B.S. Mechanical Engineering with focus on control theory, system modeling and a minor in Computer Science. Wide ranging experience working with robotics from human controlled exoskeletons and custom snake robots to industrial grade robot workcells and autonomous forklifts. Marq has 13+ years working with robotics systems from concept to prototype to production for companies including Intel, Nike, Amazon and DARPA. Marq's recent work has focused on a MoveIt! based high speed pick and place application and leading an AI based vision team in developing a fully autonomous ecommerce order fulfillment system.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/cassidy-elliott/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/CassidyElliott.jpeg')"></div>
+                    <h3>Cassidy Elliott, MS</h3>
+                </a>
+                <div class="team-position">Technical Project Manager</div>
+                <p>M.S. Mechanical Engineering from the University of Texas, B.S. Mechanical Engineering from the University of Alabama. Cassidy’s graduate research focused on increasing the automation of remote contact tasks using affordance templates with compliance. Cassidy brings extensive experience coordinating with oil and natural gas companies for the use of robotics by novice users in hazardous environments.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
             <!-- Will rejoin as intern in near future -->
             <!-- <div class="team-card-single">
                 <a href="https://www.linkedin.com/" target="_blank">
