@@ -55,8 +55,8 @@ description: PickNiks MoveIt Studio
                 <div class="col-12 col-lg-6">
                     <h3>What is MoveIt Studio?</h3>
                     <p>
-                        MoveIt Studio is a mostly autonomous software platform allowing robot arms to achieve complex manipulation tasks remotely, 
-                        for use in a broad range of unstructured environments such as urban areas, inside buildings, and remote infrastructure domains. 
+                        MoveIt Studio is a mostly autonomous software platform allowing robot arms to achieve complex manipulation tasks remotely,
+                        for use in a broad range of unstructured environments such as urban areas, inside buildings, and remote infrastructure domains.
                         In addition, Studio can be used in microgravity and underwater.
                     </p>
                 </div>
@@ -69,7 +69,7 @@ description: PickNiks MoveIt Studio
         <div class="col-12">
             <div class="row justify-content-center">
                 <div class=" contact-font">
-                    Contact us for a free trial
+                    Contact us for a free demo
                 </div>
             </div>
             <div class="row justify-content-center">
