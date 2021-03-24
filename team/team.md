@@ -14,7 +14,7 @@ redirect_from:
             </div>
             <div class="col-12 col-lg-6">
                 <p>
-                    Founded in 2015 for the Amazon Picking Challenge, PickNik’s team now has over 127 years of combined experience in the field of robotics and automation, bringing together deep academic background of robotic theory and robotics software development experience.
+                    Founded in 2015 for the Amazon Picking Challenge, PickNik’s team now has over 175 years of combined experience in the field of robotics and automation, bringing together deep academic background of robotic theory and robotics software development experience.
                 </p>
             </div>
         </div>
