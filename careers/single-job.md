@@ -5,11 +5,11 @@ permalink: /job/
 description: Discover exciting job opportunities at PickNik
 ---
 <div class="container">
-    <div class="jobs-section-main">
+    <div class="careers-section-main">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-4">
-                <h1 class="jobs-section-main-title">Work at PickNik</h1>
-                <span class="jobs-section-main-title--small">Cutting edge. Dynamic. Robotics.</span>
+                <h1 class="careers-section-main-title">Work at PickNik</h1>
+                <span class="careers-section-main-title--small">Cutting edge. Dynamic. Robotics.</span>
             </div>
             <div class="col-12 col-lg-6">
                 <p>
@@ -20,8 +20,8 @@ description: Discover exciting job opportunities at PickNik
     </div>
 </div>
 <div class="container-fluid bg-grey">
-    <div class="jobs-card-wrapper">
-        <div class="jobs-card-single">
+    <div class="careers-card-wrapper">
+        <div class="careers-card-single">
             <div class="col-12 col-xl-10 text-center">
                 <div id="grnhse_app"></div>
             </div>

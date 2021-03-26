@@ -300,7 +300,7 @@ redirect_from:
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="collapses__btn">
-                        <a href="/jobs/" class="btn">
+                        <a href="/careers/" class="btn">
                             See available positions on the team!
                         </a>
                     </div>

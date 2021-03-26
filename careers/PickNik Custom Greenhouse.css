@@ -106,7 +106,7 @@ body #content {
 }
 
 section .opening a {
-    /* We want to increase the click area and background area of links to jobs,
+    /* We want to increase the click area and background area of links to careers,
     so we combine padding and negative margin */
     display: block;
     width: 100%;

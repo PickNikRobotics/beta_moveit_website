@@ -1,16 +1,16 @@
-.jobs-section-main {
+.careers-section-main {
   margin: 60px auto 200px;
   @media screen and (max-width: 992px) {
     margin: 30px auto 200px;
   }
-  .jobs-section-main-title {
+  .careers-section-main-title {
     margin-bottom: 0;
     max-width: 60%;
     @media screen and (max-width: 992px) {
       max-width: auto;
     }
   }
-  .jobs-section-main-title--small {
+  .careers-section-main-title--small {
     font-size: 24px;
     @media screen and (max-width: 992px) {
       margin-bottom: 30px;
@@ -23,7 +23,7 @@
   }
 }
 
-.jobs-card-wrapper {
+.careers-card-wrapper {
   display: flex;
   justify-content: space-between;
   position: relative;
@@ -31,7 +31,7 @@
   flex-wrap: wrap;
 }
 
-.jobs-card-single {
+.careers-card-single {
   display: flex;
   flex-wrap: wrap;
   padding: 8%;
@@ -64,14 +64,14 @@
   }
 }
 
-.jobs-card-single-content {
+.careers-card-single-content {
   margin-left: 30px;
   @media screen and (max-width: 1199px) {
     margin-left: 0;
   }
 }
 
-.jobs-card-instagram {
+.careers-card-instagram {
   span {
     font-size: 14px;
     color: #3c4a69;
@@ -80,12 +80,12 @@
   }
 }
 
-.jobs-perks-wrapper {
+.careers-perks-wrapper {
   margin-top: 30px;
   margin-bottom: 80px;
 }
 
-.jobs-perks {
+.careers-perks {
   display: flex;
   width: 30%;
   max-width: 30%;
@@ -122,7 +122,7 @@
       margin-bottom: 24px;
     }
 
-     &.jobs-perks-smaller {
+     &.careers-perks-smaller {
       img {
         padding: 20px;
       }
@@ -171,7 +171,7 @@
           transition: all 0.3s;
           color: #04e79f;
         }
-      } 
+      }
     }
     .whr-info { display: none; }
 /*    .whr-title:focus, .whr-title:active, .whr-title.active {
@@ -239,7 +239,7 @@
     font-size: 18px;
     line-height: 34px;
   }
-  .jobs-card-place {
+  .careers-card-place {
       margin-top: 20px;
       margin-bottom: 20px;
       font-style: italic;
@@ -254,7 +254,7 @@
   }
 }
 
-.jobs-best-places {
+.careers-best-places {
   background-color: #22304e;
   padding: 60px 0;
   border-radius: 6px;
@@ -314,7 +314,7 @@
   }
 }
 
-.jobs-best-places__green-circle {
+.careers-best-places__green-circle {
   position: absolute;
   z-index: 1;
   width: 500px;
@@ -336,7 +336,7 @@
   }
 }
 
-.jobs-best-places__image-wrapper {
+.careers-best-places__image-wrapper {
   flex: 0 0 30%;
   max-width: 30%;
   position: relative;
