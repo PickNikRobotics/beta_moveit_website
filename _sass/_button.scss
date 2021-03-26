@@ -1,5 +1,5 @@
 .btn {
-  color: #121929;
+  color: #121929!important;
   background-color: #04e79f;
   padding: 10px 16px;
   min-width: 130px;
@@ -7,7 +7,7 @@
   border-radius: 3px;
   border: 2px solid #04e79f;
   &:hover, &:focus {
-    color: #ffffff;
+    color: #ffffff !important;
     background-color: #04e79f;
   }
 }

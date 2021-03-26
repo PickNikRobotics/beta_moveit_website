@@ -422,6 +422,11 @@ description: Services PickNik Robotics offers
                                 Visual servoing tracking of objects for manipulation
                             </li>
                         </ul>
+                        <div class="row justify-content-center">
+                                        <a href="/perception" class="btn">
+                                        Learn More
+                                        </a>
+                                    </div>
                     </div>
                 </div>
             </div>
