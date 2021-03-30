@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Solutions
+title: Products
 permalink: /products/
 description: Both open source and proprietary robotic software solutions for your applications
 ---
@@ -8,7 +8,7 @@ description: Both open source and proprietary robotic software solutions for you
     <div class="products-section-main">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-4">
-                <h1 class="products-section-main-title">Solutions</h1>
+                <h1 class="products-section-main-title">Products</h1>
                 <span class="products-section-main-title--small">Plan. Build. Support.</span>
             </div>
             <div class="col-12 col-lg-6">
