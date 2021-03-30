@@ -585,6 +585,11 @@ description: Services PickNik Robotics offers
                                 Simulated Gazebo system of robot base navigation
                             </li>
                         </ul>
+                        <div class="row justify-content-center">
+                                        <a href="/navigation" class="btn">
+                                        Learn More
+                                        </a>
+                                    </div>
                     </div>
                 </div>
             </div>
