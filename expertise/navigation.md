@@ -46,7 +46,7 @@ Navigating around an environment is the core problem in mobile robotics. In the 
 *   Wheeled
 *   Legged
 *   Aquatic
-*   Arial
+*   Aerial
 
 
 <div class="row justify-content-center">
