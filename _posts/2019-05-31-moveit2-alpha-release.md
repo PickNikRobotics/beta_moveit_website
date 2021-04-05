@@ -1,5 +1,5 @@
 ---
-author: Dave Coleman
+author: Dr. Dave Coleman
 comments: false
 date: 2019-05-31
 layout: post

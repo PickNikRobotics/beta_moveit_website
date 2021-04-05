@@ -1,6 +1,6 @@
 ---
 layout: post
-author: John Stechschulte, PhD, Perception Scientist
+author: Dr. John Stechschulte, PhD, Perception Scientist
 comments: false
 date: 2020-08-14T00:00:00.000-06:00
 title: New MoveIt Calibration Capabilities from Intel

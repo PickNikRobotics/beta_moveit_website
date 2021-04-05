@@ -1,5 +1,5 @@
 ---
-author: Nathan Brooks
+author: Dr. Nathan Brooks
 comments: false
 date: 2019-01-16
 layout: post

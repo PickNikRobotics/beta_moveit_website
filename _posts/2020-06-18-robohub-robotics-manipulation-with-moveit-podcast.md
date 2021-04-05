@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Dave Coleman
+author: Dr. Dave Coleman
 comments: false
 date: 2020-06-18 00:00:00 -0600
 title: 'Robohub: Robotics Manipulation with MoveIt Podcast'

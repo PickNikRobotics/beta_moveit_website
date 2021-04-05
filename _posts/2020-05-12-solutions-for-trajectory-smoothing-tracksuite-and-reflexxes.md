@@ -1,5 +1,5 @@
 ---
-author: Andy Zelenak, PhD, Controls Engineer
+author: Dr. Andy Zelenak, PhD, Controls Engineer
 comments: false
 date: 2020-05-12 01:00:00 -0600
 layout: post

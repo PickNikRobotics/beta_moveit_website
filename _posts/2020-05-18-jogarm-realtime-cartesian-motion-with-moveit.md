@@ -1,6 +1,6 @@
 ---
 layout: post
-author: 'Andy Zelenak, PhD, Controls Engineer '
+author: Dr. Andy Zelenak, PhD, Controls Engineer
 comments: false
 date: 2020-05-18 00:00:00 -0600
 title: 'JogArm: Realtime Cartesian Motion with MoveIt'

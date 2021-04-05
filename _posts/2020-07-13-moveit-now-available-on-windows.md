@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Dave Coleman, PhD
+author: Dr. Dave Coleman, PhD
 comments: false
 date: 2020-07-13 00:00:00 -0600
 title: MoveIt now available on Windows

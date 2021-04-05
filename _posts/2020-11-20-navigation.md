@@ -1,5 +1,5 @@
 ---
-author: David Lu!!
+author: Dr. David Lu
 comments: false
 date: 2020-12-04
 layout: post

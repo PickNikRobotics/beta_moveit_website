@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Dave Coleman
+author: Dr. Dave Coleman
 comments: false
 date: 2020-05-22 00:00:00 -0600
 title: 'Robobusiness Talk: Future of Robotic Manipulation'
