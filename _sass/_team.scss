@@ -72,11 +72,17 @@
 }
 
 .team-card-single-empty {
-  padding: 38px 40px;
   background: #f5f5fa;
-  flex: 0 0 30.333333%;
-  max-width: 30.333333%;
-  margin-bottom: 40px;
+  flex: 0 0 24%;
+  max-width: 24%;
+
+  @media screen and (max-width: 1199px) {
+    max-width: 32%;
+    flex: 0 0 32%;
+  }
+  @media screen and (max-width: 992px) {
+    display: none;
+  }
 }
 
 .team-position {

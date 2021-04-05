@@ -54,6 +54,26 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/lynn-regnier-cpa-73a8b7a3/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/lynn.jpg')"></div>
+                    <h3>Lynn Regnier, CPA</h3>
+                </a>
+                <div class="team-position">Director of Finance</div>
+                <p>CPA licensed in Colorado with an M.S. in accounting from the University of Colorado, Boulder.  Over her career Lynn has worked for small and very large organizations in both business and scientific roles.  Lynn brings six years of accounting experience from a mix of public accounting and early stage startups.  Lynn's passion is in helping businesses grow by providing reliable financial information to help make informed decisions.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/skolk" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/sean.png')"></div>
+                    <h3>Sean Kolk</h3>
+                </a>
+                <div class="team-position">Director of Business Development</div>
+                <p>B.S. International Affairs in Counter Terrorism Theory from Georgia Tech. Trained as a design engineer who's built electro-mechanical tools, integrated digital systems, and lead product market strategy in human-centered services. He's worked in biotech labs, on the shop floor, and coordinated disaster relief efforts in the developing world. When not putting in creative energy he leads sailing, paragliding, and mountaineering expeditions.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://github.com/DLu" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/DavidLu.jpeg')"></div>
                     <h3>David Lu, PhD</h3>
@@ -154,16 +174,6 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/lynn-regnier-cpa-73a8b7a3/" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/lynn.jpg')"></div>
-                    <h3>Lynn Regnier, CPA</h3>
-                </a>
-                <div class="team-position">Accountant and Contracts Specialist</div>
-                <p>CPA licensed in Colorado with an M.S. in accounting from the University of Colorado, Boulder.  Over her career Lynn has worked for small and very large organizations in both business and scientific roles.  Lynn brings six years of accounting experience from a mix of public accounting and early stage startups.  Lynn's passion is in helping businesses grow by providing reliable financial information to help make informed decisions.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
                  <a href="https://www.linkedin.com/in/boston-cleek" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/BostonCleek.jpg')"></div>
                     <h3>Boston Cleek, MS</h3>
@@ -190,16 +200,6 @@ redirect_from:
                 </a>
                 <div class="team-position">Senior Software Engineer - Robotics</div>
                 <p>M.S. Electrical Engineering with a concentration in Controls and Robotics from NYU Polytechnic School of Engineering. Inspired from a young age by the advances in robotics at MIT Leg Lab, Griswald pursued the field following service in the US Navy. Development of ROS and the PR2 at Willow Garage drew him to the Bay Area, where he was a key contributor to autonomous docking, navigation, and perception at companies such as Fetch, Neato, and Bossa Nova Robotics. Having designed and developed automated on-robot testing systems, he is experienced in delivering robust, production quality robot software.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
-                <a href="https://www.linkedin.com/in/skolk" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/sean.png')"></div>
-                    <h3>Sean Kolk</h3>
-                </a>
-                <div class="team-position">Director of Business Development</div>
-                <p>B.S. International Affairs in Counter Terrorism Theory from Georgia Tech. Trained as a design engineer who's built electro-mechanical tools, integrated digital systems, and lead product market strategy in human-centered services. He's worked in biotech labs, on the shop floor, and coordinated disaster relief efforts in the developing world. When not putting in creative energy he leads sailing, paragliding, and mountaineering expeditions.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -294,6 +294,8 @@ redirect_from:
                 <p>Jeff is a Partner of Origin Rose, a strategic consulting company. Over the last 3 years, he also led ThinkTopic, a Boulder based AI company, as Co-founder and CEO. ThinkTopic has worked with a wide range of organizations, from the Asian Development Bank to Conde Nast and Digital Globe. Before starting ThinkTopic, Jeff was one of the first research engineers at (Google) DeepMind, where he collaborated with neuroscientists to develop novel machine learning algorithms.
                 </p>
                 <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single-empty">
             </div>
             <div class="team-card-single-empty">
             </div>
