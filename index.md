@@ -124,7 +124,7 @@ description: The PickNik website
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">24</div>
+            <div class="orb_value count">25</div>
           </div>
           <div class="orb-stats__text">Employees</div>
         </div>
@@ -134,7 +134,7 @@ description: The PickNik website
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">176</div>
+            <div class="orb_value count">188</div>
           </div>
           <div class="orb-stats__text">Years of combined experience</div>
         </div>
@@ -144,7 +144,7 @@ description: The PickNik website
               <circle class="fill"></circle>
               <circle class="progress"></circle>
             </svg>
-            <div class="orb_value count">9</div>
+            <div class="orb_value count">11</div>
           </div>
           <div class="orb-stats__text">Masters in Robotics</div>
         </div>

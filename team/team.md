@@ -223,8 +223,27 @@ redirect_from:
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
-            <!-- Will rejoin as intern in near future -->
-            <!-- <div class="team-card-single">
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/denisstogl/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/denis.jpg')"></div>
+                    <h3>Denis Stogl, MS</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p>PhD Candidate in Computer Science at Karlsruhe Institute of Technology focusing on physical human-robot interaction and developing RoboTrainer - mobile robot for strength and coordination training, M. S. and B. S. Electrical and Control Engineering at University of Zagreb, Croatia. Denis has more than a decade of experience with ROS in different fields. He is a real "T"-Engineer with an excellent understanding of mechanics, electronics, and software to integrate and run robots under ROS. He designed controllers for various industrial and mobile-robot applications.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/vatanaksoytezer/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/vatan.jpg')"></div>
+                    <h3>Vatan Aksoy Tezer, MS</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p>M.S. Computer Science and Engineering from Sabanci University, with a focus on vision-based automated test case generation for self-driving vehicles, B.S. Astronautical Engineering from Istanbul Technical University, with a focus on localization of GPS-denied UAV systems. Vatan has a passion for robotics and has worked with various autonomous robotic systems, solving challenging vision and navigation problems for aerial, underwater, and ground robots. In his spare time, Vatan mentors a high school robotics team and plays chess.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/SebastianJahr.jpeg')"></div>
                     <h3>Sebastian Jahr</h3>
@@ -233,7 +252,7 @@ redirect_from:
                 <p>Pursuing a master's degree in Mechatronics and Information Technology with focus on robotics and B.S. Mechatronics and Information Technology at Karlsruhe Institute of Technology. Besides his studies, Sebastian gathered experience with C++ and ROS as a student research assistant and software intern at Franka Emika. He is passionate about robotics and manipulation and eager to learn more about motion planning and control. During his internship, he will work on a hybrid planner architecture for MoveIt2.
                 </p>
                 <span class="show-more-team">Read More</span>
-            </div> -->
+            </div>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p4.jpg')"></div>
