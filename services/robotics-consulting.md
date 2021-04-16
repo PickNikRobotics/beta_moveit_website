@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robotics Consulting and Training
-description: Picknik does robotics consulting 
+description: Picknik does robotics consulting
 redirect_from:
   - /support/
   - /support
@@ -39,7 +39,7 @@ permalink: /services/robotics-consulting/
                 </div>
             </div>
         </div>
-        <div class="services-robotic-card-wrapper">
+        <div class="services-robotic-card-wrapper block-padding-0">
            <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
                     <h2>Scalability</h2>

@@ -9,7 +9,7 @@ html {
 body,
 iframe {
   margin: 0;
-  font-family: "Rubik", sans-serif;
+  font-family: 'Rubik', sans-serif;
   overflow-x: hidden;
   padding: 0;
   -webkit-text-size-adjust: none;
@@ -108,12 +108,20 @@ ul {
         margin-bottom: 20px;
       }
       &::before {
-        content: "\25A0";
+        content: '\25A0';
         color: #04e79f;
         display: inline-block;
         width: 1em;
         margin-left: -1em;
       }
+    }
+  }
+
+  &.basic-list {
+    padding-left: 20px;
+
+    li {
+      margin-bottom: 20px;
     }
   }
 }
@@ -165,7 +173,7 @@ ol {
 }
 
 .bg-blue {
-  background-color: #0653E2;
+  background-color: #0653e2;
 }
 
 .bg-blue-dark {
@@ -259,7 +267,7 @@ ol {
   margin-left: 20px;
   color: white;
   padding: 20px;
-  background: url("../images/black-circle.png") no-repeat center center;
+  background: url('../images/black-circle.png') no-repeat center center;
 }
 
 form {
@@ -365,7 +373,8 @@ label .field.is-focused + span {
   color: #e4584c;
 }
 
-.success, .text-green {
+.success,
+.text-green {
   color: #34d08c;
 }
 
