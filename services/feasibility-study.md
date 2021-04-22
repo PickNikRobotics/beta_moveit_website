@@ -65,7 +65,7 @@ description: the feasibility study page on PicksNiks's website
                           taken countless hours of academic paper reading, code experimentation, and trial & error.
                       </li>
                       <li>
-                          <strong>A trusted advisor:</strong> Have future quick questions about the robotics industry? Shoot Dave an
+                          <strong>A trusted advisor:</strong> Have future quick questions about the robotics industry? Shoot us an
                           email and let's stay in touch.
                       </li>
                     </ul>
