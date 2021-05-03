@@ -128,7 +128,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/TahneeFoley.jpg')"></div>
                     <h3>Tahnee Foley</h3>
                 </a>
-                <div class="team-position">Operations Assistant</div>
+                <div class="team-position">People & Talent Manager</div>
                 <p>Tahnee has over 20 years experience in business operations over a variety of industries including architecture and advertising.  She was the Administrative Manager to the Design Team for the 2010 Olympic Village in Vancouver, Canada, a project that included coordinating over a dozen offices working to design and build 24 buildings in four years. Her passion is to see an efficient and effective organization while ensuring client satisfaction.
                 </p>
                 <span class="show-more-team">Read More</span>
