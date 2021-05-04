@@ -84,6 +84,7 @@ description: the customer development page on PicksNiks's website
                         We strategically develop advanced robotics software together with you, augmenting your team with expertise in robotics perception, grasping, <a href="/moveit/">motion planning</a>, navigation, and general <a href="/ros/">ROS development</a>.
                     </p>
                 </div>
+                <a class="btn my-5 text-uppercase text-center" href="/connect">Contact us to learn more</a>
             </div>
         </div>
     </div>

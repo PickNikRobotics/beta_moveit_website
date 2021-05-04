@@ -63,6 +63,7 @@ permalink: /services/robotics-consulting/
                         PickNik enjoys working with your robotics engineers in co-development, mentoring, and training as you build your next ROS application. We can collaborate remotely via periodic video calls, email, and online messaging. Optionally, we can collaborate onsite where we work one-on-one with your team providing hands-on ROS mentoring, architecting, and strategy.
                     </p>
                 </div>
+                <a class="btn my-5 text-uppercase text-center" href="/connect">Contact us to learn more</a>
             </div>
         </div>
     </div>

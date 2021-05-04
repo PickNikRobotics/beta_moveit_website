@@ -88,6 +88,7 @@ description: the feasibility study page on PicksNiks's website
                         letter.
                     </p>
                 </div>
+                <a class="btn my-5 text-uppercase text-center" href="/connect">Contact us to learn more</a>
             </div>
         </div>
     </div>
