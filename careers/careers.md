@@ -1,6 +1,6 @@
 ---
 layout: page
-title: careers
+title: Careers
 permalink: /careers/
 redirect_from:
     - /jobs/
