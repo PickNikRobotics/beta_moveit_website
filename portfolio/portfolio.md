@@ -139,46 +139,40 @@ description: the portfolio page on PicksNiks's website
           <div class="col-sm-12 mb-3">
             <h3 class="block-section__title mb-5" id="partners">Our Partners</h3>
           </div>
-          <div class="open-source-organizations">
+          <div class="portfolio-organizations">
             <a href="https://motive.ai/" target="_blank">
               <img src="/assets/images/motive-icon.png" alt="Motive Mechatronics" />
             </a>
-            <h4>Motive</h4>
             <p>Partner in building custom robot arm hardware</p>
           </div>
-          <div class="open-source-organizations">
+          <div class="portfolio-organizations">
             <a href="https://www.openrobotics.org/" target="_blank">
               <img src="/assets/images/open-robotics-logo.png" alt="Open Robotics logo" />
             </a>
-            <h4>Open Robotics</h4>
             <p>Leaders of the ROS robotics SDK and Gazebo simulation projects</p>
           </div>
-          <div class="open-source-organizations">
+          <div class="portfolio-organizations">
             <a href="https://www.intel.com/" target="_blank">
               <img src="/assets/images/our-clients/intel-logo.svg" alt="Intel logo" />
             </a>
-            <h4>Intel</h4>
             <p>Open source partner in developing MoveIt and MoveIt Calibration</p>
           </div>
-          <div class="open-source-organizations">
+          <div class="portfolio-organizations">
             <a href="https://appliedlogix.com/" target="_blank">
               <img src="/assets/images/our-clients/appliedlogix.png" alt="AppliedLogix logo"/>
             </a>
-            <h4>AppliedLogix</h4>
             <p>Partner in building complex electronics and embedded systems</p>
           </div>
-          <div class="open-source-organizations">
+          <div class="portfolio-organizations">
             <a href="https://hello-robot.com/" target="_blank">
               <img src="/assets/images/our-clients/hello-robot-partner.png" alt="Hello Robotics logo"/>
             </a>
-            <h4>Hello Robot</h4>
             <p>PickNik is an integration partner for the Stretch R1 mobile manipulator</p>
           </div>
-          <div class="open-source-organizations">
+          <div class="portfolio-organizations">
             <a href="https://www.servoneering.com/" target="_blank">
               <img src="/assets/images/our-clients/SERVOneeringLogo.png" alt="SERVOneering logo"/>
             </a>
-            <h4>SERVOneering</h4>
             <p>A Tier-1 supplier to robot OEMs for custom joint modules</p>
           </div>
           <!-- <div class="col-sm-12 col-md-6 col-lg-4">
