@@ -6,6 +6,7 @@ permalink: /team/
 redirect_from:
   - /people/
 ---
+
 <div class="container">
     <div class="team-section-main">
         <div class="row justify-content-center">
@@ -253,6 +254,24 @@ redirect_from:
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
+            <div class="team-card-single-empty">
+            </div>
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="collapses__btn">
+                        <a href="/careers/" class="btn">
+                            See available positions on the team!
+                        </a>
+                    </div>
+                </div>
+            </div>
+       </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="container">  
+        <div class="team-card-wrapper team-card-wrapper--advisors">
+            <h2>Advisors</h2>
             <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/robertccoleman/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/p4.jpg')"></div>
@@ -318,30 +337,23 @@ redirect_from:
             </div>
             <div class="team-card-single-empty">
             </div>
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                    <div class="collapses__btn">
-                        <a href="/careers/" class="btn">
-                            See available positions on the team!
-                        </a>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </div>
-<div class="container">
-    <div class="block-mission-statement">
-        <div class="row align-items-center justify-content-center">
-            <div class="col-12 col-lg-5">
-                <img class="block-mission-statement-logo" src="/assets/images/plogo.png" alt="Picknik mission logo">
-                <h3>Mission<br/>Statement</h3>
-            </div>
-            <div class="col-12 col-lg-7">
-                <p>
-                    Support the worldwide open source robotics movement through community building, consulting expertise, and the development of highly-capable motion planning software.
-                </p>
-            </div>
-        </div>
-    </div>
+<div class="container-fluid bg-grey">
+  <div class="container">
+      <div class="block-mission-statement">
+          <div class="row align-items-center justify-content-center">
+              <div class="col-12 col-lg-5">
+                  <img class="block-mission-statement-logo" src="/assets/images/plogo.png" alt="Picknik mission logo">
+                  <h3>Mission<br/>Statement</h3>
+              </div>
+              <div class="col-12 col-lg-7">
+                  <p>
+                      Support the worldwide open source robotics movement through community building, consulting expertise, and the development of highly-capable motion planning software.
+                  </p>
+              </div>
+          </div>
+      </div>
+  </div>
 </div>
