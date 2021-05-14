@@ -16,7 +16,7 @@ redirect_from:
 - /ros/moveit/robots/2021/05/04/Ros-Devloper-Notes.html
 ---
 
-PickNik’s Tyler Weaver is putting together a series of YouTube videos on integrating ROS and MoveIt into your projects. We’ll be updating this post as they are released, be sure the check out  [PickNik's YouTube channel](https://www.youtube.com/channel/UCF7Yy57ZE2WNYeeXKEu8JQA){:target="_blank"} for other talks and presentations from the PickNick staff and MoveIt Community!
+PickNik’s Tyler Weaver is putting together a series of YouTube videos on integrating ROS and MoveIt into your projects. We’ll be updating this post as they are released, be sure the check out  [PickNik's YouTube channel](https://www.youtube.com/channel/UCF7Yy57ZE2WNYeeXKEu8JQA){:target="_blank"} for other talks and presentations from the PickNik staff and MoveIt Community!
 
 
 ### How to setup ROS2 for development ###

@@ -24,4 +24,4 @@ PickNik's CEO Dave Coleman will be joining a panel on October 9th at 10am MST to
 * Michael Beetz (Head of Institute for Artificial Intelligence, Bremen University)
 * Dave Coleman (CEO of PickNik)
 
-For more information checkout the [event website](https://transair-bridge.org/conference-2/ "event website").
+For more information check out the [event website](https://transair-bridge.org/conference-2/ "event website").

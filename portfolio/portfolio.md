@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-description: the portfolio page on PicksNiks's website
+description: PickNik's work portfolio
 
 ---
 <div class="container">

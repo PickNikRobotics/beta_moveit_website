@@ -2,7 +2,7 @@
 layout: page
 title: Robot Operating System (ROS)
 permalink: /ros/
-description: the ros page on PicksNiks's website
+description: How PickNik works with ROS
 
 ---
 <div class="container">

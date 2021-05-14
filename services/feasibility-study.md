@@ -2,7 +2,7 @@
 layout: page
 title: Feasibility study
 permalink: /services/feasibility-study/
-description: the feasibility study page on PicksNiks's website
+description: PickNik's feasibility study process
 ---
 
 <div class="container">

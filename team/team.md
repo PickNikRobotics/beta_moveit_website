@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-description: The members of Picknik's team
+description: The members of PickNik's team
 permalink: /team/
 redirect_from:
   - /people/

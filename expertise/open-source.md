@@ -2,7 +2,7 @@
 layout: page
 title: Open Source Robotics
 permalink: /open-source/
-description: the open source robotics page on PicksNiks's website
+description: Open-source robotics at PickNik
 
 ---
 <div class="container">

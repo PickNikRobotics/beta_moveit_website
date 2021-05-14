@@ -2,7 +2,7 @@
 layout: page
 title: Custom Robotics Software Development
 permalink: /services/custom-development/
-description: the customer development page on PicksNiks's website
+description: PickNik's customer development process
 
 ---
 <div class="container">
