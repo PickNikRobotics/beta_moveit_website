@@ -340,20 +340,18 @@ redirect_from:
         </div>
     </div>
 </div>
-<div class="container-fluid bg-grey">
-  <div class="container">
-      <div class="block-mission-statement">
-          <div class="row align-items-center justify-content-center">
-              <div class="col-12 col-lg-5">
-                  <img class="block-mission-statement-logo" src="/assets/images/plogo.png" alt="Picknik mission logo">
-                  <h3>Mission<br/>Statement</h3>
-              </div>
-              <div class="col-12 col-lg-7">
-                  <p>
-                      Support the worldwide open source robotics movement through community building, consulting expertise, and the development of highly-capable motion planning software.
-                  </p>
-              </div>
-          </div>
-      </div>
-  </div>
+<div class="container">
+    <div class="block-mission-statement">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-12 col-lg-5">
+                <img class="block-mission-statement-logo" src="/assets/images/plogo.png" alt="Picknik mission logo">
+                <h3>Mission<br/>Statement</h3>
+            </div>
+            <div class="col-12 col-lg-7">
+                <p>
+                Expand the frontier of robotics through open and accessible software for any hardware, for any task.
+                </p>
+            </div>
+        </div>
+    </div>
 </div>
