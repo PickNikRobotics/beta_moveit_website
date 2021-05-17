@@ -175,16 +175,6 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                 <a href="https://www.linkedin.com/in/boston-cleek" target="_blank">
-                    <div class="team-picture" style="background-image: url('../assets/images/people/BostonCleek.jpg')"></div>
-                    <h3>Boston Cleek, MS</h3>
-                </a>
-                <div class="team-position">Software Engineer - Robotics</div>
-                <p>M.S. Robotics from Northwestern University and B.S. Mechanical Engineering from CU Boulder. His graduate research focuses on exploration and mobile manipulation. Boston has broad experience with autonomy including motion planning, simultaneous localization and mapping, and control. At CU he worked on the planning/controls team for the DARPA Subterranean Challenge leading up to the Tunnel Circuit.
-                </p>
-                <span class="show-more-team">Read More</span>
-            </div>
-            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/joseph-schornak-2b23bb95/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/joe_s.jpg')"></div>
                     <h3>Joe Schornak, MS</h3>
@@ -245,12 +235,22 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
-                <a href="https://www.linkedin.com/" target="_blank">
+                <a href="https://www.linkedin.com/in/sebastian-jahr/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/SebastianJahr.jpeg')"></div>
                     <h3>Sebastian Jahr</h3>
                 </a>
                 <div class="team-position">Robotics Intern</div>
                 <p>Pursuing a master's degree in Mechatronics and Information Technology with focus on robotics and B.S. Mechatronics and Information Technology at Karlsruhe Institute of Technology. Besides his studies, Sebastian gathered experience with C++ and ROS as a student research assistant and software intern at Franka Emika. He is passionate about robotics and manipulation and eager to learn more about motion planning and control. During his internship, he will work on a hybrid planner architecture for MoveIt2.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/wyatt-rees-523b05132/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/wyatt_rees.jpg')"></div>
+                    <h3>Wyatt Rees</h3>
+                </a>
+                <div class="team-position">Robotics Intern</div>
+                <p>Pursuing a PhD in Computer Science with a focus on human-robot interaction at CU Boulder and BA in Computer Science and Physics at Wesleyan University. Wyatt is passionate about robotics  interface design, and is eager to learn more about dynamic autonomy for teleoperation and manipulation. As a student researcher, he has gained C++, ROS, and Unity experience through his development of haptic feedback controllers and virtual and augmented reality interfaces for robot motion planning.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
@@ -269,7 +269,7 @@ redirect_from:
     </div>
 </div>
 <div class="container-fluid">
-    <div class="container">  
+    <div class="container">
         <div class="team-card-wrapper team-card-wrapper--advisors">
             <h2>Advisors</h2>
             <div class="team-card-single">
