@@ -37,20 +37,7 @@ body {
   background-image: url('../images/redesign/bg-main.svg');
   background-repeat: no-repeat;
   background-position-x: -100px;
-  padding-bottom: 350px;
   position: relative;
-  @media screen and (max-width: 1271px) {
-    padding-bottom: 380px;
-  }
-  @media screen and (max-width: 992px) {
-    padding-bottom: 420px;
-  }
-  @media screen and (max-width: 767px) {
-    padding-bottom: 445px;
-  }
-  @media screen and (max-width: 503px) {
-    padding-bottom: 0;
-  }
 }
 
 a {

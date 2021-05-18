@@ -1,17 +1,75 @@
 <div class="footer">
     <div class="container">
-        <div class="footerRow1">
-            <div class="footerColL">
-                <a href="{{site.baseurl}}/services" class="footerLinks">Services</a>
-                <a href="{{site.baseurl}}/products" class="footerLinks">Products</a>
-                <a href="{{site.baseurl}}/portfolio" class="footerLinks">Portfolio</a>
-                <a href="{{site.baseurl}}/blog" class="footerLinks">Blog</a>
-                <a href="{{site.baseurl}}/team" class="footerLinks">Team</a>
-                <a href="{{site.baseurl}}/careers" class="footerLinks">Careers</a>
-                <a href="{{site.baseurl}}/connect" class="footerLinks">Connect</a>
+        <div class="footerRow footerRow--with-border">
+            <div class="footerCol footerCol--left">
+                <ul>
+                  <li>
+                    <a href="{{site.baseurl}}/services" class="footerLinks">Services</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/services/feasibility-study" class="footerLinks footerLinks--dash">Feasibility Study</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/services/custom-development" class="footerLinks footerLinks--dash">Strategic Development</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/services/robotics-consulting" class="footerLinks footerLinks--dash">Robotics Support</a>
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <a href="{{site.baseurl}}/products" class="footerLinks">Products</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/moveit" class="footerLinks footerLinks--dash">MoveIt</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/products/moveit-studio" class="footerLinks footerLinks--dash">MoveIt Studio</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/products/tracksuite" class="footerLinks footerLinks--dash">Tracksuite</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/docs/PickNik_Bolt_Experience_Motion_Planning.pdf" class="footerLinks footerLinks--dash">Bolt</a>
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <a href="{{site.baseurl}}/services/#expertise" class="footerLinks">Expertise</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/open-source" class="footerLinks footerLinks--dash">Open Source</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/ros" class="footerLinks footerLinks--dash">ROS</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/navigation" class="footerLinks footerLinks--dash">Navigation</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/perception" class="footerLinks footerLinks--dash">Perception</a>
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <a href="{{site.baseurl}}/portfolio" class="footerLinks">Portfolio</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/blog" class="footerLinks">Blog</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/team" class="footerLinks">Team</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/careers" class="footerLinks">Careers</a>
+                  </li>
+                  <li>
+                    <a href="{{site.baseurl}}/connect" class="footerLinks">Connect</a>
+                  </li>
+                </ul>
             </div>
-            <div class="footerColR">
-                <div class="footerText">PickNik remains committed to open source and dedicates a significant portion
+            <div class="footerCol footerCol--right">
+                <div class="footerText footerText--max-width">PickNik remains committed to open source and dedicates a significant portion
                   of its resources to improving the <a href=
                   "/moveit" ><span class="text-green">MoveIt motion planning framework</span></a>
                 </div>
@@ -32,10 +90,10 @@
             </div>
         </div>
         <div class="footerRow">
-            <div class="footerColL">
+            <div class="footerCol">
                 <img class="logo2" src="{{site.baseurl}}/assets/images/logo-footer.png" alt="Picknik logo">
             </div>
-            <div class="footerColR">
+            <div class="footerCol footerCol--right">
                 <div class="footerText footerText2">
                     <div class="footer-copyright">
                         Copyright &copy; {{ site.time | date: '%Y' }} PickNik Inc, located in Boulder, Colorado, USA. All rights reserved.

@@ -62,7 +62,7 @@ description: Services PickNik Robotics offers
 </div>
 <div class="container">
     <div class="collapses-wrapper">
-        <h3 class="collapses__title">Areas of Expertise</h3>
+        <h3 class="collapses__title" id="expertise">Areas of Expertise</h3>
         <div id="accordion">
             <div class="card">
                 <div class="card-header" id="motion-planning">

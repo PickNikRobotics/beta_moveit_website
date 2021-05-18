@@ -1,68 +1,89 @@
 /*FOOTER*/
 
 .footer {
-  position: absolute;
-  bottom: 0;
   width: 100%;
   background-color: #121929;
-  background-image: url("../images/redesign/bg-footer.svg");
+  background-image: url('../images/redesign/bg-footer.svg');
   background-repeat: no-repeat;
   background-size: contain;
-  @media screen and (max-width: 503px) {
-    position: static;
+
+  ul {
+    @media only screen and (max-width: 799px) {
+      flex: 0 0 50%;
+      max-width: 50%;
+      margin-bottom: 15px;
+    }
+
+    @media only screen and (max-width: 479px) {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+
+    li {
+      list-style: none;
+
+      @media only screen and (max-width: 1199px) {
+        text-align: left;
+      }
+
+      @media only screen and (max-width: 799px) {
+        text-align: center;
+      }
+    }
   }
 }
 
-.footerRow1 {
-  display: table;
+.footerRow {
+  display: flex;
+  flex-wrap: wrap;
   height: auto;
   position: relative;
   width: 100%;
   margin: 0 auto;
+}
+
+.footerRow--with-border {
   border-bottom: 1px solid #4f4f4f;
 }
 
-.footerRow {
-  display: table;
-  height: auto;
-  position: relative;
-  width: 100%;
-  margin: 0 auto;
-}
-
-.footerColL {
-  display: table-cell;
-  width: 50%;
+.footerCol {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 0 50%;
+  max-width: 50%;
   vertical-align: middle;
   text-align: left;
   padding-top: 52px;
   padding-bottom: 52px;
-  @media only screen and (max-width: 992px) {
-    display: block;
-    width: 100%;
+
+  @media only screen and (max-width: 1199px) {
+    flex: 0 0 100%;
+    max-width: 100%;
     text-align: center;
     padding-top: 40px;
     padding-bottom: 20px;
   }
 }
 
-.footerColR {
-  display: table-cell;
-  width: 50%;
-  vertical-align: middle;
-  text-align: left;
-  padding-top: 52px;
-  padding-bottom: 52px;
-  @media only screen and (max-width: 992px) {
-    display: block;
-    width: 100%;
-    text-align: center;
-    padding-top: 0px;
+.footerCol--left {
+  justify-content: space-around;
+
+  @media only screen and (max-width: 799px) {
+    justify-content: center;
+  }
+}
+
+.footerCol--right {
+  flex-direction: column;
+  justify-content: center;
+
+  @media only screen and (max-width: 1199px) {
+    padding-top: 0;
     padding-bottom: 40px;
   }
 }
 
-a.footerLinks {
+.footerLinks {
   color: #ffffff;
   text-decoration: none;
   font-weight: 400;
@@ -70,7 +91,7 @@ a.footerLinks {
   font-size: 16px;
   line-height: 40px;
   opacity: 0.8;
-  @media only screen and (max-width: 992px) {
+  @media only screen and (max-width: 1199px) {
     font-size: 13px;
   }
   &:hover {
@@ -78,12 +99,27 @@ a.footerLinks {
   }
 }
 
-a.footerLinks1 {
+.footerLinks--dash {
+  font-size: 14px;
+  white-space: nowrap;
+  color: rgba(255, 255, 255, 0.5);
+  padding-left: 15px;
+  margin-right: 20px;
+  position: relative;
+
+  &::before {
+    content: '-';
+    position: absolute;
+    left: 0px;
+  }
+}
+
+.footerLinks1 {
   color: #9b9ea5;
   text-decoration: none;
   font-weight: 400;
   font-size: 16px;
-  @media only screen and (max-width: 992px) {
+  @media only screen and (max-width: 1199px) {
     font-size: 13px;
   }
   &:hover {
@@ -91,12 +127,12 @@ a.footerLinks1 {
   }
 }
 
-a.ros {
+.ros {
   color: #04e79f;
   text-decoration: none;
   font-weight: 400;
   font-size: 14px;
-  @media only screen and (max-width: 992px) {
+  @media only screen and (max-width: 1199px) {
     font-size: 13px;
   }
   &:hover {
@@ -111,11 +147,18 @@ a.ros {
   line-height: 28px;
   padding-left: 15%;
   opacity: 0.8;
-  @media only screen and (max-width: 992px) {
+  @media only screen and (max-width: 1199px) {
     font-size: 14px;
     font-weight: 300;
     line-height: 18px;
     padding-left: 0%;
+  }
+}
+
+.footerText--max-width {
+  @media only screen and (max-width: 1199px) {
+    max-width: 750px;
+    margin: 0 auto;
   }
 }
 
@@ -125,11 +168,11 @@ a.ros {
   line-height: 24px;
   display: flex;
   justify-content: space-between;
-  @media screen and (max-width: 992px) {
+  @media screen and (max-width: 1199px) {
     flex-direction: column-reverse;
   }
-    a {
-    color: rgba(255, 255, 255, 1.0);
+  a {
+    color: rgba(255, 255, 255, 1);
     &:hover {
       color: #04e79f;
     }
@@ -140,15 +183,16 @@ a.ros {
   width: 140px;
   height: 44px;
 }
+
 .footer-copyright {
   max-width: 330px;
-  @media screen and (max-width: 992px) {
+  @media screen and (max-width: 1199px) {
     max-width: 100%;
   }
 }
 
-.footer-social{
-  @media screen and (max-width: 992px) {
+.footer-social {
+  @media screen and (max-width: 1199px) {
     margin-bottom: 20px;
   }
   a {
@@ -160,15 +204,15 @@ a.ros {
   padding-left: 15%;
   font-size: 20px;
   margin-top: 16px;
-  
+
   @media only screen and (max-width: 1199px) {
     font-size: 16px;
   }
 
-  @media only screen and (max-width: 992px) {
+  @media only screen and (max-width: 1199px) {
     padding-left: 0%;
   }
-  
+
   @media only screen and (max-width: 520px) {
     display: flex;
     justify-content: center;
