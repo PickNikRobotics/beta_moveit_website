@@ -365,7 +365,7 @@ description: The MoveIt page on PickNik's website
               PickNik provides engineering services for robotics software, from strategic contract development to ongoing support and consulting.
               We are ready to support your manipulation-based initiatives with MoveIt and other open source technologies.
             </p>
-            <a href="/services/" class="btn btn-white mt-5 text-uppercase text-center">Learn more</a>
+            <a href="/services/" class="btn btn-white btn-white--blue-invert mt-5 text-uppercase text-center">Learn more</a>
           </div>
         </div>
       </div>
