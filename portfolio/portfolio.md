@@ -3,8 +3,8 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 description: PickNik's work portfolio
-
 ---
+
 <div class="container">
     <div class="moveit-section-main portfolio-section-main">
         <div class="row align-items-center justify-content-center">
@@ -129,6 +129,7 @@ description: PickNik's work portfolio
           <img class="our-works-logos" src="/assets/images/our-clients/omni-logo.png" alt="Omni Robotics logo">
           <img class="our-works-logos" src="/assets/images/our-clients/simple-homes-logo.svg" alt="Simple Homes logo">
           <img class="our-works-logos" src="/assets/images/our-clients/hyundai-logo.svg" alt="Hyundai logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/rezilient.svg" alt="Rezilient logo">
           <!-- <img class="our-works-logos" src="/assets/images/our-clients/beyond-logo.png" alt="Beyond Imagination logo"> -->
         </div>
     </div>
