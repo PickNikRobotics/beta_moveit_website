@@ -235,6 +235,36 @@ redirect_from:
                 <span class="show-more-team">Read More</span>
             </div>
             <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/jennifer-cannon-0029861ab/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/JennCannon.jpg')"></div>
+                    <h3>Jennifer Cannon</h3>
+                </a>
+                <div class="team-position">Executive Assistant</div>
+                <p>Jenn has over 10 years of well-rounded experience as an executive assistant and office manager. Over her career, she has worked in healthcare, construction, finance, and technology. Jenn has worked in small start-ups, big corporations, and everything in between. Jenn’s passion is to make sure all the p’s and q’s of projects, processes, and people are sorted out and handled efficiently.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://jochen.sprickerhof.de/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/JochenSprickerhof.jpg')"></div>
+                    <h3>Jochen Sprickerhof</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p>Diploma in Applied System Science from Osnabrück University (Germany), with over 20 years of experience in open source and robotic software development and maintenance. Jochen has worked on everything from kernel and hardware drivers, to operating systems and middleware, up to web development with a focus on robotic perception, mapping and ROS, both in academia and industry.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/brennandpierce/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/BrenPierce.jpeg')"></div>
+                    <h3>Brennand Pierce, MS</h3>
+                </a>
+                <div class="team-position">Software Engineer - Robotics</div>
+                <p>M.S. Robotics from Bristol Robotics Laboratory. Bren is a seasoned roboticist and a successful entrepreneur. He has 15 years' experience in both designing robotic hardware and writing software, from low level embedded code to high level cloud software. During his career he has designed and built many different robots, including full size humanoids, quadcopter, and mobile robots. He also founded a number of robotics companies, developing skills in rapid prototyping and brining robots to market.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
                 <a href="https://www.linkedin.com/in/sebastian-jahr/" target="_blank">
                     <div class="team-picture" style="background-image: url('../assets/images/people/SebastianJahr.jpeg')"></div>
                     <h3>Sebastian Jahr</h3>
@@ -251,6 +281,16 @@ redirect_from:
                 </a>
                 <div class="team-position">Robotics Intern</div>
                 <p>Pursuing a PhD in Computer Science with a focus on human-robot interaction at CU Boulder and BA in Computer Science and Physics at Wesleyan University. Wyatt is passionate about robotics  interface design, and is eager to learn more about dynamic autonomy for teleoperation and manipulation. As a student researcher, he has gained C++, ROS, and Unity experience through his development of haptic feedback controllers and virtual and augmented reality interfaces for robot motion planning.
+                </p>
+                <span class="show-more-team">Read More</span>
+            </div>
+            <div class="team-card-single">
+                <a href="https://www.linkedin.com/in/adam-pettinger-24a40092/" target="_blank">
+                    <div class="team-picture" style="background-image: url('../assets/images/people/AdamPettinger.jpg')"></div>
+                    <h3>Adam Pettinger, MS</h3>
+                </a>
+                <div class="team-position">Robotics Intern</div>
+                <p>B.S Mechanical Engineering, M.S Radiation Engineering, and pursuing a PhD in Mechanical Engineering from The University of Texas at Austin. Adam's master’s work focused on controls for a compliant manipulator used for onsite inspection in hazardous and radioactive environments. His PhD work involves contact task representations that allow more robust and autonomous task completion by stiff or compliant mobile manipulators. Adam was mentored by PickNik engineers during a 2020 Google Summer of Code project to bring the Moveit Servo cartesian velocity controller to ROS 2.
                 </p>
                 <span class="show-more-team">Read More</span>
             </div>
