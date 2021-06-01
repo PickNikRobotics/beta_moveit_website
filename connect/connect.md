@@ -59,9 +59,9 @@ description: Discuss with PickNik experts your manipulation, navigation, and per
                             </a>
                         </div>
                         <div class="contact-info-single">
-                            <a class="contact-info-text" target="_blank" href="https://maps.google.com/?q=1942 Broadway, Suite 314 Boulder, Colorado 80302">
+                            <a class="contact-info-text" target="_blank" href="https://maps.google.com/?q=4730 Walnut st, Suite 106, Boulder, Colorado 80301">
                                 <img src="../assets/images/redesign/address.svg">
-                                1942 Broadway, Suite 314 Boulder, Colorado 80302
+                                4730 Walnut St, Suite 106, Boulder, Colorado 80301
                             </a>
                         </div>
                     </div>
