@@ -17,12 +17,22 @@ redirect_from:
 - /ros/moveit/robots/2021/05/04/Ros-Devloper-Notes.html
 - /ros/moveit/robots/2021/05/04/Ros-Developer-Notes.html
 - /ros/moveit/robots/2021/05/18/Ros-Developer-Notes.html
+- /ros/moveit/robots/2021/06/03/Ros-Developer-Notes.html
 ---
 
 PickNik’s Tyler Weaver is putting together a series of YouTube videos on integrating ROS and MoveIt into your projects. We’ll be updating this post as they are released, be sure to check out  [PickNik's YouTube channel](https://www.youtube.com/channel/UCF7Yy57ZE2WNYeeXKEu8JQA){:target="_blank"} for other talks and presentations from the PickNik staff and MoveIt Community!
 
+
+### Check formatting locally and on GitHub Actions with pre-commit ###
+### Latest Video ###
+<div class="iframe-container">
+<div class="text-center">
+<iframe src="https://www.youtube-nocookie.com/embed/4K6GZWFQs3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<br>
+
 ### How to build MoveIt2 on ROS Rolling ###
-#### (Latest Video) ####
 <div class="iframe-container">
 <div class="text-center">
 <iframe src="https://www.youtube-nocookie.com/embed/FgIK27jN4bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
