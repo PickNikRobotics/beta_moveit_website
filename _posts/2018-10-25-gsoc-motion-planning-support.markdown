@@ -15,7 +15,7 @@ categories:
   - ROS
 ---
 
-[<img src="{{ site.url }}/assets/images/cover.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/cover.png)
+[<img src="{{ site.url }}/assets/images/cover.png" width="500" style="margin-right:20px" alt="Cover image" />]({{ site.url }}/assets/images/cover.png)
 
 Submitted by: Raghavender Sahdev, York University
 
@@ -54,7 +54,7 @@ In this phase, STOMP support was added to make it work as a core motion planning
 - <a href="https://github.com/ros-planning/moveit_tutorials/pull/185" target="_blank">Moveit_tutorials PR#185</a>: Addition of STOMP Tutorial for STOMP motion planner in MoveIt tutorials
 - <a href="https://github.com/ros-planning/panda_moveit_config/pull/5" target="_blank">Panda_moveit_config PR#5</a>: Addition of STOMP related planning files
 
-[<img src="{{ site.url }}/assets/images/stomp_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/stomp_1.png)
+[<img src="{{ site.url }}/assets/images/stomp_1.png" width="500" style="margin-right:20px" alt="Stomp image" />]({{ site.url }}/assets/images/stomp_1.png)
 <br/>Figure 1: Motion Plan obtained from STOMP In the presence of obstacles
 
 Github issues addressed / looked into:
@@ -62,12 +62,12 @@ Github issues addressed / looked into:
 
 ### 3. Benchmarking and Planning Adapters
 
-[<img src="{{ site.url }}/assets/images/ompl_1.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/ompl_1.png)
+[<img src="{{ site.url }}/assets/images/ompl_1.png" width="500" style="margin-right:20px" alt="OMPL image" />]({{ site.url }}/assets/images/ompl_1.png)
 <br/>Figure 2: Motion Plan obtained from OMPL In the presence of obstacles
 
 In this phase, the benchmarking code was made to work with different Motion Planning Algorithms like CHOMP, STOMP, and OMPL. Planning Request adapters were written for CHOMP and STOMP so they can be used as post-processor planners for the output obtained from other planners.
 
-[<img src="{{ site.url }}/assets/images/planners_benchmark.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/planners_benchmark.png)
+[<img src="{{ site.url }}/assets/images/planners_benchmark.png" width="500" style="margin-right:20px" alt="Planners benchmark" />]({{ site.url }}/assets/images/planners_benchmark.png)
 <br/>Figure 3: This image shows the benchmarking results for 5 different planning algorithms available in MoveIt The parameter time is shown for the planners, other benchmarking parameters can also be selected for viewing for each of the planners.
 
 **Benchmarking results below:**
@@ -77,10 +77,10 @@ Sample environments (with obstacles) are available in MoveIt for testing motion 
 - rosrun moveit_tutorials collision_scene_example.py sparse (Figure 4) OR
 - rosrun moveit_tutorials collision_scene_example.py cluttered (Figure 5)
 
-[<img src="{{ site.url }}/assets/images/single_obstacle.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/single_obstacle.png)
+[<img src="{{ site.url }}/assets/images/single_obstacle.png" width="500" style="margin-right:20px" alt="Single obstacle" />]({{ site.url }}/assets/images/single_obstacle.png)
 <br/>Figure 4. Simple Environment (Collision Scene example) with a single obstacle.
 
-[<img src="{{ site.url }}/assets/images/multiple_obstacle.png" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/multiple_obstacle.png)
+[<img src="{{ site.url }}/assets/images/multiple_obstacle.png" width="500" style="margin-right:20px" alt="Multiple obstacle" />]({{ site.url }}/assets/images/multiple_obstacle.png)
 <br/>Figure 5. Complex Environment (Collision Scene example) with multiple obstacles.
 
 The Pull Requests for the same can be seen below:

@@ -15,7 +15,7 @@ description: PickNik's customer development process
                 </p>
             </div>
             <div class="col-12 col-lg-6">
-                <img src="/assets/images/redesign/custom-development-main.png" alt="custom development image">
+                <img src="/assets/images/redesign/custom-development-main.png" alt="Custom development image" />
             </div>
         </div>
     </div>
@@ -25,7 +25,7 @@ description: PickNik's customer development process
         <div class="services-robotic-card-wrapper">
            <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/redesign/trusted.png" alt="Trusted Development Partners">
+                    <img src="/assets/images/redesign/trusted.png" alt="Trusted Development Partners" />
                 </div>
                 <div class="col-12 col-lg-6">
                     <h2>Trusted<br/> Development<br/> Partners</h2>
@@ -58,7 +58,7 @@ description: PickNik's customer development process
         <div class="services-robotic-card-wrapper">
            <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/redesign/remote-first.png" alt="Remote-First Company">
+                    <img src="/assets/images/redesign/remote-first.png" alt="Remote-First Company" />
                 </div>
                 <div class="col-12 col-lg-6">
                     <h2>Remote-First<br/>Company</h2>

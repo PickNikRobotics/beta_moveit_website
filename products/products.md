@@ -26,7 +26,7 @@ description: Both open source and proprietary robotic software solutions for you
                 <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-6">
                         <div class="img-wrapper">
-                            <img class="icon" src="/assets/images/redesign/Moveit.png" alt="MoveIt icon">
+                            <img class="icon" src="/assets/images/redesign/Moveit.png" alt="MoveIt icon" />
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
@@ -41,7 +41,7 @@ description: Both open source and proprietary robotic software solutions for you
                 <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-6">
                         <div class="img-wrapper">
-                            <img class="icon" src="/assets/images/redesign/teleremote.png" alt="MoveIt Studio icon">
+                            <img class="icon" src="/assets/images/redesign/teleremote.png" alt="MoveIt Studio icon" />
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
@@ -56,7 +56,7 @@ description: Both open source and proprietary robotic software solutions for you
                 <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-6">
                         <div class="img-wrapper">
-                            <img class="icon" src="/assets/images/redesign/zeflexxes.png" alt="PickNik Zeflexxes icon">
+                            <img class="icon" src="/assets/images/redesign/zeflexxes.png" alt="PickNik Zeflexxes icon" />
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
@@ -71,7 +71,7 @@ description: Both open source and proprietary robotic software solutions for you
                 <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-6">
                         <div class="img-wrapper">
-                            <img class="icon" src="/assets/images/redesign/bolt.png" alt="PickNik Bolt icon">
+                            <img class="icon" src="/assets/images/redesign/bolt.png" alt="PickNik Bolt icon" />
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">

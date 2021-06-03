@@ -385,7 +385,7 @@ redirect_from:
         <div class="block-mission-statement">
             <div class="row align-items-center justify-content-center">
                 <div class="col-12 col-lg-5">
-                    <img class="block-mission-statement-logo" src="/assets/images/plogo.png" alt="Picknik mission logo">
+                    <img class="block-mission-statement-logo" src="/assets/images/plogo.png" alt="PickNik mission logo" />
                     <h3>Mission<br/>Statement</h3>
                 </div>
                 <div class="col-12 col-lg-7">

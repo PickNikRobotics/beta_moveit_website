@@ -18,7 +18,7 @@ description: The PickNik website
             </div>
         </div>
         <div class="col-12 col-lg-6">
-            <img class="block-section__img" src="/assets/images/hero2.png" alt="hero image">
+            <img class="block-section__img" src="/assets/images/hero2.png" alt="hero image" />
         </div>
     </div>
 </div>
@@ -26,7 +26,7 @@ description: The PickNik website
   <div class="container block-padding-120">
     <div class="row align-items-center">
         <div class="col-12 col-lg-6">
-            <img class="block-section__img" src="/assets/images/services-medical-robot.png" alt="Services medical robot image">
+            <img class="block-section__img" src="/assets/images/services-medical-robot.png" alt="Services medical robot image" />
         </div>
         <div class="col-12 col-lg-6">
             <div class="block-section">
@@ -42,7 +42,7 @@ description: The PickNik website
     <div class="row align-items-center">
       <div class="col-12">
           <div class="block-section block-section--review">
-              <img class="block-section--review__icon" src="/assets/images/stars.png" alt="stars icon">
+              <img class="block-section--review__icon" src="/assets/images/stars.png" alt="stars icon" />
               <h3 class="block-section__title text-center text-white">"We've gotten a lot of value out of working with PickNik. My biggest concern as a manager is to make sure my technical team has access to the robotics knowledge they need."</h3>
               <p class="block-section--review__author">Brian Harms, Samsung R&D</p>
           </div>
@@ -56,18 +56,18 @@ description: The PickNik website
             <h3 class="block-section__title" id="clients">Past Clients</h3>
         </div>
         <div class="col-sm-12">
-          <img class="our-works-logos" src="/assets/images/our-clients/google-logo.png" alt="Google logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/amazon-logo.png" alt="Amazon logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/nasa-logo.png" alt="NASA logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/bastian.png" alt="Bastian logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/maxar.png" alt="Maxar logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/kindred.png" alt="Kindred logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/franka-logo-2.png" alt="Franka Emika logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/plusone-logo.jpg" alt="Plus One logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/thorlabs.png" alt="Thorlabs logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/houston-logo.png" alt="Houson Mechatronics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/tormach.png" alt="Tormach logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/jnj-logo.svg" alt="J&J logo">
+          <img class="our-works-logos" src="/assets/images/our-clients/google-logo.png" alt="Google logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/amazon-logo.png" alt="Amazon logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/nasa-logo.png" alt="NASA logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/bastian.png" alt="Bastian logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/maxar.png" alt="Maxar logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/kindred.png" alt="Kindred logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/franka-logo-2.png" alt="Franka Emika logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/plusone-logo.jpg" alt="Plus One logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/thorlabs.png" alt="Thorlabs logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/houston-logo.png" alt="Houson Mechatronics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/tormach.png" alt="Tormach logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/jnj-logo.svg" alt="J&J logo" />
         </div>
         <a class="btn mt-5 text-uppercase" href="/connect/">Schedule A Free Strategy Call</a>
     </div>
@@ -86,13 +86,13 @@ description: The PickNik website
             </div>
         </div>
         <div class="col-12 col-lg-6">
-          <img class="block-section__img" src="/assets/images/garden-robots.png" alt="Garden robots image">
+          <img class="block-section__img" src="/assets/images/garden-robots.png" alt="Garden robots image" />
         </div>
       </div>
       <div class="row align-items-center">
         <div class="col-12">
             <div class="block-section block-section--review">
-                <img class="block-section--review__icon" src="/assets/images/stars.png" alt="stars icon">
+                <img class="block-section--review__icon" src="/assets/images/stars.png" alt="stars icon" />
                 <h3 class="block-section__title text-center text-white">"Great contributions to our surgical robotics R&D.... exceptional design, coding and code reviews"</h3>
                 <!-- <p class="block-section--review__author">Dr. Haoran Yu, Head of Robotics, Verb Surgical</p> -->
                 <p class="block-section--review__author">Head of Robotics, Major Surgical Company</p>
@@ -190,7 +190,7 @@ description: The PickNik website
           <div class="block-sections-strategy__item">
             <div>
               <a href="{{site.baseurl}}/moveit">
-                <img class="block-sections-strategy__img" src="/assets/images/moveit-logo-2.png" alt="MoveIt">
+                <img class="block-sections-strategy__img" src="/assets/images/moveit-logo-2.png" alt="MoveIt" />
               </a>
             </div>
             <p class="block-sections-strategy__text">Primary Sponsor<br>& Community Leader</p>
@@ -198,7 +198,7 @@ description: The PickNik website
           <div class="block-sections-strategy__item">
             <div>
               <a href="{{site.baseurl}}/ros">
-                <img class="block-sections-strategy__img" src="/assets/images/ros-logo.png" alt="ROS logo">
+                <img class="block-sections-strategy__img" src="/assets/images/ros-logo.png" alt="ROS logo" />
               </a>
             </div>
             <p class="block-sections-strategy__text">Technical Steering Committee Member</p>
@@ -206,7 +206,7 @@ description: The PickNik website
           <div class="block-sections-strategy-row2__item">
             <div>
               <!-- <a href="https://rosindustrial.org/" target="_blank"> -->
-                <img class="block-sections-strategy-row2__img" src="/assets/images/ros-industrial-consortium.png" alt="ROS industial consortium">
+                <img class="block-sections-strategy-row2__img" src="/assets/images/ros-industrial-consortium.png" alt="ROS industial consortium" />
               <!-- </a> -->
             </div>
             <p class="block-sections-strategy__text">Member</p>
@@ -214,7 +214,7 @@ description: The PickNik website
           <div class="block-sections-strategy-row2__item">
             <div>
               <!-- <a href="https://arminstitute.org/" target="_blank"> -->
-                <img class="block-sections-strategy-row2__img" src="/assets/images/arm.png" alt="ARM">
+                <img class="block-sections-strategy-row2__img" src="/assets/images/arm.png" alt="ARM" />
               <!-- </a>   -->
             </div>
             <p class="block-sections-strategy__text">Member</p>
@@ -222,7 +222,7 @@ description: The PickNik website
           <div class="block-sections-strategy-row2__item">
             <div>
               <!-- <a href="https://arminstitute.org/" target="_blank"> -->
-                <img class="block-sections-strategy-row2__img" src="/assets/images/ria-logo.png" alt="RIA">
+                <img class="block-sections-strategy-row2__img" src="/assets/images/ria-logo.png" alt="RIA" />
               <!-- </a>   -->
             </div>
             <p class="block-sections-strategy__text">Member</p>
@@ -244,7 +244,7 @@ description: The PickNik website
                     <div class="col-12 col-md-6 col-lg-4 block-expertice-single">
                         <a href="/services/#motion-planning">
                             <div class="img-wrapper">
-                                <img class="icon" src="/assets/images/icon1.png" alt="motion planning icon">
+                                <img class="icon" src="/assets/images/icon1.png" alt="motion planning icon" />
                             </div>
                             <h4>Robot Arm<br/>Planning</h4>
                             <span class="subTitle">Motion and Path Generation</span>
@@ -253,7 +253,7 @@ description: The PickNik website
                     <div class="col-12 col-md-6 col-lg-4 block-expertice-single">
                         <a href="/services/#mobile-base-navigation">
                             <div class="img-wrapper">
-                                <img class="icon" src="/assets/images/icon6.png" alt="navigation icon">
+                                <img class="icon" src="/assets/images/icon6.png" alt="navigation icon" />
                             </div>
                             <h4>Mobile Base<br/>Navigation</h4>
                             <span class="subTitle">Autonomous Ground Vehicle (AGVs)</span>
@@ -262,7 +262,7 @@ description: The PickNik website
                     <div class="col-12 col-md-6 col-lg-4 block-expertice-single">
                         <a href="/services/#perception">
                             <div class="img-wrapper">
-                                <img class="icon" src="/assets/images/cloud-icon.png" alt="grasping and perception icon">
+                                <img class="icon" src="/assets/images/cloud-icon.png" alt="grasping and perception icon" />
                             </div>
                             <h4>Perception<br/>and Vision</h4>
                             <span class="subTitle">Dynamic Scene Understanding</span>
@@ -271,7 +271,7 @@ description: The PickNik website
                     <div class="col-12 col-md-6 col-lg-4 block-expertice-single">
                         <a href="/services/#advanced-inverse-kinematics">
                             <div class="img-wrapper">
-                                <img class="icon" src="/assets/images/icon2.png" alt="advanced inverse kinematics icon">
+                                <img class="icon" src="/assets/images/icon2.png" alt="advanced inverse kinematics icon" />
                             </div>
                             <h4>Inverse<br/>Kinematics</h4>
                             <span class="subTitle">With Complex Constraints</span>
@@ -280,7 +280,7 @@ description: The PickNik website
                     <div class="col-12 col-md-6 col-lg-4 block-expertice-single">
                         <a href="/services/#realtime-control">
                             <div class="img-wrapper">
-                                <img class="icon" src="/assets/images/icon3.png" alt="real time control icon">
+                                <img class="icon" src="/assets/images/icon3.png" alt="real time control icon" />
                             </div>
                             <h4>Realtime<br/>Motion Control</h4>
                             <span class="subTitle">Reactive Closed-Loop Motions Generation</span>
@@ -289,7 +289,7 @@ description: The PickNik website
                     <div class="col-12 col-md-6 col-lg-4 block-expertice-single">
                         <a href="/services/#grasping">
                             <div class="img-wrapper">
-                                <img class="icon" src="/assets/images/redesign/moveit-icons/ic-manipulation.svg" alt="navigation icon">
+                                <img class="icon" src="/assets/images/redesign/moveit-icons/ic-manipulation.svg" alt="navigation icon" />
                             </div>
                             <h4>Grasping<br/>and Manipulation</h4>
                             <span class="subTitle">Picking, Placing, and more</span>
@@ -298,7 +298,7 @@ description: The PickNik website
                     <div class="col-12 col-md-6 col-lg-4 block-expertice-single">
                         <a href="/services/#ROS-1-and-ROS-2-framework-design">
                             <div class="img-wrapper">
-                                <img class="icon" src="/assets/images/icon5.png" alt="ROS 1 and ROS 2 framework design icon">
+                                <img class="icon" src="/assets/images/icon5.png" alt="ROS 1 and ROS 2 framework design icon" />
                             </div>
                             <h4>ROS 1 / ROS 2<br/> System Design</h4>
                             <span class="subTitle">Integration, Migration, Framework Design</span>
@@ -307,7 +307,7 @@ description: The PickNik website
                     <div class="col-12 col-md-6 col-lg-4 block-expertice-single">
                         <a href="/services/#virtual-reality">
                             <div class="img-wrapper">
-                                <img class="icon" src="/assets/images/icon7.png" alt="collision avoidance icon">
+                                <img class="icon" src="/assets/images/icon7.png" alt="collision avoidance icon" />
                             </div>
                             <h4>Simulation /<br/> Virtual Reality</h4>
                             <span class="subTitle">Gazebo, Rviz, Unity 3D</span>
@@ -316,7 +316,7 @@ description: The PickNik website
                     <div class="col-12 col-md-6 col-lg-4 block-expertice-single">
                         <a href="/services/#robot-modelling">
                             <div class="img-wrapper">
-                                <img class="icon" src="/assets/images/icon8.png" alt="robot modelling icon">
+                                <img class="icon" src="/assets/images/icon8.png" alt="robot modelling icon" />
                             </div>
                             <h4>Robot Modeling /<br/> Workspace Analysis</h4>
                             <span class="subTitle">URDF Generation, Reachability, Usability</span>
@@ -340,7 +340,7 @@ description: The PickNik website
                     <div class="recommendations-single">
                         <div class="recommendationses-content">
                           <p>"The final product worked seamlessly and was accompanied by extremely thorough documentation of usage, several additional features, and improvements that we hadn't specifically asked for. It was the best experience I've had working with an external consultant."<br> -Dr. Bhaskara Marthi, Head of Robotics</p>
-                            <img class="recommendations-logo" src="/assets/images/vicarious-logo-2.png" alt="Vicarious logo">
+                            <img class="recommendations-logo" src="/assets/images/vicarious-logo-2.png" alt="Vicarious logo" />
                         </div>
                     </div>
                 </li>
@@ -348,7 +348,7 @@ description: The PickNik website
                     <div class="recommendations-single">
                         <div class="recommendations-content">
                           <p>“I highly recommend Dave. Dave is a self motivated problem solver and tackles problems holistically. He demonstrated a strong ability to navigate ambiguity and help define the requirements”<br> -Daniel Aden, Engineering</p>
-                            <img class="recommendations-logo" src="/assets/images/our-clients/google-logo.png" alt="Google logo">
+                            <img class="recommendations-logo" src="/assets/images/our-clients/google-logo.png" alt="Google logo" />
                         </div>
                     </div>
                 </li>
@@ -356,7 +356,7 @@ description: The PickNik website
                     <div class="recommendations-single">
                         <div class="recommendations-content">
                             <p>“Always striving to make sure problems are not swept under the rug, that the best solutions are employed, that clean and correct code is written...efficient, high quality code.”<br> -Dr. Ioan Sucan, Senior Software Engineer</p>
-                            <img class="recommendations-logo" src="/assets/images/waymo-logo.png" alt="Waymo logo">
+                            <img class="recommendations-logo" src="/assets/images/waymo-logo.png" alt="Waymo logo" />
                         </div>
                     </div>
                 </li>
@@ -377,8 +377,8 @@ description: The PickNik website
                 <!-- <li>
                     <div class="recommendations-single">
                         <div class="recommendations-content">
-                            <p>"Dave and Picknik team have been collaborating with Verb Robotics team for three years. They have made great contributions to our Surgical robotics R&amp;D with consultancy work on robotics and real-time SW. I am always very happy with the quality of SW (exceptional design, coding and code reviews) and their commitment to Verb's project schedule."<br> -Dr. Haoran Yu, Head of Robotics</p>
-                            <img class="recommendations-logo" src="/assets/images/verb-logo.png" alt="Verb logo">
+                            <p>"Dave and PickNik team have been collaborating with Verb Robotics team for three years. They have made great contributions to our Surgical robotics R&amp;D with consultancy work on robotics and real-time SW. I am always very happy with the quality of SW (exceptional design, coding and code reviews) and their commitment to Verb's project schedule."<br> -Dr. Haoran Yu, Head of Robotics</p>
+                            <img class="recommendations-logo" src="/assets/images/verb-logo.png" alt="Verb logo" />
                         </div>
                     </div>
                 </li> -->
@@ -398,13 +398,13 @@ description: The PickNik website
       <div class="col-12 col-lg-8">
           <div class="block-section d-flex align-items-center">
             <span>
-              <img class="block-section__p-logo" src="/assets/images/plogo.png" alt="Picknik mission logo">
+              <img class="block-section__p-logo" src="/assets/images/plogo.png" alt="PickNik mission logo" />
             </span>
             <h3 class="block-section__title font-weight-normal mb-0">PickNik's mission is to dramatically reduce development time and costs for your advanced robotic applications.</h3>
           </div>
       </div>
       <div class="col-12 col-lg-4">
-        <img class="block-section__img" src="/assets/images/satellite.png" alt="Satellite image">
+        <img class="block-section__img" src="/assets/images/satellite.png" alt="Satellite image" />
       </div>
     </div>
   </div>
@@ -417,10 +417,10 @@ description: The PickNik website
         </div>
         <div class="col-12 block-section--certifications">
           <a href="https://api.badgr.io/public/assertions/8hlx4iSUTwKRnV0QBazEpg?identity__url=https%3A%2F%2Fpicknik.ai%2F">
-            <img class="block-section__img" src="assets/images/svr-champion-award.png" alt="SVR Champion Award">
+            <img class="block-section__img" src="assets/images/svr-champion-award.png" alt="SVR Champion Award" />
           </a>
-          <img class="block-section__img" src="/assets/images/ITAR.png" alt="ITAR logo">
-          <!-- <img class="block-section__img " src="/assets/images/iso.png" alt="ISO certification"> -->
+          <img class="block-section__img" src="/assets/images/ITAR.png" alt="ITAR logo" />
+          <!-- <img class="block-section__img " src="/assets/images/iso.png" alt="ISO certification" /> -->
         </div>
         <a class="btn mt-5 text-uppercase text-center" href="/portfolio/">Learn more about our Success Stories</a>
     </div>

@@ -26,7 +26,7 @@ description: Services PickNik Robotics offers
             <div class="services-card-single">
                 <a href="/services/feasibility-study/">
                     <div class="img-wrapper">
-                        <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="motion planning icon">
+                        <img class="icon" src="../assets/images/redesign/robotic-consulting.svg" alt="Motion planning icon" />
                     </div>
                     <h3>Feasibility<br/> Study</h3>
                 </a>
@@ -38,7 +38,7 @@ description: Services PickNik Robotics offers
             <div class="services-card-single">
                 <a href="/services/custom-development">
                     <div class="img-wrapper">
-                        <img class="icon" src="../assets/images/redesign/custom-development.svg" alt="motion planning icon">
+                        <img class="icon" src="../assets/images/redesign/custom-development.svg" alt="Motion planning icon" />
                     </div>
                     <h3>Strategic<br/> Development</h3>
                 </a>
@@ -49,7 +49,7 @@ description: Services PickNik Robotics offers
             <div class="services-card-single">
                 <a href="/services/robotics-consulting">
                     <div class="img-wrapper">
-                        <img class="icon" src="../assets/images/redesign/moveit-support.svg" alt="motion planning icon">
+                        <img class="icon" src="../assets/images/redesign/moveit-support.svg" alt="Motion planning icon" />
                     </div>
                     <h3>Ongoing Robotics Support</h3>
                 </a>

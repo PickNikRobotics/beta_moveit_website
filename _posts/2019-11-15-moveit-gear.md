@@ -18,12 +18,12 @@ Official MoveIt gear is available now. Featuring the new logo, MoveIt gear inclu
 
 1- A MoveIt hoodie to keep you warm and cozy this winter
 
-<div style="text-align:center"><img src="/assets/images/blog_posts/moveit_gear/hoodie.jpg" alt="hoodie"></div>
+<div style="text-align:center"><img src="/assets/images/blog_posts/moveit_gear/hoodie.jpg" alt="hoodie" /></div>
 <br>
 
 2- A comfy t-shirt for whatever occasion
 
-<div style="text-align:center"><img src="/assets/images/blog_posts/moveit_gear/560.jpg" alt="tshirt"></div>
+<div style="text-align:center"><img src="/assets/images/blog_posts/moveit_gear/560.jpg" alt="tshirt" /></div>
 <br>
 
 Order <a href="https://teespring.com/shop/moveit-tee-hoodie?tsmac=recently_viewed&tsmic=recently_viewed&pid=369&cid=6513" target="_blank">here</a> and support the open source robotics community! Proceeds will be used for the maintenance of MoveIt.

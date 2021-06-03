@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robotics Consulting and Training
-description: Picknik does robotics consulting
+description: PickNik does robotics consulting
 redirect_from:
   - /support/
   - /support
@@ -19,7 +19,7 @@ permalink: /services/robotics-consulting/
                 </p>
             </div>
             <div class="col-12 col-lg-6">
-                <img src="/assets/images/redesign/robotic-consuting-main.png" alt="robotic consulting image">
+                <img src="/assets/images/redesign/robotic-consuting-main.png" alt="Robotic consulting image" />
             </div>
         </div>
     </div>
@@ -29,7 +29,7 @@ permalink: /services/robotics-consulting/
         <div class="services-robotic-card-wrapper">
            <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/redesign/expertise.png" alt="Expertise">
+                    <img src="/assets/images/redesign/expertise.png" alt="Expertise" />
                 </div>
                 <div class="col-12 col-lg-6">
                     <h2>Expertise</h2>
@@ -48,14 +48,14 @@ permalink: /services/robotics-consulting/
                     </p>
                 </div>
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/redesign/scalability.png" alt="scalability">
+                    <img src="/assets/images/redesign/scalability.png" alt="Scalability" />
                 </div>
             </div>
         </div>
         <div class="services-robotic-card-wrapper">
            <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/redesign/collaboration.png" alt="Collaboration">
+                    <img src="/assets/images/redesign/collaboration.png" alt="Collaboration" />
                 </div>
                 <div class="col-12 col-lg-6">
                     <h2>Collaboration</h2>

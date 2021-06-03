@@ -47,12 +47,12 @@ A few other stats from the event and 30 days after, in the consolidated moveit r
 
 Stickers are on their way to participating locations! If your organization is interested in sponsoring code-sprints please see the <a href="http://moveit.ros.org/documentation/contributing/future_projects/" target="_blank">list of ideas</a> and contact [PickNik Robotics](http://picknik.ai/connect) for more information.
 
-<img src="{{ site.url }}/assets/images/wmd17/munichphoto.jpg" width="500" style="margin-right:20px"/>
+<img src="{{ site.url }}/assets/images/wmd17/munichphoto.jpg" width="500" style="margin-right:20px" alt="Munich photo" />
 
-<img src="{{ site.url }}/assets/images/wmd17/singapore.jpg" width="500" style="margin-right:20px"/>
+<img src="{{ site.url }}/assets/images/wmd17/singapore.jpg" width="500" style="margin-right:20px" alt="Singapore" />
 
-<img src="{{ site.url }}/assets/images/wmd17/korea2.jpg" width="500" style="margin-right:20px"/>
+<img src="{{ site.url }}/assets/images/wmd17/korea2.jpg" width="500" style="margin-right:20px" alt="Korea" />
 
-<img src="{{ site.url }}/assets/images/wmd17/Japan1.jpeg" width="500" style="margin-right:20px"/>
+<img src="{{ site.url }}/assets/images/wmd17/Japan1.jpeg" width="500" style="margin-right:20px" alt="Japan" />
 
-<img src="{{ site.url }}/assets/images/wmd17/SF2.png" width="500" style="margin-right:20px"/>
+<img src="{{ site.url }}/assets/images/wmd17/SF2.png" width="500" style="margin-right:20px" alt="Stream" />

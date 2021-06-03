@@ -49,18 +49,18 @@ description: Discuss with PickNik experts your manipulation, navigation, and per
                     <div class="contact-info">
                         <div class="contact-info-single">
                             <a class="contact-info-text" href="mailto:hello@picknik.ai">
-                                <img src="../assets/images/redesign/mail.svg">
+                                <img src="../assets/images/redesign/mail.svg" alt="Email icon" />
                                 hello@picknik.ai
                             </a>
                         </div>
                         <div class="contact-info-single">
-                            <a class="contact-info-text" href="tel:+17205132221">               <img src="../assets/images/redesign/phone.svg">
+                            <a class="contact-info-text" href="tel:+17205132221">               <img src="../assets/images/redesign/phone.svg" alt="Phone icon" />
                                 + 1 720 513 2221
                             </a>
                         </div>
                         <div class="contact-info-single">
                             <a class="contact-info-text" target="_blank" href="https://maps.google.com/?q=4730 Walnut st, Suite 106, Boulder, Colorado 80301">
-                                <img src="../assets/images/redesign/address.svg">
+                                <img src="../assets/images/redesign/address.svg" alt="Address icon" />
                                 4730 Walnut St, Suite 106, Boulder, Colorado 80301
                             </a>
                         </div>
@@ -68,19 +68,19 @@ description: Discuss with PickNik experts your manipulation, navigation, and per
                     <div class="contact-info-social">
                         <span>You can find us here:</span>
                         <a class="contact-info-text" target="_blank" href="https://www.linkedin.com/company/picknik">
-                            <img src="../assets/images/redesign/linkedin.svg">
+                            <img src="../assets/images/redesign/linkedin.svg" alt="LinkedIn logo" />
                         </a>
                         <a class="contact-info-text" target="_blank" href="https://twitter.com/PickNikRobotics" data-proofer-ignore>
-                            <img src="../assets/images/redesign/twitter.svg">
+                            <img src="../assets/images/redesign/twitter.svg" alt="Twitter logo" />
                         </a>
                         <a class="contact-info-text" target="_blank" href="https://github.com/PickNikRobotics/">
-                            <img src="../assets/images/redesign/github.svg">
+                            <img src="../assets/images/redesign/github.svg" alt="Github logo" />
                         </a>
                         <a class="contact-info-text" target="_blank" href="https://www.youtube.com/channel/UCF7Yy57ZE2WNYeeXKEu8JQA">
-                          <img src="/assets/images/redesign/youtube.svg" alt="Youtube logo">
+                          <img src="/assets/images/redesign/youtube.svg" alt="Youtube logo" />
                         </a>
                         <a class="contact-info-text" target="_blank" href="https://www.instagram.com/picknik_robotics/">
-                            <img src="../assets/images/redesign/ig.svg">
+                            <img src="../assets/images/redesign/ig.svg" alt="Instagram logo" />
                         </a>
                     </div>
                 </div>

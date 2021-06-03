@@ -23,13 +23,13 @@ As he started having too many MoveIt projects, Dave realized there was an opport
 
 "I realized that in order to have the impact I wanted to on MoveIt, I would need to have a bigger team. I couldn't take a job at traditional companies that would prevent me from still contributing to open source. Starting a company made a lot of sense"
 
-<p align="center"><img src="/assets/images/blog_posts/picknik_turn_2/mike_dave_andy.jpg" alt="Mike Dave Andy"></p>
+<p align="center"><img src="/assets/images/blog_posts/picknik_turn_2/mike_dave_andy.jpg" alt="Mike Dave Andy" /></p>
 
 PickNik’s humble beginnings started in Dave's basement, and now employs over a dozen PhD roboticists and robotics software engineers all over the world with its headquarters in Boulder, Colorado.
 
 Dave's passion for the open source software model has helped PickNik Robotics become lead developer and maintainer of MoveIt, a key part of ROS (Robotics Operating System). MoveIt is used heavily by industry, startups, academics, and graduate students alike to enable robotic arms to interact with objects and move them to new locations. MoveIt is now used worldwide in hundreds of robots, including projects by NASA and <a href="https://moveit.ros.org/robots/" target="_blank">many others</a>.
 
-<p align="center"><img src="/assets/images/blog_posts/picknik_turn_2/team.jpg" alt="PickNik Team"></p>
+<p align="center"><img src="/assets/images/blog_posts/picknik_turn_2/team.jpg" alt="PickNik Team" /></p>
 
 As the robotics industry continues to grow, PickNik continues to focus on world class robotics consulting and providing powerful robotics software.
 

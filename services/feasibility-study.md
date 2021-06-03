@@ -20,7 +20,7 @@ description: PickNik's feasibility study process
                 </p>
             </div>
             <div class="col-12 col-lg-6">
-                <img src="/assets/images/redesign/robotic-consuting-main.png" alt="robotic consulting image">
+                <img src="/assets/images/redesign/robotic-consuting-main.png" alt="Robotic consulting image /">
             </div>
         </div>
     </div>
@@ -30,7 +30,7 @@ description: PickNik's feasibility study process
         <div class="services-robotic-card-wrapper">
            <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/redesign/expertise.png" alt="Expertise">
+                    <img src="/assets/images/redesign/expertise.png" alt="Expertise /">
                 </div>
                 <div class="col-12 col-lg-6">
                     <h2>Approach</h2>
@@ -71,14 +71,14 @@ description: PickNik's feasibility study process
                     </ul>
                 </div>
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/redesign/scalability.png" alt="scalability">
+                    <img src="/assets/images/redesign/scalability.png" alt="Scalability" />
                 </div>
             </div>
         </div>
         <div class="services-robotic-card-wrapper">
            <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/redesign/collaboration.png" alt="Collaboration">
+                    <img src="/assets/images/redesign/collaboration.png" alt="Collaboration" />
                 </div>
                 <div class="col-12 col-lg-6">
                     <h2>Engagement</h2>

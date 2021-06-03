@@ -24,7 +24,7 @@ Interacting with a dynamic and uncertain world requires taking in information an
         </ul>
     </div>
     <div class="col-12 col-lg-6">
-        <img src="/assets/images/perception-1.png" alt="computer vision"/>
+        <img src="/assets/images/perception-1.png" alt="computer vision" />
     </div>
 </div>
 
@@ -51,7 +51,7 @@ Every perception system starts with a sensor. At PickNik we have experience with
 Perception researchers and the [open source community](https://opensource.org/) have developed a myriad of tools to accelerate the development of a specialized system. If a robot needs to identify which fruit is ripe for picking or determine which kitchen surfaces to clean there is an open source tool that can be adapted to the challenge.
 
 <div class="row justify-content-center">
-    <img src="/assets/images/perception-3.png" alt="calibration AI and ML 3-D geometry"/>
+    <img src="/assets/images/perception-3.png" alt="calibration AI and ML 3-D geometry" />
 </div>
 
 ## Robotics Perception Consulting

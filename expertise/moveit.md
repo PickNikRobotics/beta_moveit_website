@@ -9,9 +9,9 @@ description: The MoveIt page on PickNik's website
     <div class="moveit-section-main">
         <div class="row justify-content-center">
             <div class="col-12">
-                <img class="moveit-section-main-logo" src="/assets/images/moveit-logo-2.png" alt="MoveIt">
+                <img class="moveit-section-main-logo" src="/assets/images/moveit-logo-2.png" alt="MoveIt" />
                 <h1 class="moveit-section-main-title">The most popular motion planning platform for <a href="https://picknik.ai/ros/">ROS</a></h1>
-                <img class="moveit-section-main-image" src="/assets/images/robotic-arm.png" alt="Robotic arm image">
+                <img class="moveit-section-main-image" src="/assets/images/robotic-arm.png" alt="Robotic arm image" />
             </div>
         </div>
     </div>
@@ -47,7 +47,7 @@ description: The MoveIt page on PickNik's website
       </div>
       <div class="col-12 col-lg-7">
         <div class="block-section moveit-section--review">
-            <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon">
+            <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon" />
             <h4 class="moveit-section--review__title text-center text-white">MoveIt saved us approximately 6 months of development time and allowed us to get our products in front of customers well ahead of schedule.</h4>
             <p class="moveit-section--review__author">Tom Hummel, VP Engineering, Kindred</p>
         </div>
@@ -142,37 +142,37 @@ description: The MoveIt page on PickNik's website
         <div class="moveit-key-components">
           <div class="moveit-key-components__item">
             <div class="img-wrapper">
-              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-motion.svg" alt="motion planning icon">
+              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-motion.svg" alt="motion planning icon" />
             </div>
             <p>Motion Planning</p>
           </div>
           <div class="moveit-key-components__item">
             <div class="img-wrapper">
-              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-manipulation.svg" alt="advanced inverse kinematics icon">
+              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-manipulation.svg" alt="advanced inverse kinematics icon" />
             </div>
             <p>Manipulation</p>
           </div>
           <div class="moveit-key-components__item">
             <div class="img-wrapper">
-              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-kinematics.svg" alt="real time control icon">
+              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-kinematics.svg" alt="real time control icon" />
             </div>
             <p>Inverse Kinematics</p>
           </div>
           <div class="moveit-key-components__item">
             <div class="img-wrapper">
-              <img class="icon" src="/assets/images/icon3.png" alt="motion planning icon">
+              <img class="icon" src="/assets/images/icon3.png" alt="motion planning icon" />
             </div>
             <p>Realtime Control</p>
           </div>
           <div class="moveit-key-components__item">
             <div class="img-wrapper">
-              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-3d.svg" alt="motion planning icon">
+              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-3d.svg" alt="motion planning icon" />
             </div>
             <p>3D Perception</p>
           </div>
           <div class="moveit-key-components__item">
             <div class="img-wrapper">
-              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-navigation.svg" alt="motion planning icon">
+              <img class="icon" src="/assets/images/redesign/moveit-icons/ic-navigation.svg" alt="motion planning icon" />
             </div>
             <p>Collision Checking</p>
           </div>
@@ -180,7 +180,7 @@ description: The MoveIt page on PickNik's website
       </div>
       <div class="col-12">
         <div class="block-section block-section--review">
-            <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon">
+            <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon" />
             <h3 class="block-section__title text-center text-white">"MoveIt is making advanced motion planning mainstream. It can easily reduce your time-to-market by years"</h3>
             <p class="block-section--review__author">Michael Ferguson, Entrepreneur and ROS Consultant
 </p>
@@ -196,7 +196,7 @@ description: The MoveIt page on PickNik's website
       </div>
       <div class="col-12 col-lg-4">
           <div class="moveit-section">
-              <img class="moveit-section__icon moveit-section__icon--medium" src="/assets/images/industrial.svg" alt="Industrial icon">
+              <img class="moveit-section__icon moveit-section__icon--medium" src="/assets/images/industrial.svg" alt="Industrial icon" />
               <h4 class="moveit-section__title">Industrial</h4>
               <div class="moveit-section__content">
                 <p>
@@ -207,7 +207,7 @@ description: The MoveIt page on PickNik's website
       </div>
       <div class="col-12 col-lg-4">
           <div class="moveit-section">
-              <img class="moveit-section__icon moveit-section__icon--medium" src="/assets/images/research.svg" alt="Research icon">
+              <img class="moveit-section__icon moveit-section__icon--medium" src="/assets/images/research.svg" alt="Research icon" />
               <h4 class="moveit-section__title">Research</h4>
               <div class="moveit-section__content">
                 <p>
@@ -218,7 +218,7 @@ description: The MoveIt page on PickNik's website
       </div>
       <div class="col-12 col-lg-4">
           <div class="moveit-section">
-              <img class="moveit-section__icon moveit-section__icon--medium" src="/assets/images/benchmarking.svg" alt="Benchmarking icon">
+              <img class="moveit-section__icon moveit-section__icon--medium" src="/assets/images/benchmarking.svg" alt="Benchmarking icon" />
               <h4 class="moveit-section__title">Benchmarking</h4>
               <div class="moveit-section__content">
                 <p>
@@ -244,7 +244,7 @@ description: The MoveIt page on PickNik's website
         </div>
       </div>
       <div class="col-12 col-lg-5">
-          <img class="block-section__img" src="/assets/images/hero2.png" alt="hero image">
+          <img class="block-section__img" src="/assets/images/hero2.png" alt="hero image" />
       </div>
     </div>
     <div id="accordion" class="moveit-accordion">

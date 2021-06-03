@@ -7,7 +7,7 @@ description: PickNiks MoveIt Studio
 <div class="tracksuite-section-main">
     <div class="row">
         <div class="col-4 col-sm-4">
-            <img class="img-fluid float-left" src="/assets/images/tracksuite/robot-hand-left.png"/>
+            <img class="img-fluid float-left" src="/assets/images/tracksuite/robot-hand-left.png" alt="Robot hand" />
         </div>
         <div class="col-auto col-sm-4">
             <div class="row justify-content-center">
@@ -16,13 +16,13 @@ description: PickNiks MoveIt Studio
             <h2>Supervised Autonomy for Unstructured Environments</h2>
             <div class="row justify-content-center">
                 <a href="/docs/PickNik_MoveIt_Studio_Spec_Sheet.pdf" target="_blank" class="btn">
-                    <img src="/assets/images/tracksuite/doc-logo.png"/>
+                    <img src="/assets/images/tracksuite/doc-logo.png" alt="Document icon" />
                     GET SPEC SHEET
                 </a>
             </div>
         </div>
         <div class="col-4 col-sm-4">
-            <img class="img-fluid float-right" src="/assets/images/tracksuite/robot-hand-right.png"/>
+            <img class="img-fluid float-right" src="/assets/images/tracksuite/robot-hand-right.png" alt="Robot hand right" />
         </div>
     </div>
 </div>
@@ -30,17 +30,17 @@ description: PickNiks MoveIt Studio
     <div class="container">
         <div class="tracksuite-card-wrapper">
             <div class="col-4 tracksuite-card-single">
-                <img class="mx-auto d-block" src="/assets/images/tracksuite/1.png" alt="Reduce robotic hardware wear & tear">
+                <img class="mx-auto d-block" src="/assets/images/tracksuite/1.png" alt="Reduce robotic hardware wear & tear" />
                 <h3>Humans Augmenting Robots</h3>
                 <p>Autonomy-first solution that reduces cognitive load on operators.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
-                <img class="mx-auto d-block" src="/assets/images/tracksuite/2.png" alt="Improve Cycle Time">
+                <img class="mx-auto d-block" src="/assets/images/tracksuite/2.png" alt="Improve Cycle Time" />
                 <h3>Get to Market Faster</h3>
                 <p>Launch complex, multi-step manipulation applications today.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
-                <img class="mx-auto d-block" src="/assets/images/tracksuite/3.png" alt="Safer, predictable behavior">
+                <img class="mx-auto d-block" src="/assets/images/tracksuite/3.png" alt="Safer, predictable behavior" />
                 <h3>For when robots get stuck</h3>
                 <p>Backup safeguard for edge cases that AI cannot yet handle.</p>
             </div>
@@ -50,7 +50,7 @@ description: PickNiks MoveIt Studio
         <div class="tracksuite-big-card-single">
             <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/tracksuite/ur-5-robot.png"/>
+                    <img src="/assets/images/tracksuite/ur-5-robot.png" alt="UR-5 robot" />
                 </div>
                 <div class="col-12 col-lg-6">
                     <h3>What is MoveIt Studio?</h3>

@@ -26,7 +26,7 @@
           <div class="image-wrapper real-image" style="background-image: url('{{ page.media_link }}');"></div>
           {% else %}
           <div class="image-wrapper">
-            <img src="/assets/images/default-image.jpg" style="width:100%;" />
+            <img src="/assets/images/default-image.jpg" style="width:100%;" alt="Default image" />
           </div>
           {% endif %}
           {{ content }}
@@ -95,7 +95,7 @@
               <div class="post-image-wrapper real-image" style="background-image: url('{{ post.media_link }}');"></div>
               {% else %}
               <div class="post-image-wrapper">
-                <img src="/assets/images/default-image.jpg" style="width:100%;">
+                <img src="/assets/images/default-image.jpg" style="width:100%;" alt="Default image" />
               </div>
               {% endif %}
               <div class="post-text-wrapper">

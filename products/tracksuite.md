@@ -7,7 +7,7 @@ description: A suite of two tools that together ensures your robot's behavior is
 <div class="tracksuite-section-main">
     <div class="row">
         <div class="col-4 col-sm-4">
-            <img class="img-fluid float-left" src="/assets/images/tracksuite/robot-hand-left.png"/>
+            <img class="img-fluid float-left" src="/assets/images/tracksuite/robot-hand-left.png" alt="Robot hand left" />
         </div>
         <div class="col-auto col-sm-4">
             <div class="row justify-content-center">
@@ -16,13 +16,13 @@ description: A suite of two tools that together ensures your robot's behavior is
             <h2>Enhance Your Robot's Capabilities</h2>
             <div class="row justify-content-center">
                 <a href="/docs/tracksuite/TrackSuiteSolution.pdf" target="_blank" class="btn">
-                    <img src="/assets/images/tracksuite/doc-logo.png"/>
+                    <img src="/assets/images/tracksuite/doc-logo.png" alt="Document icon" />
                     GET SOLUTION BRIEF
                 </a>
             </div>
         </div>
         <div class="col-4 col-sm-4">
-            <img class="img-fluid float-right" src="/assets/images/tracksuite/robot-hand-right.png"/>
+            <img class="img-fluid float-right" src="/assets/images/tracksuite/robot-hand-right.png" alt="Robot hand right" />
         </div>
     </div>
 </div>
@@ -30,17 +30,17 @@ description: A suite of two tools that together ensures your robot's behavior is
     <div class="container">
         <div class="tracksuite-card-wrapper">
             <div class="col-4 tracksuite-card-single">
-                <img class="mx-auto d-block" src="/assets/images/tracksuite/1.png" alt="Reduce robotic hardware wear & tear">
+                <img class="mx-auto d-block" src="/assets/images/tracksuite/1.png" alt="Reduce robotic hardware wear & tear" />
                 <h3>Reduce robotic hardware wear & tear</h3>
                 <p>Reduces wear and prolongs the life of expensive production hardware. Lessens breakages on plastic components.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
-                <img class="mx-auto d-block" src="/assets/images/tracksuite/2.png" alt="Improve Cycle Time">
+                <img class="mx-auto d-block" src="/assets/images/tracksuite/2.png" alt="Improve Cycle Time" />
                 <h3>Improve cycle time & efficiency</h3>
                 <p>Move faster with near time-optimal trajectories that reliably maximize speed.</p>
             </div>
             <div class="col-4 tracksuite-card-single">
-                <img class="mx-auto d-block" src="/assets/images/tracksuite/3.png" alt="Safer, predictable behavior">
+                <img class="mx-auto d-block" src="/assets/images/tracksuite/3.png" alt="Safer, predictable behavior" />
                 <h3>Safer, predictable behavior</h3>
                 <p>TrackSuite guarantees your robot's motions are smooth and without sudden jolts.</p>
             </div>
@@ -50,7 +50,7 @@ description: A suite of two tools that together ensures your robot's behavior is
         <div class="tracksuite-big-card-single">
             <div class="row align-items-center">
                 <div class="col-12 col-lg-6">
-                    <img src="/assets/images/tracksuite/ur-5-robot.png"/>
+                    <img src="/assets/images/tracksuite/ur-5-robot.png" alt="UR-5 robot" />
                 </div>
                 <div class="col-12 col-lg-6">
                     <h3>What is TrackSuite?</h3>
@@ -70,20 +70,20 @@ description: A suite of two tools that together ensures your robot's behavior is
                     <div class="row text-center">
                         <div class="col">
                             <a href="/docs/tracksuite/TrackPoseTechnicalSpec.pdf" target="_blank" class="btn">
-                                <img src="/assets/images/tracksuite/doc-logo.png"/>
+                                <img src="/assets/images/tracksuite/doc-logo.png" alt="Document icon" />
                                 DOWNLOAD TRACKPOSE SPEC
                             </a>
                         </div>
                         <div class="col">
                             <a href="/docs/tracksuite/TrackJointTechnicalSpec.pdf" target="_blank" class="btn btn-blue">
-                                <img src="/assets/images/tracksuite/doc-logo-white.png"/>
+                                <img src="/assets/images/tracksuite/doc-logo-white.png" alt="Document white icon" />
                                 DOWNLOAD TRACKJOINT SPEC
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-lg-5">
-                    <img class="img-fluid float-right" src="/assets/images/tracksuite/picknik-hero.png"/>
+                    <img class="img-fluid float-right" src="/assets/images/tracksuite/picknik-hero.png" alt="Robot arm" />
                 </div>
             </div>
         </div>

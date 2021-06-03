@@ -17,7 +17,7 @@ description: Open-source robotics at PickNik
                     <sup class="text-green">1</sup>
                   </p>
                 </div>
-                <img class="moveit-section-main-image open-source-main-image" src="/assets/images/open-source.png" alt="Open source robotics image">
+                <img class="moveit-section-main-image open-source-main-image" src="/assets/images/open-source.png" alt="Open source robotics image" />
             </div>
         </div>
     </div>
@@ -100,13 +100,13 @@ description: Open-source robotics at PickNik
     <div class="row align-items-center">
       <div class="col-12">
         <div class="block-section moveit-section--review ros-section--review mt-100">
-          <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon">
+          <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon" />
           <h4 class="moveit-section--review__title text-center text-white">
             “Tesla has created a software platform with more lines of code than Windows, but with a fraction of Microsoft’s software-development capabilities. How did Tesla achieve this without an army of engineers and three decades of experience? Through the extensive use of available and mature open-source software.”<sup class="text-green"> 2</sup>
           </h4>
         </div>
       </div>
-    </div>  
+    </div>
   </div>
 </div>
 <div class="container-fluid">
@@ -123,19 +123,19 @@ description: Open-source robotics at PickNik
           </div>
         </div>
       </div>
-      <img class="open-source-robotic-arm" src="/assets/images/robotic-arm2.png" alt="Robotic arm image">
+      <img class="open-source-robotic-arm" src="/assets/images/robotic-arm2.png" alt="Robotic arm image" />
     </div>
     <div class="row align-items-center">
       <div class="col-12">
         <div class="block-section moveit-section--review mt-100">
-          <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon">
+          <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon" />
           <h4 class="moveit-section--review__title text-center text-white">
             "We use either the BSD or the Apache 2 licence, which are both what I call permissive open source licenses which basically say you can take the software, incorporate it into your product, change it, do whatever you like more or less, and you don’t have to tell us about it or ask us for permission."
           </h4>
           <p class="moveit-section--review__author">Brian Gerkey, CEO, Open Robotics</p>
         </div>
       </div>
-    </div>  
+    </div>
   </div>
 </div>
 <div class="container-fluid bg-grey">
@@ -167,17 +167,17 @@ description: Open-source robotics at PickNik
                 </a>
               </li>
               <li>
-                <a href="https://github.com/ros-visualization/rviz" target="_blank">              
+                <a href="https://github.com/ros-visualization/rviz" target="_blank">
                   Rviz Robot Visualizer
-                </a>  
+                </a>
               </li>
             </ol>
           </div>
         </div>
       </div>
       <div class="col-12 col-lg-5 offset-lg-1">
-        <img class="block-section__img" src="/assets/images/docker-illustration.png" alt="Docker illustration">
-      </div>  
+        <img class="block-section__img" src="/assets/images/docker-illustration.png" alt="Docker illustration" />
+      </div>
     </div>
   </div>
 </div>
@@ -197,7 +197,7 @@ description: Open-source robotics at PickNik
           <p>Develops common robot drivers<br/>and many tools around manufacturing.</p>
         </div>
         <div class="open-source-organizations open-source-2">
-          <img src="/assets/images/logo.jpg" alt="Picknik logo" />
+          <img src="/assets/images/logo.jpg" alt="PickNik logo" />
           <h4>PickNik Robotics</h4>
           <p>Develops MoveIt and many related<br/>manipulation packages</p>
         </div>
@@ -229,8 +229,8 @@ description: Open-source robotics at PickNik
         </div>
       </div>
       <div class="col-12 col-lg-6">
-        <img class="block-section__img" src="/assets/images/ur5-robot.png" alt="UR 5 robot image">
-      </div>  
+        <img class="block-section__img" src="/assets/images/ur5-robot.png" alt="UR 5 robot image" />
+      </div>
     </div>
   </div>
 </div>

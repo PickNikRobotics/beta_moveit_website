@@ -40,8 +40,8 @@ For videos of the presentations, see the <a href="https://www.youtube.com/playli
 <table style="width: 100%;" >
 <tbody>
 <tr>
-<td><img src="/assets/images/sponsors/amazon.png" height="100"/></td>
-<td><img src="/assets/images/sponsors/picknik.png" height="100"/></td>
+<td><img src="/assets/images/sponsors/amazon.png" height="100" alt="Amazon logo" /></td>
+<td><img src="/assets/images/sponsors/picknik.png" height="100" alt="PickNik logo" /></td>
 </tr>
 </tbody>
 </table>

@@ -13,7 +13,7 @@ description: PickNik's work portfolio
                 <h2 class="ros-section-sub-title">Some of the biggest and most progressive companies in the world choose PickNik.</h2>
             </div>
             <div class="col-12 col-lg-5 offset-lg-1">
-              <img class="moveit-section-main-image" src="/assets/images/ur5-robot.png" alt="UR 5 robot image">
+              <img class="moveit-section-main-image" src="/assets/images/ur5-robot.png" alt="UR 5 robot image" />
             </div>
         </div>
     </div>
@@ -38,7 +38,7 @@ description: PickNik's work portfolio
               </div>
               {% else %}
               <div class="blog-image-wrapper">
-                <img src="/assets/images/default-image.jpg" style="width:100%;">
+                <img src="/assets/images/default-image.jpg" style="width:100%;" alt="Default image" />
               </div>
               {% endif %}
               <div class="blog-text-wrapper">
@@ -73,7 +73,7 @@ description: PickNik's work portfolio
                 </div>
                 {% else %}
                 <div class="blog-image-wrapper">
-                  <img src="/assets/images/default-image.jpg" style="width:100%;">
+                  <img src="/assets/images/default-image.jpg" style="width:100%;" alt="Default image" />
                 </div>
                 {% endif %}
                 <div class="blog-text-wrapper">
@@ -94,43 +94,43 @@ description: PickNik's work portfolio
             <h3 class="block-section__title" id="clients">Our Clients</h3>
         </div>
         <div class="col-sm-12">
-          <img class="our-works-logos" src="/assets/images/our-clients/google-logo.png" alt="Google logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/kindred.png" alt="Kindred logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/vicarious.png" alt="Vicarious logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/carbon.png" alt="Carbon Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/franka-logo.png" alt="Franka Emika logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/sesto.png" alt="Sesto Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/houston.png" alt="Houston Mechatronics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/Tethers-Unlimited.png" alt="Tethers Unlimited logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/nasa-logo.png" alt="NASA logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/iunu.png" alt="IUNU logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/rtr.png" alt="Realtime Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/rr-logo.png" alt="Rapyuta Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/tormach.png" alt="Tormach logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/numurus.png" alt="Numurus logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/amazon.png" alt="Amazon logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/tomahawk.png" alt="Tomahawk Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/skyline.png" alt="Skyline Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/acutronic.png" alt="Acutronic Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/dusty-robotics.png" alt="Dusty Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/plusone-logo.jpg" alt="Plus One logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/aeolus.png" alt="Aeolus logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/creator.png" alt="Creator logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/hello-robot-logo.png" alt="Hello Robot logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/stratom.png" alt="Stratom logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/appliedlogix.png" alt="AppliedLogix logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/bastian.png" alt="Bastian logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/thorlabs.png" alt="Thorlabs logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/maxar.png" alt="Maxar logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/SSInnovations.png" alt="SS Innovations logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/samsung.png" alt="Samsung logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/jnj-logo.svg" alt="J&J logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/re.png" alt="RE2 Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/omni-logo.png" alt="Omni Robotics logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/simple-homes-logo.svg" alt="Simple Homes logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/hyundai-logo.svg" alt="Hyundai logo">
-          <img class="our-works-logos" src="/assets/images/our-clients/rezilient.svg" alt="Rezilient logo">
-          <!-- <img class="our-works-logos" src="/assets/images/our-clients/beyond-logo.png" alt="Beyond Imagination logo"> -->
+          <img class="our-works-logos" src="/assets/images/our-clients/google-logo.png" alt="Google logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/kindred.png" alt="Kindred logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/vicarious.png" alt="Vicarious logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/carbon.png" alt="Carbon Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/franka-logo.png" alt="Franka Emika logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/sesto.png" alt="Sesto Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/houston.png" alt="Houston Mechatronics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/Tethers-Unlimited.png" alt="Tethers Unlimited logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/nasa-logo.png" alt="NASA logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/iunu.png" alt="IUNU logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/rtr.png" alt="Realtime Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/rr-logo.png" alt="Rapyuta Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/tormach.png" alt="Tormach logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/numurus.png" alt="Numurus logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/amazon.png" alt="Amazon logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/tomahawk.png" alt="Tomahawk Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/skyline.png" alt="Skyline Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/acutronic.png" alt="Acutronic Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/dusty-robotics.png" alt="Dusty Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/plusone-logo.jpg" alt="Plus One logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/aeolus.png" alt="Aeolus logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/creator.png" alt="Creator logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/hello-robot-logo.png" alt="Hello Robot logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/stratom.png" alt="Stratom logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/appliedlogix.png" alt="AppliedLogix logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/bastian.png" alt="Bastian logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/thorlabs.png" alt="Thorlabs logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/maxar.png" alt="Maxar logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/SSInnovations.png" alt="SS Innovations logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/samsung.png" alt="Samsung logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/jnj-logo.svg" alt="J&J logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/re.png" alt="RE2 Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/omni-logo.png" alt="Omni Robotics logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/simple-homes-logo.svg" alt="Simple Homes logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/hyundai-logo.svg" alt="Hyundai logo" />
+          <img class="our-works-logos" src="/assets/images/our-clients/rezilient.svg" alt="Rezilient logo" />
+          <!-- <img class="our-works-logos" src="/assets/images/our-clients/beyond-logo.png" alt="Beyond Imagination logo" /> -->
         </div>
     </div>
 </div>
@@ -160,25 +160,25 @@ description: PickNik's work portfolio
           </div>
           <div class="portfolio-organizations">
             <a href="https://appliedlogix.com/" target="_blank">
-              <img src="/assets/images/our-clients/appliedlogix.png" alt="AppliedLogix logo"/>
+              <img src="/assets/images/our-clients/appliedlogix.png" alt="AppliedLogix logo" />
             </a>
             <p>Partner in building complex electronics and embedded systems</p>
           </div>
           <div class="portfolio-organizations">
             <a href="https://hello-robot.com/" target="_blank">
-              <img src="/assets/images/our-clients/hello-robot-partner.png" alt="Hello Robotics logo"/>
+              <img src="/assets/images/our-clients/hello-robot-partner.png" alt="Hello Robotics logo" />
             </a>
             <p>PickNik is an integration partner for the Stretch R1 mobile manipulator</p>
           </div>
           <div class="portfolio-organizations">
             <a href="https://www.servoneering.com/" target="_blank">
-              <img src="/assets/images/our-clients/SERVOneeringLogo.png" alt="SERVOneering logo"/>
+              <img src="/assets/images/our-clients/SERVOneeringLogo.png" alt="SERVOneering logo" />
             </a>
             <p>A Tier-1 supplier to robot OEMs for custom joint modules</p>
           </div>
           <!-- <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="open-source-organizations">
-              <img src="/assets/images/logo.jpg" alt="Picknik logo" />
+              <img src="/assets/images/logo.jpg" alt="PickNik logo" />
               <h4>Autoware Foundation</h4>
               <p>Develops autonomous cars and<br/>self-driving mobility using ROS</p>
             </div>

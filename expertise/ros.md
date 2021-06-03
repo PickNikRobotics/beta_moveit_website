@@ -11,7 +11,7 @@ description: How PickNik works with ROS
             <div class="col-12">
                 <h1 class="ros-section-main-title">Robot Operating System (ROS)</h1>
                 <h2 class="ros-section-sub-title">ROS is the de facto standard for advanced robotic systems today.</h2>
-                <img class="moveit-section-main-image" src="/assets/images/pr2.jpg" alt="PR2 image">
+                <img class="moveit-section-main-image" src="/assets/images/pr2.jpg" alt="PR2 image" />
             </div>
         </div>
     </div>
@@ -47,7 +47,7 @@ description: How PickNik works with ROS
       </div>
       <div class="col-12 col-lg-6">
         <div class="block-section moveit-section--review ros-section--review">
-            <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon">
+            <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon" />
             <h4 class="moveit-section--review__title text-center text-white">“Nearly 55% of total commercial robots shipped in 2024 will have at least one ROS package installed, creating a large installed base of ROS-enabled robots.”<sup class="text-green"> 1</sup></h4>
         </div>
       </div>  
@@ -148,8 +148,8 @@ description: How PickNik works with ROS
         </div>
       </div>
       <div class="col-12 col-lg-5 offset-lg-1">
-        <img class="block-section__img" src="/assets/images/TractorJohnDeereTA.jpg" alt="Tractor John Deer image">
-      </div>  
+        <img class="block-section__img" src="/assets/images/TractorJohnDeereTA.jpg" alt="Tractor John Deer image" />
+      </div>
     </div>
   </div>
 </div>
@@ -159,17 +159,17 @@ description: How PickNik works with ROS
             <h3 class="block-section__title">Some other companies using ROS today</h3>
         </div>
         <div class="col-sm-12">
-            <img class="our-works-logos" src="/assets/images/our-clients/amazon-logo.png" alt="Amazon logo">
-            <img class="our-works-logos" src="/assets/images/our-clients/bosch-logo.svg" alt="Bosh logo">
-            <img class="our-works-logos" src="/assets/images/our-clients/ubuntu-logo.gif" alt="Ubuntu logo">
-            <img class="our-works-logos our-works-logos--small" src="/assets/images/our-clients/intel-logo.svg" alt="Intel logo">
-            <img class="our-works-logos" src="/assets/images/our-clients/lg-logo.jpg" alt="LG Electronics logo">
-            <img class="our-works-logos" src="/assets/images/our-clients/microsoft-logo.png" alt="Microsoft logo">
-            <img class="our-works-logos" src="/assets/images/our-clients/ROBOTIS-logo.png" alt="ROBOTIS logo">
-            <img class="our-works-logos" src="/assets/images/our-clients/clearpath-logo.png" alt="Clearpath Robotics logo">
-            <img class="our-works-logos" src="/assets/images/our-clients/fetch-logo.png" alt="Fetch Robotics">
-            <img class="our-works-logos" src="/assets/images/our-clients/samsung.png" alt="Samsung logo">
-            <img class="our-works-logos" src="/assets/images/our-clients/tri-logo.png" alt="Toyota Research Institute logo">
+            <img class="our-works-logos" src="/assets/images/our-clients/amazon-logo.png" alt="Amazon logo" />
+            <img class="our-works-logos" src="/assets/images/our-clients/bosch-logo.svg" alt="Bosh logo" />
+            <img class="our-works-logos" src="/assets/images/our-clients/ubuntu-logo.gif" alt="Ubuntu logo" />
+            <img class="our-works-logos our-works-logos--small" src="/assets/images/our-clients/intel-logo.svg" alt="Intel logo" />
+            <img class="our-works-logos" src="/assets/images/our-clients/lg-logo.jpg" alt="LG Electronics logo" />
+            <img class="our-works-logos" src="/assets/images/our-clients/microsoft-logo.png" alt="Microsoft logo" />
+            <img class="our-works-logos" src="/assets/images/our-clients/ROBOTIS-logo.png" alt="ROBOTIS logo" />
+            <img class="our-works-logos" src="/assets/images/our-clients/clearpath-logo.png" alt="Clearpath Robotics logo" />
+            <img class="our-works-logos" src="/assets/images/our-clients/fetch-logo.png" alt="Fetch Robotics" />
+            <img class="our-works-logos" src="/assets/images/our-clients/samsung.png" alt="Samsung logo" />
+            <img class="our-works-logos" src="/assets/images/our-clients/tri-logo.png" alt="Toyota Research Institute logo" />
         </div>
     </div>
 </div>
@@ -187,7 +187,7 @@ description: How PickNik works with ROS
         </div>
       </div>
       <div class="col-12 col-lg-6">
-        <img class="block-section__img" src="/assets/images/R2-stow-pose-thumb.jpg" alt="Robonaut R2 image">
+        <img class="block-section__img" src="/assets/images/R2-stow-pose-thumb.jpg" alt="Robonaut R2 image" />
       </div>  
     </div>
   </div>
@@ -196,7 +196,7 @@ description: How PickNik works with ROS
   <div class="row align-items-center">
     <div class="col-12 col-lg-6">
       <a href="/moveit">
-        <img class="block-section__img ros-image-max-300" src="/assets/images/moveit-logo-2.png" alt="MoveIt">
+        <img class="block-section__img ros-image-max-300" src="/assets/images/moveit-logo-2.png" alt="MoveIt logo" />
       </a>
     </div>
     <div class="col-12 col-lg-6">
@@ -227,7 +227,7 @@ description: How PickNik works with ROS
         </div>
         <div class="col-12 col-lg-7">
           <div class="block-section moveit-section--review">
-              <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon">
+              <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon" />
               <h4 class="moveit-section--review__title text-center text-white">ROS 2 has allowed us to fix the things that needed big structural change, while keeping all the good things. All of those things people clamored for in ROS 1, things like Windows support, RTOS support, life-cycle management, security, etc., well, they’ve all landed in ROS 2</h4>
               <p class="moveit-section--review__author">Brian Gerkey, Open Robotics</p>
           </div>
@@ -238,7 +238,7 @@ description: How PickNik works with ROS
       <div class="row align-items-center">
         <div class="col-12 col-lg-7">
           <div class="block-section moveit-section--review ros-section--review-2">
-              <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon">
+              <img class="moveit-section--review__icon" src="/assets/images/quotes.png" alt="double quotes icon" />
               <h4 class="moveit-section--review__title text-center text-white">ROS 2 momentum is accelerating upwards and at a significant rate, especially in the last year since the ROS 2 Dashing release.</h4>
               <p class="moveit-section--review__author">Camilo Buscaron, Amazon Web Services Robomaker</p>
           </div>

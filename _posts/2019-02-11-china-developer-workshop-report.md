@@ -43,18 +43,18 @@ Intel OTC robotics team hosted the afternoon’s hands-on lab activities. MoveIt
 * Pick and place in simulator
 * Demo OpenVINO enabled random pick and place with UR5 robot arm
 
-[<img src="{{ site.url }}/assets/images/wmd19/cdw_2.jpg" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/wmd19/cdw_2.jpg)
+[<img src="{{ site.url }}/assets/images/wmd19/cdw_2.jpg" width="500" style="margin-right:20px" alt="MoveIt China Developer Workshop" />]({{ site.url }}/assets/images/wmd19/cdw_2.jpg)
 
-[<img src="{{ site.url }}/assets/images/wmd19/cdw_3.jpg" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/wmd19/cdw_3.jpg)
+[<img src="{{ site.url }}/assets/images/wmd19/cdw_3.jpg" width="500" style="margin-right:20px" alt="MoveIt China Developer Workshop" />]({{ site.url }}/assets/images/wmd19/cdw_3.jpg)
 
-[<img src="{{ site.url }}/assets/images/wmd19/cdw_4.jpg" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/wmd19/cdw_4.jpg)
+[<img src="{{ site.url }}/assets/images/wmd19/cdw_4.jpg" width="500" style="margin-right:20px" alt="MoveIt China Developer Workshop" />]({{ site.url }}/assets/images/wmd19/cdw_4.jpg)
 
-[<img src="{{ site.url }}/assets/images/wmd19/cdw_5.jpg" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/wmd19/cdw_5.jpg)
+[<img src="{{ site.url }}/assets/images/wmd19/cdw_5.jpg" width="500" style="margin-right:20px" alt="MoveIt China Developer Workshop" />]({{ site.url }}/assets/images/wmd19/cdw_5.jpg)
 
-[<img src="{{ site.url }}/assets/images/wmd19/cdw_6.jpg" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/wmd19/cdw_6.jpg)
+[<img src="{{ site.url }}/assets/images/wmd19/cdw_6.jpg" width="500" style="margin-right:20px" alt="MoveIt China Developer Workshop" />]({{ site.url }}/assets/images/wmd19/cdw_6.jpg)
 
-[<img src="{{ site.url }}/assets/images/wmd19/cdw_7.jpg" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/wmd19/cdw_7.jpg)
+[<img src="{{ site.url }}/assets/images/wmd19/cdw_7.jpg" width="500" style="margin-right:20px" alt="MoveIt China Developer Workshop" />]({{ site.url }}/assets/images/wmd19/cdw_7.jpg)
 
-[<img src="{{ site.url }}/assets/images/wmd19/cdw_8.jpg" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/wmd19/cdw_8.jpg)
+[<img src="{{ site.url }}/assets/images/wmd19/cdw_8.jpg" width="500" style="margin-right:20px" alt="MoveIt China Developer Workshop" />]({{ site.url }}/assets/images/wmd19/cdw_8.jpg)
 
-[<img src="{{ site.url }}/assets/images/wmd19/cdw_1.jpg" width="500" style="margin-right:20px"/>]({{ site.url }}/assets/images/wmd19/cdw_1.jpg)
+[<img src="{{ site.url }}/assets/images/wmd19/cdw_1.jpg" width="500" style="margin-right:20px" alt="MoveIt China Developer Workshop" />]({{ site.url }}/assets/images/wmd19/cdw_1.jpg)
