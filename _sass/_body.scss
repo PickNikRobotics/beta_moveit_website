@@ -32,12 +32,32 @@ iframe {
   }
 }
 
-body {
+body:not(.body--dark) {
   margin-top: 145px;
   background-image: url('../images/redesign/bg-main.svg');
   background-repeat: no-repeat;
   background-position-x: -100px;
   position: relative;
+}
+
+.body--dark {
+  .navbar {
+    background-color: #000000;
+    .navbar-nav {
+      .nav-link {
+        color: #c7c7c7;
+        &:hover,
+        &:focus {
+          color: #ffff;
+          text-decoration: none;
+        }
+        &.active {
+          font-weight: bold;
+          color: #ffff;
+        }
+      }
+    }
+  }
 }
 
 a {

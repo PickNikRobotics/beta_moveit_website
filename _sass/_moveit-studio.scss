@@ -1,0 +1,261 @@
+.moveit-studio_main-bg {
+  background-image: url('/assets/images/product/moveit-studio/moveit-studio-main.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.moveit-studio_section-main {
+  padding: 250px 0 90px;
+  text-align: center;
+
+  @media screen and (max-width: 992px) {
+    padding: 135px 0 60px;
+  }
+
+  @media screen and (max-width: 767px) {
+    padding-top: 120px;
+  }
+}
+
+.moveit-studio_section-main-logo {
+  width: 280px;
+  max-width: 100%;
+}
+
+.moveit-studio_btn {
+  .btn {
+    width: 456px;
+    max-width: 100%;
+    display: block;
+    margin: 45px 0;
+  }
+}
+
+.moveit-studio_section-main-title {
+  font-size: 56px;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 26px;
+  color: #ffffff;
+
+  @media screen and (max-width: 520px) {
+    font-size: 40px;
+  }
+}
+
+.moveit-studio_section-sub-title {
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 40px;
+  color: #ffffff;
+  max-width: 450px;
+
+  @media screen and (max-width: 992px) {
+    margin-bottom: 30px;
+  }
+}
+
+.moveit-studio_section-main-image {
+  width: 600px;
+  max-width: 100%;
+}
+
+.moveit-studio__title {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 48px;
+
+  b {
+    font-weight: bold;
+  }
+}
+
+.moveit-studio__info-content {
+  margin: 120px auto;
+
+  @media screen and (max-width: 992px) {
+    margin-bottom: 0;
+  }
+}
+
+.moveit-studio__content {
+  max-width: 90%;
+  opacity: 0.8;
+
+  @media screen and (max-width: 992px) {
+    max-width: 100%;
+  }
+
+  p {
+    line-height: 40px;
+    font-size: 24px;
+  }
+}
+
+.moveit-studio__image {
+  img {
+    max-width: 100%;
+  }
+}
+
+.moveit-studio__image__title {
+  font-size: 24px;
+  text-align: center;
+  color: #3c4a69;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.moveit-studio__orbs__section {
+  background-color: #f5f5fa;
+
+  .block-section__title {
+    margin-top: 72px;
+  }
+}
+
+.moveit-studio__orb-stats {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 150px;
+}
+
+.moveit-studio__orb-stats__item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 240px;
+  flex: 0 0 240px;
+  margin: 0 11px 0;
+
+  &:first-child {
+    margin-left: 0;
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.moveit-studio__orb_graphic {
+  position: relative;
+}
+
+.moveit-studio__orb-stats__text {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  line-height: 28px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.moveit-studio__items__section {
+  background-color: #121929;
+}
+
+.moveit-studio__items {
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.moveit-studio__items__title {
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: bold;
+  letter-spacing: -0.61px;
+  text-align: center;
+  margin: 90px auto;
+}
+
+.moveit-studio__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+
+  @media screen and (max-width: 992px) {
+    justify-content: center;
+  }
+
+  &--right {
+    .moveit-studio__item__image {
+      text-align: right;
+
+      @media screen and (max-width: 992px) {
+        text-align: center;
+      }
+    }
+
+    @media screen and (max-width: 992px) {
+      flex-direction: column-reverse;
+    }
+  }
+}
+
+.moveit-studio__item__image {
+  flex: 0 0 50%;
+  max-width: 50%;
+
+  @media screen and (max-width: 992px) {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+
+    @media screen and (max-width: 992px) {
+      display: table;
+      margin: 0 auto 50px;
+    }
+  }
+}
+
+.moveit-studio__item__content {
+  flex: 0 0 50%;
+  max-width: 450px;
+
+  @media screen and (max-width: 992px) {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  &__title {
+    color: #fff;
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    margin-bottom: 24px;
+  }
+
+  &__text {
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 32px;
+    font-weight: 300;
+  }
+}
+
+.moveit-studio-footer__btn {
+  display: table;
+  padding: 22px 60px;
+  font-weight: 700;
+  margin-bottom: 100px;
+  font-size: 18px;
+}
+
+.moveit-studio-support__btn {
+  padding: 20px 60px;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
