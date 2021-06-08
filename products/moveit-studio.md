@@ -49,7 +49,7 @@ description: PickNik's MoveIt Studio
         <div class="col-12 col-lg-7">
           <div class="block-section">
               <h3 class="moveit-studio__title">
-                <b>MoveIt Studio</b> makes it easy for robot
+                <b>MoveIt™ Studio</b> makes it easy for robot
                 operators&nbsp;to&nbsp;develop and coordinate
                 autonomous&nbsp;robots by integrating best-in-class
                 motion planning with an intuitive user interface.
@@ -121,7 +121,7 @@ description: PickNik's MoveIt Studio
    <div class="container">
       <div class="row">
          <div class="col-sm-12">
-            <h3 class="moveit-studio__items__title">Why MoveIt™ Studio</h3>
+            <h3 class="moveit-studio__items__title">Why MoveIt Studio</h3>
          </div>
       </div>
       <div class="moveit-studio__items">
