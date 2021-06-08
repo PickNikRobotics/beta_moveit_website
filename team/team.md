@@ -109,7 +109,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/tyler.png')"></div>
                     <h3>Tyler Weaver</h3>
                 </a>
-                <div class="team-position">Senior Software Engineer - Robotics</div>
+                <div class="team-position">Senior Software Engineer</div>
                 <p>B.S. Comp Engineering from DeVry Univ. Tyler has a talent for C++ and Python programming, having created many different software applications over the past decade.  In 2013 he supported Special Operations in Afghanistan, and at DeVry Tyler built a stereo vision sensor for a robot competing in the CO Robotics Challenge. He has since developed software defined radio libraries for wireless communication and sensing applications. In that position, Tyler worked on a large legacy codebase adding new signal types and improving the accelerated math library.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -119,7 +119,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/JafarAbdi.jpg')"></div>
                     <h3>Jafar Abdi</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Software Engineer</div>
                 <p>B.S. Mechatronics Engineering from Karabuk University. Jafar started as an embedded system enthusiast before getting interested in robotics and software development; his favorite programming languages are C++ and Python, while he is also a fan of "Modern C++", a math lover, and believer in life-long learning.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -139,7 +139,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/jere.jpg')"></div>
                     <h3>Jere Liukkonen, MS</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Robotics Engineer</div>
                 <p> M.S. Automation and Control Systems Engineering from Aalto University with a focus on mechatronics. Jere is a C++ enthusiast with background in computer vision and image processing. Before becoming a full-time roboticist, he worked with challenging computer vision problems with the most recent being analyzing medical images using deep neural networks.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -159,7 +159,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/abi.png')"></div>
                     <h3>Abishalini Sivaraman, MS</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Robotics Engineer</div>
                 <p>M.S. Computer Engineering and B.S. Electrical Engineering at Texas A&M University (concentration in AI, ML and VR application development). Abi got into robotics primarily through extra curricular activities. A tinkerer by nature, she learned mechanical and electrical CAD softwares, machining, 3D printing, soldering, ROS and computer vision techniques while working on building an AUV and automating a Ford Focus.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -169,7 +169,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/alexgoldman.jpg')"></div>
                     <h3>Alex Goldman, MS</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Robotics Engineer</div>
                 <p>M.S. Robotics and Autonomous Systems from Arizona State University with a focus on Artificial Intelligence. As a part of Alex’s graduate studies he spearheaded the creation of an autonomous underwater vehicle for coral reef mapping and monitoring, combining his loves for scuba diving and robotics. He has a background in entrepreneurship and product development and brings his customer-centric design approaches to robotic software development.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -179,7 +179,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/joe_s.jpg')"></div>
                     <h3>Joe Schornak, MS</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Robotics Engineer</div>
                 <p>M.S. Robotics Engineering at Worcester Polytechnic Institute and B.S. Mechanical Engineering at Rose-Hulman Institute of Technology with minors in Computer Science and Robotics. Joe's work has focused on perception-driven robotics applications in ROS2, especially with systems that move on and around previously-unseen surfaces. His graduate research explored guiding surgical robots using MRI data and other real-time volumetric imaging techniques.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -189,7 +189,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/griz.png')"></div>
                     <h3>Griswald Brooks, MS</h3>
                 </a>
-                <div class="team-position">Senior Software Engineer - Robotics</div>
+                <div class="team-position">Senior Robotics Engineer</div>
                 <p>M.S. Electrical Engineering with a concentration in Controls and Robotics from NYU Polytechnic School of Engineering. Inspired from a young age by the advances in robotics at MIT Leg Lab, Griswald pursued the field following service in the US Navy. Development of ROS and the PR2 at Willow Garage drew him to the Bay Area, where he was a key contributor to autonomous docking, navigation, and perception at companies such as Fetch, Neato, and Bossa Nova Robotics. Having designed and developed automated on-robot testing systems, he is experienced in delivering robust, production quality robot software.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -199,7 +199,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/marq.jpg')"></div>
                     <h3>Marq Rasmussen, MS</h3>
                 </a>
-                <div class="team-position">Senior Software Engineer - Robotics</div>
+                <div class="team-position">Senior Robotics Engineer</div>
                 <p>M.S. Mechanical Engineering from University of Utah with focus on robotics and motion planning, B.S. Mechanical Engineering with focus on control theory, system modeling and a minor in Computer Science. Wide ranging experience working with robotics from human controlled exoskeletons and custom snake robots to industrial grade robot workcells and autonomous forklifts. Marq has 13+ years working with robotics systems from concept to prototype to production for companies including Intel, Nike, Amazon and DARPA. Marq's recent work has focused on a MoveIt! based high speed pick and place application and leading an AI based vision team in developing a fully autonomous ecommerce order fulfillment system.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -219,7 +219,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/denis.jpg')"></div>
                     <h3>Denis Stogl, MS</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Robotics Scientist</div>
                 <p>PhD Candidate in Computer Science at Karlsruhe Institute of Technology focusing on physical human-robot interaction and developing RoboTrainer - mobile robot for strength and coordination training, M. S. and B. S. Electrical and Control Engineering at University of Zagreb, Croatia. Denis has more than a decade of experience with ROS in different fields. He is a real "T"-Engineer with an excellent understanding of mechanics, electronics, and software to integrate and run robots under ROS. He designed controllers for various industrial and mobile-robot applications.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -229,7 +229,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/vatan.jpg')"></div>
                     <h3>Vatan Aksoy Tezer, MS</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Robotics Engineer</div>
                 <p>M.S. Computer Science and Engineering from Sabanci University, with a focus on vision-based automated test case generation for self-driving vehicles, B.S. Astronautical Engineering from Istanbul Technical University, with a focus on localization of GPS-denied UAV systems. Vatan has a passion for robotics and has worked with various autonomous robotic systems, solving challenging vision and navigation problems for aerial, underwater, and ground robots. In his spare time, Vatan mentors a high school robotics team and plays chess.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -249,7 +249,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/JochenSprickerhof.jpg')"></div>
                     <h3>Jochen Sprickerhof</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Robotics Engineer</div>
                 <p>Diploma in Applied System Science from Osnabrück University (Germany), with over 20 years of experience in open source and robotic software development and maintenance. Jochen has worked on everything from kernel and hardware drivers, to operating systems and middleware, up to web development with a focus on robotic perception, mapping and ROS, both in academia and industry.
                 </p>
                 <span class="show-more-team">Read More</span>
@@ -259,7 +259,7 @@ redirect_from:
                     <div class="team-picture" style="background-image: url('../assets/images/people/BrenPierce.jpeg')"></div>
                     <h3>Brennand Pierce, MS</h3>
                 </a>
-                <div class="team-position">Software Engineer - Robotics</div>
+                <div class="team-position">Robotics Engineer</div>
                 <p>M.S. Robotics from Bristol Robotics Laboratory. Bren is a seasoned roboticist and a successful entrepreneur. He has 15 years' experience in both designing robotic hardware and writing software, from low level embedded code to high level cloud software. During his career he has designed and built many different robots, including full size humanoids, quadcopter, and mobile robots. He also founded a number of robotics companies, developing skills in rapid prototyping and brining robots to market.
                 </p>
                 <span class="show-more-team">Read More</span>
