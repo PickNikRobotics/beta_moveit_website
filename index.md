@@ -95,7 +95,7 @@ description: The PickNik website
                 <img class="block-section--review__icon" src="/assets/images/stars.png" alt="stars icon" />
                 <h3 class="block-section__title text-center text-white">"Great contributions to our surgical robotics R&D.... exceptional design, coding and code reviews"</h3>
                 <!-- <p class="block-section--review__author">Dr. Haoran Yu, Head of Robotics, Verb Surgical</p> -->
-                <p class="block-section--review__author">Head of Robotics, Major Surgical Company</p>
+                <p class="block-section--review__author">Haoran Yu,Head of Robotics, Verb Surgical</p>
             </div>
         </div>
     </div>
