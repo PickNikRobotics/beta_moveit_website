@@ -37,9 +37,10 @@ description: Contact PickNik about MoveIt Studio
                         </div>
                         <div class="contact-info-single">
                             <a class="contact-info-text" target="_blank" href="https://maps.google.com/?q=4730 Walnut st, Suite 106, Boulder, Colorado 80301">
-                              <img src="../assets/images/redesign/address.svg">
-                              4730 Walnut St, Suite 106, Boulder, Colorado 80301
+                                <img src="../assets/images/redesign/address.svg" alt="Address icon" />
+                                <span id="address-to-copy">4730 Walnut St, Suite 106, Boulder, Colorado 80301</span>
                             </a>
+                            <span class="copy-to-clipboard"><img src="../assets/images/redesign/copy.svg"></span>
                         </div>
                     </div>
                     <div class="contact-info-social">

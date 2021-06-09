@@ -417,3 +417,29 @@ label .field.is-focused + span {
 .modal-dialog {
   max-width: 720px;
 }
+
+.copy-to-clipboard {
+  margin-left: 16px;
+  position: relative;
+  top: -2px;
+  cursor: pointer;
+
+  &:hover {
+    &::after {
+      content: 'Copy to clipboard';
+      color: #34d08c;
+    }
+  }
+
+  &.copied {
+    &::after {
+      content: 'Copied to clipboard!';
+      color: #34d08c;
+    }
+  }
+
+  img {
+    width: 16px;
+    margin-right: 5px !important;
+  }
+}

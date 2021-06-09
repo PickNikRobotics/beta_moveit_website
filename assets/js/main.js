@@ -108,5 +108,17 @@ $(document).ready(function () {
   $("#modalVideo").on('hidden.bs.modal', function(e) {
     $("#modalVideo iframe").attr("src", '');
   });
-  
+
+  function copyToClipboard(element) {
+    var $temp = $('<input>');
+    $('body').append($temp);
+    $temp.val($(element).text()).select();
+    document.execCommand('copy');
+    $temp.remove();
+  }
+
+  $('.copy-to-clipboard').on('click', function(e) {
+   copyToClipboard('#address-to-copy');
+   $('.copy-to-clipboard').addClass('copied');
+  });
 });
