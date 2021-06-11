@@ -30,7 +30,9 @@ description: Both open source and proprietary robotic software solutions for you
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <h2>MoveIt</h2>
+                        <a href="/moveit">
+                          <h2>MoveIt</h2>
+                        </a>
                         <p>MoveIt is PickNik's flagship open source product, featuring state of the art algorithms and that can be quickly adapted for your custom application. MoveIt allows you to develop advanced robotics solutions, evaluate new robot designs, and build integrated robotics products for industrial, commercial, R&D and other domains. Our engineers ensure long-term development and stability.
                         </p>
                         <a href="/moveit" class="btn">DISCOVER MORE</a>
@@ -45,7 +47,9 @@ description: Both open source and proprietary robotic software solutions for you
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <h2>MoveIt Studio</h2>
+                        <a href="/products/moveit-studio/">
+                          <h2>MoveIt Studio</h2>
+                        </a>
                         <p>Complete autonomy for arbitrary environments and tasks is still a goal for the future. Robots get stuck, and with PickNik's MoveIt Studio product, humans can easily fix them. This mostly autonomous, human in the loop platform supports hybrid autonomy for teleoperation of robotic arms. Originally developed for NASA, we've created an intelligent solution that understands its environment and can auto-generate its plan for achieving multi-step tasks.
                         </p>
                         <a href="/products/moveit-studio/" class="btn">DISCOVER MORE</a>
@@ -60,7 +64,9 @@ description: Both open source and proprietary robotic software solutions for you
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <h2>TrackSuite</h2>
+                        <a href="/products/tracksuite/">
+                          <h2>TrackSuite</h2>
+                        </a>
                         <p>TrackSuite is a toolbox of realtime smoothing libraries, for both sensor inputs and joint command outputs. The real world is noisy and robots are no exception. TrackSuite can improve your perception-based tracking systems, virtual reality hand controllers, and other human-control input devices. It also can create smoother motions that ensure expensive robot hardware's lifetime is prolonged while minimizing overall cycle time.
                         </p>
                         <a href="/products/tracksuite/" class="btn">DISCOVER MORE</a>
@@ -75,7 +81,9 @@ description: Both open source and proprietary robotic software solutions for you
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <h2>Bolt</h2>
+                        <a href="/docs/PickNik_Bolt_Experience_Motion_Planning.pdf" target="_blank">
+                          <h2>Bolt</h2>
+                        </a>
                         <p>Robotic manipulation tasks are becoming increasingly challenging to solve by ordinary motion planners. Bolt is a fast, dual-arm motion planner that selectively learns from experience. It is also capable of solving underconstrained Cartesian trajectories. Bolt reliably produces smooth and robust motion trajectories using cutting edge theoretical proofs.
                         </p>
                         <a href="/docs/PickNik_Bolt_Experience_Motion_Planning.pdf" target="_blank" class="btn">DISCOVER MORE</a>
