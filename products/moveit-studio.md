@@ -3,6 +3,8 @@ layout: pageDark
 title: MoveIt Studio
 permalink: /products/moveit-studio/
 description: PickNik's MoveIt Studio
+redirect_from:
+   - /studio/
 ---
 
 <div class="container-fluid moveit-studio_main-bg">
