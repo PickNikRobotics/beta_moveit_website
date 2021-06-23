@@ -42,6 +42,7 @@ description: PickNik's MoveIt Studio
         </div>
     </div>
   </div>
+  <p>Artwork Copyright Dangeruss 2021</p>
 </div>
 <div class="container-fluid">
    <div class="container">
