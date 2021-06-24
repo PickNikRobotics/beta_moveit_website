@@ -217,7 +217,8 @@
         width: 100%;
       }
 
-      a {
+      .nav-link {
+        cursor: pointer;
         font-size: 24px;
         padding: 35px 0 25px;
         background-color: #ececf0;

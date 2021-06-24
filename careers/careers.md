@@ -15,7 +15,7 @@ description: Discover exciting job opportunities at PickNik
                 <h1>Work at PickNik</h1>
                 <span class="careers-section-main-title--small">Robotics at the Cutting Edge.</span>
                 <div class="mt-4 mb-5">
-                  <a class="btn text-uppercase" href="#positions">See open positions</a>
+                  <a class="btn text-uppercase" href="#open_positions">See open positions</a>
                 </div>
               </div>
             </div>
@@ -167,13 +167,13 @@ description: Discover exciting job opportunities at PickNik
         <div class="careers-perks-tabs">
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active" id="colorado-tab" data-toggle="tab" href="#colorado" role="tab" aria-controls="colorado" aria-selected="true">Colorado Headquarters</a>
+              <span class="nav-link active" id="colorado-tab" data-toggle="tab" href="#colorado" role="tab" aria-controls="colorado" aria-selected="true">Colorado Headquarters</span>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="usbased-tab" data-toggle="tab" href="#usbased" role="tab" aria-controls="usbased" aria-selected="false">US-based Remote</a>
+              <span class="nav-link" id="usbased-tab" data-toggle="tab" href="#usbased" role="tab" aria-controls="usbased" aria-selected="false">US-based Remote</span>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="europe-tab" data-toggle="tab" href="#europe" role="tab" aria-controls="europe" aria-selected="false">Europe & Americas Remote</a>
+              <span class="nav-link" id="europe-tab" data-toggle="tab" href="#europe" role="tab" aria-controls="europe" aria-selected="false">Europe & Americas Remote</span>
             </li>
           </ul>
           <div class="tab-content" id="myTabContent">
@@ -257,19 +257,19 @@ description: Discover exciting job opportunities at PickNik
                 </div>
               </div>
             </div>
-            <div class="tab-pane fade" id="usbased" role="tabpanel" aria-labelledby="usbased-tab">
+            <div class="tab-pane fade" id="europe" role="tabpanel" aria-labelledby="europe-tab">
               <div class="careers-perks-wrapper">
-                <div class="careers-perks">
-                  <div class="img-wrapper">
-                    <img src="../assets/images/sun-icon-2.png" class="perksIcon" alt="Sun icon" />
-                  </div>
-                  <h4>Great Weather</h4>
-                </div>
                 <div class="careers-perks">
                   <div class="img-wrapper">
                     <img src="../assets/images/bus-bike-icon-2.png" class="perksIcon" alt="Bus & bike icon" />
                   </div>
                   <h4>Bus/Bike To Work</h4>
+                </div>
+                <div class="careers-perks">
+                  <div class="img-wrapper">
+                    <img src="../assets/images/sun-icon-2.png" class="perksIcon" alt="Sun icon" />
+                  </div>
+                  <h4>Great Weather</h4>
                 </div>
                 <div class="careers-perks">
                   <div class="img-wrapper careers-perks-smaller">
