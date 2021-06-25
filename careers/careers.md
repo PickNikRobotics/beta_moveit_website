@@ -313,12 +313,7 @@ description: Discover exciting job opportunities at PickNik
     </div>
   </div>
 </div>
-<div class="container-fluid bg-grey">
-  <div class="container">
-    <div class="row align-items-center justify-content-center text-center">
-    </div>
-  </div>
-</div>
+{% include_relative recommendation.html %}
 <div class="container-fluid">
   <h3 class="collapses__title" id="open_positions">Open Positions</h3>
   <div id="grnhse_app"></div>

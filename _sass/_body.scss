@@ -192,6 +192,14 @@ ol {
   @media only screen and (min-width: 1200px) {
     max-width: 1350px;
   }
+
+  &.container-xl {
+    padding: 0;
+
+    @media only screen and (min-width: 1200px) {
+      max-width: 1550px;
+    }
+  }
 }
 
 .bg-grey {

@@ -61,12 +61,76 @@
   display: table;
 }
 
+.recommendations-picture {
+  max-width: 100%;
+  width: 64px;
+  margin-right: 16px;
+
+  @media screen and (max-width: 1199px) {
+    display: table;
+    margin: 0 auto;
+  }
+}
+
 #lightSlider {
   margin-bottom: 50px;
 }
 
 #recommendations {
   margin-bottom: 50px;
+}
+
+.recommendations--careers {
+  .lSSlideOuter {
+    margin-top: 30px;
+
+    @media screen and (min-width: 1620px) {
+      width: 1400px;
+    }
+
+    .lSPager.lSpg {
+      margin-top: 40px !important;
+    }
+  }
+
+  .recommendations-single {
+    padding: 48px 36px;
+
+    @media screen and (max-width: 1619px) {
+      height: 633px;
+    }
+
+    @media screen and (max-width: 1199px) {
+      height: 500px;
+    }
+
+    @media screen and (max-width: 992px) {
+      height: 530px;
+    }
+
+    @media screen and (max-width: 767px) {
+      height: auto;
+    }
+
+    p {
+      height: auto;
+      margin-bottom: 24px;
+      font-size: 20px;
+      line-height: 32px;
+
+      @media screen and (max-width: 992px) {
+        font-size: 16px;
+        line-height: 30px;
+      }
+    }
+  }
+}
+
+.recommendations-author {
+  @media screen and (max-width: 1199px) {
+    display: table;
+    margin: 20px auto 0;
+  }
 }
 
 .casestudies-arrow-prev {

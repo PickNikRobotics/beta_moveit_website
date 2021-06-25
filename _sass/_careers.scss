@@ -199,10 +199,6 @@
   }
 }
 
-.careers-perks-container {
-  margin-bottom: 80px;
-}
-
 .careers-perks-tabs {
   border: none;
   margin-top: 72px;
@@ -443,11 +439,10 @@
   align-items: center;
   position: relative;
   overflow: hidden;
-  margin-bottom: 100px;
+  margin-bottom: 20px;
 
   @media screen and (max-width: 992px) {
     flex-direction: column;
-    margin-bottom: 80px;
   }
 
   p {
@@ -539,5 +534,6 @@
 
 #open_positions {
   /* Intended for modifying generic collapses__title h3 */
+  margin-top: 100px;
   margin-bottom: 30px;
 }
