@@ -318,12 +318,12 @@ title: About
         <div class="sponsors-card-single">
           <img class="mx-auto d-block" src="/assets/images/sponsors/picknik.png" alt="PickNik">
           PickNik was founded with the mission of growing the MoveIt project through community building and contract consulting.
-          <a href="http://picknik.ai">Learn More</a>
+          <a href="http://picknik.ai" target="_blank">Learn More</a>
         </div>
         <div class="sponsors-card-single">
-          <img class="mx-auto d-block" src="/assets/images/sponsors/acutronicrobotics.jpg" alt="Acutronic">
-          Acutronic sponsored a collaborative effort in 2019 to begin the port of MoveIt to ROS 2.0.
-          <a href="/moveit!/ros/2019/03/01/announcing-the-moveit-2-port.html">Learn More</a>
+          <img class="mx-auto d-block" src="/assets/images/sponsors/rosin.png" alt="Rosin">
+          The port to ROS 2 is supported by ROSIN - ROS-Industrial Quality-Assured Robot Software Components.
+          <a href="http://rosin-project.eu/" target="_blank">Learn More</a>
         </div>
         <div class="sponsors-card-single">
           <img class="mx-auto d-block" src="/assets/images/sponsors/franka_logo.png" alt="Franka Emika">
